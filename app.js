@@ -35,7 +35,7 @@ function render() {
       <div class="strain">${esc(p.strain)}</div>
       <p class="description">${esc(p.description)}</p>
       <div class="molecules"><div class="molecules-label">Profile molecule candidates</div><div class="molecule-list">${p.molecules.map((m) => `<a href="${moleculeUrl(m)}" target="_blank" rel="noreferrer">${esc(m)} ↗</a>`).join('')}</div></div>
-      <div class="traceability"><div><b>Ingredient</b><span>${esc(p.ingredient || 'Cannabis sativa L. terpene oil · SKU-specific')}</span></div><div><b>CoA</b><span>${p.coa ? `<a href="${esc(p.coa)}" target="_blank" rel="noreferrer">View batch report ↗</a>` : 'Pending partner document'}</span></div></div>
+      <div class="traceability"><div><b>Ingredient</b><span>${esc(p.ingredient || 'Cannabis sativa L. terpene oil · SKU-specific')}</span></div><div><b>CoA</b><span>${p.coa ? `<a href="${esc(p.coa)}" target="_blank" rel="noreferrer">${esc(p.coa_batch || 'View batch report')} ↗</a>` : 'Pending partner document'}</span></div></div>
       <div class="card-footer"><a href="${esc(p.source)}" target="_blank" rel="noreferrer">MONDAYS source ↗</a><span>${esc(p.category)}</span></div>
     </article>`).join('');
   document.querySelector('#empty').hidden = visible.length !== 0;
