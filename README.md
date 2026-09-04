@@ -1,6 +1,6 @@
 # MONDAYS × Terpedia
 
-Static product catalog for the MONDAYS partnership. It can be hosted directly on GitHub Pages or Cloudflare Pages; there is no server, database, or build step. Query routes render shared templates: `/?c=limonene`, `/?p=cb2`, `/?d=anxiety`, and `/?claim=relaxation`.
+Static product catalog for the MONDAYS partnership. It can be hosted directly on GitHub Pages or Cloudflare Pages; there is no server, database, or build step. Query routes render shared templates: `/?c=limonene`, `/?p=cb2`, `/?d=anxiety`, `/?claim=relaxation`, and `/?pmid=31446830`.
 
 ## Local preview
 

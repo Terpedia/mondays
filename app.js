@@ -12,11 +12,12 @@ async function renderMolecule() {
 }
 
 async function renderEntity(type, slug) {
-  const labels = {molecule:'Molecule', protein:'Protein', disease:'Disease / condition', claim:'Claim'};
+  const labels = {molecule:'Molecule', protein:'Protein', disease:'Disease / condition', claim:'Claim', pmid:'Literature'};
   const fallback = {name: slug.replaceAll('-', ' '), summary: `Terpedia ${labels[type]} profile`, evidence: 'Profile data will be hydrated from Terpedia when the public record is connected.'};
   let molecule = fallback;
   try { const response = await fetch(`data/${type}s/${encodeURIComponent(slug)}.json`); if (response.ok) molecule = await response.json(); } catch (_) {}
-  document.querySelector('main').innerHTML = `<section class="molecule-hero"><a class="back" href="./">← Back to MONDAYS catalog</a><p class="eyebrow">Terpedia ${labels[type]} profile</p><h1>${esc(molecule.name)}</h1><p class="hero-copy">${esc(molecule.summary)}</p><div class="molecule-panel"><span>Type</span><strong>${labels[type]}</strong>${molecule.formula ? `<span>Identity</span><strong>${esc(molecule.formula)}</strong>` : ''}<span>Evidence</span><strong>${esc(molecule.evidence)}</strong></div><a class="portal-button" href="${TERPEDIA_PORTAL}?${type}=${encodeURIComponent(molecule.name)}" target="_blank" rel="noreferrer">Open Terpedia intelligence ↗</a></section>`;
+  const source = type === 'pmid' ? `https://pubmed.ncbi.nlm.nih.gov/${encodeURIComponent(slug)}/` : `${TERPEDIA_PORTAL}?${type}=${encodeURIComponent(molecule.name)}`;
+  document.querySelector('main').innerHTML = `<section class="molecule-hero"><a class="back" href="./">← Back to MONDAYS catalog</a><p class="eyebrow">Terpedia ${labels[type]} profile</p><h1>${esc(molecule.name)}</h1><p class="hero-copy">${esc(molecule.summary)}</p><div class="molecule-panel"><span>Type</span><strong>${labels[type]}</strong>${molecule.formula ? `<span>Identity</span><strong>${esc(molecule.formula)}</strong>` : ''}${type === 'pmid' ? `<span>PMID</span><strong>${esc(slug)}</strong>` : ''}<span>Evidence</span><strong>${esc(molecule.evidence)}</strong></div><a class="portal-button" href="${source}" target="_blank" rel="noreferrer">${type === 'pmid' ? 'Open PubMed record' : 'Open Terpedia intelligence'} ↗</a></section>`;
   return true;
 }
 
@@ -46,8 +47,8 @@ document.querySelectorAll('.filter').forEach((button) => button.addEventListener
 }));
 document.querySelector('#search').addEventListener('input', render);
 const params = new URLSearchParams(location.search);
-const entityType = params.has('p') ? 'protein' : params.has('d') ? 'disease' : params.has('claim') ? 'claim' : null;
-const entitySlug = entityType && params.get(entityType === 'protein' ? 'p' : entityType === 'disease' ? 'd' : 'claim');
+const entityType = params.has('p') ? 'protein' : params.has('d') ? 'disease' : params.has('claim') ? 'claim' : params.has('pmid') ? 'pmid' : null;
+const entitySlug = entityType && params.get(entityType === 'protein' ? 'p' : entityType === 'disease' ? 'd' : entityType);
 const route = entityType && entitySlug ? renderEntity(entityType, entitySlug) : renderMolecule();
 route.then((isEntity) => { if (isEntity) return null; return fetch('data/products.json').then((r) => r.json()).then((data) => {
   products = data.products;
