@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="MONDAYS terpene chew catalog, connected to Terpedia molecule intelligence." />
+    <title>MONDAYS × Terpedia</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./"><span>MONDAYS</span><small>× TERPEDIA</small></a>
+      <a class="source-link" href="https://www.chewmondays.com/" target="_blank" rel="noreferrer">Shop MONDAYS ↗</a>
+    </header>
+
+    <main>
+      <section class="hero">
+        <p class="eyebrow">Product intelligence partner catalog</p>
+        <h1>Terpene chews,<br /><em>mapped to molecules.</em></h1>
+        <p class="hero-copy">Explore the MONDAYS lineup and follow each strain-inspired profile into Terpedia’s living scientific knowledge graph.</p>
+        <div class="hero-meta"><span id="product-count">Loading catalog…</span><span>Static catalog snapshot</span></div>
+      </section>
+
+      <section class="notice" aria-label="Catalog note">
+        <strong>Read the mapping carefully.</strong>
+        Each SKU has its own Cannabis sativa ingredient and its own batch CoA. The molecule links below are profile candidates—not quantitative CoA results. Exact composition should be confirmed against that SKU’s CoA.
+      </section>
+
+      <section class="toolbar" aria-label="Catalog filters">
+        <div class="filters" role="group" aria-label="Filter by product type">
+          <button class="filter active" data-filter="all">All</button>
+          <button class="filter" data-filter="Hemp">Hemp</button>
+          <button class="filter" data-filter="Botanical">Botanical</button>
+        </div>
+        <label class="search"><span>Search</span><input id="search" type="search" placeholder="Try “pineapple” or “limonene”" /></label>
+      </section>
+
+      <section id="catalog" class="catalog" aria-live="polite"></section>
+      <p id="empty" class="empty" hidden>No products match that search.</p>
+    </main>
+
+    <footer>
+      <span>MONDAYS catalog · source snapshot</span>
+      <a href="https://terpedia.com/intelligence-portals/cannabis" target="_blank" rel="noreferrer">Explore Terpedia Cannabis Intelligence ↗</a>
+    </footer>
+    <script src="app.js" defer></script>
+  </body>
+</html>
