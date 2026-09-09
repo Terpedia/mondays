@@ -1,17 +1,588 @@
 {
   "source": "https://www.chewmondays.com/",
-  "snapshot_date": "2026-09-04",
-  "note": "Every SKU carries a distinct Cannabis sativa ingredient and CoA record. Molecule arrays are profile candidates, not measured composition. Replace coa:null with the SKU-specific partner PDF when supplied.",
+  "snapshot_date": "2026-09-09",
+  "note": "Hemp SKUs carry the measured terpene profile MONDAYS publishes on each product page (percent of total volatiles from an ISO 17025-accredited lab, milligrams per 20mg-terpene chew); data/terpene-profiles/ holds every listed compound. Botanical SKUs and bundles publish no measured profile, so their molecule arrays remain profile candidates. The linked batch CoAs are cannabinoid/safety panels and do not carry a terpene panel.",
   "products": [
-    {"name":"Grapes Unleaded","type":"Hemp","category":"3 bags · 15 chews","size":"15 chews","strain":"Grape Gasoline × Concord Grape","description":"A bold, gas-forward hemp terpene chew pairing the Grape Gasoline profile with Concord grape flavor.","source":"https://www.chewmondays.com/products/grapes-unleaded","ingredient":"Cannabis sativa L. terpene oil · SKU-specific","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_GrapesUnleaded_B12071.pdf?v=1778725155","coa_batch":"B12071","coa_report_date":"2026-05-11","molecules":["limonene","β-caryophyllene","β-myrcene","linalool"]},
-    {"name":"Wild Things","type":"Hemp","category":"3 bags · 15 chews","size":"15 chews","strain":"Animal Mints × Wild Strawberries","description":"A sweet, earthy hemp profile pairing Animal Mints character with wild strawberry flavor.","source":"https://www.chewmondays.com/products/wild-things","ingredient":"Cannabis sativa L. terpene oil · SKU-specific","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_WildThings_B12075.pdf?v=1782344510","coa_batch":"B12075","coa_report_date":"2026-06-12","molecules":["β-caryophyllene","limonene","linalool","β-myrcene"]},
-    {"name":"Go-Go Bananas","type":"Hemp","category":"3 bags · 15 chews","size":"15 chews","strain":"Sour Diesel × Banana Cream","description":"A gas-forward, candy-style profile pairing Sour Diesel character with creamy banana flavor.","source":"https://www.chewmondays.com/products/go-go-bananas","ingredient":"Cannabis sativa L. terpene oil · SKU-specific","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_GoGoBananas_B12070.pdf?v=1778725155","coa_batch":"B12070","coa_report_date":"2026-05-11","molecules":["limonene","β-myrcene","β-caryophyllene","α-pinene"]},
-    {"name":"Main Squeeze","type":"Hemp","category":"3 bags · 15 chews","size":"15 chews","strain":"Lemon Cherry Gelato × Ponderosa Lemon","description":"A bright citrus profile pairing Lemon Cherry Gelato character with Ponderosa lemon flavor.","source":"https://www.chewmondays.com/products/main-squeeze","ingredient":"Cannabis sativa L. terpene oil · SKU-specific","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_MainSqueeze_B12072.pdf?v=1778725124","coa_batch":"B12072","coa_report_date":"2026-05-11","molecules":["limonene","β-caryophyllene","linalool","β-myrcene"]},
-    {"name":"Raspberry Relief","type":"Hemp","category":"3 bags · 15 chews","size":"15 chews","strain":"LA Confidential × Red Raspberry","description":"A deep, earthy profile pairing LA Confidential character with red raspberry flavor.","source":"https://www.chewmondays.com/products/raspberry-relief","ingredient":"Cannabis sativa L. terpene oil · SKU-specific","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_RaspberryRelief_B12077.pdf?v=1782344510","coa_batch":"B12077","coa_report_date":"2026-06-12","molecules":["β-myrcene","β-caryophyllene","linalool","humulene"]},
-    {"name":"The Daily Commute","type":"Hemp","category":"3 bags · 15 chews","size":"15 chews","strain":"Pineapple Express × Kona Pineapple","description":"A bright tropical profile pairing Pineapple Express character with Kona pineapple flavor.","source":"https://www.chewmondays.com/products/the-daily-commute","ingredient":"Cannabis sativa L. terpene oil · SKU-specific","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_DailyCommute_B12069.pdf?v=1778725155","coa_batch":"B12069","coa_report_date":"2026-05-11","molecules":["limonene","α-pinene","β-pinene","β-myrcene"]},
-    {"name":"Hemp Variety Box","type":"Hemp","category":"6 bags · 30 chews","size":"30 chews","strain":"Six hemp profiles","description":"A sampler containing one bag each of the six current hemp flavor profiles.","source":"https://www.chewmondays.com/products/hemp-variety-box-6-pack","ingredient":"Six SKU-specific Cannabis sativa L. terpene oils","coa":null,"molecules":["limonene","β-caryophyllene","β-myrcene","linalool","α-pinene"]},
-    {"name":"Kosher Kush × Red Raspberry","type":"Botanical","category":"4 bags · 20 chews","size":"20 chews","strain":"Kosher Kush-inspired botanical profile","description":"A flavor-focused botanical chew pairing rich, earthy strain inspiration with red raspberry.","source":"https://www.chewmondays.com/products/kosher-kush-red-raspberry-botanical","ingredient":"Plant-based botanicals · no hemp or cannabis","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_KosherKush_B12073.pdf?v=1778725155","coa_batch":"B12073","coa_report_date":"2026-05-11","molecules":["β-caryophyllene","β-myrcene","α-pinene","limonene"]},
-    {"name":"Gelato #33 × Concord Grape","type":"Botanical","category":"4 bags · 20 chews","size":"20 chews","strain":"Gelato #33-inspired botanical profile","description":"A flavor-focused botanical chew pairing creamy dessert strain inspiration with Concord grape.","source":"https://www.chewmondays.com/products/gelato-33-concord-grape-botanical","ingredient":"Plant-based botanicals · no hemp or cannabis","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_Gelato33_B12074.pdf?v=1778725155","coa_batch":"B12074","coa_report_date":"2026-05-11","molecules":["limonene","β-caryophyllene","linalool","β-myrcene"]},
-    {"name":"Jack Herer × Kona Pineapple","type":"Botanical","category":"4 bags · 20 chews","size":"20 chews","strain":"Jack Herer-inspired botanical profile","description":"A flavor-focused botanical chew pairing pine-and-spice strain inspiration with Kona pineapple.","source":"https://www.chewmondays.com/products/jack-herer-kona-pineapple-botanical","ingredient":"Plant-based botanicals · no hemp or cannabis","coa":"https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_JackHerer_KonaPineapple_B12076.pdf?v=1782344510","coa_batch":"B12076","coa_report_date":"2026-06-12","molecules":["α-pinene","β-pinene","limonene","β-caryophyllene"]}
+    {
+      "name": "Grapes Unleaded",
+      "type": "Hemp",
+      "category": "3 bags · 15 chews",
+      "size": "15 chews",
+      "strain": "Grape Gasoline × Concord Grape",
+      "description": "A bold, gas-forward hemp terpene chew pairing the Grape Gasoline profile with Concord grape flavor.",
+      "source": "https://www.chewmondays.com/products/grapes-unleaded",
+      "ingredient": "Cannabis sativa L. terpene oil · SKU-specific",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_GrapesUnleaded_B12071.pdf?v=1778725155",
+      "coa_batch": "B12071",
+      "coa_report_date": "2026-05-11",
+      "molecules": [
+        "β-Caryophyllene",
+        "Limonene",
+        "Selina-3,7(11)-diene",
+        "Selina-4(15),7(11)-diene",
+        "Myrcene",
+        "Linalool",
+        "α-Humulene",
+        "Selina-4,7(11)-diene"
+      ],
+      "handle": "grapes-unleaded",
+      "molecules_basis": "measured",
+      "terpene_profile": {
+        "path": "data/terpene-profiles/grapes-unleaded.json",
+        "source": "https://www.chewmondays.com/products/grapes-unleaded",
+        "identified_compounds": 120,
+        "listed_compounds": 76,
+        "mg_terpenes_per_chew": 20,
+        "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+        "top": [
+          {
+            "name": "β-Caryophyllene",
+            "id": "beta-caryophyllene",
+            "percent": 15.11,
+            "mg": 3.02
+          },
+          {
+            "name": "Limonene",
+            "id": "limonene",
+            "percent": 13.84,
+            "mg": 2.77
+          },
+          {
+            "name": "Selina-3,7(11)-diene",
+            "id": "selina-3-7-11-diene",
+            "percent": 8.12,
+            "mg": 1.62
+          },
+          {
+            "name": "Selina-4(15),7(11)-diene",
+            "id": "selina-4-15-7-11-diene",
+            "percent": 7.89,
+            "mg": 1.58
+          },
+          {
+            "name": "Myrcene",
+            "id": "myrcene",
+            "percent": 6.2,
+            "mg": 1.24
+          },
+          {
+            "name": "Linalool",
+            "id": "linalool",
+            "percent": 5.99,
+            "mg": 1.2
+          },
+          {
+            "name": "α-Humulene",
+            "id": "alpha-humulene",
+            "percent": 4.21,
+            "mg": 0.84
+          },
+          {
+            "name": "Selina-4,7(11)-diene",
+            "id": "selina-4-7-11-diene",
+            "percent": 3.76,
+            "mg": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wild Things",
+      "type": "Hemp",
+      "category": "3 bags · 15 chews",
+      "size": "15 chews",
+      "strain": "Animal Mints × Wild Strawberries",
+      "description": "A sweet, earthy hemp profile pairing Animal Mints character with wild strawberry flavor.",
+      "source": "https://www.chewmondays.com/products/wild-things",
+      "ingredient": "Cannabis sativa L. terpene oil · SKU-specific",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_WildThings_B12075.pdf?v=1782344510",
+      "coa_batch": "B12075",
+      "coa_report_date": "2026-06-12",
+      "molecules": [
+        "β-Caryophyllene",
+        "Limonene",
+        "Selina-3,7(11)-diene",
+        "Linalool",
+        "Selina-4(15),7(11)-diene",
+        "α-Humulene",
+        "Selina-4,7(11)-diene",
+        "γ-Elemene"
+      ],
+      "handle": "wild-things",
+      "molecules_basis": "measured",
+      "terpene_profile": {
+        "path": "data/terpene-profiles/wild-things.json",
+        "source": "https://www.chewmondays.com/products/wild-things",
+        "identified_compounds": 123,
+        "listed_compounds": 85,
+        "mg_terpenes_per_chew": 20,
+        "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+        "top": [
+          {
+            "name": "β-Caryophyllene",
+            "id": "beta-caryophyllene",
+            "percent": 14.08,
+            "mg": 2.82
+          },
+          {
+            "name": "Limonene",
+            "id": "limonene",
+            "percent": 9.91,
+            "mg": 1.98
+          },
+          {
+            "name": "Selina-3,7(11)-diene",
+            "id": "selina-3-7-11-diene",
+            "percent": 9.48,
+            "mg": 1.9
+          },
+          {
+            "name": "Linalool",
+            "id": "linalool",
+            "percent": 9.19,
+            "mg": 1.84
+          },
+          {
+            "name": "Selina-4(15),7(11)-diene",
+            "id": "selina-4-15-7-11-diene",
+            "percent": 9.08,
+            "mg": 1.82
+          },
+          {
+            "name": "α-Humulene",
+            "id": "alpha-humulene",
+            "percent": 4.15,
+            "mg": 0.83
+          },
+          {
+            "name": "Selina-4,7(11)-diene",
+            "id": "selina-4-7-11-diene",
+            "percent": 3.32,
+            "mg": 0.66
+          },
+          {
+            "name": "γ-Elemene",
+            "id": "gamma-elemene",
+            "percent": 2.76,
+            "mg": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "name": "Go-Go Bananas",
+      "type": "Hemp",
+      "category": "3 bags · 15 chews",
+      "size": "15 chews",
+      "strain": "Sour Diesel × Banana Cream",
+      "description": "A gas-forward, candy-style profile pairing Sour Diesel character with creamy banana flavor.",
+      "source": "https://www.chewmondays.com/products/go-go-bananas",
+      "ingredient": "Cannabis sativa L. terpene oil · SKU-specific",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_GoGoBananas_B12070.pdf?v=1778725155",
+      "coa_batch": "B12070",
+      "coa_report_date": "2026-05-11",
+      "molecules": [
+        "Myrcene",
+        "Limonene",
+        "β-Caryophyllene",
+        "α-Pinene",
+        "β-Pinene",
+        "Selina-3,7(11)-diene",
+        "Linalool",
+        "Selina-4(15),7(11)-diene"
+      ],
+      "handle": "go-go-bananas",
+      "molecules_basis": "measured",
+      "terpene_profile": {
+        "path": "data/terpene-profiles/go-go-bananas.json",
+        "source": "https://www.chewmondays.com/products/go-go-bananas",
+        "identified_compounds": 104,
+        "listed_compounds": 69,
+        "mg_terpenes_per_chew": 20,
+        "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+        "top": [
+          {
+            "name": "Myrcene",
+            "id": "myrcene",
+            "percent": 36.63,
+            "mg": 7.33
+          },
+          {
+            "name": "Limonene",
+            "id": "limonene",
+            "percent": 19.03,
+            "mg": 3.81
+          },
+          {
+            "name": "β-Caryophyllene",
+            "id": "beta-caryophyllene",
+            "percent": 9.01,
+            "mg": 1.8
+          },
+          {
+            "name": "α-Pinene",
+            "id": "alpha-pinene",
+            "percent": 4.4,
+            "mg": 0.88
+          },
+          {
+            "name": "β-Pinene",
+            "id": "beta-pinene",
+            "percent": 3.66,
+            "mg": 0.73
+          },
+          {
+            "name": "Selina-3,7(11)-diene",
+            "id": "selina-3-7-11-diene",
+            "percent": 3.06,
+            "mg": 0.61
+          },
+          {
+            "name": "Linalool",
+            "id": "linalool",
+            "percent": 2.32,
+            "mg": 0.46
+          },
+          {
+            "name": "Selina-4(15),7(11)-diene",
+            "id": "selina-4-15-7-11-diene",
+            "percent": 2.3,
+            "mg": 0.46
+          }
+        ]
+      }
+    },
+    {
+      "name": "Main Squeeze",
+      "type": "Hemp",
+      "category": "3 bags · 15 chews",
+      "size": "15 chews",
+      "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+      "description": "A bright citrus profile pairing Lemon Cherry Gelato character with Ponderosa lemon flavor.",
+      "source": "https://www.chewmondays.com/products/main-squeeze",
+      "ingredient": "Cannabis sativa L. terpene oil · SKU-specific",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_MainSqueeze_B12072.pdf?v=1778725124",
+      "coa_batch": "B12072",
+      "coa_report_date": "2026-05-11",
+      "molecules": [
+        "β-Caryophyllene",
+        "Limonene",
+        "Selina-3,7(11)-diene",
+        "Selina-4(15),7(11)-diene",
+        "Myrcene",
+        "α-Humulene",
+        "Linalool",
+        "Selina-4,7(11)-diene"
+      ],
+      "handle": "main-squeeze",
+      "molecules_basis": "measured",
+      "terpene_profile": {
+        "path": "data/terpene-profiles/main-squeeze.json",
+        "source": "https://www.chewmondays.com/products/main-squeeze",
+        "identified_compounds": 120,
+        "listed_compounds": 74,
+        "mg_terpenes_per_chew": 20,
+        "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+        "top": [
+          {
+            "name": "β-Caryophyllene",
+            "id": "beta-caryophyllene",
+            "percent": 17.29,
+            "mg": 3.46
+          },
+          {
+            "name": "Limonene",
+            "id": "limonene",
+            "percent": 10.11,
+            "mg": 2.02
+          },
+          {
+            "name": "Selina-3,7(11)-diene",
+            "id": "selina-3-7-11-diene",
+            "percent": 8.77,
+            "mg": 1.75
+          },
+          {
+            "name": "Selina-4(15),7(11)-diene",
+            "id": "selina-4-15-7-11-diene",
+            "percent": 8.37,
+            "mg": 1.67
+          },
+          {
+            "name": "Myrcene",
+            "id": "myrcene",
+            "percent": 6.41,
+            "mg": 1.28
+          },
+          {
+            "name": "α-Humulene",
+            "id": "alpha-humulene",
+            "percent": 5.14,
+            "mg": 1.03
+          },
+          {
+            "name": "Linalool",
+            "id": "linalool",
+            "percent": 4.97,
+            "mg": 0.99
+          },
+          {
+            "name": "Selina-4,7(11)-diene",
+            "id": "selina-4-7-11-diene",
+            "percent": 3.74,
+            "mg": 0.75
+          }
+        ]
+      }
+    },
+    {
+      "name": "Raspberry Relief",
+      "type": "Hemp",
+      "category": "3 bags · 15 chews",
+      "size": "15 chews",
+      "strain": "LA Confidential × Red Raspberry",
+      "description": "A deep, earthy profile pairing LA Confidential character with red raspberry flavor.",
+      "source": "https://www.chewmondays.com/products/raspberry-relief",
+      "ingredient": "Cannabis sativa L. terpene oil · SKU-specific",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_RaspberryRelief_B12077.pdf?v=1782344510",
+      "coa_batch": "B12077",
+      "coa_report_date": "2026-06-12",
+      "molecules": [
+        "α-Pinene",
+        "Myrcene",
+        "β-Pinene",
+        "Limonene",
+        "β-Caryophyllene",
+        "(E)-β-Ocimene",
+        "Linalool",
+        "trans-α-Bergamotene + α-Guaiene"
+      ],
+      "handle": "raspberry-relief",
+      "molecules_basis": "measured",
+      "terpene_profile": {
+        "path": "data/terpene-profiles/raspberry-relief.json",
+        "source": "https://www.chewmondays.com/products/raspberry-relief",
+        "identified_compounds": 88,
+        "listed_compounds": 52,
+        "mg_terpenes_per_chew": 20,
+        "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+        "top": [
+          {
+            "name": "α-Pinene",
+            "id": "alpha-pinene",
+            "percent": 31.07,
+            "mg": 6.21
+          },
+          {
+            "name": "Myrcene",
+            "id": "myrcene",
+            "percent": 23.43,
+            "mg": 4.69
+          },
+          {
+            "name": "β-Pinene",
+            "id": "beta-pinene",
+            "percent": 14.29,
+            "mg": 2.86
+          },
+          {
+            "name": "Limonene",
+            "id": "limonene",
+            "percent": 9.71,
+            "mg": 1.94
+          },
+          {
+            "name": "β-Caryophyllene",
+            "id": "beta-caryophyllene",
+            "percent": 3.84,
+            "mg": 0.77
+          },
+          {
+            "name": "(E)-β-Ocimene",
+            "id": "e-beta-ocimene",
+            "percent": 1.97,
+            "mg": 0.39
+          },
+          {
+            "name": "Linalool",
+            "id": "linalool",
+            "percent": 1.46,
+            "mg": 0.29
+          },
+          {
+            "name": "trans-α-Bergamotene + α-Guaiene",
+            "id": "trans-alpha-bergamotene-alpha-guaiene",
+            "percent": 1.28,
+            "mg": 0.26
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Daily Commute",
+      "type": "Hemp",
+      "category": "3 bags · 15 chews",
+      "size": "15 chews",
+      "strain": "Pineapple Express × Kona Pineapple",
+      "description": "A bright tropical profile pairing Pineapple Express character with Kona pineapple flavor.",
+      "source": "https://www.chewmondays.com/products/the-daily-commute",
+      "ingredient": "Cannabis sativa L. terpene oil · SKU-specific",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_DailyCommute_B12069.pdf?v=1778725155",
+      "coa_batch": "B12069",
+      "coa_report_date": "2026-05-11",
+      "molecules": [
+        "Myrcene",
+        "α-Pinene",
+        "Limonene",
+        "β-Pinene",
+        "β-Caryophyllene",
+        "(E)-β-Ocimene",
+        "α-Humulene",
+        "Linalool"
+      ],
+      "handle": "the-daily-commute",
+      "molecules_basis": "measured",
+      "terpene_profile": {
+        "path": "data/terpene-profiles/the-daily-commute.json",
+        "source": "https://www.chewmondays.com/products/the-daily-commute",
+        "identified_compounds": 81,
+        "listed_compounds": 57,
+        "mg_terpenes_per_chew": 20,
+        "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+        "top": [
+          {
+            "name": "Myrcene",
+            "id": "myrcene",
+            "percent": 65,
+            "mg": 13
+          },
+          {
+            "name": "α-Pinene",
+            "id": "alpha-pinene",
+            "percent": 9.18,
+            "mg": 1.84
+          },
+          {
+            "name": "Limonene",
+            "id": "limonene",
+            "percent": 5.88,
+            "mg": 1.18
+          },
+          {
+            "name": "β-Pinene",
+            "id": "beta-pinene",
+            "percent": 4.5,
+            "mg": 0.9
+          },
+          {
+            "name": "β-Caryophyllene",
+            "id": "beta-caryophyllene",
+            "percent": 2.78,
+            "mg": 0.56
+          },
+          {
+            "name": "(E)-β-Ocimene",
+            "id": "e-beta-ocimene",
+            "percent": 2.24,
+            "mg": 0.45
+          },
+          {
+            "name": "α-Humulene",
+            "id": "alpha-humulene",
+            "percent": 0.72,
+            "mg": 0.144
+          },
+          {
+            "name": "Linalool",
+            "id": "linalool",
+            "percent": 0.64,
+            "mg": 0.128
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hemp Variety Box",
+      "type": "Hemp",
+      "category": "6 bags · 30 chews",
+      "size": "30 chews",
+      "strain": "Six hemp profiles",
+      "description": "A sampler containing one bag each of the six current hemp flavor profiles.",
+      "source": "https://www.chewmondays.com/products/hemp-variety-box-6-pack",
+      "ingredient": "Six SKU-specific Cannabis sativa L. terpene oils",
+      "coa": null,
+      "molecules": [
+        "limonene",
+        "β-caryophyllene",
+        "β-myrcene",
+        "linalool",
+        "α-pinene"
+      ],
+      "handle": "hemp-variety-box-6-pack",
+      "molecules_basis": "candidate"
+    },
+    {
+      "name": "Kosher Kush × Red Raspberry",
+      "type": "Botanical",
+      "category": "4 bags · 20 chews",
+      "size": "20 chews",
+      "strain": "Kosher Kush-inspired botanical profile",
+      "description": "A flavor-focused botanical chew pairing rich, earthy strain inspiration with red raspberry.",
+      "source": "https://www.chewmondays.com/products/kosher-kush-red-raspberry-botanical",
+      "ingredient": "Plant-based botanicals · no hemp or cannabis",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_KosherKush_B12073.pdf?v=1778725155",
+      "coa_batch": "B12073",
+      "coa_report_date": "2026-05-11",
+      "molecules": [
+        "β-caryophyllene",
+        "β-myrcene",
+        "α-pinene",
+        "limonene"
+      ],
+      "handle": "kosher-kush-red-raspberry-botanical",
+      "molecules_basis": "candidate"
+    },
+    {
+      "name": "Gelato #33 × Concord Grape",
+      "type": "Botanical",
+      "category": "4 bags · 20 chews",
+      "size": "20 chews",
+      "strain": "Gelato #33-inspired botanical profile",
+      "description": "A flavor-focused botanical chew pairing creamy dessert strain inspiration with Concord grape.",
+      "source": "https://www.chewmondays.com/products/gelato-33-concord-grape-botanical",
+      "ingredient": "Plant-based botanicals · no hemp or cannabis",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_Gelato33_B12074.pdf?v=1778725155",
+      "coa_batch": "B12074",
+      "coa_report_date": "2026-05-11",
+      "molecules": [
+        "limonene",
+        "β-caryophyllene",
+        "linalool",
+        "β-myrcene"
+      ],
+      "handle": "gelato-33-concord-grape-botanical",
+      "molecules_basis": "candidate"
+    },
+    {
+      "name": "Jack Herer × Kona Pineapple",
+      "type": "Botanical",
+      "category": "4 bags · 20 chews",
+      "size": "20 chews",
+      "strain": "Jack Herer-inspired botanical profile",
+      "description": "A flavor-focused botanical chew pairing pine-and-spice strain inspiration with Kona pineapple.",
+      "source": "https://www.chewmondays.com/products/jack-herer-kona-pineapple-botanical",
+      "ingredient": "Plant-based botanicals · no hemp or cannabis",
+      "coa": "https://cdn.shopify.com/s/files/1/0738/8033/8680/files/MONDAYS_COA_JackHerer_KonaPineapple_B12076.pdf?v=1782344510",
+      "coa_batch": "B12076",
+      "coa_report_date": "2026-06-12",
+      "molecules": [
+        "α-pinene",
+        "β-pinene",
+        "limonene",
+        "β-caryophyllene"
+      ],
+      "handle": "jack-herer-kona-pineapple-botanical",
+      "molecules_basis": "candidate"
+    }
   ]
 }

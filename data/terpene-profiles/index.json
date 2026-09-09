@@ -1,0 +1,42 @@
+{
+  "source": "https://www.chewmondays.com",
+  "retrieved": "2026-09-09",
+  "profiles": [
+    {
+      "handle": "raspberry-relief",
+      "product": "Raspberry Relief",
+      "identified_compounds": 88,
+      "listed_compounds": 52
+    },
+    {
+      "handle": "wild-things",
+      "product": "Wild Things",
+      "identified_compounds": 123,
+      "listed_compounds": 85
+    },
+    {
+      "handle": "the-daily-commute",
+      "product": "The Daily Commute",
+      "identified_compounds": 81,
+      "listed_compounds": 57
+    },
+    {
+      "handle": "main-squeeze",
+      "product": "Main Squeeze",
+      "identified_compounds": 120,
+      "listed_compounds": 74
+    },
+    {
+      "handle": "grapes-unleaded",
+      "product": "Grapes Unleaded",
+      "identified_compounds": 120,
+      "listed_compounds": 76
+    },
+    {
+      "handle": "go-go-bananas",
+      "product": "Go-Go Bananas",
+      "identified_compounds": 104,
+      "listed_compounds": 69
+    }
+  ]
+}

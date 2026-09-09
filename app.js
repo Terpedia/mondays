@@ -11,7 +11,11 @@ async function renderMolecule() {
   return renderEntity('molecule', slug);
 }
 
+// Measured-profile compound ids that name the same molecule as an existing profile file.
+const MOLECULE_ALIASES = {'myrcene': 'beta-myrcene', 'alpha-humulene': 'humulene', 'caryophyllene': 'beta-caryophyllene', 'pinene': 'alpha-pinene'};
+
 async function renderEntity(type, slug) {
+  if (type === 'molecule' && MOLECULE_ALIASES[slug]) slug = MOLECULE_ALIASES[slug];
   const labels = {molecule:'Molecule', protein:'Protein', disease:'Disease / condition', claim:'Claim', pmid:'Literature'};
   const fallback = {name: slug.replaceAll('-', ' '), summary: `Terpedia ${labels[type]} profile`, evidence: 'Profile data will be hydrated from Terpedia when the public record is connected.'};
   let molecule = fallback;
@@ -34,7 +38,7 @@ function render() {
       <h2>${esc(p.name)}</h2>
       <div class="strain">${esc(p.strain)}</div>
       <p class="description">${esc(p.description)}</p>
-      <div class="molecules"><div class="molecules-label">Profile molecule candidates</div><div class="molecule-list">${p.molecules.map((m) => `<a href="${moleculeUrl(m)}" target="_blank" rel="noreferrer">${esc(m)} ↗</a>`).join('')}</div></div>
+      <div class="molecules"><div class="molecules-label">${p.molecules_basis === 'measured' ? `Measured terpene profile · top ${p.terpene_profile.top.length} of ${p.terpene_profile.identified_compounds}` : 'Profile molecule candidates'}</div><div class="molecule-list">${p.molecules_basis === 'measured' ? p.terpene_profile.top.map((c) => `<a href="?c=${encodeURIComponent(c.id)}" target="_blank" rel="noreferrer">${esc(c.name)} <b>${c.percent}%</b> · ${c.mg}mg ↗</a>`).join('') : p.molecules.map((m) => `<a href="${moleculeUrl(m)}" target="_blank" rel="noreferrer">${esc(m)} ↗</a>`).join('')}</div>${p.molecules_basis === 'measured' ? `<p class="molecules-note">${esc(p.terpene_profile.lab)} · percent of total volatiles · ${p.terpene_profile.mg_terpenes_per_chew}mg terpenes per chew · <a href="${esc(p.terpene_profile.path)}" target="_blank" rel="noreferrer">all ${p.terpene_profile.listed_compounds} listed compounds ↗</a></p>` : ''}</div>
       <div class="traceability"><div><b>Ingredient</b><span>${esc(p.ingredient || 'Cannabis sativa L. terpene oil · SKU-specific')}</span></div><div><b>CoA</b><span>${p.coa ? `<a href="${esc(p.coa)}" target="_blank" rel="noreferrer">${esc(p.coa_batch || 'View batch report')} ↗</a>` : 'Pending partner document'}</span></div></div>
       <div class="card-footer"><a href="${esc(p.source)}" target="_blank" rel="noreferrer">MONDAYS source ↗</a><span>${esc(p.category)}</span></div>
     </article>`).join('');

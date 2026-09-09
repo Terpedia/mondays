@@ -1,0 +1,385 @@
+{
+  "handle": "raspberry-relief",
+  "product": "Raspberry Relief",
+  "source": "https://www.chewmondays.com/products/raspberry-relief",
+  "identified_compounds": 88,
+  "listed_compounds": 52,
+  "trace_compounds_not_listed": 36,
+  "mg_terpenes_per_chew": 20,
+  "lab": "ISO 17025-accredited laboratory (unnamed on page)",
+  "basis": "percent of total volatiles; mg assumes the stated total terpenes per chew",
+  "note": "Every identified compound at 0.05% or more of this strain's oil is listed above, plus 36 more identified at trace levels below that. The neutral slice in the chart is those traces plus unidentified volatiles. Values are percent of total volatiles from an ISO 17025-accredited laboratory; milligrams assume 20mg of total terpenes per chew. Research summaries describe studies of the compounds themselves, at their own doses, not this product. Full sources live in our terpene library.",
+  "compounds": [
+    {
+      "name": "α-Pinene",
+      "id": "alpha-pinene",
+      "percent_of_profile": 31.07,
+      "mg_per_chew": 6.21,
+      "aggregate": false
+    },
+    {
+      "name": "Myrcene",
+      "id": "myrcene",
+      "percent_of_profile": 23.43,
+      "mg_per_chew": 4.69,
+      "aggregate": false
+    },
+    {
+      "name": "β-Pinene",
+      "id": "beta-pinene",
+      "percent_of_profile": 14.29,
+      "mg_per_chew": 2.86,
+      "aggregate": false
+    },
+    {
+      "name": "Limonene",
+      "id": "limonene",
+      "percent_of_profile": 9.71,
+      "mg_per_chew": 1.94,
+      "aggregate": false
+    },
+    {
+      "name": "β-Caryophyllene",
+      "id": "beta-caryophyllene",
+      "percent_of_profile": 3.84,
+      "mg_per_chew": 0.77,
+      "aggregate": false
+    },
+    {
+      "name": "(E)-β-Ocimene",
+      "id": "e-beta-ocimene",
+      "percent_of_profile": 1.97,
+      "mg_per_chew": 0.39,
+      "aggregate": false
+    },
+    {
+      "name": "Linalool",
+      "id": "linalool",
+      "percent_of_profile": 1.46,
+      "mg_per_chew": 0.29,
+      "aggregate": false
+    },
+    {
+      "name": "trans-α-Bergamotene + α-Guaiene",
+      "id": "trans-alpha-bergamotene-alpha-guaiene",
+      "percent_of_profile": 1.28,
+      "mg_per_chew": 0.26,
+      "aggregate": false
+    },
+    {
+      "name": "α-Humulene",
+      "id": "alpha-humulene",
+      "percent_of_profile": 1.23,
+      "mg_per_chew": 0.25,
+      "aggregate": false
+    },
+    {
+      "name": "δ-Guaiene",
+      "id": "delta-guaiene",
+      "percent_of_profile": 0.98,
+      "mg_per_chew": 0.196,
+      "aggregate": false
+    },
+    {
+      "name": "(Z)-β-Ocimene",
+      "id": "z-beta-ocimene",
+      "percent_of_profile": 0.79,
+      "mg_per_chew": 0.158,
+      "aggregate": false
+    },
+    {
+      "name": "Selina-4,7(11)-diene + Selina-3,7(11)-diene",
+      "id": "selina-4-7-11-diene-selina-3-7-11-diene",
+      "percent_of_profile": 0.78,
+      "mg_per_chew": 0.156,
+      "aggregate": false
+    },
+    {
+      "name": "Germacrene B",
+      "id": "germacrene-b",
+      "percent_of_profile": 0.7,
+      "mg_per_chew": 0.14,
+      "aggregate": false
+    },
+    {
+      "name": "(E)-β-Farnesene",
+      "id": "e-beta-farnesene",
+      "percent_of_profile": 0.67,
+      "mg_per_chew": 0.134,
+      "aggregate": false
+    },
+    {
+      "name": "Selina-4(15),7(11)-diene",
+      "id": "selina-4-15-7-11-diene",
+      "percent_of_profile": 0.57,
+      "mg_per_chew": 0.114,
+      "aggregate": false
+    },
+    {
+      "name": "Camphene",
+      "id": "camphene",
+      "percent_of_profile": 0.54,
+      "mg_per_chew": 0.108,
+      "aggregate": false
+    },
+    {
+      "name": "1,8-Cineole",
+      "id": "1-8-cineole",
+      "percent_of_profile": 0.5,
+      "mg_per_chew": 0.1,
+      "aggregate": false
+    },
+    {
+      "name": "α-Selinene",
+      "id": "alpha-selinene",
+      "percent_of_profile": 0.4,
+      "mg_per_chew": 0.08,
+      "aggregate": false
+    },
+    {
+      "name": "β-Selinene",
+      "id": "beta-selinene",
+      "percent_of_profile": 0.38,
+      "mg_per_chew": 0.076,
+      "aggregate": false
+    },
+    {
+      "name": "Hashishene",
+      "id": "hashishene",
+      "percent_of_profile": 0.3,
+      "mg_per_chew": 0.06,
+      "aggregate": false
+    },
+    {
+      "name": "endo-Fenchol",
+      "id": "endo-fenchol",
+      "percent_of_profile": 0.25,
+      "mg_per_chew": 0.05,
+      "aggregate": false
+    },
+    {
+      "name": "trans-Pinene hydrate",
+      "id": "trans-pinene-hydrate",
+      "percent_of_profile": 0.2,
+      "mg_per_chew": 0.04,
+      "aggregate": false
+    },
+    {
+      "name": "Terpinolene",
+      "id": "terpinolene",
+      "percent_of_profile": 0.16,
+      "mg_per_chew": 0.032,
+      "aggregate": false
+    },
+    {
+      "name": "cis-α-Bergamotene",
+      "id": "cis-alpha-bergamotene",
+      "percent_of_profile": 0.13,
+      "mg_per_chew": 0.026,
+      "aggregate": false
+    },
+    {
+      "name": "Ethyl senecioate",
+      "id": "ethyl-senecioate",
+      "percent_of_profile": 0.11,
+      "mg_per_chew": 0.022,
+      "aggregate": false
+    },
+    {
+      "name": "α-Terpineol",
+      "id": "alpha-terpineol",
+      "percent_of_profile": 0.11,
+      "mg_per_chew": 0.022,
+      "aggregate": false
+    },
+    {
+      "name": "β-Bisabolene",
+      "id": "beta-bisabolene",
+      "percent_of_profile": 0.11,
+      "mg_per_chew": 0.022,
+      "aggregate": false
+    },
+    {
+      "name": "Spirovetiva-1(10),7(11)-diene + Eremophila-1(10),7(11)-diene",
+      "id": "spirovetiva-1-10-7-11-diene-eremophila-1-10-7-11-diene",
+      "percent_of_profile": 0.11,
+      "mg_per_chew": 0.022,
+      "aggregate": false
+    },
+    {
+      "name": "Heptanal",
+      "id": "heptanal",
+      "percent_of_profile": 0.1,
+      "mg_per_chew": 0.02,
+      "aggregate": false
+    },
+    {
+      "name": "γ-Muurolene",
+      "id": "gamma-muurolene",
+      "percent_of_profile": 0.1,
+      "mg_per_chew": 0.02,
+      "aggregate": false
+    },
+    {
+      "name": "Valencene",
+      "id": "valencene",
+      "percent_of_profile": 0.1,
+      "mg_per_chew": 0.02,
+      "aggregate": false
+    },
+    {
+      "name": "(3E,6E)-α-Farnesene",
+      "id": "3e-6e-alpha-farnesene",
+      "percent_of_profile": 0.1,
+      "mg_per_chew": 0.02,
+      "aggregate": false
+    },
+    {
+      "name": "trans-Pinocarveol",
+      "id": "trans-pinocarveol",
+      "percent_of_profile": 0.09,
+      "mg_per_chew": 0.018,
+      "aggregate": false
+    },
+    {
+      "name": "α-Santalene",
+      "id": "alpha-santalene",
+      "percent_of_profile": 0.09,
+      "mg_per_chew": 0.018,
+      "aggregate": false
+    },
+    {
+      "name": "Caryophyllene oxide",
+      "id": "caryophyllene-oxide",
+      "percent_of_profile": 0.09,
+      "mg_per_chew": 0.018,
+      "aggregate": false
+    },
+    {
+      "name": "allo-Aromadendrene",
+      "id": "allo-aromadendrene",
+      "percent_of_profile": 0.08,
+      "mg_per_chew": 0.016,
+      "aggregate": false
+    },
+    {
+      "name": "Borneol",
+      "id": "borneol",
+      "percent_of_profile": 0.07,
+      "mg_per_chew": 0.014,
+      "aggregate": false
+    },
+    {
+      "name": "Citronellol",
+      "id": "citronellol",
+      "percent_of_profile": 0.07,
+      "mg_per_chew": 0.014,
+      "aggregate": false
+    },
+    {
+      "name": "γ-Elemene",
+      "id": "gamma-elemene",
+      "percent_of_profile": 0.07,
+      "mg_per_chew": 0.014,
+      "aggregate": false
+    },
+    {
+      "name": "Selina-4,11-diene",
+      "id": "selina-4-11-diene",
+      "percent_of_profile": 0.07,
+      "mg_per_chew": 0.014,
+      "aggregate": false
+    },
+    {
+      "name": "β-Sesquiphellandrene",
+      "id": "beta-sesquiphellandrene",
+      "percent_of_profile": 0.07,
+      "mg_per_chew": 0.014,
+      "aggregate": false
+    },
+    {
+      "name": "(E)-α-Bisabolene",
+      "id": "e-alpha-bisabolene",
+      "percent_of_profile": 0.07,
+      "mg_per_chew": 0.014,
+      "aggregate": false
+    },
+    {
+      "name": "Pseudolimonene",
+      "id": "pseudolimonene",
+      "percent_of_profile": 0.06,
+      "mg_per_chew": 0.012,
+      "aggregate": false
+    },
+    {
+      "name": "cis-Sabinene hydrate",
+      "id": "cis-sabinene-hydrate",
+      "percent_of_profile": 0.06,
+      "mg_per_chew": 0.012,
+      "aggregate": false
+    },
+    {
+      "name": "Fenchone",
+      "id": "fenchone",
+      "percent_of_profile": 0.06,
+      "mg_per_chew": 0.012,
+      "aggregate": false
+    },
+    {
+      "name": "(E)-2,6-Dimethyl-1,5,7-octatrien-3-ol",
+      "id": "e-2-6-dimethyl-1-5-7-octatrien-3-ol",
+      "percent_of_profile": 0.06,
+      "mg_per_chew": 0.012,
+      "aggregate": false
+    },
+    {
+      "name": "Hexyl hexanoate",
+      "id": "hexyl-hexanoate",
+      "percent_of_profile": 0.06,
+      "mg_per_chew": 0.012,
+      "aggregate": false
+    },
+    {
+      "name": "Isocaryophyllene",
+      "id": "isocaryophyllene",
+      "percent_of_profile": 0.06,
+      "mg_per_chew": 0.012,
+      "aggregate": false
+    },
+    {
+      "name": "α-Phellandrene",
+      "id": "alpha-phellandrene",
+      "percent_of_profile": 0.05,
+      "mg_per_chew": 0.01,
+      "aggregate": false
+    },
+    {
+      "name": "cis-Pinene hydrate",
+      "id": "cis-pinene-hydrate",
+      "percent_of_profile": 0.05,
+      "mg_per_chew": 0.01,
+      "aggregate": false
+    },
+    {
+      "name": "Sesquithujene",
+      "id": "sesquithujene",
+      "percent_of_profile": 0.05,
+      "mg_per_chew": 0.01,
+      "aggregate": false
+    },
+    {
+      "name": "meta-Camphorene",
+      "id": "meta-camphorene",
+      "percent_of_profile": 0.05,
+      "mg_per_chew": 0.01,
+      "aggregate": false
+    },
+    {
+      "name": "Trace and unidentified",
+      "id": "trace-and-unidentified",
+      "percent_of_profile": 2.2,
+      "mg_per_chew": 0.44,
+      "aggregate": true
+    }
+  ]
+}
