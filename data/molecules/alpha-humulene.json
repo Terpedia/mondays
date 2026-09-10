@@ -1,0 +1,74 @@
+{
+  "name": "α-Humulene",
+  "id": "alpha-humulene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 5281520,
+    "title": "Humulene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCC(C=CCC(=CCC1)C)(C)C",
+    "inchikey": "FAMPSKZZVDUYOS-HRGUGZIWSA-N",
+    "iupac_name": "(1E,4E,8E)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene",
+    "image": "data/molecules/images/alpha-humulene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281520",
+    "description": "(1E,4E,8E)-alpha-humulene is the (1E,4E,8E)-isomer of alpha-humulene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5768"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5281520/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 916,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Humulene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "34770801",
+        "title": "Clove Essential Oil (Syzygium aromaticum L. Myrtaceae): Extraction, Chemical Composition, Food Applications, and Essential Bioactivity for Human Health",
+        "journal": "Molecules",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34770801/"
+      },
+      {
+        "pmid": "38388989",
+        "title": "Anti-inflammatory effects of α-humulene on the release of pro-inflammatory cytokines in lipopolysaccharide-induced THP-1 cells",
+        "journal": "Cell Biochem Biophys",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38388989/"
+      },
+      {
+        "pmid": "35619177",
+        "title": "Engineering the oleaginous yeast Candida tropicalis for α-humulene overproduction",
+        "journal": "Biotechnol Biofuels Bioprod",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35619177/"
+      },
+      {
+        "pmid": "35830138",
+        "title": "Effect of alpha-humulene incorporation on the properties of experimental light-cured periodontal dressings",
+        "journal": "Braz Oral Res",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35830138/"
+      },
+      {
+        "pmid": "21472475",
+        "title": "Genomic organization of δ-guaiene synthase genes in Aquilaria crassna and its possible use for the identification of Aquilaria species",
+        "journal": "J Nat Med",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21472475/"
+      },
+      {
+        "pmid": "38626911",
+        "title": "The Clinical Translation of α-humulene - A Scoping Review",
+        "journal": "Planta Med",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38626911/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 0.72–5.14% of total volatiles (0.144–1.03mg per chew)."
+}

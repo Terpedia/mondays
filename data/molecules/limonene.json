@@ -1,1 +1,99 @@
-{"name":"Limonene","formula":"C10H16","summary":"A citrus-scented monoterpene profile linked from MONDAYS product language.","evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 5.88–19.03% of total volatiles (1.18–3.81mg per chew)."}
+{
+  "name": "Limonene",
+  "formula": "C10H16",
+  "summary": "A citrus-scented monoterpene profile linked from MONDAYS product language.",
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 5.88–19.03% of total volatiles (1.18–3.81mg per chew).",
+  "id": "limonene",
+  "pubchem": {
+    "cid": 22311,
+    "title": "1-Methyl-4-Prop-1-En-2-Ylcyclohexene",
+    "formula": "C10H16",
+    "molecular_weight": 136.23,
+    "smiles": "CC1=CCC(CC1)C(=C)C",
+    "inchikey": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+    "iupac_name": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "image": "data/molecules/images/limonene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/22311",
+    "description": "Limonene is a monoterpene that is cyclohex-1-ene substituted by a methyl group at position 1 and a prop-1-en-2-yl group at position 4 respectively. It has a role as a human metabolite. It is a cycloalkene and a p-menthadiene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15384"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/22311/PNG"
+  },
+  "targets": [
+    {
+      "accession": "AAI32976",
+      "activity": "Potency",
+      "value_um": 28.2808,
+      "assay": "qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line",
+      "aid": "743040",
+      "pmid": null,
+      "protein": "AR protein",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAI32976",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "NP_006155",
+      "activity": "Potency",
+      "value_um": 1122.02,
+      "assay": "qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway",
+      "aid": "651741",
+      "pmid": null,
+      "protein": "nuclear factor erythroid 2-related factor 2 isoform 1",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/NP_006155",
+      "source": "NCBI Protein"
+    }
+  ],
+  "literature": {
+    "total": 6733,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Limonene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "31433385",
+        "title": "Limonene Hydroperoxides",
+        "journal": "Dermatitis",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31433385/"
+      },
+      {
+        "pmid": "15325315",
+        "title": "Botanical solvents",
+        "journal": "Clin Occup Environ Med",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15325315/"
+      },
+      {
+        "pmid": "8603937",
+        "title": "Limonene",
+        "journal": "J Appl Toxicol",
+        "year": "1995",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8603937/"
+      },
+      {
+        "pmid": "10804960",
+        "title": "d-limonene",
+        "journal": "IARC Monogr Eval Carcinog Risks Hum",
+        "year": "1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10804960/"
+      },
+      {
+        "pmid": "29933255",
+        "title": "Allergic Contact Dermatitis-Induced Stereospecificity",
+        "journal": "Dermatitis",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29933255/"
+      },
+      {
+        "pmid": "37531404",
+        "title": "Mutational Analysis of (+)-Limonene Synthase",
+        "journal": "Biochemistry",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37531404/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10"
+}

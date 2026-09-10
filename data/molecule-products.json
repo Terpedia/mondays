@@ -1,0 +1,6420 @@
+{
+  "generated": "2026-09-10",
+  "molecules": {
+    "beta-caryophyllene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 17.29,
+        "mg": 3.46,
+        "rank": 1,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 15.11,
+        "mg": 3.02,
+        "rank": 1,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 14.08,
+        "mg": 2.82,
+        "rank": 1,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 9.01,
+        "mg": 1.8,
+        "rank": 3,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 3.84,
+        "mg": 0.77,
+        "rank": 5,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 2.78,
+        "mg": 0.56,
+        "rank": 5,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "limonene": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 19.03,
+        "mg": 3.81,
+        "rank": 2,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 13.84,
+        "mg": 2.77,
+        "rank": 2,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 10.11,
+        "mg": 2.02,
+        "rank": 2,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 9.91,
+        "mg": 1.98,
+        "rank": 2,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 9.71,
+        "mg": 1.94,
+        "rank": 4,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 5.88,
+        "mg": 1.18,
+        "rank": 3,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "selina-3-7-11-diene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 9.48,
+        "mg": 1.9,
+        "rank": 3,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 8.77,
+        "mg": 1.75,
+        "rank": 3,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 8.12,
+        "mg": 1.62,
+        "rank": 3,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 3.06,
+        "mg": 0.61,
+        "rank": 6,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 28,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "selina-4-15-7-11-diene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 9.08,
+        "mg": 1.82,
+        "rank": 5,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 8.37,
+        "mg": 1.67,
+        "rank": 4,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 7.89,
+        "mg": 1.58,
+        "rank": 4,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 2.3,
+        "mg": 0.46,
+        "rank": 8,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.57,
+        "mg": 0.114,
+        "rank": 15,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.31,
+        "mg": 0.062,
+        "rank": 14,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "myrcene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 65,
+        "mg": 13,
+        "rank": 1,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 36.63,
+        "mg": 7.33,
+        "rank": 1,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 23.43,
+        "mg": 4.69,
+        "rank": 2,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 6.41,
+        "mg": 1.28,
+        "rank": 5,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 6.2,
+        "mg": 1.24,
+        "rank": 5,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 2.29,
+        "mg": 0.46,
+        "rank": 10,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "linalool": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 9.19,
+        "mg": 1.84,
+        "rank": 4,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 5.99,
+        "mg": 1.2,
+        "rank": 6,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 4.97,
+        "mg": 0.99,
+        "rank": 7,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 2.32,
+        "mg": 0.46,
+        "rank": 7,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 1.46,
+        "mg": 0.29,
+        "rank": 7,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.64,
+        "mg": 0.128,
+        "rank": 8,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-humulene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 5.14,
+        "mg": 1.03,
+        "rank": 6,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 4.21,
+        "mg": 0.84,
+        "rank": 7,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 4.15,
+        "mg": 0.83,
+        "rank": 6,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 2.27,
+        "mg": 0.45,
+        "rank": 9,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 1.23,
+        "mg": 0.25,
+        "rank": 9,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.72,
+        "mg": 0.144,
+        "rank": 7,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "selina-4-7-11-diene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 3.76,
+        "mg": 0.75,
+        "rank": 8,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 3.74,
+        "mg": 0.75,
+        "rank": 8,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 3.32,
+        "mg": 0.66,
+        "rank": 7,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.4,
+        "mg": 0.08,
+        "rank": 19,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.35,
+        "mg": 0.07,
+        "rank": 13,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-pinene": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 31.07,
+        "mg": 6.21,
+        "rank": 1,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 9.18,
+        "mg": 1.84,
+        "rank": 2,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 4.4,
+        "mg": 0.88,
+        "rank": 4,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 2.45,
+        "mg": 0.49,
+        "rank": 9,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 2.1,
+        "mg": 0.42,
+        "rank": 11,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.1,
+        "mg": 0.22,
+        "rank": 19,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "e-beta-farnesene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 2.53,
+        "mg": 0.51,
+        "rank": 9,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 2.23,
+        "mg": 0.45,
+        "rank": 10,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.98,
+        "mg": 0.4,
+        "rank": 11,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.71,
+        "mg": 0.142,
+        "rank": 15,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.67,
+        "mg": 0.134,
+        "rank": 14,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.56,
+        "mg": 0.112,
+        "rank": 9,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "endo-fenchol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 2.36,
+        "mg": 0.47,
+        "rank": 9,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 2.14,
+        "mg": 0.43,
+        "rank": 11,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.73,
+        "mg": 0.35,
+        "rank": 13,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.72,
+        "mg": 0.144,
+        "rank": 14,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.29,
+        "mg": 0.058,
+        "rank": 16,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.25,
+        "mg": 0.05,
+        "rank": 21,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "trans-alpha-bergamotene-alpha-guaiene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 2.44,
+        "mg": 0.49,
+        "rank": 10,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 1.99,
+        "mg": 0.4,
+        "rank": 12,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 1.28,
+        "mg": 0.26,
+        "rank": 8,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "beta-pinene": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 14.29,
+        "mg": 2.86,
+        "rank": 3,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 4.5,
+        "mg": 0.9,
+        "rank": 4,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 3.66,
+        "mg": 0.73,
+        "rank": 5,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 1.92,
+        "mg": 0.38,
+        "rank": 13,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.78,
+        "mg": 0.36,
+        "rank": 12,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.62,
+        "mg": 0.32,
+        "rank": 14,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "hexyl-hexanoate": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 1.55,
+        "mg": 0.31,
+        "rank": 14,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.43,
+        "mg": 0.29,
+        "rank": 16,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.32,
+        "mg": 0.064,
+        "rank": 23,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 33,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 47,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "alpha-selinene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.53,
+        "mg": 0.31,
+        "rank": 15,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.38,
+        "mg": 0.28,
+        "rank": 16,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 1.3,
+        "mg": 0.26,
+        "rank": 15,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.9,
+        "mg": 0.18,
+        "rank": 13,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.4,
+        "mg": 0.08,
+        "rank": 18,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 27,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "eremophila-1-10-7-11-diene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.17,
+        "mg": 0.23,
+        "rank": 18,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.13,
+        "mg": 0.23,
+        "rank": 18,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 1.11,
+        "mg": 0.22,
+        "rank": 16,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.37,
+        "mg": 0.074,
+        "rank": 22,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 47,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "beta-selinene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.59,
+        "mg": 0.32,
+        "rank": 14,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.43,
+        "mg": 0.29,
+        "rank": 15,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 1.08,
+        "mg": 0.22,
+        "rank": 17,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.96,
+        "mg": 0.192,
+        "rank": 11,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.38,
+        "mg": 0.076,
+        "rank": 19,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 37,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-terpineol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.83,
+        "mg": 0.37,
+        "rank": 12,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.87,
+        "mg": 0.174,
+        "rank": 18,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.78,
+        "mg": 0.156,
+        "rank": 20,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.25,
+        "mg": 0.05,
+        "rank": 27,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 26,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 31,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "e-alpha-bisabolene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.98,
+        "mg": 0.196,
+        "rank": 19,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.86,
+        "mg": 0.172,
+        "rank": 19,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.64,
+        "mg": 0.128,
+        "rank": 24,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.52,
+        "mg": 0.104,
+        "rank": 16,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 20,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 42,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "delta-guaiene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 1.22,
+        "mg": 0.24,
+        "rank": 17,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.98,
+        "mg": 0.196,
+        "rank": 10,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.69,
+        "mg": 0.138,
+        "rank": 20,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.69,
+        "mg": 0.138,
+        "rank": 23,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.42,
+        "mg": 0.084,
+        "rank": 18,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "e-beta-ocimene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 2.24,
+        "mg": 0.45,
+        "rank": 6,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 1.97,
+        "mg": 0.39,
+        "rank": 6,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.65,
+        "mg": 0.13,
+        "rank": 21,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.38,
+        "mg": 0.076,
+        "rank": 30,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.22,
+        "mg": 0.044,
+        "rank": 41,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "trans-pinene-hydrate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.31,
+        "mg": 0.26,
+        "rank": 17,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.65,
+        "mg": 0.13,
+        "rank": 22,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.56,
+        "mg": 0.112,
+        "rank": 23,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.47,
+        "mg": 0.094,
+        "rank": 17,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 22,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.17,
+        "mg": 0.034,
+        "rank": 22,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "spirovetiva-1-10-7-11-diene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.6,
+        "mg": 0.12,
+        "rank": 22,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.57,
+        "mg": 0.114,
+        "rank": 23,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.42,
+        "mg": 0.084,
+        "rank": 26,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.16,
+        "mg": 0.032,
+        "rank": 34,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 50,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "camphene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.56,
+        "mg": 0.112,
+        "rank": 24,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.54,
+        "mg": 0.108,
+        "rank": 16,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.42,
+        "mg": 0.084,
+        "rank": 27,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.37,
+        "mg": 0.074,
+        "rank": 21,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.3,
+        "mg": 0.06,
+        "rank": 34,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.22,
+        "mg": 0.044,
+        "rank": 19,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "3e-6e-alpha-farnesene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.75,
+        "mg": 0.15,
+        "rank": 22,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.69,
+        "mg": 0.138,
+        "rank": 21,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.54,
+        "mg": 0.108,
+        "rank": 25,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.19,
+        "mg": 0.038,
+        "rank": 32,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 29,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 32,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "valencene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.53,
+        "mg": 0.106,
+        "rank": 24,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.47,
+        "mg": 0.094,
+        "rank": 26,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.37,
+        "mg": 0.074,
+        "rank": 28,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.28,
+        "mg": 0.056,
+        "rank": 25,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 31,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 34,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "beta-bisabolene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.51,
+        "mg": 0.102,
+        "rank": 25,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.4,
+        "mg": 0.08,
+        "rank": 27,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.35,
+        "mg": 0.07,
+        "rank": 31,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.32,
+        "mg": 0.064,
+        "rank": 24,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.19,
+        "mg": 0.038,
+        "rank": 21,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 27,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "beta-curcumene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.42,
+        "mg": 0.084,
+        "rank": 28,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.39,
+        "mg": 0.078,
+        "rank": 28,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.37,
+        "mg": 0.074,
+        "rank": 29,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 40,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "delta-cadinene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.4,
+        "mg": 0.08,
+        "rank": 29,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.39,
+        "mg": 0.078,
+        "rank": 29,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.36,
+        "mg": 0.072,
+        "rank": 30,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 45,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "gamma-muurolene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.35,
+        "mg": 0.07,
+        "rank": 30,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.32,
+        "mg": 0.064,
+        "rank": 33,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.31,
+        "mg": 0.062,
+        "rank": 35,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 43,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 30,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "gamma-cadinene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.35,
+        "mg": 0.07,
+        "rank": 31,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.22,
+        "mg": 0.044,
+        "rank": 42,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.19,
+        "mg": 0.038,
+        "rank": 48,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 61,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "beta-sesquiphellandrene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.35,
+        "mg": 0.07,
+        "rank": 32,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.28,
+        "mg": 0.056,
+        "rank": 37,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.27,
+        "mg": 0.054,
+        "rank": 39,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 51,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 44,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 41,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "cis-alpha-bergamotene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.37,
+        "mg": 0.074,
+        "rank": 31,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.34,
+        "mg": 0.068,
+        "rank": 33,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.27,
+        "mg": 0.054,
+        "rank": 38,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 24,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 42,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 49,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "e-nerolidol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.88,
+        "mg": 0.176,
+        "rank": 21,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.35,
+        "mg": 0.07,
+        "rank": 32,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.32,
+        "mg": 0.064,
+        "rank": 34,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "terpinolene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.49,
+        "mg": 0.098,
+        "rank": 26,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.3,
+        "mg": 0.06,
+        "rank": 15,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.29,
+        "mg": 0.058,
+        "rank": 35,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.23,
+        "mg": 0.046,
+        "rank": 28,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.18,
+        "mg": 0.036,
+        "rank": 49,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.16,
+        "mg": 0.032,
+        "rank": 23,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "alpha-bisabolol": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.29,
+        "mg": 0.058,
+        "rank": 36,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.29,
+        "mg": 0.058,
+        "rank": 36,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.25,
+        "mg": 0.05,
+        "rank": 40,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 56,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "borneol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.45,
+        "mg": 0.09,
+        "rank": 25,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.32,
+        "mg": 0.064,
+        "rank": 33,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.28,
+        "mg": 0.056,
+        "rank": 37,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 37,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 42,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 37,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "gamma-curcumene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.3,
+        "mg": 0.06,
+        "rank": 36,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.27,
+        "mg": 0.054,
+        "rank": 38,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.21,
+        "mg": 0.042,
+        "rank": 44,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 67,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "eudesma-5-7-11-diene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.27,
+        "mg": 0.054,
+        "rank": 39,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.27,
+        "mg": 0.054,
+        "rank": 38,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 46,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 62,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "octyl-hexanoate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.27,
+        "mg": 0.054,
+        "rank": 40,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.26,
+        "mg": 0.052,
+        "rank": 40,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.22,
+        "mg": 0.044,
+        "rank": 43,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "selina-4-11-diene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.31,
+        "mg": 0.062,
+        "rank": 34,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.28,
+        "mg": 0.056,
+        "rank": 37,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.24,
+        "mg": 0.048,
+        "rank": 41,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 30,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 40,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "alpha-santalene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.25,
+        "mg": 0.05,
+        "rank": 39,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.22,
+        "mg": 0.044,
+        "rank": 42,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.21,
+        "mg": 0.042,
+        "rank": 43,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 34,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 43,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 55,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-ylangene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.21,
+        "mg": 0.042,
+        "rank": 43,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 50,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 61,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 60,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "delta-selinene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.23,
+        "mg": 0.046,
+        "rank": 41,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.22,
+        "mg": 0.044,
+        "rank": 42,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.21,
+        "mg": 0.042,
+        "rank": 44,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "alpha-muurolene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 45,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 44,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 62,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "fenchone": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.17,
+        "mg": 0.034,
+        "rank": 46,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.15,
+        "mg": 0.03,
+        "rank": 35,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 52,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 53,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 46,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 45,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "hexanol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.19,
+        "mg": 0.038,
+        "rank": 47,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.16,
+        "mg": 0.032,
+        "rank": 47,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 49,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 52,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 45,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "caryophylla-4-12-8-13-diene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.15,
+        "mg": 0.03,
+        "rank": 48,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.15,
+        "mg": 0.03,
+        "rank": 47,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 65,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "isocaryophyllene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.18,
+        "mg": 0.036,
+        "rank": 45,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 49,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 48,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 70,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 48,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "guaiol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.21,
+        "mg": 0.042,
+        "rank": 45,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 50,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 52,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 46,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 51,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "z-beta-ocimene": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.79,
+        "mg": 0.158,
+        "rank": 11,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 26,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 51,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 53,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 65,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 80,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "octanol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.32,
+        "mg": 0.064,
+        "rank": 32,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 52,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 54,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "10-epi-gamma-eudesmol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.17,
+        "mg": 0.034,
+        "rank": 50,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 53,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 55,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 49,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 52,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "para-cymene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 54,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 64,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 54,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-copaene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 55,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 57,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 72,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 64,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "allo-aromadendrene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.41,
+        "mg": 0.082,
+        "rank": 27,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.16,
+        "mg": 0.032,
+        "rank": 24,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.15,
+        "mg": 0.03,
+        "rank": 48,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 38,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 56,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 36,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "caryophyllene-oxide": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.3,
+        "mg": 0.06,
+        "rank": 35,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.17,
+        "mg": 0.034,
+        "rank": 33,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 51,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 57,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 35,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 38,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "gamma-terpinene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 58,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 60,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 57,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 81,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-fenchene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 59,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 72,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "alpha-terpinene": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 60,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 63,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "camphene-hydrate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 63,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 61,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 67,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "terpinen-4-ol": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 62,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 71,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 73,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "4-5-diepi-aristolochene": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 61,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 63,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 77,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "bulnesol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 57,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 64,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 71,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 69,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "juniper-camphor": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 58,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 65,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 74,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "caproic-acid": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 60,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 66,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 66,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "1-8-cineole": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.5,
+        "mg": 0.1,
+        "rank": 17,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.26,
+        "mg": 0.052,
+        "rank": 26,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 56,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 35,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 68,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 67,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "beta-phellandrene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.41,
+        "mg": 0.082,
+        "rank": 12,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.2,
+        "mg": 0.04,
+        "rank": 29,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 59,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 68,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "hexyl-butyrate": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.55,
+        "mg": 0.11,
+        "rank": 10,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 47,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 69,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 69,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 68,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "geraniol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 54,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 70,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 69,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "humulene-epoxide-ii": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 56,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 62,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 71,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 68,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "alpha-eudesmol": [
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 72,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 79,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 63,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 70,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "octyl-acetate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 67,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 73,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "citronellol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 53,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 38,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 74,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "gamma-elemene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 2.76,
+        "mg": 0.55,
+        "rank": 8,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.19,
+        "mg": 0.038,
+        "rank": 31,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 58,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 39,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 75,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "2e-6e-farnesol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 59,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "grapes-unleaded",
+        "product": "Grapes Unleaded",
+        "strain": "Grape Gasoline × Concord Grape",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 76,
+        "of": 76,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "alpha-guaiene-trans-alpha-bergamotene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1.68,
+        "mg": 0.34,
+        "rank": 13,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.9,
+        "mg": 0.18,
+        "rank": 12,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.46,
+        "mg": 0.092,
+        "rank": 11,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "germacrene-b": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 2.03,
+        "mg": 0.41,
+        "rank": 10,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 1,
+        "mg": 0.2,
+        "rank": 20,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.7,
+        "mg": 0.14,
+        "rank": 13,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.25,
+        "mg": 0.05,
+        "rank": 17,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "sesquithujene": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.15,
+        "mg": 0.03,
+        "rank": 51,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 65,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 51,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 57,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "caryophyllenyl-alcohol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 55,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "pelargonic-acid": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 64,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "cis-pinene-hydrate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 66,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 59,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 50,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "selin-6-en-4alpha-ol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 73,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "beta-eudesmol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 74,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "aromadendrane-4-10-diol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 75,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "octane": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 76,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "gamma-eudesmol": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 78,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "citronellyl-formate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 82,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "bornyl-acetate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 83,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "3z-hexenyl-3z-hexenoate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 84,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "geranyl-caproate": [
+      {
+        "handle": "wild-things",
+        "product": "Wild Things",
+        "strain": "Animal Mints × Wild Strawberries",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 85,
+        "of": 85,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "hashishene": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.37,
+        "mg": 0.074,
+        "rank": 20,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.3,
+        "mg": 0.06,
+        "rank": 20,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.24,
+        "mg": 0.048,
+        "rank": 18,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "ethyl-senecioate": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.14,
+        "mg": 0.028,
+        "rank": 36,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 25,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 32,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "ipsdienol": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.13,
+        "mg": 0.026,
+        "rank": 39,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 41,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "heptanal": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.12,
+        "mg": 0.024,
+        "rank": 41,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.1,
+        "mg": 0.02,
+        "rank": 29,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 39,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "sesquicineole": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 44,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "e-2-6-dimethyl-1-5-7-octatrien-3-ol": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 36,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 50,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 46,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "6-7-epoxymyrcene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.08,
+        "mg": 0.016,
+        "rank": 40,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 54,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "cis-sabinene-hydrate": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 58,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 44,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 55,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "beta-copaene": [
+      {
+        "handle": "go-go-bananas",
+        "product": "Go-Go Bananas",
+        "strain": "Sour Diesel × Banana Cream",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 66,
+        "of": 69,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "ethanol": [
+      {
+        "handle": "main-squeeze",
+        "product": "Main Squeeze",
+        "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+        "type": "Hemp",
+        "percent": 0.16,
+        "mg": 0.032,
+        "rank": 46,
+        "of": 74,
+        "claims": [
+          "BALANCE",
+          "RELIEF",
+          "EUPHORIC"
+        ]
+      }
+    ],
+    "selina-4-7-11-diene-selina-3-7-11-diene": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.78,
+        "mg": 0.156,
+        "rank": 12,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "spirovetiva-1-10-7-11-diene-eremophila-1-10-7-11-diene": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 28,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "trans-pinocarveol": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.09,
+        "mg": 0.018,
+        "rank": 33,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      },
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 56,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "pseudolimonene": [
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.06,
+        "mg": 0.012,
+        "rank": 43,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "alpha-phellandrene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.11,
+        "mg": 0.022,
+        "rank": 30,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 49,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "meta-camphorene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.17,
+        "mg": 0.034,
+        "rank": 23,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      },
+      {
+        "handle": "raspberry-relief",
+        "product": "Raspberry Relief",
+        "strain": "LA Confidential × Red Raspberry",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 52,
+        "of": 52,
+        "claims": [
+          "RELAX",
+          "CALM",
+          "BODY"
+        ]
+      }
+    ],
+    "allyl-hexanoate": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.15,
+        "mg": 0.03,
+        "rank": 25,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "para-camphorene": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.07,
+        "mg": 0.014,
+        "rank": 48,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ],
+    "hexyl-acetate": [
+      {
+        "handle": "the-daily-commute",
+        "product": "The Daily Commute",
+        "strain": "Pineapple Express × Kona Pineapple",
+        "type": "Hemp",
+        "percent": 0.05,
+        "mg": 0.01,
+        "rank": 53,
+        "of": 57,
+        "claims": [
+          "FOCUS",
+          "UPLIFT",
+          "SOCIAL"
+        ]
+      }
+    ]
+  }
+}

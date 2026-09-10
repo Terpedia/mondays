@@ -1,6 +1,6 @@
 {
   "source": "https://www.chewmondays.com/",
-  "snapshot_date": "2026-09-09",
+  "snapshot_date": "2026-09-10",
   "note": "Hemp SKUs carry the measured terpene profile MONDAYS publishes on each product page (percent of total volatiles from an ISO 17025-accredited lab, milligrams per 20mg-terpene chew); data/terpene-profiles/ holds every listed compound. Botanical SKUs and bundles publish no measured profile, so their molecule arrays remain profile candidates. The linked batch CoAs are cannabinoid/safety panels and do not carry a terpene panel.",
   "products": [
     {
@@ -84,7 +84,12 @@
             "mg": 0.75
           }
         ]
-      }
+      },
+      "claims": [
+        "BALANCE",
+        "RELIEF",
+        "EUPHORIC"
+      ]
     },
     {
       "name": "Wild Things",
@@ -167,7 +172,12 @@
             "mg": 0.55
           }
         ]
-      }
+      },
+      "claims": [
+        "FOCUS",
+        "UPLIFT",
+        "SOCIAL"
+      ]
     },
     {
       "name": "Go-Go Bananas",
@@ -250,7 +260,12 @@
             "mg": 0.46
           }
         ]
-      }
+      },
+      "claims": [
+        "FOCUS",
+        "UPLIFT",
+        "SOCIAL"
+      ]
     },
     {
       "name": "Main Squeeze",
@@ -333,7 +348,12 @@
             "mg": 0.75
           }
         ]
-      }
+      },
+      "claims": [
+        "BALANCE",
+        "RELIEF",
+        "EUPHORIC"
+      ]
     },
     {
       "name": "Raspberry Relief",
@@ -416,7 +436,12 @@
             "mg": 0.26
           }
         ]
-      }
+      },
+      "claims": [
+        "RELAX",
+        "CALM",
+        "BODY"
+      ]
     },
     {
       "name": "The Daily Commute",
@@ -499,7 +524,12 @@
             "mg": 0.128
           }
         ]
-      }
+      },
+      "claims": [
+        "FOCUS",
+        "UPLIFT",
+        "SOCIAL"
+      ]
     },
     {
       "name": "Hemp Variety Box",
@@ -519,7 +549,8 @@
         "α-pinene"
       ],
       "handle": "hemp-variety-box-6-pack",
-      "molecules_basis": "candidate"
+      "molecules_basis": "candidate",
+      "claims": []
     },
     {
       "name": "Kosher Kush × Red Raspberry",
@@ -540,7 +571,12 @@
         "limonene"
       ],
       "handle": "kosher-kush-red-raspberry-botanical",
-      "molecules_basis": "candidate"
+      "molecules_basis": "candidate",
+      "claims": [
+        "LUSCIOUS",
+        "BOLD",
+        "SATISFY"
+      ]
     },
     {
       "name": "Gelato #33 × Concord Grape",
@@ -561,7 +597,12 @@
         "β-myrcene"
       ],
       "handle": "gelato-33-concord-grape-botanical",
-      "molecules_basis": "candidate"
+      "molecules_basis": "candidate",
+      "claims": [
+        "SWEET",
+        "NOSTALGIC",
+        "INDULGE"
+      ]
     },
     {
       "name": "Jack Herer × Kona Pineapple",
@@ -582,7 +623,12 @@
         "β-caryophyllene"
       ],
       "handle": "jack-herer-kona-pineapple-botanical",
-      "molecules_basis": "candidate"
+      "molecules_basis": "candidate",
+      "claims": [
+        "VIBRANT",
+        "TROPICAL",
+        "REFRESH"
+      ]
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "name": "Spirovetiva-1(10),7(11)-diene",
+  "id": "spirovetiva-1-10-7-11-diene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 91750199,
+    "title": "Spirovetiva-1(10),7(11)-diene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1CCC=C(C12CCC(=C(C)C)C2)C",
+    "inchikey": "MZOQYAAQXRLWQC-UHFFFAOYSA-N",
+    "iupac_name": "6,10-dimethyl-3-propan-2-ylidenespiro[4.5]dec-9-ene",
+    "image": "data/molecules/images/spirovetiva-1-10-7-11-diene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/91750199",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/91750199/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–0.6% of total volatiles (0.012–0.12mg per chew)."
+}

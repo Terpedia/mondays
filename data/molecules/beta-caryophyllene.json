@@ -1,1 +1,101 @@
-{"name":"β-Caryophyllene","formula":"C15H24","summary":"A peppery sesquiterpene profile linked from MONDAYS product language.","evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 2.78–17.29% of total volatiles (0.56–3.46mg per chew)."}
+{
+  "name": "β-Caryophyllene",
+  "formula": "C15H24",
+  "summary": "A peppery sesquiterpene profile linked from MONDAYS product language.",
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 2.78–17.29% of total volatiles (0.56–3.46mg per chew).",
+  "id": "beta-caryophyllene",
+  "pubchem": {
+    "cid": 5281515,
+    "title": "(-)-Caryophyllene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCCC(=C)C2CC(C2CC1)(C)C",
+    "inchikey": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
+    "iupac_name": "(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",
+    "image": "data/molecules/images/beta-caryophyllene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515",
+    "description": "(-)-beta-caryophyllene is a beta-caryophyllene in which the stereocentre adjacent to the exocyclic double bond has S configuration while the remaining stereocentre has R configuration. It is the most commonly occurring form of beta-caryophyllene, occurring in many essential oils, particularly oil of cloves. It has a role as an insect attractant, a metabolite, a non-steroidal anti-inflammatory drug and a fragrance. It is an enantiomer of a (+)-beta-caryophyllene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:10357"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5281515/PNG"
+  },
+  "targets": [
+    {
+      "accession": "P34972",
+      "activity": "Ki",
+      "value_um": 0.15,
+      "assay": "Displacement of [3H]CP55940 from human CB2 expressed in CHOK1 cell membranes after 2 hrs by liquid scintillation counting method",
+      "aid": "1612079",
+      "pmid": "30096653",
+      "protein": "Cannabinoid receptor 2",
+      "gene": "CNR2",
+      "organism": "Homo sapiens",
+      "url": "https://www.uniprot.org/uniprotkb/P34972",
+      "source": "UniProt"
+    },
+    {
+      "accession": "Q07869",
+      "activity": "EC50",
+      "value_um": 9.58,
+      "assay": "Agonist activity at PPARalpha (unknown origin)",
+      "aid": "1938300",
+      "pmid": "33992930",
+      "protein": "Peroxisome proliferator-activated receptor alpha",
+      "gene": "PPARA",
+      "organism": "Homo sapiens",
+      "url": "https://www.uniprot.org/uniprotkb/Q07869",
+      "source": "UniProt"
+    }
+  ],
+  "literature": {
+    "total": 4256,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=beta-Caryophyllene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "41120021",
+        "title": "Cannabidiol and Beta-Caryophyllene: Chronic inflammatory pain",
+        "journal": "Pharmacol Res",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41120021/"
+      },
+      {
+        "pmid": "39029971",
+        "title": "Beta-caryophyllene in psychiatric and neurological diseases: Role of blood-brain barrier",
+        "journal": "Vitam Horm",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39029971/"
+      },
+      {
+        "pmid": "37224386",
+        "title": "Enhancement of β-Caryophyllene Biosynthesis in Saccharomyces cerevisiae via Synergistic Evolution of β-Caryophyllene Synthase and Engineering the Chassis",
+        "journal": "ACS Synth Biol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37224386/"
+      },
+      {
+        "pmid": "39088660",
+        "title": "β-Caryophyllene Confers Cardioprotection by Scavenging Radicals and Blocking Ferroptosis",
+        "journal": "J Agric Food Chem",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39088660/"
+      },
+      {
+        "pmid": "39405422",
+        "title": "Effect of β-caryophyllene on Sperm Cryopreservation",
+        "journal": "JBRA Assist Reprod",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39405422/"
+      },
+      {
+        "pmid": "39648338",
+        "title": "Photoproduction of Aviation Fuel β-Caryophyllene From the Eukaryotic Green Microalga Chlamydomonas reinhardtii",
+        "journal": "Biotechnol Bioeng",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39648338/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10"
+}

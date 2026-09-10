@@ -10,9 +10,12 @@ const file = path.join(root, "data/products.json");
 const data = JSON.parse(await fs.readFile(file, "utf8"));
 const TOP = 8;
 
+const claimFile = JSON.parse(await fs.readFile(path.join(root, "data/product-claims.json"), "utf8"));
+
 for (const product of data.products) {
   const handle = new URL(product.source).pathname.split("/").filter(Boolean).pop();
   product.handle = handle;
+  product.claims = claimFile.claims[handle]?.tiles || [];
   let profile = null;
   try { profile = JSON.parse(await fs.readFile(path.join(root, `data/terpene-profiles/${handle}.json`), "utf8")); } catch { /* no measured profile */ }
   if (!profile) {
@@ -34,6 +37,30 @@ for (const product of data.products) {
   };
 }
 
+// Reverse index so a molecule page can list the products it was measured in without
+// fetching every profile in the browser.
+const byMolecule = {};
+for (const product of data.products) {
+  if (!product.terpene_profile) continue;
+  const profile = JSON.parse(await fs.readFile(path.join(root, product.terpene_profile.path), "utf8"));
+  const listed = profile.compounds.filter((c) => !c.aggregate);
+  listed.forEach((compound, rank) => {
+    (byMolecule[compound.id] ||= []).push({
+      handle: product.handle,
+      product: product.name,
+      strain: product.strain,
+      type: product.type,
+      percent: compound.percent_of_profile,
+      mg: compound.mg_per_chew,
+      rank: rank + 1,
+      of: listed.length,
+      claims: product.claims,
+    });
+  });
+}
+for (const list of Object.values(byMolecule)) list.sort((a, b) => b.percent - a.percent);
+await fs.writeFile(path.join(root, "data/molecule-products.json"), `${JSON.stringify({ generated: new Date().toISOString().slice(0, 10), molecules: byMolecule }, null, 2)}\n`);
+
 // Molecule pages that a measured profile actually quantifies should say so, instead of
 // still promising the number is pending a CoA.
 const aliases = { "beta-myrcene": "myrcene", humulene: "alpha-humulene" };
@@ -49,6 +76,7 @@ for (const file of await fs.readdir(path.join(root, "data/terpene-profiles"))) {
 }
 const skus = (await fs.readdir(path.join(root, "data/terpene-profiles"))).length - 1;
 for (const file of await fs.readdir(path.join(root, "data/molecules"))) {
+  if (!file.endsWith(".json")) continue; // skip the images/ directory
   const id = file.replace(/\.json$/, "");
   const hits = measured.get(aliases[id] || id);
   const moleculePath = path.join(root, "data/molecules", file);
@@ -59,7 +87,7 @@ for (const file of await fs.readdir(path.join(root, "data/molecules"))) {
     const pct = hits.map((h) => h.percent_of_profile);
     const mg = hits.map((h) => h.mg_per_chew);
     const range = (values) => (Math.min(...values) === Math.max(...values) ? `${Math.min(...values)}` : `${Math.min(...values)}–${Math.max(...values)}`);
-    molecule.summary = molecule.summary.replace(" Confirm presence and amount in the product-specific CoA.", "");
+    molecule.summary = (molecule.summary || "").replace(" Confirm presence and amount in the product-specific CoA.", "") || null;
     molecule.evidence = `Measured in ${hits.length} of ${skus} MONDAYS hemp SKUs at ${range(pct)}% of total volatiles (${range(mg)}mg per chew).`;
   }
   await fs.writeFile(moleculePath, `${JSON.stringify(molecule)}\n`);

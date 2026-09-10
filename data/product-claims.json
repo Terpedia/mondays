@@ -1,0 +1,79 @@
+{
+  "source": "https://www.chewmondays.com",
+  "retrieved": "2026-09-10",
+  "note": "MONDAYS marketing language, verbatim. Not a health claim and not evidence.",
+  "claims": {
+    "raspberry-relief": {
+      "tiles": [
+        "RELAX",
+        "CALM",
+        "BODY"
+      ],
+      "source": "https://www.chewmondays.com/products/raspberry-relief"
+    },
+    "kosher-kush-red-raspberry-botanical": {
+      "tiles": [
+        "LUSCIOUS",
+        "BOLD",
+        "SATISFY"
+      ],
+      "source": "https://www.chewmondays.com/products/kosher-kush-red-raspberry-botanical"
+    },
+    "gelato-33-concord-grape-botanical": {
+      "tiles": [
+        "SWEET",
+        "NOSTALGIC",
+        "INDULGE"
+      ],
+      "source": "https://www.chewmondays.com/products/gelato-33-concord-grape-botanical"
+    },
+    "jack-herer-kona-pineapple-botanical": {
+      "tiles": [
+        "VIBRANT",
+        "TROPICAL",
+        "REFRESH"
+      ],
+      "source": "https://www.chewmondays.com/products/jack-herer-kona-pineapple-botanical"
+    },
+    "wild-things": {
+      "tiles": [
+        "FOCUS",
+        "UPLIFT",
+        "SOCIAL"
+      ],
+      "source": "https://www.chewmondays.com/products/wild-things"
+    },
+    "the-daily-commute": {
+      "tiles": [
+        "FOCUS",
+        "UPLIFT",
+        "SOCIAL"
+      ],
+      "source": "https://www.chewmondays.com/products/the-daily-commute"
+    },
+    "main-squeeze": {
+      "tiles": [
+        "BALANCE",
+        "RELIEF",
+        "EUPHORIC"
+      ],
+      "source": "https://www.chewmondays.com/products/main-squeeze"
+    },
+    "grapes-unleaded": {
+      "tiles": [
+        "BALANCE",
+        "RELIEF",
+        "EUPHORIC"
+      ],
+      "source": "https://www.chewmondays.com/products/grapes-unleaded"
+    },
+    "go-go-bananas": {
+      "tiles": [
+        "FOCUS",
+        "UPLIFT",
+        "SOCIAL"
+      ],
+      "source": "https://www.chewmondays.com/products/go-go-bananas"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # MONDAYS × Terpedia
 
-Static product catalog for the MONDAYS partnership. It can be hosted directly on GitHub Pages or Cloudflare Pages; there is no server, database, or build step. Query routes render shared templates: `/?c=limonene`, `/?p=cb2`, `/?d=anxiety`, `/?claim=relaxation`, and `/?pmid=31446830`.
+Static product catalog for the MONDAYS partnership. It can be hosted directly on GitHub Pages or Cloudflare Pages; there is no server, database, or build step. Query routes render shared templates: `/?product=grapes-unleaded`, `/?c=limonene`, `/?p=cb2`, `/?d=anxiety`, `/?claim=relaxation`, and `/?pmid=31446830`.
 
 ## Local preview
 
@@ -21,7 +21,18 @@ node scripts/fetch-terpene-profiles.mjs
 node scripts/apply-terpene-profiles.mjs
 ```
 
-The first writes the profile files, the second folds the top compounds and a pointer into `data/products.json`.
+The first writes the profile files and `data/product-claims.json`; the second folds the top compounds, the claim tiles and a pointer into `data/products.json`, and builds `data/molecule-products.json` (the molecule → products reverse index).
+
+## Molecule records
+
+`data/molecules/<id>.json` carries identity, a sourced summary, protein assay results and literature for compounds that matter in a profile — anything in a product's headline eight or at 0.5% or more anywhere:
+
+```bash
+node scripts/fetch-molecule-data.mjs            # all of them
+node scripts/fetch-molecule-data.mjs limonene   # or named ids
+```
+
+Sources are PubChem (identity, description, structure image, assay summary), UniProt and NCBI Protein (target names), and PubMed (literature). Only assays PubChem marks **Active** against a *named* protein are kept, most potent measurement per target. These describe the compound at its own doses in laboratory systems and say nothing about the product.
 
 ## Data policy
 

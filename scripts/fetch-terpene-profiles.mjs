@@ -59,11 +59,26 @@ async function profile(handle) {
   };
 }
 
-const handles = process.argv.slice(2);
-if (!handles.length) {
-  const catalog = await fetch(`${STORE}/products.json?limit=250`).then((r) => r.json());
-  handles.push(...catalog.products.filter((p) => p.tags.includes("retail")).map((p) => p.handle));
+// The all-caps banner above "The Vibe" on each product page is MONDAYS' own claim
+// language. Captured verbatim so the catalog can show it as marketing, clearly
+// separated from anything measured.
+function claimTiles(product) {
+  const copy = text(product.body_html || "");
+  const banner = copy.match(/^([A-Z][A-Z \-]{5,40}?)\s+The Vibe/);
+  return banner ? banner[1].trim().split(/\s+/) : [];
 }
+
+const handles = process.argv.slice(2);
+const catalog = await fetch(`${STORE}/products.json?limit=250`).then((r) => r.json());
+const retail = catalog.products.filter((p) => p.tags.includes("retail"));
+if (!handles.length) handles.push(...retail.map((p) => p.handle));
+
+const claims = {};
+for (const product of retail) {
+  const tiles = claimTiles(product);
+  if (tiles.length) claims[product.handle] = { tiles, source: `${STORE}/products/${product.handle}` };
+}
+await fs.writeFile(path.join(root, "data/product-claims.json"), `${JSON.stringify({ source: STORE, retrieved: new Date().toISOString().slice(0, 10), note: "MONDAYS marketing language, verbatim. Not a health claim and not evidence.", claims }, null, 2)}\n`);
 
 await fs.mkdir(outDir, { recursive: true });
 const index = [];
