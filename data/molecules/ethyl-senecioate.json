@@ -1,0 +1,56 @@
+{
+  "name": "Ethyl senecioate",
+  "id": "ethyl-senecioate",
+  "formula": "C7H12O2",
+  "pubchem": {
+    "cid": 12516,
+    "title": "Ethyl 3,3-dimethylacrylate",
+    "formula": "C7H12O2",
+    "molecular_weight": 128.17,
+    "smiles": "CCOC(=O)C=C(C)C",
+    "inchikey": "UTXVCHVLDOLVPC-UHFFFAOYSA-N",
+    "iupac_name": "ethyl 3-methylbut-2-enoate",
+    "image": "data/molecules/images/ethyl-senecioate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/12516",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12516/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 1,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Ethyl%20senecioate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "14984083",
+        "title": "A new insecticidal protolimonoid from Aegle marmelos",
+        "journal": "Nat Prod Res",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14984083/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Vaccinium angustifolium",
+        "id": "vaccinium-angustifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Vaccinium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00085A053"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0017512"
+  }
+}

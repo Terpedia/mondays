@@ -1,0 +1,574 @@
+{
+  "name": "α-Bisabolol",
+  "id": "alpha-bisabolol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 1549992,
+    "title": "Bisabolol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1=CCC(CC1)C(C)(CCC=C(C)C)O",
+    "inchikey": "RGZSQWQPBWRIAQ-LSDHHAIUSA-N",
+    "iupac_name": "(2R)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol",
+    "image": "data/molecules/images/alpha-bisabolol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/1549992",
+    "description": "(+)-alpha-Bisabolol is a sesquiterpenoid.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:192031"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1549992/PNG"
+  },
+  "targets": [
+    {
+      "accession": "AAH96839",
+      "activity": null,
+      "value_um": 0,
+      "assay": "5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay: Summary",
+      "aid": "2061100",
+      "pmid": null,
+      "protein": "5-hydroxytryptamine (serotonin) receptor 2A",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAH96839",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "P33261",
+      "activity": "Potency",
+      "value_um": 5.0119,
+      "assay": "qHTS for inhibitors of CYP2C19 against the NCATS DSHEA and TCM libraries",
+      "aid": "1919974",
+      "pmid": "37200814",
+      "protein": "Cytochrome P450 2C19",
+      "gene": "CYP2C19",
+      "organism": "Homo sapiens",
+      "url": "https://www.uniprot.org/uniprotkb/P33261",
+      "source": "UniProt"
+    },
+    {
+      "accession": "AAV41877",
+      "activity": "Potency",
+      "value_um": 8.709,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671197",
+      "pmid": null,
+      "protein": "cytochrome P450, family 2, subfamily C, polypeptide 19",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAV41877",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "NP_000756",
+      "activity": "Potency",
+      "value_um": 13.8029,
+      "assay": "Cytochrome P450 family 3 subfamily A member 7 (CYP3A7) small molecule antagonists: luciferase cell-based qHTS assay",
+      "aid": "1963596",
+      "pmid": null,
+      "protein": "cytochrome P450 3A7",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/NP_000756",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "AGS09764",
+      "activity": "Potency",
+      "value_um": 17.3768,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671198",
+      "pmid": null,
+      "protein": "cytochrome P450 family 2 subfamily C polypeptide 9",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AGS09764",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ABI96208",
+      "activity": "Potency",
+      "value_um": 27.5404,
+      "assay": "Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671201",
+      "pmid": null,
+      "protein": "cytochrome P450 family 3 subfamily A polypeptide 4",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ABI96208",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ADZ17384",
+      "activity": "Potency",
+      "value_um": 29.8493,
+      "assay": "Human pregnane X receptor (PXR) small molecule agonists, qHTS assay",
+      "aid": "1346982",
+      "pmid": null,
+      "protein": "pregnane X nuclear receptor",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ADZ17384",
+      "source": "NCBI Protein"
+    }
+  ],
+  "diseases": [],
+  "literature": {
+    "total": 621,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Bisabolol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35454969",
+        "title": "Chamomile (Matricaria chamomilla L.): A Review of Ethnomedicinal Use, Phytochemistry and Pharmacological Uses",
+        "journal": "Life (Basel)",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35454969/"
+      },
+      {
+        "pmid": "29025339",
+        "title": "Bisabolol",
+        "journal": "Int J Toxicol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29025339/"
+      },
+      {
+        "pmid": "16628544",
+        "title": "A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.)",
+        "journal": "Phytother Res",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16628544/"
+      },
+      {
+        "pmid": "20137740",
+        "title": "Bisabolol",
+        "journal": "Dermatitis",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20137740/"
+      },
+      {
+        "pmid": "35164145",
+        "title": "Biotransformation of (-)-α-Bisabolol by Absidia coerulea",
+        "journal": "Molecules",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35164145/"
+      },
+      {
+        "pmid": "36824492",
+        "title": "Engineering Saccharomyces cerevisiae for enhanced (-)-α-bisabolol production",
+        "journal": "Synth Syst Biotechnol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36824492/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Abies nephrolepis",
+        "id": "abies-nephrolepis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00574245",
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Abies sibirica subsp. semenovii",
+        "id": "abies-sibirica-subsp-semenovii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00574818",
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Microbiota decussata",
+        "id": "microbiota-decussata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Microbiota",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/NP50075A015",
+          "10.1007/BF00634727"
+        ]
+      },
+      {
+        "name": "Pinus koraiensis",
+        "id": "pinus-koraiensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00568368",
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Abies sachalinensis var. mayriana",
+        "id": "abies-sachalinensis-var-mayriana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00638774"
+        ]
+      },
+      {
+        "name": "Abies sibirica",
+        "id": "abies-sibirica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Artemisia xanthochroa",
+        "id": "artemisia-xanthochroa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(90)85307-2"
+        ]
+      },
+      {
+        "name": "Endopappus macrocarpus subsp. macrocarpus",
+        "id": "endopappus-macrocarpus-subsp-macrocarpus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Endopappus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S10600-009-9209-1"
+        ]
+      },
+      {
+        "name": "Eremanthus incanus",
+        "id": "eremanthus-incanus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Eremanthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83940-0"
+        ]
+      },
+      {
+        "name": "Ferula hermonis",
+        "id": "ferula-hermonis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Ferula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50068A033"
+        ]
+      },
+      {
+        "name": "Fokienia hodginsii",
+        "id": "fokienia-hodginsii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Fokienia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/JLAC.19717450107"
+        ]
+      },
+      {
+        "name": "Helichrysum mimetes",
+        "id": "helichrysum-mimetes",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81569-1"
+        ]
+      },
+      {
+        "name": "Juniperus barbadensis var. lucayana",
+        "id": "juniperus-barbadensis-var-lucayana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2007.05.030"
+        ]
+      },
+      {
+        "name": "Juniperus virginiana silicicola",
+        "id": "juniperus-virginiana-silicicola",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2007.05.030"
+        ]
+      },
+      {
+        "name": "Juniperus virginiana var. silicicola",
+        "id": "juniperus-virginiana-var-silicicola",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2007.05.030"
+        ]
+      },
+      {
+        "name": "Lasiolaena morii",
+        "id": "lasiolaena-morii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Lasiolaena",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80035-6"
+        ]
+      },
+      {
+        "name": "Libanotis buchtormensis",
+        "id": "libanotis-buchtormensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Libanotis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1135/CCCC19861509"
+        ]
+      },
+      {
+        "name": "Lychnophora ericoides",
+        "id": "lychnophora-ericoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Lychnophora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2006.08.002"
+        ]
+      },
+      {
+        "name": "Merulius tremellosus",
+        "id": "merulius-tremellosus",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Meruliaceae",
+        "genus": "Phlebia",
+        "taxonomy_source": "Open Tree of Life",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP050520D"
+        ]
+      },
+      {
+        "name": "Osyris quadripartita",
+        "id": "osyris-quadripartita",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Santalaceae",
+        "genus": "Osyris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2004.05.007"
+        ]
+      },
+      {
+        "name": "Pellia epiphylla",
+        "id": "pellia-epiphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pelliaceae",
+        "genus": "Pellia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00414-7"
+        ]
+      },
+      {
+        "name": "Phlebia tremellosa",
+        "id": "phlebia-tremellosa",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Meruliaceae",
+        "genus": "Phlebia",
+        "taxonomy_source": "Index Fungorum",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP050520D"
+        ]
+      },
+      {
+        "name": "Picea jezoensis var. jezoensis",
+        "id": "picea-jezoensis-var-jezoensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Picea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Pinus pumila",
+        "id": "pinus-pumila",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568368"
+        ]
+      },
+      {
+        "name": "Pinus sibirica",
+        "id": "pinus-sibirica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Piper fimbriulatum",
+        "id": "piper-fimbriulatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00762-0"
+        ]
+      },
+      {
+        "name": "Seseli buchtormense",
+        "id": "seseli-buchtormense",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Apiaceae",
+        "genus": "Seseli",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1135/CCCC19861509"
+        ]
+      },
+      {
+        "name": "Seseli transcaucasicum",
+        "id": "seseli-transcaucasicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Seseli",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568028"
+        ]
+      },
+      {
+        "name": "Thymus camphoratus",
+        "id": "thymus-camphoratus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00117-9"
+        ]
+      },
+      {
+        "name": "Valeriana officinalis",
+        "id": "valeriana-officinalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Valeriana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(95)00492-P"
+        ]
+      }
+    ],
+    "organism_count": 31,
+    "reference_count": 25,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0087338"
+  }
+}

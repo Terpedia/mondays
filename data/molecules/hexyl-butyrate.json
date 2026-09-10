@@ -1,1 +1,389 @@
-{"name":"Hexyl butyrate","id":"hexyl-butyrate","formula":"C10H20O2","pubchem":{"cid":17525,"title":"Hexyl butyrate","formula":"C10H20O2","molecular_weight":172.26,"smiles":"CCCCCCOC(=O)CCC","inchikey":"XAPCMTMQBXLDBB-UHFFFAOYSA-N","iupac_name":"hexyl butanoate","image":"data/molecules/images/hexyl-butyrate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/17525","description":"Hexyl butyrate is a fatty acid ester obtained by the formal condensation of hexanol with butyric acid. It has a role as an animal metabolite. It is functionally related to a butyric acid and a hexan-1-ol.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87559"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/17525/PNG"},"targets":[],"literature":{"total":68,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20butyrate%5BAll%20Fields%5D","papers":[{"pmid":"39304087","title":"Update to RIFM fragrance ingredient safety assessment, hexyl butyrate, CAS Registry Number 2639-63-6","journal":"Food Chem Toxicol","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39304087/"},{"pmid":"31238134","title":"RIFM fragrance ingredient safety assessment, hexyl butyrate, CAS Registry Number 2639-63-6","journal":"Food Chem Toxicol","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/31238134/"},{"pmid":"37009043","title":"Synthesis of hexyl butyrate (apple and citrus aroma) by Candida rugosa lipase immobilized on Diaion HP-20 using the Box-Behnken design","journal":"Food Sci Biotechnol","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37009043/"},{"pmid":"36234832","title":"Essential Oil Variability in Iranian Populations of Heracleum persicum Desf. ex Fischer: A Rich Source of Hexyl Butyrate and Octyl Acetate","journal":"Molecules","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/36234832/"},{"pmid":"39519893","title":"Unveiling the Larvicidal Potential of Golpar (Heracleum persicum Desf. ex Fisch.) Essential Oil and Its Main Constituents on Aedes and Anopheles Mosquito Vectors","journal":"Plants (Basel)","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39519893/"},{"pmid":"32438471","title":"Application of lipase immobilized on a hydrophobic support for the synthesis of aromatic esters","journal":"Biotechnol Appl Biochem","year":"2021","url":"https://pubmed.ncbi.nlm.nih.gov/32438471/"}]},"retrieved":"2026-09-10","summary":null,"evidence":"Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–0.55% of total volatiles (0.012–0.11mg per chew).","diseases":[{"disease":"Ulcerative colitis","kind":"reported_association","pmids":["21059682","1740537","17314143","17269711","21761941","23516449","23867873","24811995","25598765","26806034","26848182","27609529","28842642"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0033620","id":"ulcerative-colitis"},{"disease":"Autism","kind":"reported_association","pmids":["15585776","7687150","20423563","6150139","3410814","12205654","24130822"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0033620","id":"autism"},{"disease":"Pervasive developmental disorder not otherwise specified","kind":"reported_association","pmids":["24130822"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0033620","id":"pervasive-developmental-disorder-not-otherwise-specified"},{"disease":"Solvents, acute toxic effect","category":"Acute Poisoning","kind":"occupational_exposure","pmids":[],"source":"Haz-Map, Information on Hazardous Chemicals and Occupational Diseases","source_url":"https://haz-map.com/Agents/12526","id":"solvents-acute-toxic-effect"}]}
+{
+  "name": "Hexyl butyrate",
+  "id": "hexyl-butyrate",
+  "formula": "C10H20O2",
+  "pubchem": {
+    "cid": 17525,
+    "title": "Hexyl butyrate",
+    "formula": "C10H20O2",
+    "molecular_weight": 172.26,
+    "smiles": "CCCCCCOC(=O)CCC",
+    "inchikey": "XAPCMTMQBXLDBB-UHFFFAOYSA-N",
+    "iupac_name": "hexyl butanoate",
+    "image": "data/molecules/images/hexyl-butyrate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/17525",
+    "description": "Hexyl butyrate is a fatty acid ester obtained by the formal condensation of hexanol with butyric acid. It has a role as an animal metabolite. It is functionally related to a butyric acid and a hexan-1-ol.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87559"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/17525/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 68,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20butyrate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "39304087",
+        "title": "Update to RIFM fragrance ingredient safety assessment, hexyl butyrate, CAS Registry Number 2639-63-6",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39304087/"
+      },
+      {
+        "pmid": "31238134",
+        "title": "RIFM fragrance ingredient safety assessment, hexyl butyrate, CAS Registry Number 2639-63-6",
+        "journal": "Food Chem Toxicol",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31238134/"
+      },
+      {
+        "pmid": "37009043",
+        "title": "Synthesis of hexyl butyrate (apple and citrus aroma) by Candida rugosa lipase immobilized on Diaion HP-20 using the Box-Behnken design",
+        "journal": "Food Sci Biotechnol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37009043/"
+      },
+      {
+        "pmid": "36234832",
+        "title": "Essential Oil Variability in Iranian Populations of Heracleum persicum Desf. ex Fischer: A Rich Source of Hexyl Butyrate and Octyl Acetate",
+        "journal": "Molecules",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36234832/"
+      },
+      {
+        "pmid": "39519893",
+        "title": "Unveiling the Larvicidal Potential of Golpar (Heracleum persicum Desf. ex Fisch.) Essential Oil and Its Main Constituents on Aedes and Anopheles Mosquito Vectors",
+        "journal": "Plants (Basel)",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39519893/"
+      },
+      {
+        "pmid": "32438471",
+        "title": "Application of lipase immobilized on a hydrophobic support for the synthesis of aromatic esters",
+        "journal": "Biotechnol Appl Biochem",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32438471/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–0.55% of total volatiles (0.012–0.11mg per chew).",
+  "diseases": [
+    {
+      "disease": "Ulcerative colitis",
+      "kind": "reported_association",
+      "pmids": [
+        "21059682",
+        "1740537",
+        "17314143",
+        "17269711",
+        "21761941",
+        "23516449",
+        "23867873",
+        "24811995",
+        "25598765",
+        "26806034",
+        "26848182",
+        "27609529",
+        "28842642"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0033620",
+      "id": "ulcerative-colitis"
+    },
+    {
+      "disease": "Autism",
+      "kind": "reported_association",
+      "pmids": [
+        "15585776",
+        "7687150",
+        "20423563",
+        "6150139",
+        "3410814",
+        "12205654",
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0033620",
+      "id": "autism"
+    },
+    {
+      "disease": "Pervasive developmental disorder not otherwise specified",
+      "kind": "reported_association",
+      "pmids": [
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0033620",
+      "id": "pervasive-developmental-disorder-not-otherwise-specified"
+    },
+    {
+      "disease": "Solvents, acute toxic effect",
+      "category": "Acute Poisoning",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/12526",
+      "id": "solvents-acute-toxic-effect"
+    }
+  ],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Spondias mombin",
+        "id": "spondias-mombin",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Spondias",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JF00008A025",
+          "10.1080/10412905.1992.9698127"
+        ]
+      },
+      {
+        "name": "Cannabis sativa",
+        "id": "cannabis-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Cannabis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50008A001"
+        ]
+      },
+      {
+        "name": "Citrus iyo",
+        "id": "citrus-iyo",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.47.1841"
+        ]
+      },
+      {
+        "name": "Cleistopholis patens",
+        "id": "cleistopholis-patens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Annonaceae",
+        "genus": "Cleistopholis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-962450"
+        ]
+      },
+      {
+        "name": "Heracleum antasiaticum",
+        "id": "heracleum-antasiaticum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF02236436"
+        ]
+      },
+      {
+        "name": "Heracleum persicum",
+        "id": "heracleum-persicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969621"
+        ]
+      },
+      {
+        "name": "Lavandula angustifolia",
+        "id": "lavandula-angustifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Lavandula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1997.9700727"
+        ]
+      },
+      {
+        "name": "Lavandula latifolia",
+        "id": "lavandula-latifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Lavandula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698256"
+        ]
+      },
+      {
+        "name": "Malpighia emarginata",
+        "id": "malpighia-emarginata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Malpighiaceae",
+        "genus": "Malpighia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0308-8146(00)00152-7"
+        ]
+      },
+      {
+        "name": "Malpighia punicifolia",
+        "id": "malpighia-punicifolia",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Malpighiaceae",
+        "genus": "Malpighia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0308-8146(00)00152-7"
+        ]
+      },
+      {
+        "name": "Mandragora autumnalis",
+        "id": "mandragora-autumnalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Mandragora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.07.016"
+        ]
+      },
+      {
+        "name": "Mandragora officinarum",
+        "id": "mandragora-officinarum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Mandragora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.07.016"
+        ]
+      },
+      {
+        "name": "Musa paradisiaca",
+        "id": "musa-paradisiaca",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Musaceae",
+        "genus": "Musa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00035A046"
+        ]
+      },
+      {
+        "name": "Pelargonium quercifolium",
+        "id": "pelargonium-quercifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697953"
+        ]
+      },
+      {
+        "name": "Prunus armeniaca",
+        "id": "prunus-armeniaca",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Prunus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00092A031"
+        ]
+      },
+      {
+        "name": "Pternistria bispina",
+        "id": "pternistria-bispina",
+        "kingdom": "Metazoa",
+        "phylum": "Arthropoda",
+        "family": "Coreidae",
+        "genus": "Pternistria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1071/CH9670395"
+        ]
+      },
+      {
+        "name": "Thymus camphoratus",
+        "id": "thymus-camphoratus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00117-9"
+        ]
+      },
+      {
+        "name": "Thymus willkommii",
+        "id": "thymus-willkommii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)83632-U"
+        ]
+      },
+      {
+        "name": "Vanilla planifolia",
+        "id": "vanilla-planifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Orchidaceae",
+        "genus": "Vanilla",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1006/FSTL.1996.0194"
+        ]
+      }
+    ],
+    "organism_count": 19,
+    "reference_count": 18,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0143525"
+  }
+}

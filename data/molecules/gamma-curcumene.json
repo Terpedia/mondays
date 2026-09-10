@@ -1,0 +1,510 @@
+{
+  "name": "γ-Curcumene",
+  "id": "gamma-curcumene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 12304273,
+    "title": "gamma-Curcumene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CC=C(CC1)C(C)CCC=C(C)C",
+    "inchikey": "NGIVKZGKEPRIGG-CQSZACIVSA-N",
+    "iupac_name": "1-methyl-4-[(2R)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene",
+    "image": "data/molecules/images/gamma-curcumene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/12304273",
+    "description": "Gamma-curcumene is a sesquiterpene that is cyclohexa-1,3-diene which is substituted by a methyl group at position 1 and a 6-methylhept-5-en-2-yl group at position 4 (the R enantiomer). It has a role as a plant metabolite. It is an alicyclic compound and a sesquiterpene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63696"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12304273/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 45,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=gamma-Curcumene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "31152775",
+        "title": "Crystal structure of F95Q epi-isozizaene synthase, an engineered sesquiterpene cyclase that generates biofuel precursors β- and γ-curcumene",
+        "journal": "J Struct Biol",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31152775/"
+      },
+      {
+        "pmid": "39200022",
+        "title": "Antibacterial and Antifungal Potential of Helichrysum italicum (Roth) G. Don Essential Oil",
+        "journal": "Antibiotics (Basel)",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39200022/"
+      },
+      {
+        "pmid": "40361539",
+        "title": "Multifaceted Biological Activities of Culinary Herb and Spice Extracts: In Vitro and In Silico Simulation Insights into Inflammation-Related Targets",
+        "journal": "Foods",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40361539/"
+      },
+      {
+        "pmid": "29331315",
+        "title": "Ethnobotany, phytochemistry and pharmacology of Arctotis arctotoides (L.f.) O. Hoffm.: A review",
+        "journal": "J Ethnopharmacol",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29331315/"
+      },
+      {
+        "pmid": "37107230",
+        "title": "Hydroxypropyl-β-Cyclodextrin-Based Helichrysum italicum Extracts: Antioxidant and Cosmeceutical Activity and Biocompatibility",
+        "journal": "Antioxidants (Basel)",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37107230/"
+      },
+      {
+        "pmid": "36679072",
+        "title": "Unveiling the Chemical Composition and Biological Properties of Salvia cacaliifolia Benth. Essential Oil",
+        "journal": "Plants (Basel)",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36679072/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Anthemis aciphylla",
+        "id": "anthemis-aciphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Anthemis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.54.222"
+        ]
+      },
+      {
+        "name": "Artemisia frigida",
+        "id": "artemisia-frigida",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83172-6"
+        ]
+      },
+      {
+        "name": "Artemisia schmidtiana",
+        "id": "artemisia-schmidtiana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81231-5"
+        ]
+      },
+      {
+        "name": "Asteriscus sericeus",
+        "id": "asteriscus-sericeus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Asteriscus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83606-7"
+        ]
+      },
+      {
+        "name": "Atalantia buxifolia",
+        "id": "atalantia-buxifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Atalantia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698400"
+        ]
+      },
+      {
+        "name": "Callitropsis nootkatensis",
+        "id": "callitropsis-nootkatensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitropsis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)85326-1"
+        ]
+      },
+      {
+        "name": "Chamaecyparis nootkatensis",
+        "id": "chamaecyparis-nootkatensis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Chamaecyparis",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)85326-1"
+        ]
+      },
+      {
+        "name": "Citrus",
+        "id": "citrus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698179"
+        ]
+      },
+      {
+        "name": "Cotula cinerea",
+        "id": "cotula-cinerea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Cotula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)94543-6"
+        ]
+      },
+      {
+        "name": "Cupressus nootkatensis",
+        "id": "cupressus-nootkatensis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Cupressus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)85326-1"
+        ]
+      },
+      {
+        "name": "Encelia canescens",
+        "id": "encelia-canescens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Encelia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(83)83045-3"
+        ]
+      },
+      {
+        "name": "Flourensia macrophylla",
+        "id": "flourensia-macrophylla",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Flourensia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)80483-5"
+        ]
+      },
+      {
+        "name": "Helichrysum ambiguum",
+        "id": "helichrysum-ambiguum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957552"
+        ]
+      },
+      {
+        "name": "Helichrysum mimetes",
+        "id": "helichrysum-mimetes",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81569-1"
+        ]
+      },
+      {
+        "name": "Helichrysum pendulum subsp. boissieri",
+        "id": "helichrysum-pendulum-subsp-boissieri",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957552"
+        ]
+      },
+      {
+        "name": "Helichrysum stenopterum",
+        "id": "helichrysum-stenopterum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81569-1"
+        ]
+      },
+      {
+        "name": "Helipterum venustum",
+        "id": "helipterum-venustum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Syncarpha",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(89)80045-7"
+        ]
+      },
+      {
+        "name": "Hypericum androsaemum",
+        "id": "hypericum-androsaemum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Hypericaceae",
+        "genus": "Hypericum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF020872F"
+        ]
+      },
+      {
+        "name": "Juglans regia",
+        "id": "juglans-regia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Juglandaceae",
+        "genus": "Juglans",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/HLCA.201200359"
+        ]
+      },
+      {
+        "name": "Microcitrus",
+        "id": "microcitrus",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Rutaceae",
+        "genus": "Microcitrus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698179"
+        ]
+      },
+      {
+        "name": "Olearia teretifolia",
+        "id": "olearia-teretifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Olearia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)83132-I"
+        ]
+      },
+      {
+        "name": "Osteospermum microcarpum",
+        "id": "osteospermum-microcarpum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Osteospermum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(88)80681-2"
+        ]
+      },
+      {
+        "name": "Osyris quadripartita",
+        "id": "osyris-quadripartita",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Santalaceae",
+        "genus": "Osyris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2004.05.007"
+        ]
+      },
+      {
+        "name": "Plazia daphnoides",
+        "id": "plazia-daphnoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Plazia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(88)80695-2"
+        ]
+      },
+      {
+        "name": "Salvia aurea",
+        "id": "salvia-aurea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1573(1998)12:1+<S117::AID-PTR269>3.0.CO;2-2"
+        ]
+      },
+      {
+        "name": "Senecio bergii",
+        "id": "senecio-bergii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Senecio",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/BSCB.19860950903"
+        ]
+      },
+      {
+        "name": "Senecio subulatus",
+        "id": "senecio-subulatus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Senecio",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/BSCB.19860950903"
+        ]
+      },
+      {
+        "name": "Senecio tricephalus",
+        "id": "senecio-tricephalus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Senecio",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/BSCB.19860950903"
+        ]
+      },
+      {
+        "name": "Severinia buxifolia",
+        "id": "severinia-buxifolia",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Rutaceae",
+        "genus": "Severinia",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698400"
+        ]
+      },
+      {
+        "name": "Sideritis montana",
+        "id": "sideritis-montana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Sideritis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1076/1388-0209(200004)3821-1FT106"
+        ]
+      },
+      {
+        "name": "Ursinia nana",
+        "id": "ursinia-nana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ursinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)80176-F"
+        ]
+      },
+      {
+        "name": "Ursinia speciosa",
+        "id": "ursinia-speciosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ursinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)80176-F"
+        ]
+      },
+      {
+        "name": "Xanthocyparis nootkatensis",
+        "id": "xanthocyparis-nootkatensis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Xanthocyparis",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)85326-1"
+        ]
+      }
+    ],
+    "organism_count": 33,
+    "reference_count": 23,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0009599"
+  }
+}

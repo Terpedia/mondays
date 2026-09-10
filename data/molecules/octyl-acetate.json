@@ -1,0 +1,565 @@
+{
+  "name": "Octyl acetate",
+  "id": "octyl-acetate",
+  "formula": "C10H20O2",
+  "pubchem": {
+    "cid": 8164,
+    "title": "Octyl Acetate",
+    "formula": "C10H20O2",
+    "molecular_weight": 172.26,
+    "smiles": "CCCCCCCCOC(=O)C",
+    "inchikey": "YLYBTZIQSIBWLI-UHFFFAOYSA-N",
+    "iupac_name": "octyl acetate",
+    "image": "data/molecules/images/octyl-acetate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8164",
+    "description": "Octyl acetate is the acetate ester of octan-1-ol. It has a role as a plant metabolite. It is functionally related to an octan-1-ol.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87495"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/8164/PNG"
+  },
+  "targets": [],
+  "diseases": [
+    {
+      "disease": "Celiac disease",
+      "kind": "reported_association",
+      "pmids": [
+        "3816078",
+        "16425363",
+        "10063930",
+        "6182605",
+        "6182788",
+        "24657864",
+        "21970810",
+        "27452636"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0038602",
+      "id": "celiac-disease"
+    },
+    {
+      "disease": "Solvents, acute toxic effect",
+      "category": "Acute Poisoning",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/16256",
+      "id": "solvents-acute-toxic-effect"
+    }
+  ],
+  "literature": {
+    "total": 116,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Octyl%20acetate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "33316383",
+        "title": "Natural volatile oils derived from herbal medicines: A promising therapy way for treating depressive disorder",
+        "journal": "Pharmacol Res",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33316383/"
+      },
+      {
+        "pmid": "27117114",
+        "title": "Frankincense--therapeutic properties",
+        "journal": "Postepy Hig Med Dosw (Online)",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27117114/"
+      },
+      {
+        "pmid": "35816188",
+        "title": "The behavioral sensitivity of mice to acetate esters",
+        "journal": "Chem Senses",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35816188/"
+      },
+      {
+        "pmid": "39304080",
+        "title": "Update to RIFM fragrance ingredient safety assessment, octyl acetate, CAS Registry Number 112-14-1",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39304080/"
+      },
+      {
+        "pmid": "38697500",
+        "title": "Update to RIFM fragrance ingredient safety assessment, 3-octyl acetate, CAS registry number 4864-61-3",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38697500/"
+      },
+      {
+        "pmid": "41803319",
+        "title": "Network pharmacology-based therapeutic intervention of Mentha arvensis targeting cancer and doxorubicin-induced cardiotoxicity",
+        "journal": "Invest New Drugs",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803319/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Citrus aurantium",
+        "id": "citrus-aurantium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1271/BBB1961.55.2571",
+          "10.1080/10412905.1995.9698535"
+        ]
+      },
+      {
+        "name": "Heracleum antasiaticum",
+        "id": "heracleum-antasiaticum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1993.9698208",
+          "10.1007/BF02236436"
+        ]
+      },
+      {
+        "name": "Artemisia thuscula",
+        "id": "artemisia-thuscula",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698248"
+        ]
+      },
+      {
+        "name": "Boswellia sacra",
+        "id": "boswellia-sacra",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Burseraceae",
+        "genus": "Boswellia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-962745"
+        ]
+      },
+      {
+        "name": "Bupleurum fruticosum",
+        "id": "bupleurum-fruticosum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Bupleurum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698110"
+        ]
+      },
+      {
+        "name": "Citrus bergamia",
+        "id": "citrus-bergamia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698535"
+        ]
+      },
+      {
+        "name": "Citrus grandis",
+        "id": "citrus-grandis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.55.2571"
+        ]
+      },
+      {
+        "name": "Citrus iyo",
+        "id": "citrus-iyo",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.47.1841"
+        ]
+      },
+      {
+        "name": "Citrus limon",
+        "id": "citrus-limon",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698535"
+        ]
+      },
+      {
+        "name": "Citrus maxima",
+        "id": "citrus-maxima",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.55.2571"
+        ]
+      },
+      {
+        "name": "Citrus paradisi",
+        "id": "citrus-paradisi",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.55.2571"
+        ]
+      },
+      {
+        "name": "Cucumis melo",
+        "id": "cucumis-melo",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cucurbitaceae",
+        "genus": "Cucumis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1111/J.1365-2621.1987.TB14284.X"
+        ]
+      },
+      {
+        "name": "Echinophora tenuifolia",
+        "id": "echinophora-tenuifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Echinophora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698406"
+        ]
+      },
+      {
+        "name": "Heracleum dissectum",
+        "id": "heracleum-dissectum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969171"
+        ]
+      },
+      {
+        "name": "Heracleum persicum",
+        "id": "heracleum-persicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969621"
+        ]
+      },
+      {
+        "name": "Heracleum sphondylium",
+        "id": "heracleum-sphondylium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/14786419.2014.904311"
+        ]
+      },
+      {
+        "name": "Lavandula angustifolia",
+        "id": "lavandula-angustifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Lavandula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1997.9700727"
+        ]
+      },
+      {
+        "name": "Lindera aggregata",
+        "id": "lindera-aggregata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Lindera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.JEP.2008.06.010"
+        ]
+      },
+      {
+        "name": "Lonicera japonica",
+        "id": "lonicera-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Lonicera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1186/1471-2164-13-195"
+        ]
+      },
+      {
+        "name": "Mandragora autumnalis",
+        "id": "mandragora-autumnalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Mandragora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.07.016"
+        ]
+      },
+      {
+        "name": "Mandragora officinarum",
+        "id": "mandragora-officinarum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Mandragora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.07.016"
+        ]
+      },
+      {
+        "name": "Mentha aquatica",
+        "id": "mentha-aquatica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mentha",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/ARDP.19673000509"
+        ]
+      },
+      {
+        "name": "Micromeria myrtifolia",
+        "id": "micromeria-myrtifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Micromeria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698015"
+        ]
+      },
+      {
+        "name": "Ocimum basilicum",
+        "id": "ocimum-basilicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Ocimum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698501"
+        ]
+      },
+      {
+        "name": "Ophrys arachnitiformis",
+        "id": "ophrys-arachnitiformis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Orchidaceae",
+        "genus": "Ophrys",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81276-5"
+        ]
+      },
+      {
+        "name": "Ophrys sphegodes",
+        "id": "ophrys-sphegodes",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Orchidaceae",
+        "genus": "Ophrys",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81276-5"
+        ]
+      },
+      {
+        "name": "Ophrys splendida",
+        "id": "ophrys-splendida",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Orchidaceae",
+        "genus": "Ophrys",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81276-5"
+        ]
+      },
+      {
+        "name": "Osmorhiza aristata",
+        "id": "osmorhiza-aristata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Osmorhiza",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.99.11_1116"
+        ]
+      },
+      {
+        "name": "Polygala senega",
+        "id": "polygala-senega",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Polygalaceae",
+        "genus": "Polygala",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100408"
+        ]
+      },
+      {
+        "name": "Psidium guajava",
+        "id": "psidium-guajava",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80138-6"
+        ]
+      },
+      {
+        "name": "Ruta angustifolia",
+        "id": "ruta-angustifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Ruta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697956"
+        ]
+      },
+      {
+        "name": "Ruta graveolens",
+        "id": "ruta-graveolens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Ruta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1989.9697787"
+        ]
+      },
+      {
+        "name": "Thymus longicaulis",
+        "id": "thymus-longicaulis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698359"
+        ]
+      },
+      {
+        "name": "Thymus zygioides",
+        "id": "thymus-zygioides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1996.9701028"
+        ]
+      },
+      {
+        "name": "Zingiber officinale",
+        "id": "zingiber-officinale",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Zingiber",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00059A031"
+        ]
+      }
+    ],
+    "organism_count": 35,
+    "reference_count": 29,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0217143"
+  }
+}

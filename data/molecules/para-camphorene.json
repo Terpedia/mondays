@@ -1,0 +1,50 @@
+{
+  "name": "para-Camphorene",
+  "id": "para-camphorene",
+  "formula": "C20H32",
+  "pubchem": {
+    "cid": 101750,
+    "title": "alpha-Camphorene",
+    "formula": "C20H32",
+    "molecular_weight": 272.5,
+    "smiles": "CC(=CCCC1=CCC(CC1)C(=C)CCC=C(C)C)C",
+    "inchikey": "GJYJYFHBOBUTBY-UHFFFAOYSA-N",
+    "iupac_name": "4-(6-methylhepta-1,5-dien-2-yl)-1-(4-methylpent-3-enyl)cyclohexene",
+    "image": "data/molecules/images/para-camphorene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/101750",
+    "description": "Alpha-camphorene is a cycloalkene that is cyclohexene substituted by 2-methylpent-2-en-5-yl and 6-methylhepta-1,5-dien-2-yl groups at positions 1 and 4, respectively. It is a diterpene isolated from several plant species. It has a role as a volatile oil component. It is a cycloalkene and a diterpene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:191730"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/101750/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Pistacia lentiscus",
+        "id": "pistacia-lentiscus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Pistacia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730060406"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0207532"
+  }
+}

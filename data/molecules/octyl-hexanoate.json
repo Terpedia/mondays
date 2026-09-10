@@ -1,0 +1,133 @@
+{
+  "name": "Octyl hexanoate",
+  "id": "octyl-hexanoate",
+  "formula": "C14H28O2",
+  "pubchem": {
+    "cid": 21006,
+    "title": "Octyl hexanoate",
+    "formula": "C14H28O2",
+    "molecular_weight": 228.37,
+    "smiles": "CCCCCCCCOC(=O)CCCCC",
+    "inchikey": "CMNMHJVRZHGAAK-UHFFFAOYSA-N",
+    "iupac_name": "octyl hexanoate",
+    "image": "data/molecules/images/octyl-hexanoate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/21006",
+    "description": "Octyl hexanoate is a carboxylic ester.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:179787"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/21006/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 9,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Octyl%20hexanoate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "37486088",
+        "title": "Chemical composition and antioxidant activities of the essential oil of Tordylium apulum L. collected in Sicily",
+        "journal": "Nat Prod Res",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37486088/"
+      },
+      {
+        "pmid": "32079080",
+        "title": "Antioxidant Activity of Pastinaca sativa L. ssp. sylvestris [Mill.] Rouy and Camus Essential Oil",
+        "journal": "Molecules",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32079080/"
+      },
+      {
+        "pmid": "33844148",
+        "title": "Hero Turned Villain: Identification of Components of the Sex Pheromone of the Tomato Bug, Nesidiocoris tenuis",
+        "journal": "J Chem Ecol",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33844148/"
+      },
+      {
+        "pmid": "29777752",
+        "title": "Chemical profile and pharmacological effects of the resin and essential oil from Bursera slechtendalii: A medicinal \"copal tree\" of southern Mexico",
+        "journal": "Fitoterapia",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29777752/"
+      },
+      {
+        "pmid": "35397045",
+        "title": "A Symmetrical Diester as the Sex Attractant Pheromone of the North American Click Beetle Parallelostethus attenuatus (Say) (Coleoptera: Elateridae)",
+        "journal": "J Chem Ecol",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35397045/"
+      },
+      {
+        "pmid": "21872872",
+        "title": "Headspace-solid phase microextraction coupled to gas chromatography-combustion-isotope ratio mass spectrometer and to enantioselective gas chromatography for strawberry flavoured food quality control",
+        "journal": "J Chromatogr A",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21872872/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Cannabis sativa",
+        "id": "cannabis-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Cannabis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50008A001"
+        ]
+      },
+      {
+        "name": "Heracleum antasiaticum",
+        "id": "heracleum-antasiaticum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698208"
+        ]
+      },
+      {
+        "name": "Heracleum persicum",
+        "id": "heracleum-persicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969621"
+        ]
+      },
+      {
+        "name": "Tordylium apulum",
+        "id": "tordylium-apulum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Tordylium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698167"
+        ]
+      }
+    ],
+    "organism_count": 4,
+    "reference_count": 4,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0000119"
+  }
+}

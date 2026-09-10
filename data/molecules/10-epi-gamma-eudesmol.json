@@ -1,0 +1,251 @@
+{
+  "name": "10-epi-γ-Eudesmol",
+  "id": "10-epi-gamma-eudesmol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 6430754,
+    "title": "10-epi-gamma-Eudesmol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1=C2CC(CCC2(CCC1)C)C(C)(C)O",
+    "inchikey": "WMOPMQRJLLIEJV-DOMZBBRYSA-N",
+    "iupac_name": "2-[(2R,4aS)-4a,8-dimethyl-2,3,4,5,6,7-hexahydro-1H-naphthalen-2-yl]propan-2-ol",
+    "image": "data/molecules/images/10-epi-gamma-eudesmol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6430754",
+    "description": "10-epi-gamma-eudesmol is a eudesmane sesquiterpenoid in which the eudesmane skeleton carries a hydroxy substituent at C-11, has a double bond between C-4 and C-5 and has inversion of configuration at C-10. It has a role as a volatile oil component.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:62514"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6430754/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 25,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=10-epi-gamma-Eudesmol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "23528036",
+        "title": "Bioactivity-guided investigation of geranium essential oils as natural tick repellents",
+        "journal": "J Agric Food Chem",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23528036/"
+      },
+      {
+        "pmid": "38613430",
+        "title": "Essential oil of the leaves of psychotria asiatica L.: chemical composition, antioxidant, anti-inflammatory, and cytotoxic properties",
+        "journal": "Nat Prod Res",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38613430/"
+      },
+      {
+        "pmid": "30887919",
+        "title": "Amruthapala (Decalepis arayalpathra (J. Joseph and V. Chandras.) Venter): A Comprehensive Review on Diversity, Therapeutic Uses, and Valorization of Bioactive Constituents",
+        "journal": "Curr Pharm Biotechnol",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30887919/"
+      },
+      {
+        "pmid": "29417841",
+        "title": "Chemical composition of essential oil from plants of abandoned mining site of Elba island",
+        "journal": "Nat Prod Res",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29417841/"
+      },
+      {
+        "pmid": "32041311",
+        "title": "Chemical Composition and Preliminary Antimicrobial Activity of the Hydroxylated Sesquiterpenes in the Essential Oil from Piper barbatum Kunth Leaves",
+        "journal": "Plants (Basel)",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32041311/"
+      },
+      {
+        "pmid": "31664789",
+        "title": "Composition and Intraspecific Chemical Variability of Leaf Essential Oil of Laggera pterodonta from Côte d'Ivoire",
+        "journal": "Chem Biodivers",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31664789/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Amyris balsamifera",
+        "id": "amyris-balsamifera",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Amyris",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)89256-0",
+          "10.1016/S0031-9422(00)97885-3"
+        ]
+      },
+      {
+        "name": "Alpinia japonica",
+        "id": "alpinia-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.33.1148"
+        ]
+      },
+      {
+        "name": "Alpinia zerumbet",
+        "id": "alpinia-zerumbet",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698218"
+        ]
+      },
+      {
+        "name": "Annona cascarilloides",
+        "id": "annona-cascarilloides",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Annonaceae",
+        "genus": "Annona",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1998.9701015"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Hedychium spicatum",
+        "id": "hedychium-spicatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Hedychium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100310"
+        ]
+      },
+      {
+        "name": "Laggera alata",
+        "id": "laggera-alata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Laggera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730050307"
+        ]
+      },
+      {
+        "name": "Lepechinia chamaedryoides",
+        "id": "lepechinia-chamaedryoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Lepechinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-961452"
+        ]
+      },
+      {
+        "name": "Pelargonium vitifolium",
+        "id": "pelargonium-vitifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698083"
+        ]
+      },
+      {
+        "name": "Piper obliquum",
+        "id": "piper-obliquum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00762-0"
+        ]
+      },
+      {
+        "name": "Salvia sclarea",
+        "id": "salvia-sclarea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1076/PHBI.35.3.218.13295"
+        ]
+      },
+      {
+        "name": "Thymus camphoratus",
+        "id": "thymus-camphoratus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00117-9"
+        ]
+      },
+      {
+        "name": "Ursinia sericea",
+        "id": "ursinia-sericea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ursinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)80176-F"
+        ]
+      }
+    ],
+    "organism_count": 13,
+    "reference_count": 14,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0149523"
+  }
+}

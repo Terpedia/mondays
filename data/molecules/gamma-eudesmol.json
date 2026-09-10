@@ -1,0 +1,1007 @@
+{
+  "name": "γ-Eudesmol",
+  "id": "gamma-eudesmol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 6432005,
+    "title": "(+)-gamma-Eudesmol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1=C2CC(CCC2(CCC1)C)C(C)(C)O",
+    "inchikey": "WMOPMQRJLLIEJV-IUODEOHRSA-N",
+    "iupac_name": "2-[(2R,4aR)-4a,8-dimethyl-2,3,4,5,6,7-hexahydro-1H-naphthalen-2-yl]propan-2-ol",
+    "image": "data/molecules/images/gamma-eudesmol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6432005",
+    "description": "Gamma-eudesmol is a eudesmane sesquiterpenoid in which the eudesmane skeleton carries a hydroxy substituent at C-11 and has a double bond between C-4 and C-5. It has a role as a volatile oil component.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:62513"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6432005/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 119,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=gamma-Eudesmol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "40972729",
+        "title": "Magnoliae Officinalis Cortex volatile oil alleviated asthma via dual cAMP-mediated pathways: Anti-Inflammation and Bronchodilation",
+        "journal": "J Ethnopharmacol",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40972729/"
+      },
+      {
+        "pmid": "35579663",
+        "title": "A novel eudesmol derivative from the leaf essential oil of Guatteria friesiana (Annonaceae) and evaluation of the antinociceptive activity",
+        "journal": "Z Naturforsch C J Biosci",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35579663/"
+      },
+      {
+        "pmid": "41127269",
+        "title": "Systematic identification of terpene synthases from sacred lotus (Nelumbo nucifera) and heterologous biosynthesis of the insecticidal and antimicrobial compound γ-eudesmol",
+        "journal": "Hortic Res",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41127269/"
+      },
+      {
+        "pmid": "40537018",
+        "title": "Neuronal ion channel modulation by Drimys winteri compounds: Opening a new chemical space to neuropharmacology",
+        "journal": "Neural Regen Res",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40537018/"
+      },
+      {
+        "pmid": "42675063",
+        "title": "Biosynthesis and heterologous production of the α-agarofuran scaffold of Celangulin V from Celastrus angulatus",
+        "journal": "Nat Commun",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42675063/"
+      },
+      {
+        "pmid": "25446604",
+        "title": "Medicinal plants from the genus Acalypha (Euphorbiaceae)--a review of their ethnopharmacology and phytochemistry",
+        "journal": "J Ethnopharmacol",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25446604/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Cryptomeria japonica",
+        "id": "cryptomeria-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Cryptomeria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1016/0031-9422(95)00013-W",
+          "10.1080/10412905.1991.9697930"
+        ]
+      },
+      {
+        "name": "Olearia phlogopappa",
+        "id": "olearia-phlogopappa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Olearia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698135",
+          "10.1080/10412905.1993.9698243"
+        ]
+      },
+      {
+        "name": "Thuja occidentalis",
+        "id": "thuja-occidentalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Thuja",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1002/JLAC.199619960115",
+          "10.1139/V64-059"
+        ]
+      },
+      {
+        "name": "Alpinia breviligulata",
+        "id": "alpinia-breviligulata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698350"
+        ]
+      },
+      {
+        "name": "Alpinia zerumbet",
+        "id": "alpinia-zerumbet",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698218"
+        ]
+      },
+      {
+        "name": "Amyris balsamifera",
+        "id": "amyris-balsamifera",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Amyris",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)97885-3"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Bothriochloa bladhii",
+        "id": "bothriochloa-bladhii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Bothriochloa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698231"
+        ]
+      },
+      {
+        "name": "Callitris columellaris",
+        "id": "callitris-columellaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00158-7"
+        ]
+      },
+      {
+        "name": "Callitris intratropica",
+        "id": "callitris-intratropica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00158-7"
+        ]
+      },
+      {
+        "name": "Cananga odorata",
+        "id": "cananga-odorata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Annonaceae",
+        "genus": "Cananga",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP0005208"
+        ]
+      },
+      {
+        "name": "Cannabis sativa",
+        "id": "cannabis-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Cannabis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50008A001"
+        ]
+      },
+      {
+        "name": "Chamaecyparis formosensis",
+        "id": "chamaecyparis-formosensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Chamaecyparis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00074-6"
+        ]
+      },
+      {
+        "name": "Cistus creticus",
+        "id": "cistus-creticus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013"
+        ]
+      },
+      {
+        "name": "Cistus incanus",
+        "id": "cistus-incanus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013"
+        ]
+      },
+      {
+        "name": "Conchidium japonicum",
+        "id": "conchidium-japonicum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Orchidaceae",
+        "genus": "Conchidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(95)00013-W"
+        ]
+      },
+      {
+        "name": "Cordia trichotoma",
+        "id": "cordia-trichotoma",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cordiaceae",
+        "genus": "Cordia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83991-6"
+        ]
+      },
+      {
+        "name": "Corymbia maculata",
+        "id": "corymbia-maculata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Corymbia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1023/B:JOEC.0000042400.14451.08"
+        ]
+      },
+      {
+        "name": "Cymbopogon schoenanthus",
+        "id": "cymbopogon-schoenanthus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.APJTM.2016.06.009"
+        ]
+      },
+      {
+        "name": "Cyperus rotundus",
+        "id": "cyperus-rotundus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cyperaceae",
+        "genus": "Cyperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.APJTM.2016.06.009"
+        ]
+      },
+      {
+        "name": "Eucalyptus andrewsii subsp. campanulata",
+        "id": "eucalyptus-andrewsii-subsp-campanulata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697838"
+        ]
+      },
+      {
+        "name": "Eucalyptus apodophylla",
+        "id": "eucalyptus-apodophylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00050-3"
+        ]
+      },
+      {
+        "name": "Eucalyptus burgessiana",
+        "id": "eucalyptus-burgessiana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)85188-1"
+        ]
+      },
+      {
+        "name": "Eucalyptus campanulata",
+        "id": "eucalyptus-campanulata",
+        "kingdom": "Archaeplastida",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "Open Tree of Life",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697838"
+        ]
+      },
+      {
+        "name": "Eucalyptus delegatensis",
+        "id": "eucalyptus-delegatensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)84946-8"
+        ]
+      },
+      {
+        "name": "Eucalyptus fraxinoides",
+        "id": "eucalyptus-fraxinoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)85188-1"
+        ]
+      },
+      {
+        "name": "Eucalyptus globulus",
+        "id": "eucalyptus-globulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698428"
+        ]
+      },
+      {
+        "name": "Eucalyptus globulus subsp. maidenii",
+        "id": "eucalyptus-globulus-subsp-maidenii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698428"
+        ]
+      },
+      {
+        "name": "Eucalyptus maculata",
+        "id": "eucalyptus-maculata",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1023/B:JOEC.0000042400.14451.08"
+        ]
+      },
+      {
+        "name": "Eucalyptus pulverulenta",
+        "id": "eucalyptus-pulverulenta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969442"
+        ]
+      },
+      {
+        "name": "Eucalyptus stenostoma",
+        "id": "eucalyptus-stenostoma",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)85188-1"
+        ]
+      },
+      {
+        "name": "Eucalyptus triflora",
+        "id": "eucalyptus-triflora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)85188-1"
+        ]
+      },
+      {
+        "name": "Flourensia cernua",
+        "id": "flourensia-cernua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Flourensia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)86634-0"
+        ]
+      },
+      {
+        "name": "Hamamelis virginiana",
+        "id": "hamamelis-virginiana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Hamamelidaceae",
+        "genus": "Hamamelis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957420"
+        ]
+      },
+      {
+        "name": "Humulus lupulus",
+        "id": "humulus-lupulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Humulus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00118A056"
+        ]
+      },
+      {
+        "name": "Juniperus gamboana",
+        "id": "juniperus-gamboana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50040A040"
+        ]
+      },
+      {
+        "name": "Juniperus monticola",
+        "id": "juniperus-monticola",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50009A015"
+        ]
+      },
+      {
+        "name": "Juniperus standleyi",
+        "id": "juniperus-standleyi",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50040A040"
+        ]
+      },
+      {
+        "name": "Laurus nobilis",
+        "id": "laurus-nobilis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Laurus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0024-3205(00)00542-7"
+        ]
+      },
+      {
+        "name": "Machilus japonica",
+        "id": "machilus-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Machilus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.87.9_1153"
+        ]
+      },
+      {
+        "name": "Magnolia obovata",
+        "id": "magnolia-obovata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Magnoliaceae",
+        "genus": "Magnolia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.49.716"
+        ]
+      },
+      {
+        "name": "Mangifera indica",
+        "id": "mangifera-indica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Mangifera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF0402633"
+        ]
+      },
+      {
+        "name": "Osbornia octodonta",
+        "id": "osbornia-octodonta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Osbornia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698162"
+        ]
+      },
+      {
+        "name": "Parthenium argentatum",
+        "id": "parthenium-argentatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Parthenium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(96)00225-7"
+        ]
+      },
+      {
+        "name": "Persea japonica",
+        "id": "persea-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lauraceae",
+        "genus": "Persea",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.87.9_1153"
+        ]
+      },
+      {
+        "name": "Psidium guineense",
+        "id": "psidium-guineense",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1573(199702)11:1<67::AID-PTR29>3.0.CO;2-I"
+        ]
+      },
+      {
+        "name": "Psidium guyanense",
+        "id": "psidium-guyanense",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1573(199702)11:1<67::AID-PTR29>3.0.CO;2-I"
+        ]
+      },
+      {
+        "name": "Psidium salutare",
+        "id": "psidium-salutare",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF0116303"
+        ]
+      },
+      {
+        "name": "Psidium salutare var. pohlianum",
+        "id": "psidium-salutare-var-pohlianum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1573(199702)11:1<67::AID-PTR29>3.0.CO;2-I"
+        ]
+      },
+      {
+        "name": "Rhododendron baileyi",
+        "id": "rhododendron-baileyi",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron calostrotum",
+        "id": "rhododendron-calostrotum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron campylogynum",
+        "id": "rhododendron-campylogynum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron dasypetalum",
+        "id": "rhododendron-dasypetalum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron dauricum",
+        "id": "rhododendron-dauricum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron edgeworthii",
+        "id": "rhododendron-edgeworthii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron glaucophyllum",
+        "id": "rhododendron-glaucophyllum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron hippophaeoides",
+        "id": "rhododendron-hippophaeoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron impeditum",
+        "id": "rhododendron-impeditum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron keiskei",
+        "id": "rhododendron-keiskei",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron minus var. minus",
+        "id": "rhododendron-minus-var-minus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron nivale",
+        "id": "rhododendron-nivale",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron polycladum",
+        "id": "rhododendron-polycladum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron rupicola var. chryseum",
+        "id": "rhododendron-rupicola-var-chryseum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron virgatum",
+        "id": "rhododendron-virgatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Rhododendron xanthocodon",
+        "id": "rhododendron-xanthocodon",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81225-X"
+        ]
+      },
+      {
+        "name": "Sassafras albidum",
+        "id": "sassafras-albidum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Sassafras",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-959379"
+        ]
+      },
+      {
+        "name": "Schinus molle",
+        "id": "schinus-molle",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Schinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00116A075"
+        ]
+      },
+      {
+        "name": "Swertia japonica",
+        "id": "swertia-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Gentianaceae",
+        "genus": "Swertia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1246/BCSJ.56.3477"
+        ]
+      },
+      {
+        "name": "Virola surinamensis",
+        "id": "virola-surinamensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myristicaceae",
+        "genus": "Virola",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00324-5"
+        ]
+      },
+      {
+        "name": "Vitex negundo",
+        "id": "vitex-negundo",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Vitex",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-959580"
+        ]
+      },
+      {
+        "name": "Zingiber officinale",
+        "id": "zingiber-officinale",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Zingiber",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)84581-1"
+        ]
+      }
+    ],
+    "organism_count": 71,
+    "reference_count": 46,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0147389"
+  }
+}

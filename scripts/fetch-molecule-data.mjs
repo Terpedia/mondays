@@ -58,7 +58,18 @@ async function pubchem(name) {
   // Without this shape check that reads as "no summary" and overwrites a good one.
   if (descriptions === undefined || !descriptions?.InformationList) return undefined;
   const info = descriptions.InformationList.Information || [];
-  const described = info.find((entry) => entry.Description);
+
+  // PubChem returns several descriptions in no useful order, and for some compounds the
+  // first is a regulatory hazard statement — beta-myrcene leads with OEHHA's Proposition 65
+  // cancer listing. Taking [0] puts that at the top of the page, directly above "measured in
+  // 6 of 6 MONDAYS SKUs", which reads as a claim about the product. Use a chemistry source
+  // for the summary; regulatory and hazard statements are not carried at all.
+  const HAZARD_SOURCE = /OEHHA|Haz-?Map|CAMEO|Toxicology|NIOSH|ILO|Hazardous|Safety/i;
+  const CHEMISTRY_SOURCE = /ChEBI|DrugBank|NCIt|LOTUS|Wikipedia|EPA DSSTox/i;
+  const described = info.filter((entry) => entry.Description);
+  const chemistry = described.find((entry) => CHEMISTRY_SOURCE.test(entry.DescriptionSourceName || ""))
+    || described.find((entry) => !HAZARD_SOURCE.test(entry.DescriptionSourceName || ""));
+
   return {
     cid,
     title: info.find((entry) => entry.Title)?.Title || null,
@@ -69,8 +80,8 @@ async function pubchem(name) {
     iupac_name: props.IUPACName || null,
     image: `${PUBCHEM}/compound/cid/${cid}/PNG`,
     url: `https://pubchem.ncbi.nlm.nih.gov/compound/${cid}`,
-    description: described?.Description || null,
-    description_source: described ? { name: described.DescriptionSourceName, url: described.DescriptionURL } : null,
+    description: chemistry?.Description || null,
+    description_source: chemistry ? { name: chemistry.DescriptionSourceName, url: chemistry.DescriptionURL } : null,
   };
 }
 
@@ -170,6 +181,86 @@ async function diseases(cid) {
   return [...merged.values()].sort((a, b) => (b.pmids.length - a.pmids.length) || a.disease.localeCompare(b.disease));
 }
 
+// Which plants a molecule actually occurs in. Wikidata's "found in taxon" (P703) is
+// keyed off the InChIKey, so the match is exact rather than name-guessed. Kingdom comes
+// back annotated because P703 also records animals — terpenes turn up in scent-marking
+// studies — and the naive `wdt:P171* wd:Q756` plant filter times out the endpoint.
+// Which organisms a molecule occurs in, from LOTUS (lotus.naturalproducts.net) — a
+// curated natural-products occurrence database where every compound/organism pair carries
+// a literature reference and a real taxonomic backbone (GBIF, NCBI, ITIS, Open Tree of
+// Life). Wikidata mirrors much of LOTUS but drops the citations and its kingdom paths are
+// unreliable: it filed the plant genus Heterotropa under Animalia and left red algae with
+// no kingdom at all.
+const LOTUS = "https://lotus.naturalproducts.net/api/search/simple";
+const TAXONOMY_PRIORITY = ["NCBI", "GBIF Backbone Taxonomy", "Open Tree of Life", "ITIS", "iNaturalist", "VASCAN"];
+// LOTUS encodes "." as "$x$x$" in the DOI keys of taxonomyReferenceObjects.
+const decodeDoi = (key) => key.replaceAll("$x$x$", ".");
+
+async function organisms(inchikey, cap = 120) {
+  if (!inchikey) return { organisms: [], organism_count: 0, reference_count: 0 };
+  const payload = await json(`${LOTUS}?query=${encodeURIComponent(inchikey)}`);
+  if (payload === undefined) return undefined;
+  const record = payload?.naturalProducts?.[0];
+  if (!record?.taxonomyReferenceObjects) return { organisms: [], organism_count: 0, reference_count: 0 };
+
+  const byOrganism = new Map();
+  const references = Object.keys(record.taxonomyReferenceObjects);
+  for (const [referenceKey, byDatabase] of Object.entries(record.taxonomyReferenceObjects)) {
+    const doi = decodeDoi(referenceKey);
+    for (const [database, entries] of Object.entries(byDatabase)) {
+      for (const entry of entries || []) {
+        const name = entry.organism_value;
+        if (!name) continue;
+        // GBIF writes hybrids as "Citrus × limon" and NCBI as "Citrus limon"; without this
+        // the same plant lands twice, competing with itself for the top of the list.
+        const key = name.replace(/\s*×\s*/g, " ").replace(/\s+/g, " ").trim().toLowerCase();
+        const existing = byOrganism.get(key) || {
+          name: name.replace(/\s*×\s*/g, " ").replace(/\s+/g, " ").trim(),
+          id: key.replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""),
+          kingdom: null, phylum: null, family: null, genus: null,
+          databases: new Set(), references: new Set(),
+        };
+        existing.references.add(doi);
+        existing.databases.add(database);
+        // Take taxonomy from the most authoritative database that supplied it.
+        const rank = TAXONOMY_PRIORITY.indexOf(database);
+        if (entry.kingdom && (existing.kingdom === null || rank <= TAXONOMY_PRIORITY.indexOf(existing.source || ""))) {
+          // NCBI says Viridiplantae where GBIF says Plantae; one word for one concept.
+          existing.kingdom = entry.kingdom === "Viridiplantae" ? "Plantae" : entry.kingdom;
+          existing.phylum = entry.phylum || existing.phylum;
+          existing.family = entry.family || existing.family;
+          existing.genus = entry.genus || existing.genus;
+          existing.source = database;
+        }
+        byOrganism.set(key, existing);
+      }
+    }
+  }
+
+  const all = [...byOrganism.values()]
+    .map((organism) => ({
+      name: organism.name,
+      id: organism.id,
+      kingdom: organism.kingdom,
+      phylum: organism.phylum,
+      family: organism.family,
+      genus: organism.genus,
+      taxonomy_source: organism.source || [...organism.databases][0] || null,
+      reference_count: organism.references.size,
+      references: [...organism.references].slice(0, 2),
+    }))
+    // Best-attested first: an organism reported by many papers is the one worth showing.
+    .sort((a, b) => b.reference_count - a.reference_count || a.name.localeCompare(b.name));
+
+  return {
+    organisms: all.slice(0, cap),
+    organism_count: all.length,
+    reference_count: references.length,
+    source: "LOTUS · lotus.naturalproducts.net",
+    lotus_id: record.lotus_id || null,
+  };
+}
+
 async function literature(name, limit = 6) {
   const term = encodeURIComponent(`${searchName(name)}[All Fields]`);
   const search = await json(`${EUTILS}/esearch.fcgi?db=pubmed&retmode=json&sort=relevance&retmax=${limit}&term=${term}`);
@@ -191,17 +282,16 @@ async function literature(name, limit = 6) {
   };
 }
 
-// Which compounds are worth the round trips: anything in a product's headline
-// eight, anything at half a percent or more, and anything already on file.
+// Every compound a lab actually measured in a MONDAYS chew gets a record, down to the
+// 0.05% floor the profiles publish — a trace compound is still a compound someone can
+// look up. Anything already on file is refreshed too.
 const profileDir = path.join(root, "data/terpene-profiles");
 const names = new Map();
 for (const file of await fs.readdir(profileDir)) {
   if (file === "index.json") continue;
   const profile = JSON.parse(await fs.readFile(path.join(profileDir, file), "utf8"));
   const listed = profile.compounds.filter((c) => !c.aggregate);
-  listed.forEach((compound, i) => {
-    if (i < 8 || compound.percent_of_profile >= 0.5) names.set(compound.id, compound.name);
-  });
+  for (const compound of listed) names.set(compound.id, compound.name);
 }
 const moleculeDir = path.join(root, "data/molecules");
 for (const file of await fs.readdir(moleculeDir)) {
@@ -247,6 +337,7 @@ for (const [id, name] of names) {
   const fetchedTargets = chem?.cid ? await targets(chem.cid) : [];
   const fetchedLiterature = await literature(name);
   const fetchedDiseases = chem?.cid ? await diseases(chem.cid) : [];
+  const fetchedOccurrence = chem?.inchikey ? await organisms(chem.inchikey) : null;
   const record = {
     ...existing,
     name,
@@ -255,10 +346,12 @@ for (const [id, name] of names) {
     pubchem: chem ?? null,
     targets: fetchedTargets === undefined ? existing.targets ?? [] : fetchedTargets,
     diseases: fetchedDiseases === undefined ? existing.diseases ?? [] : fetchedDiseases,
+    occurrence: fetchedOccurrence === undefined ? existing.occurrence ?? null : fetchedOccurrence,
+    organisms: undefined, // superseded by `occurrence`; drop the old Wikidata list
     literature: keep(fetchedLiterature, existing.literature),
     retrieved: new Date().toISOString().slice(0, 10),
   };
   await localImage(id, record);
   await fs.writeFile(file, `${JSON.stringify(record, null, 2)}\n`);
-  console.log(`${id}: ${chem?.cid ? `CID ${chem.cid}` : "no PubChem match"}, ${record.targets.length} targets, ${record.diseases.length} diseases, ${record.literature?.papers.length ?? 0}/${record.literature?.total ?? 0} papers`);
+  console.log(`${id}: ${chem?.cid ? `CID ${chem.cid}` : "no PubChem match"}, ${record.targets.length} targets, ${record.diseases.length} diseases, ${record.occurrence?.organism_count ?? 0} organisms, ${record.literature?.papers.length ?? 0}/${record.literature?.total ?? 0} papers`);
 }

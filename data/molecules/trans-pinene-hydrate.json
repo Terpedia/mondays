@@ -1,1 +1,49 @@
-{"name":"trans-Pinene hydrate","id":"trans-pinene-hydrate","formula":"C10H18O","pubchem":{"cid":6428289,"title":"cis-2-Pinanol","formula":"C10H18O","molecular_weight":154.25,"smiles":"CC1(C2CCC(C1C2)(C)O)C","inchikey":"YYWZKGZIIKPPJZ-XKSSXDPKSA-N","iupac_name":"(1R,2S,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol","image":"data/molecules/images/trans-pinene-hydrate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/6428289","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6428289/PNG"},"targets":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-10","summary":null,"evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 0.17–1.31% of total volatiles (0.034–0.26mg per chew).","diseases":[]}
+{
+  "name": "trans-Pinene hydrate",
+  "id": "trans-pinene-hydrate",
+  "formula": "C10H18O",
+  "pubchem": {
+    "cid": 6428289,
+    "title": "cis-2-Pinanol",
+    "formula": "C10H18O",
+    "molecular_weight": 154.25,
+    "smiles": "CC1(C2CCC(C1C2)(C)O)C",
+    "inchikey": "YYWZKGZIIKPPJZ-XKSSXDPKSA-N",
+    "iupac_name": "(1R,2S,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol",
+    "image": "data/molecules/images/trans-pinene-hydrate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6428289",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6428289/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 0.17–1.31% of total volatiles (0.034–0.26mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Pimenta racemosa",
+        "id": "pimenta-racemosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Pimenta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697952"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0105876"
+  }
+}

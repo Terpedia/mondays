@@ -1,0 +1,78 @@
+{
+  "name": "Allyl hexanoate",
+  "id": "allyl-hexanoate",
+  "formula": "C9H16O2",
+  "pubchem": {
+    "cid": 31266,
+    "title": "Allyl caproate",
+    "formula": "C9H16O2",
+    "molecular_weight": 156.22,
+    "smiles": "CCCCCC(=O)OCC=C",
+    "inchikey": "RCSBILYQLVXLJG-UHFFFAOYSA-N",
+    "iupac_name": "prop-2-enyl hexanoate",
+    "image": "data/molecules/images/allyl-hexanoate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/31266",
+    "description": "2-Propenyl hexanoate is a fatty acid ester.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:171771"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/31266/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 11,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Allyl%20hexanoate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38909980",
+        "title": "RIFM fragrance ingredient safety assessment, allyl hexanoate, CAS Registry Number 123-68-2",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38909980/"
+      },
+      {
+        "pmid": "22043838",
+        "title": "Quantification of allyl hexanoate in pineapple beverages and yogurts as a case study to characterise a source of uncertainty in dietary exposure assessment to flavouring substances",
+        "journal": "Food Addit Contam Part A Chem Anal Control Expo Risk Assess",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22043838/"
+      },
+      {
+        "pmid": "23589218",
+        "title": "Toxicity of allyl esters in insect cell lines and in Spodoptera littoralis larvae",
+        "journal": "Arch Insect Biochem Physiol",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23589218/"
+      },
+      {
+        "pmid": "31944086",
+        "title": "Effects of Carriers on Spray-dried Flavors and Their Functional Characteristics",
+        "journal": "Pak J Biol Sci",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31944086/"
+      },
+      {
+        "pmid": "16717034",
+        "title": "The effects of vehicles on the human dermal irritation potentials of allyl esters",
+        "journal": "Int J Toxicol",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16717034/"
+      },
+      {
+        "pmid": "26788283",
+        "title": "Assessment of olfactory detection thresholds in children with autism spectrum disorders using a pulse ejection system",
+        "journal": "Mol Autism",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26788283/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

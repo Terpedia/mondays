@@ -1,0 +1,178 @@
+{
+  "name": "Geranyl caproate",
+  "id": "geranyl-caproate",
+  "formula": "C16H28O2",
+  "pubchem": {
+    "cid": 5365992,
+    "title": "Geranyl hexanoate",
+    "formula": "C16H28O2",
+    "molecular_weight": 252.39,
+    "smiles": "CCCCCC(=O)OCC=C(C)CCC=C(C)C",
+    "inchikey": "ARVSCQUZFFSNKF-NTCAYCPXSA-N",
+    "iupac_name": "[(2E)-3,7-dimethylocta-2,6-dienyl] hexanoate",
+    "image": "data/molecules/images/geranyl-caproate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5365992",
+    "description": "(E)-3,7-Dimethyl-2,6-octadienyl hexanoate is a carboxylic ester.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:196061"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5365992/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 5,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Geranyl%20caproate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "37890610",
+        "title": "Development of an efficient yeast platform for cannabigerolic acid biosynthesis",
+        "journal": "Metab Eng",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37890610/"
+      },
+      {
+        "pmid": "25148991",
+        "title": "Fractionation and identification of minor and aroma-active constituents in Kangra orthodox black tea",
+        "journal": "Food Chem",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25148991/"
+      },
+      {
+        "pmid": "31627403",
+        "title": "The Honey Volatile Code: A Collective Study and Extended Version",
+        "journal": "Foods",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31627403/"
+      },
+      {
+        "pmid": "11119776",
+        "title": "Inhibition of host-seeking response and olfactory responsiveness in Anopheles gambiae following blood feeding",
+        "journal": "J Insect Physiol",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11119776/"
+      },
+      {
+        "pmid": "11475909",
+        "title": "Inactivation of protein farnesyltransferase by active-site-targeted dicarbonyl compounds",
+        "journal": "Arch Pharm (Weinheim)",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11475909/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Cymbopogon khasianus",
+        "id": "cymbopogon-khasianus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698585"
+        ]
+      },
+      {
+        "name": "Cymbopogon martini",
+        "id": "cymbopogon-martini",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697831"
+        ]
+      },
+      {
+        "name": "Cymbopogon martinii",
+        "id": "cymbopogon-martinii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697831"
+        ]
+      },
+      {
+        "name": "Origanum syriacum",
+        "id": "origanum-syriacum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697923"
+        ]
+      },
+      {
+        "name": "Pelargonium citronellum",
+        "id": "pelargonium-citronellum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698214"
+        ]
+      },
+      {
+        "name": "Pelargonium quercifolium",
+        "id": "pelargonium-quercifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697953"
+        ]
+      },
+      {
+        "name": "Thymus funkii",
+        "id": "thymus-funkii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100609"
+        ]
+      },
+      {
+        "name": "Tordylium apulum",
+        "id": "tordylium-apulum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Tordylium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698167"
+        ]
+      }
+    ],
+    "organism_count": 8,
+    "reference_count": 7,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0002008"
+  }
+}

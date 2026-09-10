@@ -1,7 +1,6 @@
 const TERPEDIA_PORTAL = 'https://terpedia.com/intelligence-portals/cannabis';
-// Terproduct's Cloud Run URL. terproduct.terpedia.com still points at GitHub Pages
-// (a stale static export), so it 404s on this route until DNS moves to Cloud Run.
-const TERPRODUCT = 'https://terproduct-715567218723.us-central1.run.app/molecule/';
+// The knowledge base is where molecule science lives; this catalog carries composition.
+const KB_MOLECULE = 'https://kb.terpedia.com/entity/';
 let products = [];
 let activeFilter = 'all';
 
@@ -130,8 +129,8 @@ async function renderMolecule(slug) {
       ` : '<p class="fine">Not quantified in any published MONDAYS profile.</p>'}
 
       <h2 class="section-h">The research record</h2>
-      <p class="hero-copy">Protein assay results, reported disease associations and the literature for ${esc(molecule.name)} live on Terproduct, where each record is shown with the kind of evidence behind it. Those describe the compound at laboratory doses. They do not describe a chew.</p>
-      <a class="portal-button" href="${TERPRODUCT}${encodeURIComponent(molecule.id)}/" target="_blank" rel="noreferrer">Open the Terproduct record ↗</a>
+      <p class="hero-copy">Protein assay results, reported disease associations and the literature for ${esc(molecule.name)} live in the Terpedia knowledge base, with the organisms it occurs in and the evidence behind each record. Those describe the compound at laboratory doses. They do not describe a chew.</p>
+      <a class="portal-button" href="${KB_MOLECULE}${encodeURIComponent(molecule.id)}/" target="_blank" rel="noreferrer">Open the Terpedia knowledge base record ↗</a>
       ${molecule.retrieved ? `<p class="fine">Chemistry retrieved ${esc(molecule.retrieved)} from PubChem.</p>` : ''}
     </section>`;
   return true;
@@ -156,7 +155,9 @@ function render() {
   const query = document.querySelector('#search').value.trim().toLowerCase();
   const visible = products.filter((p) => {
     const matchesType = activeFilter === 'all' || p.type === activeFilter;
-    const haystack = [p.name, p.strain, p.description, ...p.molecules].join(' ').toLowerCase();
+    // Shoppers search by how something feels and tastes, not only by compound name, so the
+    // claim tiles and flavour words on the card have to be in the index too.
+    const haystack = [p.name, p.strain, p.description, p.type, p.category, ...(p.claims || []), ...p.molecules].join(' ').toLowerCase();
     return matchesType && (!query || haystack.includes(query));
   });
   document.querySelector('#catalog').innerHTML = visible.map((p) => `

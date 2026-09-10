@@ -1,0 +1,182 @@
+{
+  "name": "Juniper camphor",
+  "id": "juniper-camphor",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 5318734,
+    "title": "(1R,4aR,8aR)-1,4a-dimethyl-7-propan-2-ylidene-3,4,5,6,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC(=C1CCC2(CCCC(C2C1)(C)O)C)C",
+    "inchikey": "STRABSCAWZINIF-RBSFLKMASA-N",
+    "iupac_name": "(1R,4aR,8aR)-1,4a-dimethyl-7-propan-2-ylidene-3,4,5,6,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "image": "data/molecules/images/juniper-camphor.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5318734",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5318734/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 15,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Juniper%20camphor%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38992404",
+        "title": "Ethnobotany, phytochemistry, pharmacology and quality control of Peucedanum decursivum (Miq.) Maxim: A critical review",
+        "journal": "J Ethnopharmacol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38992404/"
+      },
+      {
+        "pmid": "42059999",
+        "title": "Juniper camphor: An emerging sesquiterpene compound with promising chemistry, biological potential, and future perspectives",
+        "journal": "Saudi Pharm J",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059999/"
+      },
+      {
+        "pmid": "30130541",
+        "title": "The traditional uses, phytochemistry, and pharmacology of Atractylodes macrocephala Koidz.: A review",
+        "journal": "J Ethnopharmacol",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30130541/"
+      },
+      {
+        "pmid": "39309954",
+        "title": "Explore on screening COX-2 inhibitors from the essential oil of Solanum lyratum Thunb. By molecular docking and molecular dynamics simulation",
+        "journal": "Heliyon",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39309954/"
+      },
+      {
+        "pmid": "37005806",
+        "title": "[Main components from cultivated and wild Nardostachyos Radix et Rhizoma by LC-MS and GC-MS]",
+        "journal": "Zhongguo Zhong Yao Za Zhi",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37005806/"
+      },
+      {
+        "pmid": "33435757",
+        "title": "Chemical compositions of the essential oils from Iranian populations of Rhabdosciadium aucheri Boiss. (Apiaceae)",
+        "journal": "Nat Prod Res",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33435757/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Acritopappus prunifolius",
+        "id": "acritopappus-prunifolius",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Acritopappus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80032-0"
+        ]
+      },
+      {
+        "name": "Aniba riparia",
+        "id": "aniba-riparia",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lauraceae",
+        "genus": "Aniba",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83890-X"
+        ]
+      },
+      {
+        "name": "Atractylodes macrocephala",
+        "id": "atractylodes-macrocephala",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Atractylodes",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3390/MOLECULES16043146"
+        ]
+      },
+      {
+        "name": "Chiloscyphus polyanthos",
+        "id": "chiloscyphus-polyanthos",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lophocoleaceae",
+        "genus": "Chiloscyphus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00159-4"
+        ]
+      },
+      {
+        "name": "Daucus carota carota",
+        "id": "daucus-carota-carota",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Apiaceae",
+        "genus": "Daucus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1177/1934578X1000501226"
+        ]
+      },
+      {
+        "name": "Daucus carota subsp. carota",
+        "id": "daucus-carota-subsp-carota",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Daucus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1177/1934578X1000501226"
+        ]
+      },
+      {
+        "name": "Dendronephthya hemprichi",
+        "id": "dendronephthya-hemprichi",
+        "kingdom": "Metazoa",
+        "phylum": "Cnidaria",
+        "family": "Nephtheidae",
+        "genus": "Dendronephthya",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNB-2011-0413"
+        ]
+      },
+      {
+        "name": "Laggera alata",
+        "id": "laggera-alata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Laggera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)80077-0"
+        ]
+      }
+    ],
+    "organism_count": 8,
+    "reference_count": 7,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0093986"
+  }
+}

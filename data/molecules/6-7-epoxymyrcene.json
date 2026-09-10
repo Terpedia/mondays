@@ -1,0 +1,82 @@
+{
+  "name": "6,7-Epoxymyrcene",
+  "id": "6-7-epoxymyrcene",
+  "formula": "C10H16O",
+  "pubchem": {
+    "cid": 122371,
+    "title": "Oxirane, 2,2-dimethyl-3-(3-methylene-4-penten-1-yl)-",
+    "formula": "C10H16O",
+    "molecular_weight": 152.23,
+    "smiles": "CC1(C(O1)CCC(=C)C=C)C",
+    "inchikey": "DQGZGGZXMOFHLB-UHFFFAOYSA-N",
+    "iupac_name": "2,2-dimethyl-3-(3-methylidenepent-4-enyl)oxirane",
+    "image": "data/molecules/images/6-7-epoxymyrcene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/122371",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/122371/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 1,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=6%2C7-Epoxymyrcene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "30807000",
+        "title": "A Computational Examination of the Uncatalyzed Meinwald Rearrangement of Monoterpene Epoxides",
+        "journal": "Nat Prod Commun",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30807000/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Tanacetum annuum",
+        "id": "tanacetum-annuum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Tanacetum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)83136-M"
+        ]
+      },
+      {
+        "name": "Zanthoxylum schinifolium",
+        "id": "zanthoxylum-schinifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Zanthoxylum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF0728101"
+        ]
+      },
+      {
+        "name": "Zingiber mioga",
+        "id": "zingiber-mioga",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Zingiber",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.55.1655"
+        ]
+      }
+    ],
+    "organism_count": 3,
+    "reference_count": 3,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0062924"
+  }
+}

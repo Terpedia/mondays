@@ -1,0 +1,263 @@
+{
+  "name": "Citronellyl formate",
+  "id": "citronellyl-formate",
+  "formula": "C11H20O2",
+  "pubchem": {
+    "cid": 7778,
+    "title": "Citronellyl formate",
+    "formula": "C11H20O2",
+    "molecular_weight": 184.27,
+    "smiles": "CC(CCC=C(C)C)CCOC=O",
+    "inchikey": "DZNVIZQPWLDQHI-UHFFFAOYSA-N",
+    "iupac_name": "3,7-dimethyloct-6-enyl formate",
+    "image": "data/molecules/images/citronellyl-formate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/7778",
+    "description": "Citronellyl formate is a carboxylic ester.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:31406"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/7778/PNG"
+  },
+  "targets": [
+    {
+      "accession": "ADZ17354",
+      "activity": "Potency",
+      "value_um": 15.4845,
+      "assay": "qHTS assay to identify small molecule agonists of the RXR signaling pathway: Summary",
+      "aid": "1159531",
+      "pmid": null,
+      "protein": "retinoid X nuclear receptor alpha",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ADZ17354",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "AAI13617",
+      "activity": "Potency",
+      "value_um": 34.3762,
+      "assay": "qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway",
+      "aid": "1259369",
+      "pmid": null,
+      "protein": "GLI family zinc finger 3",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAI13617",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ABI96208",
+      "activity": "Potency",
+      "value_um": 35.5742,
+      "assay": "Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671201",
+      "pmid": null,
+      "protein": "cytochrome P450 family 3 subfamily A polypeptide 4",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ABI96208",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "AGS09764",
+      "activity": "Potency",
+      "value_um": 70.9799,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671198",
+      "pmid": null,
+      "protein": "cytochrome P450 family 2 subfamily C polypeptide 9",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AGS09764",
+      "source": "NCBI Protein"
+    }
+  ],
+  "diseases": [],
+  "literature": {
+    "total": 24,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Citronellyl%20formate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "30000892",
+        "title": "Geranium",
+        "journal": null,
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30000892/"
+      },
+      {
+        "pmid": "40015870",
+        "title": "Insecticidal activity of two Pelargonium essential oils and head transcriptome analysis of stored-product pest Tribolium castaneum (Herbst) (Coleoptera: Tenebrionidae) in response to citronellyl formate fumigation",
+        "journal": "Pestic Biochem Physiol",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40015870/"
+      },
+      {
+        "pmid": "41722126",
+        "title": "Sanhua essential oil exerts antidepressant effects in breast cancer-related depression by modulating metabolic pathways",
+        "journal": "Phytomedicine",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722126/"
+      },
+      {
+        "pmid": "34673180",
+        "title": "RIFM fragrance ingredient safety assessment, citronellyl formate, CAS Registry number 105-85-1",
+        "journal": "Food Chem Toxicol",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34673180/"
+      },
+      {
+        "pmid": "40451105",
+        "title": "Investigating thermal decompositions of six esters additives under heat-not-burn conditions using pyrolysis gas chromatography-mass spectrometry",
+        "journal": "J Chromatogr A",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40451105/"
+      },
+      {
+        "pmid": "39410216",
+        "title": "Insight into Pelargonium odoratissimum Essential Oil Preservative Properties Effect on Ground Beef",
+        "journal": "Foods",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39410216/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Geranium",
+        "id": "geranium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Geranium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1993.9698254",
+          "10.1080/10412905.1993.9698198"
+        ]
+      },
+      {
+        "name": "Pelargonium",
+        "id": "pelargonium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.2001.9699592",
+          "10.1080/10412905.1993.9698209"
+        ]
+      },
+      {
+        "name": "Pelargonium graveolens",
+        "id": "pelargonium-graveolens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1989.9697764",
+          "10.1080/10412905.1990.9697827"
+        ]
+      },
+      {
+        "name": "Cryptomeria japonica",
+        "id": "cryptomeria-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Cryptomeria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697930"
+        ]
+      },
+      {
+        "name": "Daphne odora",
+        "id": "daphne-odora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Thymelaeaceae",
+        "genus": "Daphne",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.47.483"
+        ]
+      },
+      {
+        "name": "Daphne papyracea",
+        "id": "daphne-papyracea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Thymelaeaceae",
+        "genus": "Daphne",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.47.483"
+        ]
+      },
+      {
+        "name": "Leptospermum scoparium",
+        "id": "leptospermum-scoparium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Leptospermum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2004.03.019"
+        ]
+      },
+      {
+        "name": "Pelargonium quercifolium",
+        "id": "pelargonium-quercifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697953"
+        ]
+      },
+      {
+        "name": "Pelargonium vitifolium",
+        "id": "pelargonium-vitifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698083"
+        ]
+      },
+      {
+        "name": "Plectranthus glabratus",
+        "id": "plectranthus-glabratus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Plectranthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698226"
+        ]
+      }
+    ],
+    "organism_count": 10,
+    "reference_count": 12,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0212253"
+  }
+}

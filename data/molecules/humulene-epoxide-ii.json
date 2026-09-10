@@ -1,0 +1,130 @@
+{
+  "name": "Humulene epoxide II",
+  "id": "humulene-epoxide-ii",
+  "formula": "C15H24O",
+  "pubchem": {
+    "cid": 23274265,
+    "title": "Humulene epoxide II",
+    "formula": "C15H24O",
+    "molecular_weight": 220.35,
+    "smiles": "CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C",
+    "inchikey": "QTGAEXCCAPTGLB-QZFXXANLSA-N",
+    "iupac_name": "(3Z,7Z)-1,5,5,8-tetramethyl-12-oxabicyclo[9.1.0]dodeca-3,7-diene",
+    "image": "data/molecules/images/humulene-epoxide-ii.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/23274265",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23274265/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 52,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Humulene%20epoxide%20II%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35625543",
+        "title": "Essential Oils of Duguetia Species A. St. Hill (Annonaceae): Chemical Diversity and Pharmacological Potential",
+        "journal": "Biomolecules",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35625543/"
+      },
+      {
+        "pmid": "26432351",
+        "title": "Medicinal plants of the genus Anthocleista--A review of their ethnobotany, phytochemistry and pharmacology",
+        "journal": "J Ethnopharmacol",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26432351/"
+      },
+      {
+        "pmid": "28536059",
+        "title": "Current state of knowledge on the traditional uses, phytochemistry, and pharmacology of the genus Hymenaea",
+        "journal": "J Ethnopharmacol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28536059/"
+      },
+      {
+        "pmid": "35436102",
+        "title": "Terpenes and Cannabinoids Yields and Profile from Direct-Seeded and Transplanted CBD-Cannabis sativa",
+        "journal": "J Agric Food Chem",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35436102/"
+      },
+      {
+        "pmid": "33867898",
+        "title": "Brazilian essential oils as source for the discovery of new anti-COVID-19 drug: a review guided by in silico study",
+        "journal": "Phytochem Rev",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33867898/"
+      },
+      {
+        "pmid": "38006221",
+        "title": "Potential anti-inflammatory biomarkers from Myrtaceae essential oils revealed by untargeted metabolomics",
+        "journal": "Nat Prod Res",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38006221/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Aframomum melegueta",
+        "id": "aframomum-melegueta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Aframomum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698174"
+        ]
+      },
+      {
+        "name": "Alpinia zerumbet",
+        "id": "alpinia-zerumbet",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698218"
+        ]
+      },
+      {
+        "name": "Cannabis sativa",
+        "id": "cannabis-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Cannabis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50008A001"
+        ]
+      },
+      {
+        "name": "Zingiber zerumbet",
+        "id": "zingiber-zerumbet",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Zingiber",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698277"
+        ]
+      }
+    ],
+    "organism_count": 4,
+    "reference_count": 4,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0274935"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Caryophyllenyl alcohol",
+  "id": "caryophyllenyl-alcohol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 91704770,
+    "title": "Caryophyllenyl alcohol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1CCC(C(=CCC2C1CC2(C)C)C)O",
+    "inchikey": "QYGTVPFTIUUDSL-WZUFQYTHSA-N",
+    "iupac_name": "(3Z)-4,8,11,11-tetramethylbicyclo[7.2.0]undec-3-en-5-ol",
+    "image": "data/molecules/images/caryophyllenyl-alcohol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/91704770",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/91704770/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 3,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Caryophyllenyl%20alcohol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "32872359",
+        "title": "Grinding and Fractionation during Distillation Alter Hemp Essential Oil Profile and Its Antimicrobial Activity",
+        "journal": "Molecules",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32872359/"
+      },
+      {
+        "pmid": "42293562",
+        "title": "Characterization and antibacterial efficacy of Streptomyces sp. NELs-40 against Staphylococcus aureus",
+        "journal": "Front Microbiol",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42293562/"
+      },
+      {
+        "pmid": "42083961",
+        "title": "Phytochemical Exploration and Anti-asthmatic Activity of Crude Methanol Extract and Derived Fractions of Sonchus asper (L.) Hill",
+        "journal": "Curr Med Chem",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083961/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

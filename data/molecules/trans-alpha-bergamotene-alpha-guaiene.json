@@ -1,1 +1,32 @@
-{"name":"trans-α-Bergamotene + α-Guaiene","id":"trans-alpha-bergamotene-alpha-guaiene","formula":null,"pubchem":null,"targets":[],"literature":{"total":2,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene%5BAll%20Fields%5D","papers":[{"pmid":"36677891","title":"Comparison of the Cannabinoid and Terpene Profiles in Commercial Cannabis from Natural and Artificial Cultivation","journal":"Molecules","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36677891/"},{"pmid":"37253914","title":"Foliar application of Phenylalanine functionalized multi-walled carbon nanotube improved the content of volatile compounds of basil grown in greenhouse","journal":"Environ Sci Pollut Res Int","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37253914/"}]},"retrieved":"2026-09-10","summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 1.28–2.44% of total volatiles (0.26–0.49mg per chew).","diseases":[]}
+{
+  "name": "trans-α-Bergamotene + α-Guaiene",
+  "id": "trans-alpha-bergamotene-alpha-guaiene",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "literature": {
+    "total": 2,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "36677891",
+        "title": "Comparison of the Cannabinoid and Terpene Profiles in Commercial Cannabis from Natural and Artificial Cultivation",
+        "journal": "Molecules",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36677891/"
+      },
+      {
+        "pmid": "37253914",
+        "title": "Foliar application of Phenylalanine functionalized multi-walled carbon nanotube improved the content of volatile compounds of basil grown in greenhouse",
+        "journal": "Environ Sci Pollut Res Int",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37253914/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 1.28–2.44% of total volatiles (0.26–0.49mg per chew).",
+  "diseases": [],
+  "occurrence": null
+}

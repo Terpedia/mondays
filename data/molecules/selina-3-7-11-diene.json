@@ -1,1 +1,97 @@
-{"name":"Selina-3,7(11)-diene","id":"selina-3-7-11-diene","formula":"C15H24","pubchem":{"cid":6432648,"title":"Selina-3,7(11)-diene","formula":"C15H24","molecular_weight":204.35,"smiles":"CC1=CCCC2(C1CC(=C(C)C)CC2)C","inchikey":"WNRBYZQFEBIUGD-LSDHHAIUSA-N","iupac_name":"(4aR,8aR)-5,8a-dimethyl-3-propan-2-ylidene-1,2,4,4a,7,8-hexahydronaphthalene","image":"data/molecules/images/selina-3-7-11-diene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/6432648","description":"Selina-3,7(11)-diene is a sesquiterpenoid.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:211601"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6432648/PNG"},"targets":[],"literature":{"total":13,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Selina-3%2C7(11)-diene%5BAll%20Fields%5D","papers":[{"pmid":"35436102","title":"Terpenes and Cannabinoids Yields and Profile from Direct-Seeded and Transplanted CBD-Cannabis sativa","journal":"J Agric Food Chem","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35436102/"},{"pmid":"34615971","title":"Valorization of CBD-hemp through distillation to provide essential oil and improved cannabinoids profile","journal":"Sci Rep","year":"2021","url":"https://pubmed.ncbi.nlm.nih.gov/34615971/"},{"pmid":"41816904","title":"Designed Water Capture in Terpene Synthase Catalysis","journal":"Chembiochem","year":"2026","url":"https://pubmed.ncbi.nlm.nih.gov/41816904/"},{"pmid":"33673274","title":"Chemical and Bioinformatics Analyses of the Anti-Leishmanial and Anti-Oxidant Activities of Hemp Essential Oil","journal":"Biomolecules","year":"2021","url":"https://pubmed.ncbi.nlm.nih.gov/33673274/"},{"pmid":"39436755","title":"Behavioral responses of Araecerus fasciculatus (Coleoptera: Anthribidae) to volatiles of selected stored Chinese medicinal plant products","journal":"J Econ Entomol","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39436755/"},{"pmid":"24243698","title":"Volatile terpenes from actinomycetes: a biosynthetic study correlating chemical analyses to genome data","journal":"Chembiochem","year":"2013","url":"https://pubmed.ncbi.nlm.nih.gov/24243698/"}]},"retrieved":"2026-09-10","summary":null,"evidence":"Measured in 5 of 6 MONDAYS hemp SKUs at 0.13–9.48% of total volatiles (0.026–1.9mg per chew).","diseases":[]}
+{
+  "name": "Selina-3,7(11)-diene",
+  "id": "selina-3-7-11-diene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 6432648,
+    "title": "Selina-3,7(11)-diene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCCC2(C1CC(=C(C)C)CC2)C",
+    "inchikey": "WNRBYZQFEBIUGD-LSDHHAIUSA-N",
+    "iupac_name": "(4aR,8aR)-5,8a-dimethyl-3-propan-2-ylidene-1,2,4,4a,7,8-hexahydronaphthalene",
+    "image": "data/molecules/images/selina-3-7-11-diene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6432648",
+    "description": "Selina-3,7(11)-diene is a sesquiterpenoid.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:211601"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6432648/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 13,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Selina-3%2C7(11)-diene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35436102",
+        "title": "Terpenes and Cannabinoids Yields and Profile from Direct-Seeded and Transplanted CBD-Cannabis sativa",
+        "journal": "J Agric Food Chem",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35436102/"
+      },
+      {
+        "pmid": "34615971",
+        "title": "Valorization of CBD-hemp through distillation to provide essential oil and improved cannabinoids profile",
+        "journal": "Sci Rep",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34615971/"
+      },
+      {
+        "pmid": "41816904",
+        "title": "Designed Water Capture in Terpene Synthase Catalysis",
+        "journal": "Chembiochem",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41816904/"
+      },
+      {
+        "pmid": "33673274",
+        "title": "Chemical and Bioinformatics Analyses of the Anti-Leishmanial and Anti-Oxidant Activities of Hemp Essential Oil",
+        "journal": "Biomolecules",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33673274/"
+      },
+      {
+        "pmid": "39436755",
+        "title": "Behavioral responses of Araecerus fasciculatus (Coleoptera: Anthribidae) to volatiles of selected stored Chinese medicinal plant products",
+        "journal": "J Econ Entomol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39436755/"
+      },
+      {
+        "pmid": "24243698",
+        "title": "Volatile terpenes from actinomycetes: a biosynthetic study correlating chemical analyses to genome data",
+        "journal": "Chembiochem",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24243698/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.13–9.48% of total volatiles (0.026–1.9mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Humulus lupulus",
+        "id": "humulus-lupulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Humulus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)85414-X",
+          "10.1016/S0031-9422(00)85970-1"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 2,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0195440"
+  }
+}

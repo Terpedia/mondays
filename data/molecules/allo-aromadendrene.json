@@ -1,0 +1,107 @@
+{
+  "name": "allo-Aromadendrene",
+  "id": "allo-aromadendrene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 42608158,
+    "title": "Allo-Aromadendrene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1CCC2C1C3C(C3(C)C)CCC2=C",
+    "inchikey": "ITYNGVSTWVVPIC-LRUBOHGLSA-N",
+    "iupac_name": "(4aS,7R,7aR)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",
+    "image": "data/molecules/images/allo-aromadendrene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/42608158",
+    "description": "Allo-Aromadendrene is a sesquiterpenoid.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:166670"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/42608158/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 36,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=allo-Aromadendrene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "28536059",
+        "title": "Current state of knowledge on the traditional uses, phytochemistry, and pharmacology of the genus Hymenaea",
+        "journal": "J Ethnopharmacol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28536059/"
+      },
+      {
+        "pmid": "40733254",
+        "title": "Compositional Variability of Essential Oils and Their Bioactivity in Native and Invasive Erigeron Species",
+        "journal": "Molecules",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40733254/"
+      },
+      {
+        "pmid": "36650708",
+        "title": "Chemical composition and antioxidant activity of the essential oil of Renealmia alpinia (Rottb.) Maas",
+        "journal": "Nat Prod Res",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36650708/"
+      },
+      {
+        "pmid": "33867898",
+        "title": "Brazilian essential oils as source for the discovery of new anti-COVID-19 drug: a review guided by in silico study",
+        "journal": "Phytochem Rev",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33867898/"
+      },
+      {
+        "pmid": "37616214",
+        "title": "Exploring the chemical composition, in vitro and in silico study of the anticandidal properties of annonaceae species essential oils from the Amazon",
+        "journal": "PLoS One",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37616214/"
+      },
+      {
+        "pmid": "39509364",
+        "title": "Chemical profiling and cytotoxicity screening of agarwood essential oil (Aquilaria sinensis) in brine shrimp nauplii and cancer cell lines",
+        "journal": "PLoS One",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39509364/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Artemisia herba-alba",
+        "id": "artemisia-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Seriphidium herba-alba",
+        "id": "seriphidium-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Seriphidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      }
+    ],
+    "organism_count": 2,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0159393"
+  }
+}

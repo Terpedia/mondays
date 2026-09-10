@@ -1,0 +1,471 @@
+{
+  "name": "α-Santalene",
+  "id": "alpha-santalene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 94164,
+    "title": "alpha-Santalene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC(=CCCC1(C2CC3C1(C3C2)C)C)C",
+    "inchikey": "KWFJIXPIFLVMPM-UHFFFAOYSA-N",
+    "iupac_name": "1,7-dimethyl-7-(4-methylpent-3-enyl)tricyclo[2.2.1.02,6]heptane",
+    "image": "data/molecules/images/alpha-santalene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/94164",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/94164/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 56,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Santalene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35729733",
+        "title": "Establishing Komagataella phaffii as a Cell Factory for Efficient Production of Sesquiterpenoid α-Santalene",
+        "journal": "J Agric Food Chem",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35729733/"
+      },
+      {
+        "pmid": "35465671",
+        "title": "Sesquiterpene Synthase Engineering and Targeted Engineering of α-Santalene Overproduction in Escherichia coli",
+        "journal": "J Agric Food Chem",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35465671/"
+      },
+      {
+        "pmid": "34709805",
+        "title": "Metabolic Engineering of Escherichia coli for Production of α-Santalene, a Precursor of Sandalwood Oil",
+        "journal": "J Agric Food Chem",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34709805/"
+      },
+      {
+        "pmid": "30863877",
+        "title": "Yarrowia lipolytica construction for heterologous synthesis of α-santalene and fermentation optimization",
+        "journal": "Appl Microbiol Biotechnol",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30863877/"
+      },
+      {
+        "pmid": "35523896",
+        "title": "Rationally engineering santalene synthase to readjust the component ratio of sandalwood oil",
+        "journal": "Nat Commun",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35523896/"
+      },
+      {
+        "pmid": "41258727",
+        "title": "A Novel Sesquiterpene Synthase from Neophaeococcomyces mojaviensis for α-Santalene Production",
+        "journal": "ACS Synth Biol",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41258727/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Atalantia buxifolia",
+        "id": "atalantia-buxifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Atalantia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 5,
+        "references": [
+          "10.1016/S0031-9422(00)80389-1",
+          "10.1021/NP0005309"
+        ]
+      },
+      {
+        "name": "Severinia buxifolia",
+        "id": "severinia-buxifolia",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Rutaceae",
+        "genus": "Severinia",
+        "taxonomy_source": "ITIS",
+        "reference_count": 5,
+        "references": [
+          "10.1016/S0031-9422(00)80389-1",
+          "10.1021/NP0005309"
+        ]
+      },
+      {
+        "name": "Croton nepetifolius",
+        "id": "croton-nepetifolius",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Euphorbiaceae",
+        "genus": "Croton",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-1999-14025",
+          "10.1021/NP50012A010"
+        ]
+      },
+      {
+        "name": "Achyrospermum africanum",
+        "id": "achyrospermum-africanum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Achyrospermum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698414"
+        ]
+      },
+      {
+        "name": "Aframomum angustifolium",
+        "id": "aframomum-angustifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Aframomum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698405"
+        ]
+      },
+      {
+        "name": "Alpinia galanga",
+        "id": "alpinia-galanga",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)80814-6"
+        ]
+      },
+      {
+        "name": "Angostura trifoliata",
+        "id": "angostura-trifoliata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Angostura",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/PCA.594"
+        ]
+      },
+      {
+        "name": "Aristolochia debilis",
+        "id": "aristolochia-debilis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Aristolochiaceae",
+        "genus": "Aristolochia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50052A041"
+        ]
+      },
+      {
+        "name": "Artemisia xerophytica",
+        "id": "artemisia-xerophytica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568367"
+        ]
+      },
+      {
+        "name": "Ayapana amygdalina",
+        "id": "ayapana-amygdalina",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ayapana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)82719-3"
+        ]
+      },
+      {
+        "name": "Basella alba",
+        "id": "basella-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Basellaceae",
+        "genus": "Basella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0889-1575(91)90017-Z"
+        ]
+      },
+      {
+        "name": "Cinnamomum camphora",
+        "id": "cinnamomum-camphora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Cinnamomum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1246/BCSJ.41.234"
+        ]
+      },
+      {
+        "name": "Citrus latifolia",
+        "id": "citrus-latifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697843"
+        ]
+      },
+      {
+        "name": "Commiphora guidottii",
+        "id": "commiphora-guidottii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Burseraceae",
+        "genus": "Commiphora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969896"
+        ]
+      },
+      {
+        "name": "Cryptomeria japonica",
+        "id": "cryptomeria-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Cryptomeria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697930"
+        ]
+      },
+      {
+        "name": "Cymbopogon schoenanthus",
+        "id": "cymbopogon-schoenanthus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.APJTM.2016.06.009"
+        ]
+      },
+      {
+        "name": "Daphne genkwa",
+        "id": "daphne-genkwa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Thymelaeaceae",
+        "genus": "Daphne",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697875"
+        ]
+      },
+      {
+        "name": "Daucus carota",
+        "id": "daucus-carota",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Daucus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/CBDV.201300390"
+        ]
+      },
+      {
+        "name": "Gossypium hirsutum",
+        "id": "gossypium-hirsutum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Malvaceae",
+        "genus": "Gossypium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF60200A011"
+        ]
+      },
+      {
+        "name": "Illicium micranthum subsp. tsangii",
+        "id": "illicium-micranthum-subsp-tsangii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Schisandraceae",
+        "genus": "Illicium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00652-9"
+        ]
+      },
+      {
+        "name": "Illicium tsangii",
+        "id": "illicium-tsangii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Schisandraceae",
+        "genus": "Illicium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00652-9"
+        ]
+      },
+      {
+        "name": "Monticalia firmipes",
+        "id": "monticalia-firmipes",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Monticalia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83830-3"
+        ]
+      },
+      {
+        "name": "Osyris quadripartita",
+        "id": "osyris-quadripartita",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Santalaceae",
+        "genus": "Osyris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2004.05.007"
+        ]
+      },
+      {
+        "name": "Plexaurella grisea",
+        "id": "plexaurella-grisea",
+        "kingdom": "Metazoa",
+        "phylum": "Cnidaria",
+        "family": "Plexauridae",
+        "genus": "Plexaurella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JO01300A059"
+        ]
+      },
+      {
+        "name": "Pseudowintera colorata",
+        "id": "pseudowintera-colorata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Winteraceae",
+        "genus": "Pseudowintera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/JSFA.2740130304"
+        ]
+      },
+      {
+        "name": "Santalum spicatum",
+        "id": "santalum-spicatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Santalaceae",
+        "genus": "Santalum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697970"
+        ]
+      },
+      {
+        "name": "Schisandra chinensis",
+        "id": "schisandra-chinensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Schisandraceae",
+        "genus": "Schisandra",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/JSSC.200800341"
+        ]
+      },
+      {
+        "name": "Smallanthus uvedalia",
+        "id": "smallanthus-uvedalia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Smallanthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(88)80463-1"
+        ]
+      },
+      {
+        "name": "Umbellularia californica",
+        "id": "umbellularia-californica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Umbellularia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(74)85146-0"
+        ]
+      },
+      {
+        "name": "Valeriana jatamansi",
+        "id": "valeriana-jatamansi",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Valeriana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1026(199703)12:2<123::AID-FFJ613>3.0.CO;2-4"
+        ]
+      }
+    ],
+    "organism_count": 30,
+    "reference_count": 33,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0197179"
+  }
+}

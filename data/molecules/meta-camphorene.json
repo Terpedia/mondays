@@ -1,0 +1,34 @@
+{
+  "name": "meta-Camphorene",
+  "id": "meta-camphorene",
+  "formula": "C20H32",
+  "pubchem": {
+    "cid": 5315649,
+    "title": "m-Camphorene",
+    "formula": "C20H32",
+    "molecular_weight": 272.5,
+    "smiles": "CC(=CCCC1=CCCC(C1)C(=C)CCC=C(C)C)C",
+    "inchikey": "OIRFZVJHADZVMD-UHFFFAOYSA-N",
+    "iupac_name": "5-(6-methylhepta-1,5-dien-2-yl)-1-(4-methylpent-3-enyl)cyclohexene",
+    "image": "data/molecules/images/meta-camphorene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5315649",
+    "description": "Gamma-camphorene is a cycloalkene that is cyclohexene substituted by 2-methylpent-2-en-5-yl and 6-methylhepta-1,5-dien-2-yl groups at positions 1 and 5, respectively. It is a diterpene isolated from several plant species. It has a role as a volatile oil component. It is a cycloalkene and a diterpene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:190332"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5315649/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Selina-4,11-diene",
+  "id": "selina-4-11-diene",
+  "formula": "C16H28",
+  "pubchem": {
+    "cid": 6427714,
+    "title": "(-)-Selina-4,11-diene",
+    "formula": "C16H28",
+    "molecular_weight": 220.39,
+    "smiles": "CCC1(CCCC(=C1CC(C)C(=C)C)C)C",
+    "inchikey": "ZRINCZUYERVHLK-UHFFFAOYSA-N",
+    "iupac_name": "2-(2,3-dimethylbut-3-enyl)-3-ethyl-1,3-dimethylcyclohexene",
+    "image": "data/molecules/images/selina-4-11-diene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6427714",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6427714/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 20,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Selina-4%2C11-diene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "16915816",
+        "title": "N-carboxamido-staurosporine and selina-4(14),7(11)-diene-8,9-diol, new metabolites from a marine Streptomyces sp",
+        "journal": "J Antibiot (Tokyo)",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16915816/"
+      },
+      {
+        "pmid": "36501438",
+        "title": "Neutrophil Immunomodulatory Activity of Nerolidol, a Major Component of Essential Oils from Populus balsamifera Buds and Propolis",
+        "journal": "Plants (Basel)",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36501438/"
+      },
+      {
+        "pmid": "40461226",
+        "title": "[One new sesquiterpene from Aquilariae Lignum Resinatum]",
+        "journal": "Zhongguo Zhong Yao Za Zhi",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40461226/"
+      },
+      {
+        "pmid": "24890698",
+        "title": "Induced-fit mechanism in class I terpene cyclases",
+        "journal": "Angew Chem Int Ed Engl",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24890698/"
+      },
+      {
+        "pmid": "39050902",
+        "title": "Simulation-Guided Engineering Enables a Functional Switch in Selinadiene Synthase toward Hydroxylation",
+        "journal": "ACS Catal",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39050902/"
+      },
+      {
+        "pmid": "41816904",
+        "title": "Designed Water Capture in Terpene Synthase Catalysis",
+        "journal": "Chembiochem",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41816904/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

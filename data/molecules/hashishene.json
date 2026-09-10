@@ -1,0 +1,40 @@
+{
+  "name": "Hashishene",
+  "id": "hashishene",
+  "formula": "C10H16",
+  "pubchem": {
+    "cid": 86182191,
+    "title": "5,5-Dimethyl-1-vinylbicyclo(2.1.1)hexane",
+    "formula": "C10H16",
+    "molecular_weight": 136.23,
+    "smiles": "CC1(C2CCC1(C2)C=C)C",
+    "inchikey": "FVALSVRBUSTXPB-UHFFFAOYSA-N",
+    "iupac_name": "1-ethenyl-5,5-dimethylbicyclo[2.1.1]hexane",
+    "image": "data/molecules/images/hashishene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/86182191",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/86182191/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 1,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Hashishene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "25454145",
+        "title": "Multidimensional analysis of cannabis volatile constituents: identification of 5,5-dimethyl-1-vinylbicyclo[2.1.1]hexane as a volatile marker of hashish, the resin of Cannabis sativa L",
+        "journal": "J Chromatogr A",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25454145/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

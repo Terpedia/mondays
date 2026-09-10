@@ -1,0 +1,182 @@
+{
+  "name": "Bulnesol",
+  "id": "bulnesol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 90785,
+    "title": "Bulnesol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1CCC2=C(CCC(CC12)C(C)(C)O)C",
+    "inchikey": "LGOFSGDSFQNIAT-UHFFFAOYSA-N",
+    "iupac_name": "2-(3,8-dimethyl-1,2,3,3a,4,5,6,7-octahydroazulen-5-yl)propan-2-ol",
+    "image": "data/molecules/images/bulnesol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/90785",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/90785/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 29,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Bulnesol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38869184",
+        "title": "Chemical composition and the anti-inflammatory effect of volatile compounds from Anaxagorea luzonensis A. Gray",
+        "journal": "Z Naturforsch C J Biosci",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38869184/"
+      },
+      {
+        "pmid": "32880963",
+        "title": "Functional characterization of a defense-responsive bulnesol/elemol synthase from potato",
+        "journal": "Physiol Plant",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32880963/"
+      },
+      {
+        "pmid": "36018718",
+        "title": "Chemical composition and bioactivities of Magnolia candollii H.Keng essential oil",
+        "journal": "Z Naturforsch C J Biosci",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36018718/"
+      },
+      {
+        "pmid": "32147928",
+        "title": "A comprehensive review on ethnomedicine, phytochemistry, pharmacology, and toxicity of Tephrosia purpurea (L.) Pers",
+        "journal": "Phytother Res",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32147928/"
+      },
+      {
+        "pmid": "41989556",
+        "title": "Toward sustainable production of bulnesol and elemol enabled by synthetic biology in Saccharomyces cerevisiae",
+        "journal": "Arch Microbiol",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41989556/"
+      },
+      {
+        "pmid": "22422531",
+        "title": "Antifungal Activity of the Essential Oils of Callitris neocaledonica and C. sulcata Heartwood (Cupressaceae)",
+        "journal": "Chem Biodivers",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22422531/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Callitris columellaris",
+        "id": "callitris-columellaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00158-7"
+        ]
+      },
+      {
+        "name": "Callitris intratropica",
+        "id": "callitris-intratropica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00158-7"
+        ]
+      },
+      {
+        "name": "Cymbopogon schoenanthus",
+        "id": "cymbopogon-schoenanthus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.APJTM.2016.06.009"
+        ]
+      },
+      {
+        "name": "Dorystaechas hastata",
+        "id": "dorystaechas-hastata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Dorystaechas",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698087"
+        ]
+      },
+      {
+        "name": "Murraya gleniei",
+        "id": "murraya-gleniei",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Murraya",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81445-4"
+        ]
+      },
+      {
+        "name": "Piper guineense",
+        "id": "piper-guineense",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00083A001"
+        ]
+      },
+      {
+        "name": "Rhanterium epapposum",
+        "id": "rhanterium-epapposum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Rhanterium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730020106"
+        ]
+      },
+      {
+        "name": "Valeriana jatamansi",
+        "id": "valeriana-jatamansi",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Valeriana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/CBDV.201100059"
+        ]
+      }
+    ],
+    "organism_count": 8,
+    "reference_count": 7,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0006790"
+  }
+}

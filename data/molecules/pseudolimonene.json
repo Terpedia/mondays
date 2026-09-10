@@ -1,0 +1,102 @@
+{
+  "name": "Pseudolimonene",
+  "id": "pseudolimonene",
+  "formula": "C10H16",
+  "pubchem": {
+    "cid": 68140,
+    "title": "Cyclohexane, 1-methylene-4-(1-methylethenyl)-",
+    "formula": "C10H16",
+    "molecular_weight": 136.23,
+    "smiles": "CC(=C)C1CCC(=C)CC1",
+    "inchikey": "GOQRXDTWKVYHJH-UHFFFAOYSA-N",
+    "iupac_name": "1-methylidene-4-prop-1-en-2-ylcyclohexane",
+    "image": "data/molecules/images/pseudolimonene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/68140",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/68140/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 2,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Pseudolimonene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "32478422",
+        "title": "Antioxidant compound screening and chemical composition of sweet ginger (Alpinia coriandriodora D. Fang) essential oil and the mechanism of scavenging radicals",
+        "journal": "J Food Biochem",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32478422/"
+      },
+      {
+        "pmid": "42145959",
+        "title": "Resource potential and essential oil composition of Artemisia arenaria DC. in the Northern Aral Sea Region",
+        "journal": "PeerJ",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42145959/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Calamintha incana",
+        "id": "calamintha-incana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Calamintha",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9700529"
+        ]
+      },
+      {
+        "name": "Cyclotrichium niveum",
+        "id": "cyclotrichium-niveum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Cyclotrichium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698316"
+        ]
+      },
+      {
+        "name": "Nepeta racemosa",
+        "id": "nepeta-racemosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Nepeta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698205"
+        ]
+      },
+      {
+        "name": "Perilla frutescens",
+        "id": "perilla-frutescens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Perilla",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00023A054"
+        ]
+      }
+    ],
+    "organism_count": 4,
+    "reference_count": 4,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0196110"
+  }
+}

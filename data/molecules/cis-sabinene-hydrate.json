@@ -1,0 +1,182 @@
+{
+  "name": "cis-Sabinene hydrate",
+  "id": "cis-sabinene-hydrate",
+  "formula": "C10H18O",
+  "pubchem": {
+    "cid": 11744854,
+    "title": "cis-Sabinene hydrate",
+    "formula": "C10H18O",
+    "molecular_weight": 154.25,
+    "smiles": "CC(C)C12CCC(C1C2)(C)O",
+    "inchikey": "KXSDPILWMGFJMM-OPRDCNLKSA-N",
+    "iupac_name": "(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",
+    "image": "data/molecules/images/cis-sabinene-hydrate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/11744854",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11744854/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 31,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=cis-Sabinene%20hydrate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "10854745",
+        "title": "Ratios of cis- and trans-Sabinene Hydrate in Origanum majorana L. and Origanum microphyllum (Bentham) Vogel",
+        "journal": "Biochem Syst Ecol",
+        "year": "2000",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10854745/"
+      },
+      {
+        "pmid": "18272857",
+        "title": "Effects of cis-beta-ocimene, cis-sabinene hydrate, and monoterpene and sesquiterpene mixtures on alfalfa pellet intake by lambs",
+        "journal": "J Anim Sci",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18272857/"
+      },
+      {
+        "pmid": "11418064",
+        "title": "Allylic lithium oxyanionic directed and facilitated simmons-smith cyclopropanation: stereoselective synthesis of (+/-)-cis-sabinene hydrate and a novel ring expansion",
+        "journal": "Org Lett",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11418064/"
+      },
+      {
+        "pmid": "37049808",
+        "title": "Microbiological Studies on the Influence of Essential Oils from Several Origanum Species on Respiratory Pathogens",
+        "journal": "Molecules",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37049808/"
+      },
+      {
+        "pmid": "35684205",
+        "title": "Antimicrobial, Multidrug Resistance Reversal and Biofilm Formation Inhibitory Effect of Origanum majorana Extracts, Essential Oil and Monoterpenes",
+        "journal": "Plants (Basel)",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35684205/"
+      },
+      {
+        "pmid": "37402865",
+        "title": "Effects of altitudes on secondary metabolite contents of Origanum majorana L",
+        "journal": "Sci Rep",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37402865/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Artemisia vulgaris",
+        "id": "artemisia-vulgaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00600857"
+        ]
+      },
+      {
+        "name": "Citrus reticulata",
+        "id": "citrus-reticulata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/HLCA.19630460506"
+        ]
+      },
+      {
+        "name": "Laurus nobilis",
+        "id": "laurus-nobilis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Laurus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00600858"
+        ]
+      },
+      {
+        "name": "Melaleuca alternifolia",
+        "id": "melaleuca-alternifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Melaleuca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00038-9"
+        ]
+      },
+      {
+        "name": "Picea koraiensis",
+        "id": "picea-koraiensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Picea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579987"
+        ]
+      },
+      {
+        "name": "Pinus densiflora",
+        "id": "pinus-densiflora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00574326"
+        ]
+      },
+      {
+        "name": "Tanacetum longifolium",
+        "id": "tanacetum-longifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tanacetum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00396-5"
+        ]
+      },
+      {
+        "name": "Thymus camphoratus",
+        "id": "thymus-camphoratus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00117-9"
+        ]
+      }
+    ],
+    "organism_count": 8,
+    "reference_count": 8,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0215494"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "name": "δ-Selinene",
+  "id": "delta-selinene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 520383,
+    "title": "delta-Selinene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=C2C=C(CCC2(CCC1)C)C(C)C",
+    "inchikey": "VEGYMPQCXPVQJY-UHFFFAOYSA-N",
+    "iupac_name": "4,8a-dimethyl-6-propan-2-yl-2,3,7,8-tetrahydro-1H-naphthalene",
+    "image": "data/molecules/images/delta-selinene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/520383",
+    "description": "Delta-selinene is a selinene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49278"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/520383/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 33,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=delta-Selinene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "31245893",
+        "title": "Sesquiterpene Cyclizations inside the Hexameric Resorcinarene Capsule: Total Synthesis of δ-Selinene and Mechanistic Studies",
+        "journal": "Angew Chem Int Ed Engl",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31245893/"
+      },
+      {
+        "pmid": "12051690",
+        "title": "Alteration of product formation by directed mutagenesis and truncation of the multiple-product sesquiterpene synthases delta-selinene synthase and gamma-humulene synthase",
+        "journal": "Arch Biochem Biophys",
+        "year": "2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12051690/"
+      },
+      {
+        "pmid": "9442047",
+        "title": "Sesquiterpene synthases from grand fir (Abies grandis). Comparison of constitutive and wound-induced activities, and cDNA isolation, characterization, and bacterial expression of delta-selinene synthase and gamma-humulene synthase",
+        "journal": "J Biol Chem",
+        "year": "1998",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9442047/"
+      },
+      {
+        "pmid": "36960928",
+        "title": "Essential oil composition, anti-tyrosinase activity, and molecular docking studies of Knema intermedia Warb. (Myristicaceae)",
+        "journal": "Z Naturforsch C J Biosci",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36960928/"
+      },
+      {
+        "pmid": "38256806",
+        "title": "Chemical Analysis of the Essential Oils from Three Populations of Lippia dulcis Trevir. Grown at Different Locations in Southern Ecuador",
+        "journal": "Plants (Basel)",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38256806/"
+      },
+      {
+        "pmid": "36770639",
+        "title": "Chemical Variation and Environmental Influence on Essential Oil of Cinnamomum camphora",
+        "journal": "Molecules",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36770639/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Alpinia conchigera",
+        "id": "alpinia-conchigera",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698499"
+        ]
+      },
+      {
+        "name": "Asarum rigescens",
+        "id": "asarum-rigescens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Aristolochiaceae",
+        "genus": "Asarum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNC-1984-7-803"
+        ]
+      },
+      {
+        "name": "Bazzania trilobata",
+        "id": "bazzania-trilobata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lepidoziaceae",
+        "genus": "Bazzania",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00123-5"
+        ]
+      },
+      {
+        "name": "Bellis perennis",
+        "id": "bellis-perennis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Bellis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(95)00183-8"
+        ]
+      },
+      {
+        "name": "Calycolpus warszewiczianus",
+        "id": "calycolpus-warszewiczianus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Myrtaceae",
+        "genus": "Calycolpus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698279"
+        ]
+      },
+      {
+        "name": "Calypogeia muelleriana",
+        "id": "calypogeia-muelleriana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Calypogeiaceae",
+        "genus": "Calypogeia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00283-0"
+        ]
+      },
+      {
+        "name": "Cyperus alopecuroides",
+        "id": "cyperus-alopecuroides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cyperaceae",
+        "genus": "Cyperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00154-4"
+        ]
+      },
+      {
+        "name": "Humulus lupulus",
+        "id": "humulus-lupulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Humulus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00118A056"
+        ]
+      },
+      {
+        "name": "Lantana camara",
+        "id": "lantana-camara",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Lantana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)00131-X"
+        ]
+      },
+      {
+        "name": "Lepidozia vitrea",
+        "id": "lepidozia-vitrea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lepidoziaceae",
+        "genus": "Lepidozia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(01)00322-3"
+        ]
+      },
+      {
+        "name": "Pelargonium quercifolium",
+        "id": "pelargonium-quercifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697953"
+        ]
+      },
+      {
+        "name": "Psidium guajava",
+        "id": "psidium-guajava",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730090309"
+        ]
+      },
+      {
+        "name": "Pteronia uncinata",
+        "id": "pteronia-uncinata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Pteronia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(90)85434-H"
+        ]
+      },
+      {
+        "name": "Silphium perfoliatum",
+        "id": "silphium-perfoliatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Silphium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81970-6"
+        ]
+      },
+      {
+        "name": "Symphyogyna brongniartii",
+        "id": "symphyogyna-brongniartii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pallaviciniaceae",
+        "genus": "Symphyogyna",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNC-1991-3-404"
+        ]
+      }
+    ],
+    "organism_count": 15,
+    "reference_count": 15,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0181591"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "name": "Ethanol",
+  "id": "ethanol",
+  "formula": "C2H6O",
+  "pubchem": {
+    "cid": 702,
+    "title": "Ethanol",
+    "formula": "C2H6O",
+    "molecular_weight": 46.07,
+    "smiles": "CCO",
+    "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+    "iupac_name": "ethanol",
+    "image": "data/molecules/images/ethanol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/702",
+    "description": "Ethanol is a primary alcohol that is ethane in which one of the hydrogens is substituted by a hydroxy group. It has a role as a central nervous system depressant, an antiseptic drug, a disinfectant, a polar solvent, a teratogenic agent, a neurotoxin, a NMDA receptor antagonist, a protein kinase C agonist, a mouse metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a human metabolite. It is a volatile organic compound, a primary alcohol, a member of ethanols and an alkyl alcohol. It is a conjugate acid of an ethoxide.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16236"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/702/PNG"
+  },
+  "targets": [
+    {
+      "accession": "NP_032452",
+      "activity": null,
+      "value_um": 0,
+      "assay": "Mouse Kir3.1 (Inwardly rectifying potassium channels)",
+      "aid": "1346514",
+      "pmid": "10570485",
+      "protein": "G protein-activated inward rectifier potassium channel 1 isoform 1",
+      "organism": "Mus musculus",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/NP_032452",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "NP_034735",
+      "activity": null,
+      "value_um": 0,
+      "assay": "Mouse Kir3.4 (Inwardly rectifying potassium channels)",
+      "aid": "1346535",
+      "pmid": "10570485",
+      "protein": "G protein-activated inward rectifier potassium channel 4 isoform 1",
+      "organism": "Mus musculus",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/NP_034735",
+      "source": "NCBI Protein"
+    }
+  ],
+  "diseases": [
+    {
+      "disease": "Kidney disease",
+      "kind": "reported_association",
+      "pmids": [
+        "11573638",
+        "12032193",
+        "11380830",
+        "11418788",
+        "9607216",
+        "12865413",
+        "2013627",
+        "14500028",
+        "16401621",
+        "9174262",
+        "6833425",
+        "10649708",
+        "914932",
+        "10838467",
+        "7723896",
+        "16087168",
+        "17571253",
+        "17699218",
+        "17073580",
+        "17919531"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "kidney-disease"
+    },
+    {
+      "disease": "Pregnancy",
+      "kind": "reported_association",
+      "pmids": [
+        "2994907",
+        "663967",
+        "12698507",
+        "17061063",
+        "3252730",
+        "12833386",
+        "17704099",
+        "16925883",
+        "22420377",
+        "18059417",
+        "22494326",
+        "23159745",
+        "23313728",
+        "23535240",
+        "24704061"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "pregnancy"
+    },
+    {
+      "disease": "Crohn's disease",
+      "kind": "reported_association",
+      "pmids": [
+        "16440420",
+        "11418788",
+        "8723414",
+        "19491857",
+        "17269711",
+        "23516449",
+        "23867873",
+        "24811995",
+        "25598765",
+        "26806034",
+        "26848182",
+        "27609529",
+        "28842642"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "crohn-s-disease"
+    },
+    {
+      "disease": "Ulcerative colitis",
+      "kind": "reported_association",
+      "pmids": [
+        "21059682",
+        "1740537",
+        "17314143",
+        "17269711",
+        "21761941",
+        "23516449",
+        "23867873",
+        "24811995",
+        "25598765",
+        "26806034",
+        "26848182",
+        "27609529",
+        "28842642"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "ulcerative-colitis"
+    },
+    {
+      "disease": "Alcoholism",
+      "kind": "reported_association",
+      "pmids": [
+        "15340856",
+        "182198",
+        "8723414",
+        "16959481",
+        "11958947",
+        "2779169",
+        "9717263",
+        "3410397"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "alcoholism"
+    },
+    {
+      "disease": "Celiac disease",
+      "kind": "reported_association",
+      "pmids": [
+        "3816078",
+        "16425363",
+        "10063930",
+        "6182605",
+        "6182788",
+        "24657864",
+        "21970810",
+        "27452636"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "celiac-disease"
+    },
+    {
+      "disease": "Autism",
+      "kind": "reported_association",
+      "pmids": [
+        "15585776",
+        "7687150",
+        "20423563",
+        "6150139",
+        "3410814",
+        "12205654",
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "autism"
+    },
+    {
+      "disease": "Irritable bowel syndrome",
+      "kind": "reported_association",
+      "pmids": [
+        "9505884",
+        "8723414",
+        "21330412",
+        "21761941",
+        "21494186",
+        "23867873",
+        "27662586"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "irritable-bowel-syndrome"
+    },
+    {
+      "disease": "Lung Cancer",
+      "kind": "reported_association",
+      "pmids": [
+        "18953024",
+        "22157537",
+        "25961003"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "lung-cancer"
+    },
+    {
+      "disease": "Autosomal dominant polycystic kidney disease",
+      "kind": "reported_association",
+      "pmids": [
+        "18215696",
+        "21389975"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "autosomal-dominant-polycystic-kidney-disease"
+    },
+    {
+      "disease": "Diverticular disease",
+      "kind": "reported_association",
+      "pmids": [
+        "8723414",
+        "27622378"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "diverticular-disease"
+    },
+    {
+      "disease": "Cervical myelopathy",
+      "kind": "reported_association",
+      "pmids": [
+        "11580906"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "cervical-myelopathy"
+    },
+    {
+      "disease": "Early preeclampsia",
+      "kind": "reported_association",
+      "pmids": [
+        "22494326"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "early-preeclampsia"
+    },
+    {
+      "disease": "Late-onset preeclampsia",
+      "kind": "reported_association",
+      "pmids": [
+        "23159745"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "late-onset-preeclampsia"
+    },
+    {
+      "disease": "Nonalcoholic fatty liver disease",
+      "kind": "reported_association",
+      "pmids": [
+        "23454028"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "nonalcoholic-fatty-liver-disease"
+    },
+    {
+      "disease": "Pervasive developmental disorder not otherwise specified",
+      "kind": "reported_association",
+      "pmids": [
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "pervasive-developmental-disorder-not-otherwise-specified"
+    },
+    {
+      "disease": "Contact urticaria",
+      "category": "Skin Disease",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/481",
+      "id": "contact-urticaria"
+    },
+    {
+      "disease": "Mordechai, Hien, and David S. Wishart",
+      "category": null,
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0000108",
+      "id": "mordechai-hien-and-david-s-wishart"
+    }
+  ],
+  "literature": {
+    "total": 230528,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Ethanol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "34579050",
+        "title": "Alcohol and Cancer: Epidemiology and Biological Mechanisms",
+        "journal": "Nutrients",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34579050/"
+      },
+      {
+        "pmid": "29268093",
+        "title": "Alcohol and the Brain: Neuronal Molecular Targets, Synapses, and Circuits",
+        "journal": "Neuron",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29268093/"
+      },
+      {
+        "pmid": "31646907",
+        "title": "Ethanol and its metabolites: update on toxicity, benefits, and focus on immunomodulatory effects",
+        "journal": "Drug Metab Rev",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31646907/"
+      },
+      {
+        "pmid": "37049411",
+        "title": "The Influence of Alcohol Consumption on Intestinal Nutrient Absorption: A Comprehensive Review",
+        "journal": "Nutrients",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37049411/"
+      },
+      {
+        "pmid": "39482197",
+        "title": "The evolutionary ecology of ethanol",
+        "journal": "Trends Ecol Evol",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39482197/"
+      },
+      {
+        "pmid": "38555117",
+        "title": "Alcohol and the dopamine system",
+        "journal": "Int Rev Neurobiol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38555117/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

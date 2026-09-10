@@ -1,0 +1,472 @@
+{
+  "name": "cis-α-Bergamotene",
+  "id": "cis-alpha-bergamotene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 6429303,
+    "title": "alpha-CIS-BERGAMOTENE",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCC2CC1C2(C)CCC=C(C)C",
+    "inchikey": "YMBFCQPIMVLNIU-KKUMJFAQSA-N",
+    "iupac_name": "(1S,5S,6S)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",
+    "image": "data/molecules/images/cis-alpha-bergamotene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6429303",
+    "description": "(-)-endo-alpha-bergamotene is a cis-alpha-bergamotene that has (S,S,S)-configuration. It has a role as a plant metabolite.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:61679"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6429303/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 156,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=cis-alpha-Bergamotene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "33316383",
+        "title": "Natural volatile oils derived from herbal medicines: A promising therapy way for treating depressive disorder",
+        "journal": "Pharmacol Res",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33316383/"
+      },
+      {
+        "pmid": "28434859",
+        "title": "Tissue-Specific Emission of (E)-α-Bergamotene Helps Resolve the Dilemma When Pollinators Are Also Herbivores",
+        "journal": "Curr Biol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28434859/"
+      },
+      {
+        "pmid": "42539821",
+        "title": "Regulation of α-bergamotene biosynthesis by the LcDOF5.8-LcTPSbms regulatory module in litchi fruit",
+        "journal": "Fundam Res",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42539821/"
+      },
+      {
+        "pmid": "24906414",
+        "title": "The volatome of Aspergillus fumigatus",
+        "journal": "Eukaryot Cell",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24906414/"
+      },
+      {
+        "pmid": "29331315",
+        "title": "Ethnobotany, phytochemistry and pharmacology of Arctotis arctotoides (L.f.) O. Hoffm.: A review",
+        "journal": "J Ethnopharmacol",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29331315/"
+      },
+      {
+        "pmid": "29781296",
+        "title": "Variation in essential oil composition of Teucrium hircanicum L. from Iran-A rich source of (E)-α-bergamotene",
+        "journal": "Nat Prod Res",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29781296/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Vitex agnus-castus",
+        "id": "vitex-agnus-castus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Vitex",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-2006-957814",
+          "10.1055/S-2006-957433"
+        ]
+      },
+      {
+        "name": "Achyrospermum africanum",
+        "id": "achyrospermum-africanum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Achyrospermum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698414"
+        ]
+      },
+      {
+        "name": "Alpinia latilabris",
+        "id": "alpinia-latilabris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698447"
+        ]
+      },
+      {
+        "name": "Angostura trifoliata",
+        "id": "angostura-trifoliata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Angostura",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/PCA.594"
+        ]
+      },
+      {
+        "name": "Arum maculatum",
+        "id": "arum-maculatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Araceae",
+        "genus": "Arum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0305-1978(95)00026-Q"
+        ]
+      },
+      {
+        "name": "Citrus aurantifolia",
+        "id": "citrus-aurantifolia",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.07.031"
+        ]
+      },
+      {
+        "name": "Citrus aurantiifolia",
+        "id": "citrus-aurantiifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.07.031"
+        ]
+      },
+      {
+        "name": "Citrus hystrix",
+        "id": "citrus-hystrix",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.07.031"
+        ]
+      },
+      {
+        "name": "Citrus limon",
+        "id": "citrus-limon",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.07.031"
+        ]
+      },
+      {
+        "name": "Conyza canadensis",
+        "id": "conyza-canadensis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Conyza",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(88)80461-8"
+        ]
+      },
+      {
+        "name": "Croton zehntneri",
+        "id": "croton-zehntneri",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Euphorbiaceae",
+        "genus": "Croton",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50017A019"
+        ]
+      },
+      {
+        "name": "Erigeron canadensis",
+        "id": "erigeron-canadensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Erigeron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(88)80461-8"
+        ]
+      },
+      {
+        "name": "Gossypium hirsutum",
+        "id": "gossypium-hirsutum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Malvaceae",
+        "genus": "Gossypium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1603/EC12178"
+        ]
+      },
+      {
+        "name": "Gymnomitrion alpinum",
+        "id": "gymnomitrion-alpinum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Gymnomitriaceae",
+        "genus": "Gymnomitrion",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00214-5"
+        ]
+      },
+      {
+        "name": "Hamamelis virginiana",
+        "id": "hamamelis-virginiana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Hamamelidaceae",
+        "genus": "Hamamelis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957420"
+        ]
+      },
+      {
+        "name": "Haplopappus tenuisectus",
+        "id": "haplopappus-tenuisectus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Haplopappus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(79)80205-8"
+        ]
+      },
+      {
+        "name": "Helichrysum italicum subsp. picardii",
+        "id": "helichrysum-italicum-subsp-picardii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-959616"
+        ]
+      },
+      {
+        "name": "Heterotheca subaxillaris",
+        "id": "heterotheca-subaxillaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Heterotheca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(79)80131-4"
+        ]
+      },
+      {
+        "name": "Isocoma tenuisecta",
+        "id": "isocoma-tenuisecta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Isocoma",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(79)80205-8"
+        ]
+      },
+      {
+        "name": "Lippia multiflora",
+        "id": "lippia-multiflora",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Verbenaceae",
+        "genus": "Lippia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698531"
+        ]
+      },
+      {
+        "name": "Mosla cavaleriei",
+        "id": "mosla-cavaleriei",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mosla",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698478"
+        ]
+      },
+      {
+        "name": "Osyris quadripartita",
+        "id": "osyris-quadripartita",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Santalaceae",
+        "genus": "Osyris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2004.05.007"
+        ]
+      },
+      {
+        "name": "Pelargonium endlicherianum",
+        "id": "pelargonium-endlicherianum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-960872"
+        ]
+      },
+      {
+        "name": "Persicaria odorata subsp. odorata",
+        "id": "persicaria-odorata-subsp-odorata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Polygonaceae",
+        "genus": "Persicaria",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698534"
+        ]
+      },
+      {
+        "name": "Pimpinella anisum",
+        "id": "pimpinella-anisum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Pimpinella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00022-3"
+        ]
+      },
+      {
+        "name": "Solidago canadensis",
+        "id": "solidago-canadensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Solidago",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-959673"
+        ]
+      },
+      {
+        "name": "Spondias mombin",
+        "id": "spondias-mombin",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Spondias",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698127"
+        ]
+      },
+      {
+        "name": "Tambourissa leptophylla",
+        "id": "tambourissa-leptophylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Monimiaceae",
+        "genus": "Tambourissa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2001-12001"
+        ]
+      },
+      {
+        "name": "Tanacetum longifolium",
+        "id": "tanacetum-longifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tanacetum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00396-5"
+        ]
+      },
+      {
+        "name": "Widdringtonia whytei",
+        "id": "widdringtonia-whytei",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Widdringtonia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730030303"
+        ]
+      }
+    ],
+    "organism_count": 30,
+    "reference_count": 26,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0153835"
+  }
+}

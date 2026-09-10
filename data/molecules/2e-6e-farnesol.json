@@ -1,0 +1,642 @@
+{
+  "name": "(2E,6E)-Farnesol",
+  "id": "2e-6e-farnesol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 445070,
+    "title": "Farnesol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC(=CCCC(=CCCC(=CCO)C)C)C",
+    "inchikey": "CRDAMVZIKSXKFV-YFVJMOTDSA-N",
+    "iupac_name": "(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",
+    "image": "data/molecules/images/2e-6e-farnesol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/445070",
+    "description": "Farnesol is a farnesane sesquiterpenoid that is dodeca-2,6,10-triene substituted by methyl groups at positions 3, 7 and 11 and a hydroxy group at position 1. It has a role as an antimicrobial agent, a plant metabolite and a fungal metabolite. It is a primary alcohol, a polyprenol and a farnesane sesquiterpenoid.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28600"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445070/PNG"
+  },
+  "targets": [
+    {
+      "accession": "P27338",
+      "activity": "Ki",
+      "value_um": 0.8,
+      "assay": "MAO Inhibition Assay from Article 10.1074/jbc.M500949200: \"Demonstration of isoleucine 199 as a structural determinant for the selective inhibition of human monoamine oxidase B by specific reversible inhibitors.\"",
+      "aid": "1796581",
+      "pmid": "15710600",
+      "protein": "Amine oxidase [flavin-containing] B",
+      "gene": "MAOB",
+      "organism": "Homo sapiens",
+      "url": "https://www.uniprot.org/uniprotkb/P27338",
+      "source": "UniProt"
+    },
+    {
+      "accession": "Q8BW75",
+      "activity": "Ki",
+      "value_um": 2.4,
+      "assay": "MAO Inhibition Assay from Article 10.1074/jbc.M500949200: \"Demonstration of isoleucine 199 as a structural determinant for the selective inhibition of human monoamine oxidase B by specific reversible inhibitors.\"",
+      "aid": "1796581",
+      "pmid": "15710600",
+      "protein": "Amine oxidase [flavin-containing] B",
+      "gene": "Maob",
+      "organism": "Mus musculus",
+      "url": "https://www.uniprot.org/uniprotkb/Q8BW75",
+      "source": "UniProt"
+    },
+    {
+      "accession": "AAV41877",
+      "activity": "Potency",
+      "value_um": 4.4785,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671197",
+      "pmid": null,
+      "protein": "cytochrome P450, family 2, subfamily C, polypeptide 19",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAV41877",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "P19643",
+      "activity": "Ki",
+      "value_um": 5,
+      "assay": "MAO Inhibition Assay from Article 10.1074/jbc.M500949200: \"Demonstration of isoleucine 199 as a structural determinant for the selective inhibition of human monoamine oxidase B by specific reversible inhibitors.\"",
+      "aid": "1796581",
+      "pmid": "15710600",
+      "protein": "Amine oxidase [flavin-containing] B",
+      "gene": "Maob",
+      "organism": "Rattus norvegicus",
+      "url": "https://www.uniprot.org/uniprotkb/P19643",
+      "source": "UniProt"
+    },
+    {
+      "accession": "AGS09764",
+      "activity": "Potency",
+      "value_um": 17.8293,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671198",
+      "pmid": null,
+      "protein": "cytochrome P450 family 2 subfamily C polypeptide 9",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AGS09764",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ABI96208",
+      "activity": "Potency",
+      "value_um": 25.1846,
+      "assay": "Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671201",
+      "pmid": null,
+      "protein": "cytochrome P450 family 3 subfamily A polypeptide 4",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ABI96208",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "EAW99313",
+      "activity": "Potency",
+      "value_um": 28.2576,
+      "assay": "Cytochrome P450 Family 1 Subfamily A Member 2 (CYP1A2) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671199",
+      "pmid": null,
+      "protein": "cytochrome P450, family 1, subfamily A, polypeptide 2",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/EAW99313",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "Q8WZA2",
+      "activity": "Potency",
+      "value_um": 31.1984,
+      "assay": "Confirmatory qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2)",
+      "aid": "1645885",
+      "pmid": null,
+      "protein": "Rap guanine nucleotide exchange factor 4",
+      "gene": "RAPGEF4",
+      "organism": "Homo sapiens",
+      "url": "https://www.uniprot.org/uniprotkb/Q8WZA2",
+      "source": "UniProt"
+    },
+    {
+      "accession": "ANW61984",
+      "activity": "Potency",
+      "value_um": 39.9149,
+      "assay": "Cytochrome P450 Family 2 Subfamily D Member 6 (CYP2D6) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671196",
+      "pmid": null,
+      "protein": "cytochrome P450 2D6",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ANW61984",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "AAI13617",
+      "activity": "Potency",
+      "value_um": 43.2771,
+      "assay": "qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway",
+      "aid": "1259369",
+      "pmid": null,
+      "protein": "GLI family zinc finger 3",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAI13617",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ADZ17384",
+      "activity": "Potency",
+      "value_um": 43.2771,
+      "assay": "Human pregnane X receptor (PXR) small molecule agonists, qHTS assay",
+      "aid": "1346982",
+      "pmid": null,
+      "protein": "pregnane X nuclear receptor",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ADZ17384",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "NP_001257783",
+      "activity": "Potency",
+      "value_um": 61.1306,
+      "assay": "qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway",
+      "aid": "743065",
+      "pmid": null,
+      "protein": "thyroid hormone receptor beta isoform 2",
+      "organism": "Rattus norvegicus",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/NP_001257783",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ADZ17378",
+      "activity": "Potency",
+      "value_um": 61.1306,
+      "assay": "qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library",
+      "aid": "1224848",
+      "pmid": null,
+      "protein": "estrogen-related nuclear receptor alpha",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ADZ17378",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ADZ17337",
+      "activity": "Potency",
+      "value_um": 68.5896,
+      "assay": "qHTS assay to identify small molecule antagonists of the retinoic acid receptor (RAR) signaling pathway ",
+      "aid": "1159552",
+      "pmid": null,
+      "protein": "retinoic acid nuclear receptor alpha variant 1",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ADZ17337",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "AAH11558",
+      "activity": "Potency",
+      "value_um": 68.5896,
+      "assay": "Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists: luciferase reporter gene qHTS assay in human keratinocytes",
+      "aid": "1919969",
+      "pmid": null,
+      "protein": "Nuclear factor (erythroid-derived 2)-like 2",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAH11558",
+      "source": "NCBI Protein"
+    }
+  ],
+  "diseases": [
+    {
+      "disease": "Contact dermatitis, allergic",
+      "category": "Skin Disease",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/5274",
+      "id": "contact-dermatitis-allergic"
+    }
+  ],
+  "literature": {
+    "total": 15,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=(2E%2C6E)-Farnesol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "6366103",
+        "title": "Farnesol and farnesal dehydrogenase(s) in corpora allata of the tobacco hornworm moth, Manduca sexta",
+        "journal": "J Lipid Res",
+        "year": "1983",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6366103/"
+      },
+      {
+        "pmid": "17192005",
+        "title": "Biotransformation of terpenoids by mammals, microorganisms, and plant-cultured cells",
+        "journal": "Chem Biodivers",
+        "year": "2005",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17192005/"
+      },
+      {
+        "pmid": "23902158",
+        "title": "Acyclic sesquiterpenes released by Candida albicans inhibit growth of dermatophytes",
+        "journal": "Med Mycol",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23902158/"
+      },
+      {
+        "pmid": "28930266",
+        "title": "Chemical Composition of Four Essential Oils of Eugenia from the Brazilian Amazon and Their Cytotoxic and Antioxidant Activity",
+        "journal": "Medicines (Basel)",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28930266/"
+      },
+      {
+        "pmid": "20201526",
+        "title": "Bisabolyl-derived sesquiterpenes from tobacco 5-epi-aristolochene synthase-catalyzed cyclization of (2Z,6E)-farnesyl diphosphate",
+        "journal": "J Am Chem Soc",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20201526/"
+      },
+      {
+        "pmid": "28223871",
+        "title": "New acyclic secondary metabolites from the biologically active fraction of Albizia lebbeck flowers",
+        "journal": "Saudi Pharm J",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28223871/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Alpinia katsumadai",
+        "id": "alpinia-katsumadai",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JM901440F",
+          "10.1248/CPB.31.1544"
+        ]
+      },
+      {
+        "name": "Eucommia ulmoides",
+        "id": "eucommia-ulmoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Eucommiaceae",
+        "genus": "Eucommia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/S11745-001-0778-5",
+          "10.1016/S0021-9673(00)01250-4"
+        ]
+      },
+      {
+        "name": "Abies firma",
+        "id": "abies-firma",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)80837-7"
+        ]
+      },
+      {
+        "name": "Acokanthera oblongifolia",
+        "id": "acokanthera-oblongifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apocynaceae",
+        "genus": "Acokanthera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-0028-1099492"
+        ]
+      },
+      {
+        "name": "Boletinus cavipes",
+        "id": "boletinus-cavipes",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Gyrodontaceae",
+        "genus": "Boletinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB.59.1036"
+        ]
+      },
+      {
+        "name": "Bombus hortorum",
+        "id": "bombus-hortorum",
+        "kingdom": "Metazoa",
+        "phylum": "Arthropoda",
+        "family": "Apidae",
+        "genus": "Bombus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.45-0972"
+        ]
+      },
+      {
+        "name": "Citrus grandis",
+        "id": "citrus-grandis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/JSSC.200900267"
+        ]
+      },
+      {
+        "name": "Citrus maxima",
+        "id": "citrus-maxima",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/JSSC.200900267"
+        ]
+      },
+      {
+        "name": "Coluria geoides",
+        "id": "coluria-geoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Coluria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1042/BST0280790"
+        ]
+      },
+      {
+        "name": "Geum geoides",
+        "id": "geum-geoides",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rosaceae",
+        "genus": "Geum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1042/BST0280790"
+        ]
+      },
+      {
+        "name": "Juniperus communis",
+        "id": "juniperus-communis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1139/V69-334"
+        ]
+      },
+      {
+        "name": "Lantana camara",
+        "id": "lantana-camara",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Lantana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1026(199901/02)14:1<15::AID-FFJ777>3.0.CO;2-M"
+        ]
+      },
+      {
+        "name": "Lantana strigocamara",
+        "id": "lantana-strigocamara",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Lantana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1026(199901/02)14:1<15::AID-FFJ777>3.0.CO;2-M"
+        ]
+      },
+      {
+        "name": "Lonicera japonica",
+        "id": "lonicera-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Lonicera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3390/MOLECULES18021368"
+        ]
+      },
+      {
+        "name": "Matricaria chamomilla",
+        "id": "matricaria-chamomilla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Matricaria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00037A027"
+        ]
+      },
+      {
+        "name": "Melaleuca leucadendra",
+        "id": "melaleuca-leucadendra",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Melaleuca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP9606052"
+        ]
+      },
+      {
+        "name": "Mentha longifolia",
+        "id": "mentha-longifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mentha",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-960356"
+        ]
+      },
+      {
+        "name": "Mentha spicata",
+        "id": "mentha-spicata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mentha",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-960356"
+        ]
+      },
+      {
+        "name": "Nicotiana alata",
+        "id": "nicotiana-alata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Nicotiana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2006.05.038"
+        ]
+      },
+      {
+        "name": "Pinus densiflora",
+        "id": "pinus-densiflora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.33.4074"
+        ]
+      },
+      {
+        "name": "Pinus thunbergii",
+        "id": "pinus-thunbergii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.33.4074"
+        ]
+      },
+      {
+        "name": "Potentilla",
+        "id": "potentilla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Potentilla",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1139/O92-068"
+        ]
+      },
+      {
+        "name": "Rudbeckia mollis",
+        "id": "rudbeckia-mollis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Rudbeckia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)80361-H"
+        ]
+      },
+      {
+        "name": "Suillus cavipes",
+        "id": "suillus-cavipes",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Suillaceae",
+        "genus": "Suillus",
+        "taxonomy_source": "Index Fungorum",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB.59.1036"
+        ]
+      },
+      {
+        "name": "Tagetes lucida",
+        "id": "tagetes-lucida",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tagetes",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1026(199701)12:1<47::AID-FFJ610>3.0.CO;2-7"
+        ]
+      },
+      {
+        "name": "Torreya nucifera",
+        "id": "torreya-nucifera",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Taxaceae",
+        "genus": "Torreya",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)82385-7"
+        ]
+      },
+      {
+        "name": "Wigandia urens subsp. urens",
+        "id": "wigandia-urens-subsp-urens",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Hydrophyllaceae",
+        "genus": "Wigandia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)82225-6"
+        ]
+      },
+      {
+        "name": "Zanthoxylum zanthoxyloides",
+        "id": "zanthoxylum-zanthoxyloides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Zanthoxylum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50046A035"
+        ]
+      }
+    ],
+    "organism_count": 28,
+    "reference_count": 24,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0209244"
+  }
+}

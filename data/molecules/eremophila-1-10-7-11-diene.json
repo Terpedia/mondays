@@ -1,1 +1,49 @@
-{"name":"Eremophila-1(10),7(11)-diene","id":"eremophila-1-10-7-11-diene","formula":"C15H24","pubchem":{"cid":103501,"title":"cis-1,2,3,5,6,7,8,8a-Octahydro-1,8a-dimethyl-7-(1-methylethylidene)naphthalene","formula":"C15H24","molecular_weight":204.35,"smiles":"CC1CCC=C2C1(CC(=C(C)C)CC2)C","inchikey":"USADAYYQBBHRCI-UHFFFAOYSA-N","iupac_name":"1,8a-dimethyl-7-propan-2-ylidene-1,2,3,5,6,8-hexahydronaphthalene","image":"data/molecules/images/eremophila-1-10-7-11-diene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/103501","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/103501/PNG"},"targets":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-10","summary":null,"evidence":"Measured in 5 of 6 MONDAYS hemp SKUs at 0.07–1.17% of total volatiles (0.014–0.23mg per chew).","diseases":[]}
+{
+  "name": "Eremophila-1(10),7(11)-diene",
+  "id": "eremophila-1-10-7-11-diene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 103501,
+    "title": "cis-1,2,3,5,6,7,8,8a-Octahydro-1,8a-dimethyl-7-(1-methylethylidene)naphthalene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1CCC=C2C1(CC(=C(C)C)CC2)C",
+    "inchikey": "USADAYYQBBHRCI-UHFFFAOYSA-N",
+    "iupac_name": "1,8a-dimethyl-7-propan-2-ylidene-1,2,3,5,6,8-hexahydronaphthalene",
+    "image": "data/molecules/images/eremophila-1-10-7-11-diene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/103501",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/103501/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.07–1.17% of total volatiles (0.014–0.23mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Othonna coronopifolia",
+        "id": "othonna-coronopifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Othonna",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/CBER.19741071225"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0055056"
+  }
+}

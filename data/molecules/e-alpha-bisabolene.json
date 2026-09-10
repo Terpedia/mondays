@@ -1,1 +1,408 @@
-{"name":"(E)-α-Bisabolene","id":"e-alpha-bisabolene","formula":"C15H24","pubchem":{"cid":5315468,"title":"alpha-Bisabolene, (E)-","formula":"C15H24","molecular_weight":204.35,"smiles":"CC1=CCC(CC1)C(=CCC=C(C)C)C","inchikey":"YHBUQBJHSRGZNF-VGOFMYFVSA-N","iupac_name":"1-methyl-4-[(2E)-6-methylhepta-2,5-dien-2-yl]cyclohexene","image":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5315468/PNG","url":"https://pubchem.ncbi.nlm.nih.gov/compound/5315468","description":"Alpha-bisabolene is a bisabolene.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49240"}},"targets":[],"literature":{"total":23,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=(E)-alpha-Bisabolene%5BAll%20Fields%5D","papers":[{"pmid":"35378352","title":"Latent potentials of the white-rot basidiomycete Phanerochaete chrysosporium responsible for sesquiterpene metabolism: CYP5158A1 and CYP5144C8 decorate (E)-α-bisabolene","journal":"Enzyme Microb Technol","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35378352/"},{"pmid":"36104783","title":"Farnesyl pyrophosphate compartmentalization in the green microalga Chlamydomonas reinhardtii during heterologous (E)-α-bisabolene production","journal":"Microb Cell Fact","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/36104783/"},{"pmid":"40044027","title":"The oleaginous yeast Rhodosporidium toruloides engineered for biomass hydrolysate-derived (E)-α-bisabolene production","journal":"Metab Eng","year":"2025","url":"https://pubmed.ncbi.nlm.nih.gov/40044027/"},{"pmid":"29258965","title":"Tailored carbon partitioning for phototrophic production of (E)-α-bisabolene from the green microalga Chlamydomonas reinhardtii","journal":"Metab Eng","year":"2018","url":"https://pubmed.ncbi.nlm.nih.gov/29258965/"},{"pmid":"9618485","title":"Terpenoid-based defenses in conifers: cDNA cloning, characterization, and functional expression of wound-inducible (E)-alpha-bisabolene synthase from grand fir (Abies grandis)","journal":"Proc Natl Acad Sci U S A","year":"1998","url":"https://pubmed.ncbi.nlm.nih.gov/9618485/"},{"pmid":"26442918","title":"Investigating sesquiterpene biosynthesis in Ginkgo biloba: molecular cloning and functional characterization of (E,E)-farnesol and α-bisabolene synthases","journal":"Plant Mol Biol","year":"2015","url":"https://pubmed.ncbi.nlm.nih.gov/26442918/"}]},"retrieved":"2026-09-10","summary":null,"evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 0.07–0.98% of total volatiles (0.014–0.196mg per chew).","diseases":[]}
+{
+  "name": "(E)-α-Bisabolene",
+  "id": "e-alpha-bisabolene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 5315468,
+    "title": "alpha-Bisabolene, (E)-",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCC(CC1)C(=CCC=C(C)C)C",
+    "inchikey": "YHBUQBJHSRGZNF-VGOFMYFVSA-N",
+    "iupac_name": "1-methyl-4-[(2E)-6-methylhepta-2,5-dien-2-yl]cyclohexene",
+    "image": "data/molecules/images/e-alpha-bisabolene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5315468",
+    "description": "Alpha-bisabolene is a bisabolene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49240"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5315468/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 23,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=(E)-alpha-Bisabolene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35378352",
+        "title": "Latent potentials of the white-rot basidiomycete Phanerochaete chrysosporium responsible for sesquiterpene metabolism: CYP5158A1 and CYP5144C8 decorate (E)-α-bisabolene",
+        "journal": "Enzyme Microb Technol",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35378352/"
+      },
+      {
+        "pmid": "36104783",
+        "title": "Farnesyl pyrophosphate compartmentalization in the green microalga Chlamydomonas reinhardtii during heterologous (E)-α-bisabolene production",
+        "journal": "Microb Cell Fact",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36104783/"
+      },
+      {
+        "pmid": "29258965",
+        "title": "Tailored carbon partitioning for phototrophic production of (E)-α-bisabolene from the green microalga Chlamydomonas reinhardtii",
+        "journal": "Metab Eng",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29258965/"
+      },
+      {
+        "pmid": "9618485",
+        "title": "Terpenoid-based defenses in conifers: cDNA cloning, characterization, and functional expression of wound-inducible (E)-alpha-bisabolene synthase from grand fir (Abies grandis)",
+        "journal": "Proc Natl Acad Sci U S A",
+        "year": "1998",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9618485/"
+      },
+      {
+        "pmid": "40044027",
+        "title": "The oleaginous yeast Rhodosporidium toruloides engineered for biomass hydrolysate-derived (E)-α-bisabolene production",
+        "journal": "Metab Eng",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40044027/"
+      },
+      {
+        "pmid": "26442918",
+        "title": "Investigating sesquiterpene biosynthesis in Ginkgo biloba: molecular cloning and functional characterization of (E,E)-farnesol and α-bisabolene synthases",
+        "journal": "Plant Mol Biol",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26442918/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "summary": null,
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 0.07–0.98% of total volatiles (0.014–0.196mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Abies sibirica subsp. semenovii",
+        "id": "abies-sibirica-subsp-semenovii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00574818"
+        ]
+      },
+      {
+        "name": "Aloysia citriodora",
+        "id": "aloysia-citriodora",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Verbenaceae",
+        "genus": "Aloysia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698409"
+        ]
+      },
+      {
+        "name": "Aloysia citrodora",
+        "id": "aloysia-citrodora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Aloysia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698409"
+        ]
+      },
+      {
+        "name": "Aloysia triphylla",
+        "id": "aloysia-triphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Aloysia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698409"
+        ]
+      },
+      {
+        "name": "Chandonanthus hirtellus",
+        "id": "chandonanthus-hirtellus",
+        "kingdom": "Archaeplastida",
+        "phylum": "Streptophyta",
+        "family": "Anastrophyllaceae",
+        "genus": "Chandonanthus",
+        "taxonomy_source": "Open Tree of Life",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)83456-U"
+        ]
+      },
+      {
+        "name": "Chrysanthemum indicum",
+        "id": "chrysanthemum-indicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Chrysanthemum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969858"
+        ]
+      },
+      {
+        "name": "Commiphora guidottii",
+        "id": "commiphora-guidottii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Burseraceae",
+        "genus": "Commiphora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969896"
+        ]
+      },
+      {
+        "name": "Dendranthema indicum",
+        "id": "dendranthema-indicum",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Asteraceae",
+        "genus": "Dendranthema",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969858"
+        ]
+      },
+      {
+        "name": "Eremanthus arboreus",
+        "id": "eremanthus-arboreus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Eremanthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1989.9697801"
+        ]
+      },
+      {
+        "name": "Garcinia mangostana",
+        "id": "garcinia-mangostana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Clusiaceae",
+        "genus": "Garcinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80025-3"
+        ]
+      },
+      {
+        "name": "Gossypium hirsutum",
+        "id": "gossypium-hirsutum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Malvaceae",
+        "genus": "Gossypium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF60200A011"
+        ]
+      },
+      {
+        "name": "Grindelia hirsutula",
+        "id": "grindelia-hirsutula",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Grindelia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957488"
+        ]
+      },
+      {
+        "name": "Grindelia pulchella",
+        "id": "grindelia-pulchella",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Grindelia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957488"
+        ]
+      },
+      {
+        "name": "Hedyosmum bonplandianum",
+        "id": "hedyosmum-bonplandianum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Chloranthaceae",
+        "genus": "Hedyosmum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/1099-1026(200005/06)15:3<201::AID-FFJ893>3.0.CO;2-I"
+        ]
+      },
+      {
+        "name": "Melissa officinalis",
+        "id": "melissa-officinalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Melissa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-960032"
+        ]
+      },
+      {
+        "name": "Origanum vulgare",
+        "id": "origanum-vulgare",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698253"
+        ]
+      },
+      {
+        "name": "Origanum vulgare subsp. viride",
+        "id": "origanum-vulgare-subsp-viride",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698253"
+        ]
+      },
+      {
+        "name": "Origanum vulgare subsp. viridulum",
+        "id": "origanum-vulgare-subsp-viridulum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698253"
+        ]
+      },
+      {
+        "name": "Pectis elongata var. floribunda",
+        "id": "pectis-elongata-var-floribunda",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Pectis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1999.9701062"
+        ]
+      },
+      {
+        "name": "Plicanthus hirtellus",
+        "id": "plicanthus-hirtellus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anastrophyllaceae",
+        "genus": "Plicanthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)83456-U"
+        ]
+      },
+      {
+        "name": "Pseudotsuga menziesii",
+        "id": "pseudotsuga-menziesii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pseudotsuga",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0305-1978(95)00033-Q"
+        ]
+      },
+      {
+        "name": "Syzygiella autumnalis",
+        "id": "syzygiella-autumnalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Adelanthaceae",
+        "genus": "Syzygiella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100311"
+        ]
+      },
+      {
+        "name": "Teucrium polium",
+        "id": "teucrium-polium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50039A032"
+        ]
+      },
+      {
+        "name": "Valeriana officinalis",
+        "id": "valeriana-officinalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Valeriana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0305-1978(84)90011-5"
+        ]
+      },
+      {
+        "name": "Ziziphus jujuba",
+        "id": "ziziphus-jujuba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rhamnaceae",
+        "genus": "Ziziphus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00597721"
+        ]
+      }
+    ],
+    "organism_count": 25,
+    "reference_count": 18,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0046940"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Ipsdienol",
+  "id": "ipsdienol",
+  "formula": "C10H16O",
+  "pubchem": {
+    "cid": 92301,
+    "title": "Ipsdienol",
+    "formula": "C10H16O",
+    "molecular_weight": 152.23,
+    "smiles": "CC(=CC(CC(=C)C=C)O)C",
+    "inchikey": "NHMKYUHMPXBMFI-SNVBAGLBSA-N",
+    "iupac_name": "(4S)-2-methyl-6-methylideneocta-2,7-dien-4-ol",
+    "image": "data/molecules/images/ipsdienol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/92301",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/92301/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 117,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Ipsdienol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "20727970",
+        "title": "Pheromone production in bark beetles",
+        "journal": "Insect Biochem Mol Biol",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20727970/"
+      },
+      {
+        "pmid": "33539044",
+        "title": "The Synthesis of Ipsenol and Ipsdienol: A Review (1968-2020)",
+        "journal": "Chem Rec",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33539044/"
+      },
+      {
+        "pmid": "37788443",
+        "title": "Enantiospecific response of Ips avulsus (Coleoptera: Curculionidae: Scolytinae) to ipsdienol depends on semiochemical context",
+        "journal": "Environ Entomol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37788443/"
+      },
+      {
+        "pmid": "24254873",
+        "title": "The role of lanierone in the chemical ecology ofIps pini (Coleoptera: Scolytidae) in California",
+        "journal": "J Chem Ecol",
+        "year": "1992",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24254873/"
+      },
+      {
+        "pmid": "33359166",
+        "title": "Cytochromes P450: terpene detoxification and pheromone production in bark beetles",
+        "journal": "Curr Opin Insect Sci",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33359166/"
+      },
+      {
+        "pmid": "22812131",
+        "title": "Role of ipsdienol, ipsenol, and cis-verbenol in chemical ecology of Ips avulsus, Ips calligraphus, and Ips grandicollis (Coleoptera: Curculionidae: Scolytinae)",
+        "journal": "J Econ Entomol",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22812131/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Bostrichus cembrae",
+        "id": "bostrichus-cembrae",
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "family": "Curculionidae",
+        "genus": "Bostrichus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S000490050010"
+        ]
+      },
+      {
+        "name": "Ips cembrae",
+        "id": "ips-cembrae",
+        "kingdom": "Metazoa",
+        "phylum": "Arthropoda",
+        "family": "Curculionidae",
+        "genus": "Ips",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S000490050010"
+        ]
+      },
+      {
+        "name": "Laurus nobilis",
+        "id": "laurus-nobilis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Laurus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.2001.9699624"
+        ]
+      }
+    ],
+    "organism_count": 3,
+    "reference_count": 2,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0090596"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "name": "trans-Pinocarveol",
+  "id": "trans-pinocarveol",
+  "formula": "C10H16O",
+  "pubchem": {
+    "cid": 88302,
+    "title": "trans-Pinocarveol",
+    "formula": "C10H16O",
+    "molecular_weight": 152.23,
+    "smiles": "CC1(C2CC1C(=C)C(C2)O)C",
+    "inchikey": "LCYXQUJDODZYIJ-VGMNWLOBSA-N",
+    "iupac_name": "(1R,3S,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",
+    "image": "data/molecules/images/trans-pinocarveol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/88302",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/88302/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 66,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=trans-Pinocarveol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38074126",
+        "title": "Eucalyptus-derived essential oils alleviate microbes and modulate inflammation by suppressing superoxide and elastase release",
+        "journal": "Front Pharmacol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38074126/"
+      },
+      {
+        "pmid": "35170197",
+        "title": "Comparative Study of the Essential Oil and Hydrosol Composition of Sweet Wormwood (Artemisia annua L.) from Serbia",
+        "journal": "Chem Biodivers",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35170197/"
+      },
+      {
+        "pmid": "38384403",
+        "title": "Chemical Constituents and Antimicrobial and Antioxidant Activities of Essential Oil from Dried Seeds of Xylopia aethiopica",
+        "journal": "Biochem Res Int",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38384403/"
+      },
+      {
+        "pmid": "37653941",
+        "title": "Evaluating the Potential of Boswellia rivae to Provide Sustainable Livelihood Benefits in Eastern Ethiopia",
+        "journal": "Plants (Basel)",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37653941/"
+      },
+      {
+        "pmid": "36840164",
+        "title": "Essential Oils and Biological Activities of Eucalyptus falcata, E. sideroxylon and E. citriodora Growing in Tunisia",
+        "journal": "Plants (Basel)",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36840164/"
+      },
+      {
+        "pmid": "31444936",
+        "title": "A strategy of rapidly screening out herbicidal chemicals from Eucalyptus essential oils",
+        "journal": "Pest Manag Sci",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31444936/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Anthemis aciphylla",
+        "id": "anthemis-aciphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Anthemis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.54.222"
+        ]
+      },
+      {
+        "name": "Artemisia",
+        "id": "artemisia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.FITOTE.2007.11.004"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Artemisia herba-alba",
+        "id": "artemisia-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Cedrus libani",
+        "id": "cedrus-libani",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Cedrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYMED.2007.03.013"
+        ]
+      },
+      {
+        "name": "Cistus creticus",
+        "id": "cistus-creticus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013"
+        ]
+      },
+      {
+        "name": "Cistus incanus",
+        "id": "cistus-incanus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013"
+        ]
+      },
+      {
+        "name": "Cyperus rotundus",
+        "id": "cyperus-rotundus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cyperaceae",
+        "genus": "Cyperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3390/MOLECULES14082909"
+        ]
+      },
+      {
+        "name": "Ganoderma lucidum",
+        "id": "ganoderma-lucidum",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Polyporaceae",
+        "genus": "Ganoderma",
+        "taxonomy_source": "Index Fungorum",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.10.025"
+        ]
+      },
+      {
+        "name": "Pinus koraiensis",
+        "id": "pinus-koraiensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568368"
+        ]
+      },
+      {
+        "name": "Pinus sylvestris var. hamata",
+        "id": "pinus-sylvestris-var-hamata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00581596"
+        ]
+      },
+      {
+        "name": "Rhodiola rosea",
+        "id": "rhodiola-rosea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Crassulaceae",
+        "genus": "Rhodiola",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00004-3"
+        ]
+      },
+      {
+        "name": "Seriphidium herba-alba",
+        "id": "seriphidium-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Seriphidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Teucrium leucocladum",
+        "id": "teucrium-leucocladum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.BSE.2003.12.009"
+        ]
+      },
+      {
+        "name": "Teucrium polium subsp. polium",
+        "id": "teucrium-polium-subsp-polium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2012.05.019"
+        ]
+      },
+      {
+        "name": "Teucrium polium var. polium",
+        "id": "teucrium-polium-var-polium",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2012.05.019"
+        ]
+      }
+    ],
+    "organism_count": 16,
+    "reference_count": 13,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0165758"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "α-Copaene",
+  "id": "alpha-copaene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 70678558,
+    "title": "alpha-Copaene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCC2C3C1C2(CCC3C(C)C)C",
+    "inchikey": "VLXDPFLIRFYIME-XIQJJJERSA-N",
+    "iupac_name": "(1S,6S,7S,8S)-1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",
+    "image": "data/molecules/images/alpha-copaene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/70678558",
+    "description": "Alpha-copaene is a sesquiterpene that is tricyclo[4.4.0.02,7]dec-3-ene bearing an isopropyl substituent at position 8 and two methyl substituents at positions 1 and 3 (the 1S,6S,7S,8S-diastereomer). It is a sesquiterpene and a bridged compound.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:10221"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/70678558/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 317,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Copaene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "39196851",
+        "title": "Stereoselective Oxidation of α-Copaene, a Fire Ant Repellent Sesquiterpene from the Essential Oil of Dipterocarpus turbinatus",
+        "journal": "J Nat Prod",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39196851/"
+      },
+      {
+        "pmid": "39875401",
+        "title": "α-Copaene is a potent repellent against the Asian Citrus Psyllid Diaphorina citri",
+        "journal": "Sci Rep",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39875401/"
+      },
+      {
+        "pmid": "24241834",
+        "title": "Male lures for mediterranean fruitfly (Ceratitis capitata wied.): Structural analogs of α-copaene",
+        "journal": "J Chem Ecol",
+        "year": "1994",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24241834/"
+      },
+      {
+        "pmid": "25408316",
+        "title": "Role of α-copaene in the susceptibility of olive fruits to Bactrocera oleae (Rossi)",
+        "journal": "J Agric Food Chem",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25408316/"
+      },
+      {
+        "pmid": "34875691",
+        "title": "The Attractiveness of α-Copaene to Members of the Euwallacea fornicatus (Coleoptera: Curculionidae) Species Complex in California and Taiwan",
+        "journal": "J Econ Entomol",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34875691/"
+      },
+      {
+        "pmid": "27986939",
+        "title": "Efficacy of α-Copaene, Cubeb, and Eucalyptol Lures for Detection of Redbay Ambrosia Beetle (Coleoptera: Curculionidae: Scolytinae)",
+        "journal": "J Econ Entomol",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27986939/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}

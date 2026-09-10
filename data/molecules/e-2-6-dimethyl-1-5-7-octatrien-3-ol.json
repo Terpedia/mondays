@@ -1,0 +1,76 @@
+{
+  "name": "(E)-2,6-Dimethyl-1,5,7-octatrien-3-ol",
+  "id": "e-2-6-dimethyl-1-5-7-octatrien-3-ol",
+  "formula": "C10H16O",
+  "pubchem": {
+    "cid": 119847,
+    "title": "2,6-Dimethyl-1,5,7-octatrien-3-ol",
+    "formula": "C10H16O",
+    "molecular_weight": 152.23,
+    "smiles": "CC(=C)C(CC=C(C)C=C)O",
+    "inchikey": "TYDDWHVJHGIJCW-UHFFFAOYSA-N",
+    "iupac_name": "2,6-dimethylocta-1,5,7-trien-3-ol",
+    "image": "data/molecules/images/e-2-6-dimethyl-1-5-7-octatrien-3-ol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/119847",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/119847/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Ledum palustre",
+        "id": "ledum-palustre",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Ericaceae",
+        "genus": "Ledum",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 2,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.27-0551",
+          "10.1007/BF00566074"
+        ]
+      },
+      {
+        "name": "Rhododendron groenlandicum",
+        "id": "rhododendron-groenlandicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.27-0551",
+          "10.1007/BF00566074"
+        ]
+      },
+      {
+        "name": "Rhododendron tomentosum",
+        "id": "rhododendron-tomentosum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.27-0551",
+          "10.1007/BF00566074"
+        ]
+      }
+    ],
+    "organism_count": 3,
+    "reference_count": 2,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0260545"
+  }
+}

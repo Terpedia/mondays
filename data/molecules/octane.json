@@ -1,0 +1,446 @@
+{
+  "name": "Octane",
+  "id": "octane",
+  "formula": "C8H18",
+  "pubchem": {
+    "cid": 356,
+    "title": "Octane",
+    "formula": "C8H18",
+    "molecular_weight": 114.23,
+    "smiles": "CCCCCCCC",
+    "inchikey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+    "iupac_name": "octane",
+    "image": "data/molecules/images/octane.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/356",
+    "description": "Octane is a straight chain alkane composed of 8 carbon atoms. It has a role as a xenobiotic.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17590"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/356/PNG"
+  },
+  "targets": [],
+  "diseases": [
+    {
+      "disease": "Asthma",
+      "kind": "reported_association",
+      "pmids": [
+        "10361015",
+        "15196282",
+        "15537072",
+        "15575932",
+        "21465502",
+        "24752575",
+        "9106561",
+        "21546028",
+        "22835687",
+        "19793086",
+        "17658592",
+        "24053239",
+        "21749985",
+        "23277518"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0001485",
+      "id": "asthma"
+    },
+    {
+      "disease": "Ulcerative colitis",
+      "kind": "reported_association",
+      "pmids": [
+        "21059682",
+        "1740537",
+        "17314143",
+        "17269711",
+        "21761941",
+        "23516449",
+        "23867873",
+        "24811995",
+        "25598765",
+        "26806034",
+        "26848182",
+        "27609529",
+        "28842642"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0001485",
+      "id": "ulcerative-colitis"
+    },
+    {
+      "disease": "Autism",
+      "kind": "reported_association",
+      "pmids": [
+        "15585776",
+        "7687150",
+        "20423563",
+        "6150139",
+        "3410814",
+        "12205654",
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0001485",
+      "id": "autism"
+    },
+    {
+      "disease": "Nonalcoholic fatty liver disease",
+      "kind": "reported_association",
+      "pmids": [
+        "23454028"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0001485",
+      "id": "nonalcoholic-fatty-liver-disease"
+    },
+    {
+      "disease": "Pervasive developmental disorder not otherwise specified",
+      "kind": "reported_association",
+      "pmids": [
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0001485",
+      "id": "pervasive-developmental-disorder-not-otherwise-specified"
+    },
+    {
+      "disease": "Solvents, acute toxic effect",
+      "category": "Acute Poisoning",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/106",
+      "id": "solvents-acute-toxic-effect"
+    }
+  ],
+  "literature": {
+    "total": 6974,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Octane%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "14605418",
+        "title": "(Z)-2-(3-hydroxy-4-methoxybenzylidene)-1-azabicyclo[2.2.2]octan-3-one",
+        "journal": "Acta Crystallogr C",
+        "year": "2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14605418/"
+      },
+      {
+        "pmid": "34647494",
+        "title": "New bicyclic [3.2.1] octane neolignan derivative from Aniba firmula",
+        "journal": "Nat Prod Res",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34647494/"
+      },
+      {
+        "pmid": "26530707",
+        "title": "Total synthesis of palau'amine",
+        "journal": "Nat Commun",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26530707/"
+      },
+      {
+        "pmid": "15260890",
+        "title": "The molecular basis of electroporation",
+        "journal": "BMC Biochem",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15260890/"
+      },
+      {
+        "pmid": "2781560",
+        "title": "The fate of inhaled octane and the nephrotoxicant, isooctane, in rats",
+        "journal": "Toxicol Appl Pharmacol",
+        "year": "1989",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2781560/"
+      },
+      {
+        "pmid": "36106991",
+        "title": "Ex vivo inhibition of PGE2 formation in human blood by four bicyclico [3.2.1] octane neolignans isolated from Aniba firmula bark, two with unusual structural pattern",
+        "journal": "Nat Prod Res",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36106991/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Chrysopogon zizanioides",
+        "id": "chrysopogon-zizanioides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Chrysopogon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1515/ZNB-1992-0324",
+          "10.1515/ENERGYO.0090.00002"
+        ]
+      },
+      {
+        "name": "Ageratum conyzoides",
+        "id": "ageratum-conyzoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ageratum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698184"
+        ]
+      },
+      {
+        "name": "Aster scaber",
+        "id": "aster-scaber",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Aster",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00034A033"
+        ]
+      },
+      {
+        "name": "Castanopsis cuspidata",
+        "id": "castanopsis-cuspidata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Fagaceae",
+        "genus": "Castanopsis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF60224A025"
+        ]
+      },
+      {
+        "name": "Doellingeria scabra",
+        "id": "doellingeria-scabra",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Asteraceae",
+        "genus": "Doellingeria",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00034A033"
+        ]
+      },
+      {
+        "name": "Elaeis guineensis",
+        "id": "elaeis-guineensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Arecaceae",
+        "genus": "Elaeis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00120A031"
+        ]
+      },
+      {
+        "name": "Garcinia mangostana",
+        "id": "garcinia-mangostana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Clusiaceae",
+        "genus": "Garcinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80025-3"
+        ]
+      },
+      {
+        "name": "Giraffa camelopardalis",
+        "id": "giraffa-camelopardalis",
+        "kingdom": "Metazoa",
+        "phylum": "Chordata",
+        "family": "Giraffidae",
+        "genus": "Giraffa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0305-1978(02)00037-6"
+        ]
+      },
+      {
+        "name": "Hamamelis virginiana",
+        "id": "hamamelis-virginiana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Hamamelidaceae",
+        "genus": "Hamamelis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957420"
+        ]
+      },
+      {
+        "name": "Hypericum perforatum",
+        "id": "hypericum-perforatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Hypericaceae",
+        "genus": "Hypericum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "NA"
+        ]
+      },
+      {
+        "name": "Manilkara zapota",
+        "id": "manilkara-zapota",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Sapotaceae",
+        "genus": "Manilkara",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00111A026"
+        ]
+      },
+      {
+        "name": "Nepeta racemosa",
+        "id": "nepeta-racemosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Nepeta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698205"
+        ]
+      },
+      {
+        "name": "Oenanthe aquatica",
+        "id": "oenanthe-aquatica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Oenanthe",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-0028-1097637"
+        ]
+      },
+      {
+        "name": "Olea europaea",
+        "id": "olea-europaea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Oleaceae",
+        "genus": "Olea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00730-9"
+        ]
+      },
+      {
+        "name": "Persea americana",
+        "id": "persea-americana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Persea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00019A020"
+        ]
+      },
+      {
+        "name": "Psidium guajava",
+        "id": "psidium-guajava",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80138-6"
+        ]
+      },
+      {
+        "name": "Sideritis dichotoma",
+        "id": "sideritis-dichotoma",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Sideritis",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698149"
+        ]
+      },
+      {
+        "name": "Stellera chamaejasme",
+        "id": "stellera-chamaejasme",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Thymelaeaceae",
+        "genus": "Stellera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10286020290028992"
+        ]
+      },
+      {
+        "name": "Tanacetum longifolium",
+        "id": "tanacetum-longifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tanacetum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00396-5"
+        ]
+      },
+      {
+        "name": "Thymus longicaulis",
+        "id": "thymus-longicaulis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698359"
+        ]
+      },
+      {
+        "name": "Zingiber officinale",
+        "id": "zingiber-officinale",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Zingiber",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)86412-2"
+        ]
+      }
+    ],
+    "organism_count": 21,
+    "reference_count": 21,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0186469"
+  }
+}

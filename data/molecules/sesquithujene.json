@@ -1,0 +1,75 @@
+{
+  "name": "Sesquithujene",
+  "id": "sesquithujene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 25147318,
+    "title": "Sesquithujene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCC2(C1C2)C(C)CCC=C(C)C",
+    "inchikey": "UCQHFDKBUHCAFR-RBSFLKMASA-N",
+    "iupac_name": "(1R)-2-methyl-5-[(2R)-6-methylhept-5-en-2-yl]bicyclo[3.1.0]hex-2-ene",
+    "image": "data/molecules/images/sesquithujene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/25147318",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/25147318/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 12,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Sesquithujene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "28536059",
+        "title": "Current state of knowledge on the traditional uses, phytochemistry, and pharmacology of the genus Hymenaea",
+        "journal": "J Ethnopharmacol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28536059/"
+      },
+      {
+        "pmid": "21574561",
+        "title": "Absolute configuration of 7-epi-sesquithujene",
+        "journal": "J Nat Prod",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21574561/"
+      },
+      {
+        "pmid": "18419907",
+        "title": "Development of a host-based semiochemical lure for trapping emerald ash borer Agrilus planipennis (Coleoptera: Buprestidae)",
+        "journal": "Environ Entomol",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18419907/"
+      },
+      {
+        "pmid": "22732623",
+        "title": "Attraction of Agrilus planipennis (Coleoptera: Buprestidae) to a volatile pheromone: effects of release rate, host volatile, and trap placement",
+        "journal": "Environ Entomol",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22732623/"
+      },
+      {
+        "pmid": "40491701",
+        "title": "Multivariate analysis of chemical markers to distinguish \"Ceylon\" and \"Cassia\" cinnamon in the Spanish market",
+        "journal": "Food Chem X",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40491701/"
+      },
+      {
+        "pmid": "21516661",
+        "title": "[Microscopic anatomy and volatile secondary metabolites at three stages of development of the inflorescences of Lantana camara (Verbenaceae)]",
+        "journal": "Rev Biol Trop",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21516661/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-10",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  }
+}
