@@ -129,6 +129,47 @@ async function targets(cid) {
     .sort((a, b) => (a.value_um ?? Infinity) - (b.value_um ?? Infinity));
 }
 
+// PubChem's disease section mixes very different kinds of association: metabolomics
+// records (the compound was detected or studied in a condition), occupational exposure
+// hazards, and therapeutic-target entries. Each is kept with its source so the page can
+// say which is which — none of them is a treatment claim.
+async function diseases(cid) {
+  const view = await json(`${PUBCHEM}/pug_view/data/compound/${cid}/JSON?heading=Associated+Disorders+and+Diseases`
+    .replace("/rest/pug/pug_view", "/rest/pug_view"));
+  if (view === undefined) return undefined;
+  const record = view?.Record;
+  if (!record) return [];
+  const sources = new Map((record.Reference || []).map((r) => [r.ReferenceNumber, { name: r.SourceName, url: r.URL }]));
+
+  const found = [];
+  const walk = (sections, heading) => {
+    for (const section of sections || []) {
+      for (const entry of section.Information || []) {
+        const source = sources.get(entry.ReferenceNumber);
+        const text = entry.Value?.StringWithMarkup?.[0]?.String;
+        if (!source || !text) continue;
+        // "PubMed: 123, 456" means the entry Name is the disease and the value lists the
+        // evidence. Anything else puts the disease in the value and a heading in Name.
+        if (/^PubMed:/i.test(text)) {
+          found.push({ disease: entry.Name, kind: "reported_association", pmids: (text.match(/\d{6,8}/g) || []).slice(0, 40), source: source.name, source_url: source.url });
+        } else if (/disorder|disease/i.test(`${section.TOCHeading || heading || ""} ${entry.Name || ""}`)) {
+          found.push({ disease: text.replace(/\s*\[Category:[^\]]*\]\s*/, "").trim(), category: (text.match(/\[Category:\s*([^\]]+)\]/) || [])[1] || null, kind: "occupational_exposure", pmids: [], source: source.name, source_url: source.url });
+        }
+      }
+      walk(section.Section, section.TOCHeading || heading);
+    }
+  };
+  walk(record.Section);
+
+  const merged = new Map();
+  for (const item of found) {
+    const key = `${item.kind}:${item.disease.toLowerCase()}`;
+    if (!item.disease) continue;
+    if (!merged.has(key)) merged.set(key, { ...item, id: item.disease.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") });
+  }
+  return [...merged.values()].sort((a, b) => (b.pmids.length - a.pmids.length) || a.disease.localeCompare(b.disease));
+}
+
 async function literature(name, limit = 6) {
   const term = encodeURIComponent(`${searchName(name)}[All Fields]`);
   const search = await json(`${EUTILS}/esearch.fcgi?db=pubmed&retmode=json&sort=relevance&retmax=${limit}&term=${term}`);
@@ -205,6 +246,7 @@ for (const [id, name] of names) {
   const chem = identity === undefined ? existing.pubchem : identity;
   const fetchedTargets = chem?.cid ? await targets(chem.cid) : [];
   const fetchedLiterature = await literature(name);
+  const fetchedDiseases = chem?.cid ? await diseases(chem.cid) : [];
   const record = {
     ...existing,
     name,
@@ -212,10 +254,11 @@ for (const [id, name] of names) {
     formula: chem?.formula || existing.formula || null,
     pubchem: chem ?? null,
     targets: fetchedTargets === undefined ? existing.targets ?? [] : fetchedTargets,
+    diseases: fetchedDiseases === undefined ? existing.diseases ?? [] : fetchedDiseases,
     literature: keep(fetchedLiterature, existing.literature),
     retrieved: new Date().toISOString().slice(0, 10),
   };
   await localImage(id, record);
   await fs.writeFile(file, `${JSON.stringify(record, null, 2)}\n`);
-  console.log(`${id}: ${chem?.cid ? `CID ${chem.cid}` : "no PubChem match"}, ${record.targets.length} targets, ${record.literature?.papers.length ?? 0}/${record.literature?.total ?? 0} papers`);
+  console.log(`${id}: ${chem?.cid ? `CID ${chem.cid}` : "no PubChem match"}, ${record.targets.length} targets, ${record.diseases.length} diseases, ${record.literature?.papers.length ?? 0}/${record.literature?.total ?? 0} papers`);
 }

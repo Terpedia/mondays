@@ -1,4 +1,7 @@
 const TERPEDIA_PORTAL = 'https://terpedia.com/intelligence-portals/cannabis';
+// Terproduct's Cloud Run URL. terproduct.terpedia.com still points at GitHub Pages
+// (a stale static export), so it 404s on this route until DNS moves to Cloud Run.
+const TERPRODUCT = 'https://terproduct-715567218723.us-central1.run.app/molecule/';
 let products = [];
 let activeFilter = 'all';
 
@@ -99,42 +102,14 @@ async function renderMolecule(slug) {
       </div>
 
       ${chem ? `
-      <h2 class="section-h">Identity</h2>
+      <h2 class="section-h">What it is</h2>
       <div class="molecule-panel">
         <span>Formula</span><strong>${esc(chem.formula)}</strong>
         <span>Molecular weight</span><strong>${esc(chem.molecular_weight)} g/mol</strong>
-        <span>IUPAC name</span><strong>${esc(chem.iupac_name)}</strong>
-        <span>SMILES</span><strong class="mono">${esc(chem.smiles)}</strong>
-        <span>InChIKey</span><strong class="mono">${esc(chem.inchikey)}</strong>
         <span>PubChem</span><strong><a href="${esc(chem.url)}" target="_blank" rel="noreferrer">CID ${esc(chem.cid)} ↗</a></strong>
-        ${chem.image_source ? `<span>Structure</span><strong>Depiction from <a href="${esc(chem.image_source)}" target="_blank" rel="noreferrer">PubChem ↗</a>, stored with the catalog snapshot.</strong>` : ''}
       </div>
-      ${chem.description ? `<h2 class="section-h">Summary</h2><p class="hero-copy">${esc(chem.description)}</p>${chem.description_source ? `<p class="fine">Source: <a href="${esc(chem.description_source.url)}" target="_blank" rel="noreferrer">${esc(chem.description_source.name)} ↗</a>, via PubChem.</p>` : ''}` : ''}
+      ${chem.description ? `<p class="hero-copy">${esc(chem.description)}</p>${chem.description_source ? `<p class="fine">Source: <a href="${esc(chem.description_source.url)}" target="_blank" rel="noreferrer">${esc(chem.description_source.name)} ↗</a>, via PubChem.</p>` : ''}` : ''}
       ` : '<p class="fine">No PubChem record matched this compound name.</p>'}
-
-      <h2 class="section-h">Protein interactions</h2>
-      ${molecule.targets?.length ? `
-      <div class="ctable-wrap">
-        <table class="ctable">
-          <thead><tr><th>Protein</th><th>Gene</th><th class="num">Activity</th><th>Assay</th></tr></thead>
-          <tbody>${molecule.targets.map((t) => `
-            <tr>
-              <td><a href="${esc(t.url)}" target="_blank" rel="noreferrer">${esc(t.protein || t.accession)} ↗</a><br /><span class="fine">${esc(t.organism)}</span></td>
-              <td>${esc(t.gene || '—')}</td>
-              <td class="num">${esc(t.activity)} ${t.value_um !== null ? `${t.value_um} µM` : ''}</td>
-              <td class="fine">${esc(t.assay)}${t.pmid ? ` <a href="?pmid=${esc(t.pmid)}">PMID ${esc(t.pmid)}</a>` : ''}</td>
-            </tr>`).join('')}
-          </tbody>
-        </table>
-      </div>
-      <p class="fine">Assays PubChem marks Active for this compound, most potent measurement per target. These are studies of the compound at its own doses in laboratory systems. They say nothing about what a chew does.</p>
-      ` : '<p class="fine">No assay in PubChem records an active result against a named protein target for this compound.</p>'}
-
-      <h2 class="section-h">Literature</h2>
-      ${lit?.papers?.length ? `
-      <ul class="lit">${lit.papers.map((p) => `<li><a href="?pmid=${esc(p.pmid)}">${esc(p.title)}</a><span class="fine">${esc(p.journal)} ${esc(p.year)} · PMID ${esc(p.pmid)}</span></li>`).join('')}</ul>
-      <p class="fine">Six most relevant of ${esc(lit.total)} PubMed records. <a href="${esc(lit.search_url)}" target="_blank" rel="noreferrer">See all on PubMed ↗</a></p>
-      ` : '<p class="fine">No PubMed records retrieved for this compound name.</p>'}
 
       <h2 class="section-h">Measured in these products</h2>
       ${inProducts.length ? `
@@ -154,8 +129,10 @@ async function renderMolecule(slug) {
       ${claimTiles([...new Set(inProducts.flatMap((p) => p.claims || []))])}
       ` : '<p class="fine">Not quantified in any published MONDAYS profile.</p>'}
 
-      <a class="portal-button" href="${TERPEDIA_PORTAL}?molecule=${encodeURIComponent(molecule.name)}" target="_blank" rel="noreferrer">Open Terpedia intelligence ↗</a>
-      ${molecule.retrieved ? `<p class="fine">Chemistry, assay and literature records retrieved ${esc(molecule.retrieved)} from PubChem, UniProt and PubMed.</p>` : ''}
+      <h2 class="section-h">The research record</h2>
+      <p class="hero-copy">Protein assay results, reported disease associations and the literature for ${esc(molecule.name)} live on Terproduct, where each record is shown with the kind of evidence behind it. Those describe the compound at laboratory doses. They do not describe a chew.</p>
+      <a class="portal-button" href="${TERPRODUCT}${encodeURIComponent(molecule.id)}/" target="_blank" rel="noreferrer">Open the Terproduct record ↗</a>
+      ${molecule.retrieved ? `<p class="fine">Chemistry retrieved ${esc(molecule.retrieved)} from PubChem.</p>` : ''}
     </section>`;
   return true;
 }
@@ -163,6 +140,10 @@ async function renderMolecule(slug) {
 async function renderEntity(type, slug) {
   if (type === 'molecule') return renderMolecule(slug);
   if (type === 'product') return renderProduct(slug);
+  return renderEntityStub(type, slug);
+}
+
+async function renderEntityStub(type, slug) {
   const labels = {protein:'Protein', disease:'Disease / condition', claim:'Claim', pmid:'Literature'};
   const fallback = {name: slug.replaceAll('-', ' '), summary: `Terpedia ${labels[type]} profile`, evidence: 'Profile data will be hydrated from Terpedia when the public record is connected.'};
   const record = await getJSON(`data/${type}s/${encodeURIComponent(slug)}.json`) || fallback;

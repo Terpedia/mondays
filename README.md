@@ -32,7 +32,9 @@ node scripts/fetch-molecule-data.mjs            # all of them
 node scripts/fetch-molecule-data.mjs limonene   # or named ids
 ```
 
-Sources are PubChem (identity, description, structure image, assay summary), UniProt and NCBI Protein (target names), and PubMed (literature). Only assays PubChem marks **Active** against a *named* protein are kept, most potent measurement per target. These describe the compound at its own doses in laboratory systems and say nothing about the product.
+Sources are PubChem (identity, description, structure image, assay summary), UniProt and NCBI Protein (target names), PubMed (literature), and PubChem's disease section (HMDB metabolomics associations and Haz-Map occupational entries). Only assays PubChem marks **Active** against a *named* protein are kept, most potent measurement per target.
+
+This catalog shows composition only. The protein, disease and literature records describe the compound at laboratory doses, not a chew, so they live on [Terproduct](https://github.com/Terpedia/terproduct) and each molecule page links out to them. `terproduct/data/mondays-molecules.json` is the snapshot Terproduct ingests; regenerate it from `data/molecules/` after a refresh.
 
 ## Data policy
 
