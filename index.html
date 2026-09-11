@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="MONDAYS terpene chew catalog with measured per-product terpene profiles, connected to Terpedia molecule intelligence." />
+    <meta name="description" content="Every MONDAYS chew, lab-measured and mapped: each compound connected to the plants it comes from, the research behind it, and the trials testing it." />
     <title>MONDAYS × Terpedia</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -15,10 +15,21 @@
 
     <main>
       <section class="hero">
-        <p class="eyebrow">Product intelligence partner catalog</p>
+        <p class="eyebrow">MONDAYS × Terpedia</p>
         <h1>Terpene chews,<br /><em>mapped to molecules.</em></h1>
-        <p class="hero-copy">Explore the MONDAYS lineup and follow each strain-inspired profile into Terpedia’s living scientific knowledge graph.</p>
-        <div class="hero-meta"><span id="product-count">Loading catalog…</span><span>Static catalog snapshot</span></div>
+        <p class="hero-copy">Every MONDAYS chew is lab-measured down to the hundredth of a percent. Terpedia takes each of those compounds and connects it to the plants it comes from, the research behind it, and the trials testing it — so a claim on the pack has receipts.</p>
+        <div class="graph-strip" id="graph-strip" aria-label="What this catalog connects">
+          <a class="graph-node" href="#catalog"><b id="stat-products">—</b><span>products</span></a>
+          <span class="graph-arrow">→</span>
+          <a class="graph-node" href="#catalog"><b id="stat-compounds">—</b><span>measured compounds</span></a>
+          <span class="graph-arrow">→</span>
+          <a class="graph-node" href="https://kb.terpedia.com/category/organism/" target="_blank" rel="noreferrer"><b id="stat-organisms">—</b><span>plants &amp; organisms</span></a>
+          <span class="graph-arrow">→</span>
+          <a class="graph-node" href="https://kb.terpedia.com/" target="_blank" rel="noreferrer"><b id="stat-papers">—</b><span>papers indexed</span></a>
+          <span class="graph-arrow">→</span>
+          <a class="graph-node" href="https://kb.terpedia.com/trials/" target="_blank" rel="noreferrer"><b id="stat-trials">—</b><span>clinical trials</span></a>
+        </div>
+        <div class="hero-meta"><span id="product-count">Loading catalog…</span><span>Evidence graded on Oxford CEBM · ECO · MeSH</span></div>
         <div class="assurances" role="list" aria-label="What these products are">
           <span role="listitem"><b>Zero THC · zero CBD</b>every batch panel returns all cannabinoids not detected</span>
           <span role="listitem"><b>Non-intoxicating</b>terpenes carry flavour and aroma, not a high</span>
@@ -26,9 +37,10 @@
         </div>
       </section>
 
-      <section class="notice" aria-label="Catalog note">
-        <strong>Read the mapping carefully.</strong>
-        Hemp SKUs show the measured terpene profile MONDAYS publishes per product—percent of total volatiles from an ISO 17025-accredited lab, milligrams per 20mg-terpene chew. Open a product for every compound in its profile. Molecule pages carry chemistry, assay and literature records for the compound itself, at laboratory doses; none of it describes what a chew does. Botanical SKUs and bundles publish no measurement, so their molecules stay profile candidates.
+      <section class="how" aria-label="How to read this catalog">
+        <div><b>Measured</b><span>An ISO 17025 lab identifies every compound at or above 0.05% of the chew — 80 to 120 per product — with milligrams per serving.</span></div>
+        <div><b>Mapped</b><span>Each compound links to the plants it occurs in, from 674,000 published occurrence records, and to what the literature has studied.</span></div>
+        <div><b>Backed</b><span>Every claim on the pack is defined and shown with the research behind it, graded on a published evidence standard — and the trial that would settle it.</span></div>
       </section>
 
       <section class="toolbar" aria-label="Catalog filters">
@@ -44,6 +56,14 @@
       <p id="empty" class="empty" hidden>No products match that search.</p>
     </main>
 
+    <div class="tq" id="tq">
+      <button class="tq-toggle" type="button" aria-expanded="false" aria-controls="tq-panel"><span class="tq-crown" aria-hidden="true">👑</span> Ask the TerpeneQueen</button>
+      <section class="tq-panel" id="tq-panel" hidden aria-label="Ask the TerpeneQueen">
+        <header class="tq-head"><div><strong>The TerpeneQueen</strong><small>Knows every compound in every chew. Not medical advice.</small></div><button class="tq-close" type="button" aria-label="Close">×</button></header>
+        <div class="tq-log" role="log" aria-live="polite"><div class="tq-msg tq-msg--assistant">Ask me about any molecule, any chew, or what a claim on the pack is backed by.</div></div>
+        <form class="tq-form"><input class="tq-input" type="text" placeholder="e.g. why is there so much myrcene in The Daily Commute?" autocomplete="off" required /><button class="tq-send" type="submit">Ask</button></form>
+      </section>
+    </div>
     <footer>
       <span>MONDAYS catalog · source snapshot</span>
       <a href="https://terpedia.com/intelligence-portals/cannabis" target="_blank" rel="noreferrer">Explore Terpedia Cannabis Intelligence ↗</a>

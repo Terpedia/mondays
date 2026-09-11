@@ -74,10 +74,15 @@ const retail = catalog.products.filter((p) => p.tags.includes("retail"));
 if (!handles.length) handles.push(...retail.map((p) => p.handle));
 
 const claims = {};
+const images = {};
 for (const product of retail) {
   const tiles = claimTiles(product);
   if (tiles.length) claims[product.handle] = { tiles, source: `${STORE}/products/${product.handle}` };
+  // The pack shot, from the same catalog feed. Shopify serves resized variants on request.
+  const image = product.images?.[0];
+  if (image?.src) images[product.handle] = { src: image.src.replace(/(\.[a-z]+)(\?|$)/, "_800x$1$2"), alt: image.alt || product.title, width: image.width, height: image.height };
 }
+await fs.writeFile(path.join(root, "data/product-images.json"), `${JSON.stringify({ source: STORE, retrieved: new Date().toISOString().slice(0, 10), images }, null, 2)}\n`);
 await fs.writeFile(path.join(root, "data/product-claims.json"), `${JSON.stringify({ source: STORE, retrieved: new Date().toISOString().slice(0, 10), note: "MONDAYS marketing language, verbatim. Not a health claim and not evidence.", claims }, null, 2)}\n`);
 
 await fs.mkdir(outDir, { recursive: true });

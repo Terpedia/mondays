@@ -1,16 +1,1 @@
-{
-  "name": "Selina-4,7(11)-diene + Selina-3,7(11)-diene",
-  "id": "selina-4-7-11-diene-selina-3-7-11-diene",
-  "formula": null,
-  "pubchem": null,
-  "targets": [],
-  "literature": {
-    "total": 0,
-    "papers": []
-  },
-  "retrieved": "2026-09-10",
-  "summary": null,
-  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.78% of total volatiles (0.156mg per chew).",
-  "diseases": [],
-  "occurrence": null
-}
+{"name":"Selina-4,7(11)-diene + Selina-3,7(11)-diene","id":"selina-4-7-11-diene-selina-3-7-11-diene","formula":null,"pubchem":null,"targets":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.78% of total volatiles (0.156mg per chew).","diseases":[],"occurrence":null,"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Selina-4%2C7(11)-diene%20%2B%20Selina-3%2C7(11)-diene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Selina-4,7(11)-diene and Selina-3,7(11)-diene are sesquiterpenes, a family of complex aromatic molecules typically produced by plants. While molecules in this class often contribute to the deep, woody, or earthy aromas of botanical extracts, this specific pairing remains largely uncharacterized in public databases. It represents one of the many obscure phytochemicals that make up the background chemistry of the natural world.","found_in":"There are currently no specific plants or foods recorded in the database for this exact combination of molecules.","why_researchers_care":"At present, this specific molecular pairing has not been the focus of dedicated research, meaning there are no studies (Oxford level 5, none found) exploring its biological effects. It stands as a blank slate in natural-product chemistry, representing an opportunity for future discovery once scientists begin screening it for potential activity.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no published evidence or research available for this specific molecule."}}

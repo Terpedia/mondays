@@ -1,0 +1,14 @@
+{
+  "note": "Each pack claim is a defined term. The definition is structure/function wording; the areas are the research claim areas it draws on; the backing is computed per product from the measured compounds' literature, graded on ECO and Oxford CEBM.",
+  "claims": {
+    "FOCUS":    { "definition": "May support attention and mental clarity.", "areas": ["cognition"], "sense": "alert" },
+    "UPLIFT":   { "definition": "May support a brighter, more positive mood.", "areas": ["mood"], "sense": "alert" },
+    "SOCIAL":   { "definition": "May support ease and comfort in company.", "areas": ["anxiety", "mood"], "sense": "alert" },
+    "BALANCE":  { "definition": "May support a settled, even-keeled state.", "areas": ["anxiety", "mood"], "sense": "even" },
+    "RELIEF":   { "definition": "May support the body's normal response to everyday discomfort.", "areas": ["pain", "anti-inflammatory"], "sense": "even" },
+    "EUPHORIC": { "definition": "May support a lifted sense of wellbeing.", "areas": ["mood"], "sense": "even" },
+    "RELAX":    { "definition": "May support unwinding and a sense of calm.", "areas": ["anxiety", "sleep"], "sense": "calm" },
+    "CALM":     { "definition": "May support a quiet, unhurried state of mind.", "areas": ["anxiety"], "sense": "calm" },
+    "BODY":     { "definition": "May support physical ease and comfort.", "areas": ["pain", "anti-inflammatory"], "sense": "calm" }
+  }
+}

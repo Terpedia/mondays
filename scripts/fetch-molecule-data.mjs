@@ -5,6 +5,7 @@
 // profile are enriched; the rest keep the bare identity record.
 import fs from "node:fs/promises";
 import path from "node:path";
+import { designOf, evidenceLines, grade } from "./lib/evidence.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const PUBCHEM = "https://pubchem.ncbi.nlm.nih.gov/rest/pug";
@@ -144,6 +145,24 @@ async function targets(cid) {
 // records (the compound was detected or studied in a condition), occupational exposure
 // hazards, and therapeutic-target entries. Each is kept with its source so the page can
 // say which is which — none of them is a treatment claim.
+// Condition names from HMDB and Haz-Map are free text. MONDO gives each a stable id and a
+// canonical label, so "Ulcerative colitis" here is the same entity it is anywhere else.
+// Resolved through OLS with a small on-disk cache; a miss is recorded so it is not retried.
+const mondoCachePath = path.join(root, "data/ontology/mondo-cache.json");
+let mondoCache = null;
+async function mondoFor(diseaseName) {
+  mondoCache ||= await fs.readFile(mondoCachePath, "utf8").then(JSON.parse).catch(() => ({}));
+  const key = diseaseName.trim().toLowerCase();
+  if (key in mondoCache) return mondoCache[key];
+  const url = `https://www.ebi.ac.uk/ols4/api/search?q=${encodeURIComponent(diseaseName)}&ontology=mondo&rows=1`;
+  const payload = await json(url);
+  const hit = payload?.response?.docs?.[0];
+  mondoCache[key] = hit?.obo_id ? { id: hit.obo_id, label: hit.label, iri: hit.iri } : null;
+  await fs.mkdir(path.dirname(mondoCachePath), { recursive: true });
+  await fs.writeFile(mondoCachePath, `${JSON.stringify(mondoCache, null, 1)}\n`);
+  return mondoCache[key];
+}
+
 async function diseases(cid) {
   const view = await json(`${PUBCHEM}/pug_view/data/compound/${cid}/JSON?heading=Associated+Disorders+and+Diseases`
     .replace("/rest/pug/pug_view", "/rest/pug_view"));
@@ -178,7 +197,9 @@ async function diseases(cid) {
     if (!item.disease) continue;
     if (!merged.has(key)) merged.set(key, { ...item, id: item.disease.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") });
   }
-  return [...merged.values()].sort((a, b) => (b.pmids.length - a.pmids.length) || a.disease.localeCompare(b.disease));
+  const out = [...merged.values()].sort((a, b) => (b.pmids.length - a.pmids.length) || a.disease.localeCompare(b.disease));
+  for (const entry of out) entry.mondo = await mondoFor(entry.disease);
+  return out;
 }
 
 // Which plants a molecule actually occurs in. Wikidata's "found in taxon" (P703) is
@@ -261,6 +282,127 @@ async function organisms(inchikey, cap = 120) {
   };
 }
 
+// What the literature actually contains for a molecule, counted rather than asserted:
+// how many papers, what kinds of study, which topics, and — for the claims people make
+// about terpenes — how many papers touch each claim and in what kind of system. MeSH
+// indexing and publication types come from PubMed itself, so nothing here is inferred
+// from an abstract by a model.
+const CLAIMS = [
+  { id: "anti-inflammatory", label: "Anti-inflammatory", mesh: ["Anti-Inflammatory Agents", "Inflammation", "Inflammation Mediators"] },
+  { id: "pain", label: "Pain relief", mesh: ["Analgesics", "Pain", "Analgesics, Non-Narcotic", "Nociception"] },
+  { id: "anxiety", label: "Anxiety and calm", mesh: ["Anti-Anxiety Agents", "Anxiety", "Anxiety Disorders"] },
+  { id: "sleep", label: "Sleep and sedation", mesh: ["Hypnotics and Sedatives", "Sleep", "Sleep Wake Disorders"] },
+  { id: "mood", label: "Mood", mesh: ["Antidepressive Agents", "Depression", "Depressive Disorder"] },
+  { id: "cognition", label: "Focus and memory", mesh: ["Cognition", "Memory", "Nootropic Agents", "Cognitive Dysfunction"] },
+  { id: "antimicrobial", label: "Antimicrobial", mesh: ["Anti-Bacterial Agents", "Anti-Infective Agents", "Antifungal Agents", "Microbial Sensitivity Tests"] },
+  { id: "antioxidant", label: "Antioxidant", mesh: ["Antioxidants", "Oxidative Stress"] },
+  { id: "cancer", label: "Cancer", mesh: ["Antineoplastic Agents", "Antineoplastic Agents, Phytogenic", "Neoplasms", "Cell Line, Tumor"] },
+  { id: "neuroprotection", label: "Neuroprotection", mesh: ["Neuroprotective Agents", "Neurodegenerative Diseases"] },
+  { id: "digestive", label: "Digestive", mesh: ["Anti-Ulcer Agents", "Gastrointestinal Diseases", "Colitis"] },
+  { id: "insect", label: "Insect repellent", mesh: ["Insect Repellents", "Insecticides", "Pest Control"] },
+];
+const GENERIC_MESH = new Set(["Animals", "Humans", "Male", "Female", "Mice", "Rats", "Adult", "Middle Aged", "Young Adult", "Aged", "Rats, Wistar", "Mice, Inbred C57BL", "Rats, Sprague-Dawley", "Dose-Response Relationship, Drug", "Structure-Activity Relationship", "Molecular Structure", "Plant Extracts", "Oils, Volatile", "Plant Oils", "Monoterpenes", "Sesquiterpenes", "Terpenes", "Cyclohexenes", "Cyclohexane Monoterpenes", "Acyclic Monoterpenes", "Bicyclic Monoterpenes", "Polycyclic Sesquiterpenes", "Chromatography, Gas", "Gas Chromatography-Mass Spectrometry", "Plant Leaves", "Plants, Medicinal", "Phytotherapy"]);
+
+async function research(name, sample = 200) {
+  const term = encodeURIComponent(`${searchName(name)}[All Fields]`);
+  const search = await json(`${EUTILS}/esearch.fcgi?db=pubmed&retmode=json&sort=relevance&retmax=${sample}&term=${term}`);
+  if (search === undefined) return undefined;
+  const ids = search?.esearchresult?.idlist || [];
+  const total = Number(search?.esearchresult?.count) || 0;
+  if (!ids.length) return { total: 0, sampled: 0, designs: {}, topics: [], claims: [], years: null };
+
+  const papers = [];
+  for (let i = 0; i < ids.length; i += 100) {
+    const batch = ids.slice(i, i + 100).join(",");
+    let xml;
+    try {
+      const response = await throttled(`${EUTILS}/efetch.fcgi?db=pubmed&retmode=xml&id=${batch}`, { headers: { "user-agent": "terpedia-mondays (dan@terpedia.com)" } });
+      if (!response.ok) { console.warn(`  ! efetch ${response.status}`); continue; }
+      xml = await response.text();
+    } catch (error) { console.warn(`  ! efetch ${error.message}`); continue; }
+    for (const article of xml.split("<PubmedArticle>").slice(1)) {
+      const pmid = (article.match(/<PMID[^>]*>(\d+)<\/PMID>/) || [])[1];
+      const year = Number((article.match(/<PubDate>[\s\S]*?<Year>(\d{4})<\/Year>/) || [])[1]) || null;
+      const types = [...article.matchAll(/<PublicationType[^>]*>([^<]+)<\/PublicationType>/g)].map((m) => m[1]);
+      const mesh = [...article.matchAll(/<DescriptorName[^>]*>([^<]+)<\/DescriptorName>/g)].map((m) => m[1]);
+      papers.push({ pmid, year, types, mesh: new Set(mesh) });
+    }
+  }
+
+  const has = (paper, terms) => terms.some((t) => paper.mesh.has(t));
+  const designs = {};
+  const topicCounts = new Map();
+  for (const paper of papers) {
+    const design = designOf(paper);
+    designs[design] = (designs[design] || 0) + 1;
+    for (const term of paper.mesh) if (!GENERIC_MESH.has(term)) topicCounts.set(term, (topicCounts.get(term) || 0) + 1);
+  }
+  // Each claim area is a SEPIO assertion-in-waiting: the evidence lines that would
+  // support it, typed with ECO, designed by MeSH publication type, graded on Oxford CEBM.
+  const claims = CLAIMS.map((claim) => {
+    const matched = papers.filter((paper) => has(paper, claim.mesh));
+    if (!matched.length) return null;
+    const lines = evidenceLines(matched);
+    const graded = grade(lines);
+    const byDesign = {};
+    for (const paper of matched) byDesign[designOf(paper)] = (byDesign[designOf(paper)] || 0) + 1;
+    return {
+      id: claim.id, label: claim.label, papers: matched.length, designs: byDesign,
+      evidence_level: graded.evidence_level, eco: graded.eco, oxford: graded.oxford,
+      evidence_lines: lines,
+      pmids: matched.slice(0, 12).map((p) => p.pmid),
+    };
+  }).filter(Boolean).sort((a, b) => b.papers - a.papers);
+  const years = papers.map((p) => p.year).filter(Boolean);
+
+  return {
+    total, sampled: papers.length,
+    designs,
+    topics: [...topicCounts].sort((a, b) => b[1] - a[1]).slice(0, 14).map(([term, count]) => ({ term, papers: count })),
+    claims,
+    years: years.length ? { from: Math.min(...years), to: Math.max(...years) } : null,
+    basis: "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    vocabulary: { evidence_type: "ECO (Evidence & Conclusion Ontology)", study_design: "MeSH Publication Types", strength: "Oxford CEBM 2009 levels", structure: "SEPIO assertion / evidence line / evidence item" },
+    search_url: `https://pubmed.ncbi.nlm.nih.gov/?term=${term}`,
+  };
+}
+
+// Registered clinical trials naming the molecule as an intervention, from ClinicalTrials.gov.
+// These are the Oxford 1b/2b evidence the profiles keep finding absent — or in progress.
+const CTGOV = "https://clinicaltrials.gov/api/v2/studies";
+async function trials(name, limit = 25) {
+  const fields = "NCTId,BriefTitle,OverallStatus,Phase,Condition,InterventionName,StartDate,PrimaryCompletionDate,EnrollmentCount,LeadSponsorName,StudyType,BriefSummary";
+  const payload = await json(`${CTGOV}?query.intr=${encodeURIComponent(searchName(name))}&pageSize=${limit}&countTotal=true&fields=${fields}`);
+  if (payload === undefined) return undefined;
+  const studies = (payload?.studies || []).map((study) => {
+    const p = study.protocolSection || {};
+    return {
+      nct_id: p.identificationModule?.nctId,
+      title: p.identificationModule?.briefTitle,
+      status: p.statusModule?.overallStatus,
+      phases: p.designModule?.phases || [],
+      study_type: p.designModule?.studyType || null,
+      conditions: p.conditionsModule?.conditions || [],
+      interventions: (p.armsInterventionsModule?.interventions || []).map((i) => i.name),
+      sponsor: p.sponsorCollaboratorsModule?.leadSponsor?.name || null,
+      enrollment: p.designModule?.enrollmentInfo?.count ?? null,
+      start_date: p.statusModule?.startDateStruct?.date || null,
+      completion_date: p.statusModule?.primaryCompletionDateStruct?.date || null,
+      summary: (p.descriptionModule?.briefSummary || "").slice(0, 600) || null,
+      url: `https://clinicaltrials.gov/study/${p.identificationModule?.nctId}`,
+    };
+  }).filter((t) => t.nct_id);
+  // query.intr matches loosely; keep a trial only if the molecule is actually named in an
+  // intervention or the title. "Ethanol" otherwise returns every alcohol study on record.
+  const needle = searchName(name).toLowerCase().replace(/^\(.*?\)-?/, "").replace(/[^a-z0-9]+/g, " ").trim();
+  const mentions = (text) => String(text || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").includes(needle);
+  const kept = studies.filter((t) => t.interventions.some(mentions) || mentions(t.title));
+  // Live trials first, then by recency.
+  const rank = { RECRUITING: 0, ENROLLING_BY_INVITATION: 1, NOT_YET_RECRUITING: 2, ACTIVE_NOT_RECRUITING: 3, COMPLETED: 4 };
+  kept.sort((a, b) => (rank[a.status] ?? 9) - (rank[b.status] ?? 9) || String(b.start_date).localeCompare(String(a.start_date)));
+  return { total: kept.length, matched_loosely: payload?.totalCount ?? studies.length, studies: kept, source: "ClinicalTrials.gov", search_url: `https://clinicaltrials.gov/search?intr=${encodeURIComponent(searchName(name))}` };
+}
+
 async function literature(name, limit = 6) {
   const term = encodeURIComponent(`${searchName(name)}[All Fields]`);
   const search = await json(`${EUTILS}/esearch.fcgi?db=pubmed&retmode=json&sort=relevance&retmax=${limit}&term=${term}`);
@@ -315,6 +457,19 @@ async function localImage(id, record) {
 }
 
 const only = process.argv.slice(2).filter((a) => !a.startsWith("--"));
+if (process.argv.includes("--trials-only")) {
+  for (const [id, name] of names) {
+    if (only.length && !only.includes(id)) continue;
+    const file = path.join(moleculeDir, `${id}.json`);
+    const record = await fs.readFile(file, "utf8").then(JSON.parse).catch(() => null);
+    if (!record) continue;
+    const fetched = await trials(name);
+    if (fetched !== undefined) record.trials = fetched;
+    await fs.writeFile(file, `${JSON.stringify(record, null, 2)}\n`);
+    console.log(`${id}: ${record.trials?.total ?? 0} trials`);
+  }
+  process.exit(0);
+}
 if (process.argv.includes("--images-only")) {
   for (const [id] of names) {
     if (only.length && !only.includes(id)) continue;
@@ -336,6 +491,8 @@ for (const [id, name] of names) {
   const chem = identity === undefined ? existing.pubchem : identity;
   const fetchedTargets = chem?.cid ? await targets(chem.cid) : [];
   const fetchedLiterature = await literature(name);
+  const fetchedResearch = process.argv.includes("--no-research") ? undefined : await research(name);
+  const fetchedTrials = await trials(name);
   const fetchedDiseases = chem?.cid ? await diseases(chem.cid) : [];
   const fetchedOccurrence = chem?.inchikey ? await organisms(chem.inchikey) : null;
   const record = {
@@ -349,6 +506,8 @@ for (const [id, name] of names) {
     occurrence: fetchedOccurrence === undefined ? existing.occurrence ?? null : fetchedOccurrence,
     organisms: undefined, // superseded by `occurrence`; drop the old Wikidata list
     literature: keep(fetchedLiterature, existing.literature),
+    research: keep(fetchedResearch, existing.research),
+    trials: keep(fetchedTrials, existing.trials),
     retrieved: new Date().toISOString().slice(0, 10),
   };
   await localImage(id, record);

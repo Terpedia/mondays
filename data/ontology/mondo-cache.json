@@ -1,0 +1,119 @@
+{
+ "nonalcoholic fatty liver disease": {
+  "id": "MONDO:0013209",
+  "label": "metabolic dysfunction-associated steatotic liver disease",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0013209"
+ },
+ "solvents, acute toxic effect": null,
+ "ulcerative colitis": {
+  "id": "MONDO:0005101",
+  "label": "ulcerative colitis",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005101"
+ },
+ "celiac disease": {
+  "id": "MONDO:0005130",
+  "label": "celiac disease",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005130"
+ },
+ "contact dermatitis, allergic": {
+  "id": "MONDO:0006525",
+  "label": "allergic contact dermatitis",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0006525"
+ },
+ "encephalopathy, chronic solvent": null,
+ "asthma": {
+  "id": "MONDO:0004979",
+  "label": "asthma",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0004979"
+ },
+ "crohn's disease": {
+  "id": "MONDO:0005011",
+  "label": "Crohn disease",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005011"
+ },
+ "uremia": {
+  "id": "MONDO:0007008",
+  "label": "uremia",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0007008"
+ },
+ "autism": {
+  "id": "MONDO:0005260",
+  "label": "autism",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005260"
+ },
+ "pervasive developmental disorder not otherwise specified": {
+  "id": "MONDO:0005258",
+  "label": "autism spectrum disorder",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005258"
+ },
+ "perillyl alcohol administration for cancer treatment": null,
+ "diarrhoea predominant irritable bowel syndrome": null,
+ "colorectal cancer": {
+  "id": "MONDO:0005575",
+  "label": "colorectal cancer",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005575"
+ },
+ "irritable bowel syndrome": {
+  "id": "MONDO:0005052",
+  "label": "irritable bowel syndrome",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005052"
+ },
+ "medium chain acyl-coa dehydrogenase deficiency": {
+  "id": "MONDO:0008721",
+  "label": "medium chain acyl-CoA dehydrogenase deficiency",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0008721"
+ },
+ "clostridium difficile infection": {
+  "id": "MONDO:0000705",
+  "label": "Clostridium difficile colitis",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0000705"
+ },
+ "kidney disease": {
+  "id": "MONDO:0008073",
+  "label": "familial juvenile hyperuricemic nephropathy type 1",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0008073"
+ },
+ "pregnancy": {
+  "id": "MONDO:0024664",
+  "label": "hypertension, pregnancy-induced",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0024664"
+ },
+ "alcoholism": {
+  "id": "MONDO:0021702",
+  "label": "alcohol amnestic disorder",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0021702"
+ },
+ "lung cancer": {
+  "id": "MONDO:0008903",
+  "label": "lung cancer",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0008903"
+ },
+ "autosomal dominant polycystic kidney disease": {
+  "id": "MONDO:0004691",
+  "label": "autosomal dominant polycystic kidney disease",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0004691"
+ },
+ "diverticular disease": null,
+ "cervical myelopathy": {
+  "id": "MONDO:1016375",
+  "label": "cervical compressive myelopathy, non-human animal",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_1016375"
+ },
+ "early preeclampsia": {
+  "id": "MONDO:0011517",
+  "label": "pseudohyperaldosteronism type 2",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0011517"
+ },
+ "late-onset preeclampsia": null,
+ "contact urticaria": {
+  "id": "MONDO:0022799",
+  "label": "cold urticaria",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0022799"
+ },
+ "mordechai, hien, and david s. wishart": null,
+ "schizophrenia": {
+  "id": "MONDO:0005090",
+  "label": "schizophrenia",
+  "iri": "http://purl.obolibrary.org/obo/MONDO_0005090"
+ }
+}

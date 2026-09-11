@@ -4,6 +4,7 @@
 // its candidate molecule list.
 import fs from "node:fs/promises";
 import path from "node:path";
+import { grade } from "./lib/evidence.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const file = path.join(root, "data/products.json");
@@ -11,11 +12,13 @@ const data = JSON.parse(await fs.readFile(file, "utf8"));
 const TOP = 8;
 
 const claimFile = JSON.parse(await fs.readFile(path.join(root, "data/product-claims.json"), "utf8"));
+const imageFile = JSON.parse(await fs.readFile(path.join(root, "data/product-images.json"), "utf8")).images;
 
 for (const product of data.products) {
   const handle = new URL(product.source).pathname.split("/").filter(Boolean).pop();
   product.handle = handle;
   product.claims = claimFile.claims[handle]?.tiles || [];
+  product.image = imageFile[handle] || null;
   let profile = null;
   try { profile = JSON.parse(await fs.readFile(path.join(root, `data/terpene-profiles/${handle}.json`), "utf8")); } catch { /* no measured profile */ }
   if (!profile) {
@@ -60,6 +63,54 @@ for (const product of data.products) {
 }
 for (const list of Object.values(byMolecule)) list.sort((a, b) => b.percent - a.percent);
 await fs.writeFile(path.join(root, "data/molecule-products.json"), `${JSON.stringify({ generated: new Date().toISOString().slice(0, 10), molecules: byMolecule }, null, 2)}\n`);
+
+// A pack claim, backed. For each tile a product carries, gather the research the measured
+// compounds hold in the claim's areas, weight it by share of the profile, and grade the best
+// evidence on Oxford CEBM. The tile then links to its receipts rather than a disclaimer.
+const vocabulary = JSON.parse(await fs.readFile(path.join(root, "data/claims/vocabulary.json"), "utf8")).claims;
+const moleculeRecords = new Map();
+for (const file of await fs.readdir(path.join(root, "data/molecules"))) {
+  if (!file.endsWith(".json")) continue;
+  const record = JSON.parse(await fs.readFile(path.join(root, "data/molecules", file), "utf8"));
+  moleculeRecords.set(record.id, record);
+}
+const ORDER = ["human_trials", "human_observational", "animal", "in_vitro", "review_only", "none_found"];
+const strongest = (levels) => ORDER.find((l) => levels.includes(l)) || "none_found";
+
+for (const product of data.products) {
+  if (!product.terpene_profile) { product.claim_support = []; continue; }
+  const profile = JSON.parse(await fs.readFile(path.join(root, product.terpene_profile.path), "utf8"));
+  const listed = profile.compounds.filter((c) => !c.aggregate);
+  product.claim_support = (product.claims || []).map((tile) => {
+    const spec = vocabulary[tile];
+    if (!spec) return { tile, definition: null, backing: [], best_evidence: "none_found" };
+    const backing = [];
+    for (const compound of listed) {
+      const record = moleculeRecords.get(compound.id);
+      const claims = (record?.research?.claims || []).filter((c) => spec.areas.includes(c.id));
+      if (!claims.length) continue;
+      const lines = claims.flatMap((c) => c.evidence_lines || []);
+      const graded = grade(lines);
+      backing.push({
+        id: compound.id, name: compound.name, percent: compound.percent_of_profile, mg: compound.mg_per_chew,
+        papers: claims.reduce((n, c) => n + c.papers, 0),
+        areas: claims.map((c) => c.label),
+        evidence_level: graded.evidence_level, eco: graded.eco?.id || null, oxford: graded.oxford?.level || null,
+        pmids: claims.flatMap((c) => c.pmids || []).slice(0, 8),
+      });
+    }
+    backing.sort((a, b) => b.percent - a.percent);
+    return {
+      tile, definition: spec.definition, areas: spec.areas,
+      backing,
+      compounds_with_research: backing.length,
+      papers: backing.reduce((n, b) => n + b.papers, 0),
+      share_of_profile: Number(backing.reduce((n, b) => n + b.percent, 0).toFixed(1)),
+      best_evidence: strongest(backing.map((b) => b.evidence_level)),
+      best_oxford: backing.map((b) => b.oxford).filter(Boolean).sort()[0] || null,
+    };
+  });
+}
 
 // Molecule pages that a measured profile actually quantifies should say so, instead of
 // still promising the number is pending a CoA.

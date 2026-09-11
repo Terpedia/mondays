@@ -1,0 +1,205 @@
+{
+  "generated": "2026-09-11",
+  "products": 10,
+  "measured_products": 6,
+  "compounds": 112,
+  "organisms": 1479,
+  "occurrence_references": 16761,
+  "papers": 148708,
+  "human_papers": 1380,
+  "trials": 27,
+  "organism_strips": {
+    "grapes-unleaded": [
+      {
+        "name": "Humulus lupulus",
+        "common": "Hops",
+        "family": "Cannabaceae",
+        "score": 90.761293719917
+      },
+      {
+        "name": "Salvia officinalis",
+        "common": "Sage",
+        "family": "Lamiaceae",
+        "score": 88.12712515176763
+      },
+      {
+        "name": "Salvia rosmarinus",
+        "common": "Rosemary",
+        "family": "Lamiaceae",
+        "score": 87.10902903685755
+      },
+      {
+        "name": "Vitex agnus-castus",
+        "common": "Chaste-tree",
+        "family": "Lamiaceae",
+        "score": 86.99029725045318
+      },
+      {
+        "name": "Salvia fruticosa",
+        "common": "Greek oregano",
+        "family": "Lamiaceae",
+        "score": 86.11563952199255
+      }
+    ],
+    "wild-things": [
+      {
+        "name": "Humulus lupulus",
+        "common": "Hops",
+        "family": "Cannabaceae",
+        "score": 85.11382481404978
+      },
+      {
+        "name": "Salvia fruticosa",
+        "common": "Greek oregano",
+        "family": "Lamiaceae",
+        "score": 70.72778217515199
+      },
+      {
+        "name": "Salvia rosmarinus",
+        "common": "Rosemary",
+        "family": "Lamiaceae",
+        "score": 70.72778217515199
+      },
+      {
+        "name": "Salvia officinalis",
+        "common": "Sage",
+        "family": "Lamiaceae",
+        "score": 70.43797889707675
+      },
+      {
+        "name": "Vitex agnus-castus",
+        "common": "Chaste-tree",
+        "family": "Lamiaceae",
+        "score": 67.60478823937946
+      }
+    ],
+    "go-go-bananas": [
+      {
+        "name": "Salvia officinalis",
+        "common": "Sage",
+        "family": "Lamiaceae",
+        "score": 149.58256218395803
+      },
+      {
+        "name": "Vitex agnus-castus",
+        "common": "Chaste-tree",
+        "family": "Lamiaceae",
+        "score": 147.26561627644176
+      },
+      {
+        "name": "Salvia rosmarinus",
+        "common": "Rosemary",
+        "family": "Lamiaceae",
+        "score": 141.43912180411624
+      },
+      {
+        "name": "Salvia fruticosa",
+        "common": "Greek oregano",
+        "family": "Lamiaceae",
+        "score": 139.65507532844032
+      },
+      {
+        "name": "Satureja thymbra",
+        "common": "Persian zatar",
+        "family": "Lamiaceae",
+        "score": 138.99353976521382
+      }
+    ],
+    "main-squeeze": [
+      {
+        "name": "Humulus lupulus",
+        "common": "Hops",
+        "family": "Cannabaceae",
+        "score": 97.73799940169125
+      },
+      {
+        "name": "Salvia fruticosa",
+        "common": "Greek oregano",
+        "family": "Lamiaceae",
+        "score": 79.51607020352259
+      },
+      {
+        "name": "Salvia rosmarinus",
+        "common": "Rosemary",
+        "family": "Lamiaceae",
+        "score": 79.51607020352259
+      },
+      {
+        "name": "Salvia officinalis",
+        "common": "Sage",
+        "family": "Lamiaceae",
+        "score": 79.3973741800556
+      },
+      {
+        "name": "Vitex agnus-castus",
+        "common": "Chaste-tree",
+        "family": "Lamiaceae",
+        "score": 78.20359143525691
+      }
+    ],
+    "raspberry-relief": [
+      {
+        "name": "Salvia officinalis",
+        "common": "Sage",
+        "family": "Lamiaceae",
+        "score": 176.9537451559064
+      },
+      {
+        "name": "Salvia rosmarinus",
+        "common": "Rosemary",
+        "family": "Lamiaceae",
+        "score": 167.25541541487462
+      },
+      {
+        "name": "Foeniculum vulgare",
+        "common": "Fennel",
+        "family": "Apiaceae",
+        "score": 164.61286233221094
+      },
+      {
+        "name": "Satureja thymbra",
+        "common": "Persian zatar",
+        "family": "Lamiaceae",
+        "score": 159.14075718077004
+      },
+      {
+        "name": "Artemisia annua",
+        "common": "Sweet wormwood",
+        "family": "Asteraceae",
+        "score": 158.2319107313266
+      }
+    ],
+    "the-daily-commute": [
+      {
+        "name": "Salvia officinalis",
+        "common": "Sage",
+        "family": "Lamiaceae",
+        "score": 175.59125634164957
+      },
+      {
+        "name": "Artemisia annua",
+        "common": "Sweet wormwood",
+        "family": "Asteraceae",
+        "score": 173.83554679818823
+      },
+      {
+        "name": "Humulus lupulus",
+        "common": "Hops",
+        "family": "Cannabaceae",
+        "score": 171.2537106883645
+      },
+      {
+        "name": "Vitex agnus-castus",
+        "common": "Chaste-tree",
+        "family": "Lamiaceae",
+        "score": 170.36471825622868
+      },
+      {
+        "name": "Satureja thymbra",
+        "common": "Persian zatar",
+        "family": "Lamiaceae",
+        "score": 168.9344112820514
+      }
+    ]
+  }
+}

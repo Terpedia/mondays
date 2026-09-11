@@ -1,0 +1,13 @@
+{
+  "name": "mondays-terpedia",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "profiles": "node scripts/fetch-terpene-profiles.mjs && node scripts/apply-terpene-profiles.mjs",
+    "molecules": "node scripts/fetch-molecule-data.mjs",
+    "summaries": "node scripts/summarize.mjs"
+  },
+  "dependencies": {
+    "zod": "^4.6.2"
+  }
+}
