@@ -381,5 +381,45 @@
       "mg_per_chew": 0.44,
       "aggregate": true
     }
-  ]
+  ],
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "profile_character": "Raspberry Relief is defined by a deep, earthy foundation that pairs the classic character of LA Confidential with a bright burst of red raspberry flavor. The profile is heavily dominated by the crisp, piney notes of alpha-pinene and beta-pinene, grounded by the herbal, earthy warmth of myrcene. A lively touch of limonene adds a citrusy brightness that perfectly complements the sweet berry finish.",
+    "dominant_compounds": [
+      {
+        "name": "α-Pinene",
+        "share_percent": 31.07,
+        "mg_per_serving": 6.21,
+        "researched_for": "Making up nearly a third of the profile, alpha-pinene is being studied for its potential to support healthy cellular responses to oxidative stress and healthy inflammatory responses. The strongest evidence currently available comes from human observational studies (Oxford level 2b), while early animal work points toward a potential role in supporting calm and relaxation. To fully understand its effects on human anxiety and inflammation, researchers would need to conduct targeted, placebo-controlled clinical trials measuring stress and inflammatory markers."
+      },
+      {
+        "name": "Myrcene",
+        "share_percent": 23.43,
+        "mg_per_serving": 4.69,
+        "researched_for": "Myrcene is being studied for its potential to support physical comfort, restful sleep, and healthy inflammatory responses, backed by human observational research (Oxford level 2b). Early animal work also points toward a potential role in supporting brain and nerve health. Future randomized clinical trials measuring sleep quality and physical comfort in humans would help settle these exciting hypotheses."
+      },
+      {
+        "name": "β-Pinene",
+        "share_percent": 14.29,
+        "mg_per_serving": 2.86,
+        "researched_for": "Beta-pinene is actively explored for its potential to support the body's natural antimicrobial defenses and neutralize free radicals, with the best evidence coming from human observational studies (Oxford level 2b). Researchers are also investigating whether it may support mood regulation and emotional well-being. Dedicated human trials measuring mood and oxidative stress markers are the next step to confirm these benefits."
+      },
+      {
+        "name": "Limonene",
+        "share_percent": 9.71,
+        "mg_per_serving": 1.94,
+        "researched_for": "Limonene is being studied for its potential to support cellular health by acting as an antioxidant and supporting healthy inflammatory responses, supported by human trials and observational studies (Oxford level 2b). Early work also points toward a role in supporting neurological health. To solidify these findings, researchers need larger, randomized clinical trials focusing on metabolic and cellular health markers."
+      },
+      {
+        "name": "β-Caryophyllene",
+        "share_percent": 3.84,
+        "mg_per_serving": 0.77,
+        "researched_for": "Because it directly binds to the body's cannabinoid type 2 receptors, beta-caryophyllene is being studied for its potential to support healthy inflammatory responses and offer neuroprotective benefits. The strongest evidence comes from human clinical trials and observational work (Oxford level 2b). Further randomized controlled trials measuring specific inflammatory markers would help clarify its full therapeutic potential."
+      }
+    ],
+    "structure_function_summary": "Raspberry Relief offers a robust blend of 88 identified compounds, heavily weighted toward the piney and earthy trio of alpha-pinene, myrcene, and beta-pinene. Together, this combination is being studied for its potential to support healthy cellular responses to oxidative stress, physical comfort, and healthy inflammatory pathways. The presence of limonene and beta-caryophyllene adds further interest for their potential to support mood and neurological health. The strongest evidence supporting these main compounds comes from human observational studies and early human trials (Oxford level 2b), providing a fascinating glimpse into how these molecules interact with human biology.",
+    "evidence_at_a_glance": "The strongest evidence for the dominant compounds in this profile comes from human observational studies and early clinical trials (Oxford level 2b), though it is important to note that the doses used in these studies often differ significantly from the 20 milligrams of total terpenes found in a single serving.",
+    "minor_notes": "The long tail of this profile includes 83 other compounds, notably linalool (1.46%), which is backed by individual randomised trials (Oxford level 1b) for its potential to support defenses against microbial growth and act as an antioxidant. It also features fascinating ecological molecules like (E)-beta-ocimene and alpha-humulene, which are being explored in bench and animal research for their natural insect-repelling properties."
+  }
 }

@@ -500,5 +500,45 @@
       "mg_per_chew": 0.482,
       "aggregate": true
     }
-  ]
+  ],
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "profile_character": "Go-Go Bananas is dominated by a heavy concentration of myrcene and limonene, which together make up over half of its terpene profile. This combination drives its signature gas-forward, candy-style character, seamlessly blending the sharp, earthy diesel notes of myrcene with the bright, sweet citrus undertones of limonene to create a creamy banana finish.",
+    "dominant_compounds": [
+      {
+        "name": "Myrcene",
+        "share_percent": 36.63,
+        "mg_per_serving": 7.33,
+        "researched_for": "Researchers are exploring whether myrcene may support antioxidant defenses, healthy inflammatory responses, and restful sleep, with the strongest evidence at Oxford level 2b, human observational."
+      },
+      {
+        "name": "Limonene",
+        "share_percent": 19.03,
+        "mg_per_serving": 3.81,
+        "researched_for": "This compound is being studied for its potential to support cellular health and act as an antioxidant, backed by human trials and observational studies at Oxford level 2b."
+      },
+      {
+        "name": "β-Caryophyllene",
+        "share_percent": 9.01,
+        "mg_per_serving": 1.8,
+        "researched_for": "Early work points toward β-caryophyllene supporting healthy inflammatory responses and neuroprotection, with evidence reaching Oxford level 1b, individual randomised trials, for physical comfort."
+      },
+      {
+        "name": "α-Pinene",
+        "share_percent": 4.4,
+        "mg_per_serving": 0.88,
+        "researched_for": "Studied for its potential to support healthy cellular responses to oxidative stress and neurological health, supported by human observational research at Oxford level 2b."
+      },
+      {
+        "name": "β-Pinene",
+        "share_percent": 3.66,
+        "mg_per_serving": 0.73,
+        "researched_for": "May support the body's natural antimicrobial defenses and mood regulation, with the best evidence coming from human observational studies at Oxford level 2b."
+      }
+    ],
+    "structure_function_summary": "Weighted heavily by myrcene and limonene, this profile is primarily being studied for its potential to support the body's natural antioxidant defenses and healthy inflammatory responses. Researchers are particularly drawn to how these dominant compounds, alongside a solid foundation of β-caryophyllene, might interact with cellular pathways to support physical comfort and neurological health. The strongest evidence for these combined effects comes from individual randomised trials, Oxford level 1b, evaluating β-caryophyllene, though much of the supporting literature rests on human observational and animal models. If this bears out, the profile could offer a versatile foundation for supporting overall cellular and metabolic well-being.",
+    "evidence_at_a_glance": "The strongest evidence for the major compounds in this profile comes from individual randomised trials, Oxford level 1b, and human observational studies, Oxford level 2b, primarily focusing on antioxidant and anti-inflammatory properties. It is important to note that the doses used in these clinical and laboratory settings differ significantly from the milligrams per serving found in this product.",
+    "minor_notes": "The long tail includes linalool, which is notably supported by individual randomised trials, Oxford level 1b, for its potential to support defenses against microbial growth. It also features several rare sesquiterpenes like selina-4(15),7(11)-diene and germacrene B, which are currently of high interest to botanists mapping plant chemical profiles."
+  }
 }

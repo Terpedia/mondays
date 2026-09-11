@@ -416,5 +416,51 @@
       "mg_per_chew": 0.288,
       "aggregate": true
     }
-  ]
+  ],
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "profile_character": "The Daily Commute is heavily dominated by myrcene, which makes up a massive 65% of its terpene profile, lending a deeply earthy and ripe, fruity base. This is brightened by a crisp, tropical canopy of alpha-pinene and limonene, perfectly capturing the vibrant Pineapple Express and Kona pineapple character. Together, these molecules create a sweet, tropical, and grounding aromatic experience.",
+    "dominant_compounds": [
+      {
+        "name": "Myrcene",
+        "share_percent": 65,
+        "mg_per_serving": 13,
+        "researched_for": "Myrcene is being studied for its potential to support the body's response to oxidative stress and healthy inflammatory pathways, as well as its role in supporting restful sleep and physical comfort. The strongest evidence for these effects comes from human observational studies (Oxford level 2b)."
+      },
+      {
+        "name": "α-Pinene",
+        "share_percent": 9.18,
+        "mg_per_serving": 1.84,
+        "researched_for": "Researchers are exploring whether alpha-pinene may support healthy cellular responses to oxidative stress, neurological health, and the body's natural defenses against microbes. The best evidence so far rests on human observational work (Oxford level 2b)."
+      },
+      {
+        "name": "Limonene",
+        "share_percent": 5.88,
+        "mg_per_serving": 1.18,
+        "researched_for": "Limonene is being investigated for its potential to support cellular health by acting as an antioxidant and promoting healthy inflammatory responses. The strongest evidence for these metabolic and cellular effects comes from human trials and observational studies (Oxford level 2b)."
+      },
+      {
+        "name": "β-Pinene",
+        "share_percent": 4.5,
+        "mg_per_serving": 0.9,
+        "researched_for": "Early work points toward beta-pinene supporting the body's natural antimicrobial defenses, neutralizing free radicals, and regulating mood. This is supported primarily by human observational research (Oxford level 2b) alongside animal and lab studies."
+      },
+      {
+        "name": "β-Caryophyllene",
+        "share_percent": 2.78,
+        "mg_per_serving": 0.56,
+        "researched_for": "Because it binds directly to the body's CB2 receptors, beta-caryophyllene is being studied for its potential to support healthy inflammatory responses, brain health, and physical comfort. The strongest evidence includes human clinical trials (Oxford level 1b)."
+      },
+      {
+        "name": "(E)-β-Ocimene",
+        "share_percent": 2.24,
+        "mg_per_serving": 0.45,
+        "researched_for": "This crucial ecological messenger is being explored for its potential to support cellular health and emotional well-being, as well as acting as a natural insect repellent. The best evidence for its health properties currently comes from human observational work (Oxford level 2b)."
+      }
+    ],
+    "structure_function_summary": "Driven overwhelmingly by myrcene, this profile is heavily weighted toward supporting the body's natural antioxidant defenses and healthy inflammatory responses. The bright secondary layer of alpha-pinene, limonene, and beta-pinene adds a focus on cellular health, mood regulation, and antimicrobial support. Beta-caryophyllene rounds out the blend with its unique potential to support physical comfort and neurological health via the endocannabinoid system. The strongest evidence backing these combined properties comes from human clinical trials (Oxford level 1b) for beta-caryophyllene, though the bulk of the profile's research rests on human observational studies (Oxford level 2b).",
+    "evidence_at_a_glance": "The strongest evidence for the dominant compounds in this profile comes from human clinical trials (Oxford level 1b) and human observational studies (Oxford level 2b). It is important to note that the doses used in these clinical and laboratory settings differ significantly from the milligrams present in a single serving of this product.",
+    "minor_notes": "The long tail of this profile contains 75 additional trace compounds, including fascinating ecological signaling molecules like (E)-beta-farnesene and hexyl butyrate, which are heavily studied as natural insect pheromones and repellents. It also features small amounts of linalool, which boasts human clinical trial evidence (Oxford level 1b) for its antimicrobial and antioxidant potential."
+  }
 }

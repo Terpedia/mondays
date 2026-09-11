@@ -535,5 +535,51 @@
       "mg_per_chew": 0.84,
       "aggregate": true
     }
-  ]
+  ],
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "profile_character": "Main Squeeze is dominated by a robust blend of spicy β-caryophyllene and bright, citrusy limonene, perfectly capturing its Ponderosa lemon and Lemon Cherry Gelato heritage. This pairing is grounded by a significant presence of earthy selinadienes and myrcene, creating a complex aroma that balances sharp, zesty fruit with deep botanical warmth.",
+    "dominant_compounds": [
+      {
+        "name": "β-Caryophyllene",
+        "share_percent": 17.29,
+        "mg_per_serving": 3.46,
+        "researched_for": "Researchers are fascinated by β-caryophyllene because it directly binds to the body's cannabinoid receptors, and it is being studied for its potential to support healthy inflammatory responses, neuroprotection, and a balanced mood (Oxford level 1b, human trials)."
+      },
+      {
+        "name": "Limonene",
+        "share_percent": 10.11,
+        "mg_per_serving": 2.02,
+        "researched_for": "Limonene is being explored for its wide-ranging ability to support cellular health, acting as an antioxidant and supporting natural antimicrobial defenses (Oxford level 2b, human observational)."
+      },
+      {
+        "name": "Selina-3,7(11)-diene",
+        "share_percent": 8.77,
+        "mg_per_serving": 1.75,
+        "researched_for": "Early work points toward this botanical compound supporting healthy inflammatory responses and the body's natural antioxidant defenses (Oxford level 2b, human observational)."
+      },
+      {
+        "name": "Selina-4(15),7(11)-diene",
+        "share_percent": 8.37,
+        "mg_per_serving": 1.67,
+        "researched_for": "Currently used primarily as a botanical marker to understand plant chemical profiles, this bicyclic sesquiterpene represents an open frontier for future discovery with no formal health research yet available (Oxford level null, no evidence found)."
+      },
+      {
+        "name": "Myrcene",
+        "share_percent": 6.41,
+        "mg_per_serving": 1.28,
+        "researched_for": "Myrcene is being studied for its potential to support physical comfort, soothe sensory pathways, and encourage restful sleep (Oxford level 2b, human observational)."
+      },
+      {
+        "name": "α-Humulene",
+        "share_percent": 5.14,
+        "mg_per_serving": 1.03,
+        "researched_for": "This earthy terpene is being investigated for its potential to support healthy inflammatory responses and act as a natural insect repellent (Oxford level 2b, human observational)."
+      }
+    ],
+    "structure_function_summary": "Driven heavily by β-caryophyllene and limonene, this profile is primarily being studied for its potential to support healthy inflammatory responses and robust cellular antioxidant defenses. Researchers are exploring whether this specific combination of terpenes might work together to support physical comfort, balanced mood, and neurological health. The strongest foundational research for these combined effects comes from human clinical trials (Oxford level 1b), offering an exciting glimpse into how these botanical compounds interact with human biology.",
+    "evidence_at_a_glance": "The strongest evidence behind these dominant compounds includes human clinical trials (Oxford level 1b) for β-caryophyllene's neuroprotective and comfort-supporting properties, though it is important to note that clinical study doses differ significantly from the milligrams found in a standard serving.",
+    "minor_notes": "The long tail of this profile is remarkably diverse, featuring 120 identified compounds including a notable 4.97 percent share of linalool, a floral molecule backed by human trials for its calming and antimicrobial potential, as well as the fascinating insect-signaling pheromone (E)-β-farnesene."
+  }
 }

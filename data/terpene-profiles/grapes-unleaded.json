@@ -549,5 +549,51 @@
       "mg_per_chew": 0.986,
       "aggregate": true
     }
-  ]
+  ],
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "profile_character": "Grapes Unleaded is dominated by a robust, gas-forward blend of β-caryophyllene and limonene, layered with the earthy, complex notes of rare selinadiene compounds. This combination delivers a bold, pungent aroma that perfectly complements its sweet Concord grape flavor. The heavy presence of these peppery and citrusy terpenes gives the chew a sharp, aromatic bite that lingers pleasantly.",
+    "dominant_compounds": [
+      {
+        "name": "β-Caryophyllene",
+        "share_percent": 15.11,
+        "mg_per_serving": 3.02,
+        "researched_for": "Researchers are fascinated by its ability to bind directly to the body's CB2 receptors, and are exploring whether it may support healthy inflammatory responses and neuroprotection (Oxford level 1b, individual randomised trial)."
+      },
+      {
+        "name": "Limonene",
+        "share_percent": 13.84,
+        "mg_per_serving": 2.77,
+        "researched_for": "Widely studied for its broad biological activity, early work points toward limonene supporting cellular health and acting as a natural antioxidant (Oxford level 2b, human observational)."
+      },
+      {
+        "name": "Selina-3,7(11)-diene",
+        "share_percent": 8.12,
+        "mg_per_serving": 1.62,
+        "researched_for": "Scientists are drawn to this complex botanical volatile to understand how it might support healthy inflammatory responses and protect cells from oxidative stress (Oxford level 2b, human observational)."
+      },
+      {
+        "name": "Selina-4(15),7(11)-diene",
+        "share_percent": 7.89,
+        "mg_per_serving": 1.58,
+        "researched_for": "Currently studied primarily as a botanical marker to understand plant chemical profiles, leaving its potential biological activities an open frontier for future discovery (no Oxford level found)."
+      },
+      {
+        "name": "Myrcene",
+        "share_percent": 6.2,
+        "mg_per_serving": 1.24,
+        "researched_for": "Early work points toward myrcene interacting with key cellular pathways to support physical comfort, relaxation, and the body's response to oxidative stress (Oxford level 2b, human observational)."
+      },
+      {
+        "name": "Linalool",
+        "share_percent": 5.99,
+        "mg_per_serving": 1.2,
+        "researched_for": "Known for its prominent role in traditional calming botanicals, researchers are exploring whether it may support a calm mood and ease feelings of anxiety (Oxford level 1b, individual randomised trial)."
+      }
+    ],
+    "structure_function_summary": "Weighted heavily by β-caryophyllene and limonene, the Grapes Unleaded profile is being studied primarily for its potential to support healthy inflammatory responses and robust cellular antioxidant defenses. The significant presence of myrcene and linalool adds an intriguing layer of research focused on physical comfort, relaxation, and balanced mood. The strongest evidence supporting these areas comes from individual randomised trials (Oxford level 1b) investigating β-caryophyllene and linalool. To see if these benefits hold up when the compounds are combined, the field needs a registered clinical trial measuring systemic inflammatory markers and subjective pain scores in humans taking this specific terpene blend.",
+    "evidence_at_a_glance": "The strongest evidence behind these main compounds comes from individual randomised trials (Oxford level 1b) exploring pain, inflammation, and antimicrobial properties, though the doses used in these clinical studies often differ significantly from the 20 milligrams of total terpenes provided in a single serving.",
+    "minor_notes": "The long tail of this profile contains over 100 minor compounds, including notable traces of α-humulene and α-pinene, which are actively being explored in human observational studies for their potential to support natural antimicrobial defenses and neurological health. It also features rare insect-signaling molecules like (E)-β-farnesene, highlighting the complex ecological origins of the plant extract."
+  }
 }

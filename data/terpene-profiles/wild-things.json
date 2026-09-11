@@ -612,5 +612,51 @@
       "mg_per_chew": 1.084,
       "aggregate": true
     }
-  ]
+  ],
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "profile_character": "The Wild Things profile is dominated by a robust blend of β-caryophyllene, limonene, and rare selinadiene compounds, creating a sweet, earthy character. This unique combination pairs the grounded, spicy notes of Animal Mints with the bright, fruity essence of wild strawberries.",
+    "dominant_compounds": [
+      {
+        "name": "β-Caryophyllene",
+        "share_percent": 14.08,
+        "mg_per_serving": 2.82,
+        "researched_for": "β-Caryophyllene is being studied for its potential to support healthy inflammatory responses and brain health, with the strongest evidence coming from human clinical trials (Oxford level 1b)."
+      },
+      {
+        "name": "Limonene",
+        "share_percent": 9.91,
+        "mg_per_serving": 1.98,
+        "researched_for": "Limonene may support cellular health by acting as an antioxidant and is being explored for its anti-inflammatory properties, supported by human trials and observational work (Oxford level 2b)."
+      },
+      {
+        "name": "Selina-3,7(11)-diene",
+        "share_percent": 9.48,
+        "mg_per_serving": 1.9,
+        "researched_for": "Early human observational work (Oxford level 2b) points toward this botanical marker supporting healthy inflammatory responses and natural antioxidant defenses."
+      },
+      {
+        "name": "Linalool",
+        "share_percent": 9.19,
+        "mg_per_serving": 1.84,
+        "researched_for": "Researchers are exploring whether linalool may support a calm mood, ease feelings of anxiety, and bolster antimicrobial defenses, backed by individual randomised trials (Oxford level 1b)."
+      },
+      {
+        "name": "Selina-4(15),7(11)-diene",
+        "share_percent": 9.08,
+        "mg_per_serving": 1.82,
+        "researched_for": "Currently valued as a botanical marker for plant identification, this bicyclic sesquiterpene represents an open frontier for future discovery, with no formal pharmacological research yet available."
+      },
+      {
+        "name": "α-Humulene",
+        "share_percent": 4.15,
+        "mg_per_serving": 0.83,
+        "researched_for": "α-Humulene is being studied for its potential to support healthy inflammatory responses and act as a natural insect repellent, with evidence reaching human observational studies (Oxford level 2b)."
+      }
+    ],
+    "structure_function_summary": "Driven heavily by β-caryophyllene and limonene, this profile is being studied for its potential to support healthy inflammatory responses and bolster the body's natural antioxidant defenses. The substantial presence of linalool adds an exciting dimension, as researchers are exploring whether it may support a calm mood and ease feelings of anxiety. The inclusion of rare selinadiene compounds further highlights the botanical complexity of this blend. The strongest evidence for these combined effects comes from individual randomised clinical trials (Oxford level 1b) investigating pain, neuroprotection, and antimicrobial properties.",
+    "evidence_at_a_glance": "The strongest evidence supporting this profile comes from individual randomised clinical trials (Oxford level 1b) for β-caryophyllene and linalool, though the doses used in these studies differ from the milligrams provided in a single serving.",
+    "minor_notes": "The long tail of this profile contains over 100 trace compounds, including notable amounts of γ-elemene and endo-fenchol, which early observational research suggests may support the body's natural antimicrobial defenses."
+  }
 }
