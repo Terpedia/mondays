@@ -1,1 +1,77 @@
-{"name":"trans-Pinene hydrate","id":"trans-pinene-hydrate","formula":"C10H18O","pubchem":{"cid":6428289,"title":"cis-2-Pinanol","formula":"C10H18O","molecular_weight":154.25,"smiles":"CC1(C2CCC(C1C2)(C)O)C","inchikey":"YYWZKGZIIKPPJZ-XKSSXDPKSA-N","iupac_name":"(1R,2S,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol","image":"data/molecules/images/trans-pinene-hydrate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/6428289","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6428289/PNG"},"targets":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","summary":null,"evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 0.17–1.31% of total volatiles (0.034–0.26mg per chew).","diseases":[],"occurrence":{"organisms":[{"name":"Pimenta racemosa","id":"pimenta-racemosa","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Pimenta","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1991.9697952"]}],"organism_count":1,"reference_count":1,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0105876"},"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=trans-Pinene%20hydrate"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"trans-Pinene hydrate is a botanical molecule belonging to the terpene family, sharing its structural roots with the familiar pine-scented compounds found in many forests. As a terpene hydrate, it represents one of the many specialized molecules plants create to interact with their environment.","found_in":"In nature, it has been identified in Pimenta racemosa, a tree in the myrtle family commonly known as the West Indian bay tree.","why_researchers_care":"Currently, trans-Pinene hydrate remains an uncharted frontier in natural-product chemistry. With no dedicated studies or clinical trials yet recorded in the available literature (Oxford level 5, none found), it stands as a testament to how many botanical molecules are still waiting to be explored by researchers for their potential biological roles.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no recorded evidence (Oxford level 5, none found) for this specific molecule in the available literature."}}
+{
+  "name": "trans-Pinene hydrate",
+  "id": "trans-pinene-hydrate",
+  "formula": "C10H18O",
+  "pubchem": {
+    "cid": 6428289,
+    "title": "cis-2-Pinanol",
+    "formula": "C10H18O",
+    "molecular_weight": 154.25,
+    "smiles": "CC1(C2CCC(C1C2)(C)O)C",
+    "inchikey": "YYWZKGZIIKPPJZ-XKSSXDPKSA-N",
+    "iupac_name": "(1R,2S,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol",
+    "image": "data/molecules/images/trans-pinene-hydrate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6428289",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6428289/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "summary": null,
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 0.17–1.31% of total volatiles (0.034–0.26mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Pimenta racemosa",
+        "id": "pimenta-racemosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Pimenta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697952"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0105876"
+  },
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=trans-Pinene%20hydrate"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "trans-Pinene hydrate is a botanical molecule, specifically a monoterpene alcohol, that is structurally related to the familiar pine-scented compound pinene. Molecules in this family typically contribute to the complex, woody, or herbal aromas of the aromatic plants that produce them.",
+    "found_in": "It has been identified in Pimenta racemosa, a member of the myrtle family better known as the West Indian bay tree, which is traditionally used to make bay rum.",
+    "why_researchers_care": "Currently, trans-pinene hydrate is a natural compound waiting for its moment in the scientific spotlight. Because it is often just one of many trace molecules in complex plant extracts, researchers have not yet isolated it for dedicated study, meaning there is currently no evidence (Oxford level 5, no evidence) regarding its biological potential.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no research literature or evidence available for this specific molecule."
+  }
+}

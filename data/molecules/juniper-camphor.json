@@ -1,1 +1,509 @@
-{"name":"Juniper camphor","id":"juniper-camphor","formula":"C15H26O","pubchem":{"cid":5318734,"title":"(1R,4aR,8aR)-1,4a-dimethyl-7-propan-2-ylidene-3,4,5,6,8,8a-hexahydro-2H-naphthalen-1-ol","formula":"C15H26O","molecular_weight":222.37,"smiles":"CC(=C1CCC2(CCCC(C2C1)(C)O)C)C","inchikey":"STRABSCAWZINIF-RBSFLKMASA-N","iupac_name":"(1R,4aR,8aR)-1,4a-dimethyl-7-propan-2-ylidene-3,4,5,6,8,8a-hexahydro-2H-naphthalen-1-ol","image":"data/molecules/images/juniper-camphor.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/5318734","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5318734/PNG"},"targets":[],"diseases":[],"literature":{"total":15,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Juniper%20camphor%5BAll%20Fields%5D","papers":[{"pmid":"38992404","title":"Ethnobotany, phytochemistry, pharmacology and quality control of Peucedanum decursivum (Miq.) Maxim: A critical review","journal":"J Ethnopharmacol","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38992404/"},{"pmid":"42059999","title":"Juniper camphor: An emerging sesquiterpene compound with promising chemistry, biological potential, and future perspectives","journal":"Saudi Pharm J","year":"2026","url":"https://pubmed.ncbi.nlm.nih.gov/42059999/"},{"pmid":"30130541","title":"The traditional uses, phytochemistry, and pharmacology of Atractylodes macrocephala Koidz.: A review","journal":"J Ethnopharmacol","year":"2018","url":"https://pubmed.ncbi.nlm.nih.gov/30130541/"},{"pmid":"39309954","title":"Explore on screening COX-2 inhibitors from the essential oil of Solanum lyratum Thunb. By molecular docking and molecular dynamics simulation","journal":"Heliyon","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39309954/"},{"pmid":"37005806","title":"[Main components from cultivated and wild Nardostachyos Radix et Rhizoma by LC-MS and GC-MS]","journal":"Zhongguo Zhong Yao Za Zhi","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37005806/"},{"pmid":"33435757","title":"Chemical compositions of the essential oils from Iranian populations of Rhabdosciadium aucheri Boiss. (Apiaceae)","journal":"Nat Prod Res","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/33435757/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Acritopappus prunifolius","id":"acritopappus-prunifolius","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Acritopappus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/0031-9422(82)80032-0"]},{"name":"Aniba riparia","id":"aniba-riparia","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lauraceae","genus":"Aniba","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/S0031-9422(00)83890-X"]},{"name":"Atractylodes macrocephala","id":"atractylodes-macrocephala","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Atractylodes","taxonomy_source":"NCBI","reference_count":1,"references":["10.3390/MOLECULES16043146"]},{"name":"Chiloscyphus polyanthos","id":"chiloscyphus-polyanthos","kingdom":"Plantae","phylum":"Streptophyta","family":"Lophocoleaceae","genus":"Chiloscyphus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(99)00159-4"]},{"name":"Daucus carota carota","id":"daucus-carota-carota","kingdom":"Plantae","phylum":"Tracheophyta","family":"Apiaceae","genus":"Daucus","taxonomy_source":"iNaturalist","reference_count":1,"references":["10.1177/1934578X1000501226"]},{"name":"Daucus carota subsp. carota","id":"daucus-carota-subsp-carota","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Daucus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1177/1934578X1000501226"]},{"name":"Dendronephthya hemprichi","id":"dendronephthya-hemprichi","kingdom":"Metazoa","phylum":"Cnidaria","family":"Nephtheidae","genus":"Dendronephthya","taxonomy_source":"NCBI","reference_count":1,"references":["10.1515/ZNB-2011-0413"]},{"name":"Laggera alata","id":"laggera-alata","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Laggera","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(98)80077-0"]}],"organism_count":8,"reference_count":7,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0093986"},"research":{"total":15,"sampled":15,"designs":{"review":3,"other":8,"animal":2,"human_observational":2},"topics":[{"term":"Drugs, Chinese Herbal","papers":3},{"term":"Camphor","papers":3},{"term":"Phytochemicals","papers":2},{"term":"Apiaceae","papers":2},{"term":"Quality Control","papers":2},{"term":"Atractylodes","papers":2},{"term":"Plant Preparations","papers":2},{"term":"Iran","papers":2},{"term":"Artemisia","papers":2},{"term":"China","papers":2},{"term":"Chrysanthemum","papers":2},{"term":"Ethnobotany","papers":1},{"term":"Ethnopharmacology","papers":1},{"term":"Medicine, Chinese Traditional","papers":1}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":2,"designs":{"human_observational":2},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":2,"pmids":["21592001","17032625"]}],"pmids":["21592001","17032625"]},{"id":"anti-inflammatory","label":"Anti-inflammatory","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["37544345"]}],"pmids":["37544345"]},{"id":"cancer","label":"Cancer","papers":1,"designs":{"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["21592001"]}],"pmids":["21592001"]}],"years":{"from":2006,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Juniper%20camphor%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 0.05–0.13% of total volatiles (0.01–0.026mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Juniper%20camphor"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Juniper camphor is a naturally occurring sesquiterpene, a type of aromatic molecule built by plants to interact with their environment. With a structure similar to traditional camphor, it likely contributes a woody, herbal, or slightly medicinal scent to the plants that produce it. People most often encounter it in traditional herbal preparations or essential oils derived from wild carrots and medicinal roots.","found_in":"This compound is found in the essential oils of wild carrot (Daucus carota) and the roots of Atractylodes macrocephala, a widely used herb in traditional Chinese medicine.","why_researchers_care":"Researchers are drawn to juniper camphor as an emerging botanical compound with untapped biological potential. They are actively exploring its role in traditional herbal medicines, particularly its potential to interact with inflammatory and microbial pathways. The strongest evidence so far comes from human observational studies (Oxford level 2b) looking at plant extracts containing the compound, sparking interest in isolating its specific effects.","structure_function":[{"claim_id":"antimicrobial","statement":"Early observational work points toward potential antimicrobial properties.","evidence_level":"human_observational","basis":"This rests on two human observational studies.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":2}],"paper_count":2},{"claim_id":"anti-inflammatory","statement":"Animal research suggests it may support the body's natural inflammatory response.","evidence_level":"animal","basis":"This is based on one animal study exploring COX-2 inhibition.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":1},{"claim_id":"cancer","statement":"It is being studied for potential roles in cellular health.","evidence_level":"human_observational","basis":"This rests on one human observational study.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"antimicrobial","area":"Antimicrobial activity","hypothesis":"Researchers are exploring whether juniper camphor can actively inhibit bacterial or fungal growth, which could make it a valuable natural topical agent.","evidence_level":"human_observational","paper_count":2,"study_to_test_it":"A randomized, double-blind human trial applying a standardized juniper camphor topical formulation versus placebo to assess skin microbiome balance over four weeks.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":2}]},{"claim_id":"anti-inflammatory","area":"Inflammation","hypothesis":"Early animal work points toward an ability to modulate inflammatory pathways like COX-2, raising the question of whether it could soothe tissue irritation.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A controlled human clinical trial measuring systemic inflammatory markers in healthy volunteers taking a standardized juniper camphor supplement versus placebo for 8 weeks.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]},{"claim_id":"cancer","area":"Cellular health","hypothesis":"Observational data has researchers curious about whether this sesquiterpene influences cell cycle regulation or tumor microenvironments.","evidence_level":"human_observational","paper_count":1,"study_to_test_it":"A randomized controlled trial evaluating the addition of isolated juniper camphor to standard care, measuring specific biomarker progression over 6 months.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b); most of the rest is animal research and early lab studies."}}
+{
+  "name": "Juniper camphor",
+  "id": "juniper-camphor",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 5318734,
+    "title": "(1R,4aR,8aR)-1,4a-dimethyl-7-propan-2-ylidene-3,4,5,6,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC(=C1CCC2(CCCC(C2C1)(C)O)C)C",
+    "inchikey": "STRABSCAWZINIF-RBSFLKMASA-N",
+    "iupac_name": "(1R,4aR,8aR)-1,4a-dimethyl-7-propan-2-ylidene-3,4,5,6,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "image": "data/molecules/images/juniper-camphor.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5318734",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5318734/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 15,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Juniper%20camphor%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38992404",
+        "title": "Ethnobotany, phytochemistry, pharmacology and quality control of Peucedanum decursivum (Miq.) Maxim: A critical review",
+        "journal": "J Ethnopharmacol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38992404/"
+      },
+      {
+        "pmid": "42059999",
+        "title": "Juniper camphor: An emerging sesquiterpene compound with promising chemistry, biological potential, and future perspectives",
+        "journal": "Saudi Pharm J",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059999/"
+      },
+      {
+        "pmid": "30130541",
+        "title": "The traditional uses, phytochemistry, and pharmacology of Atractylodes macrocephala Koidz.: A review",
+        "journal": "J Ethnopharmacol",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30130541/"
+      },
+      {
+        "pmid": "39309954",
+        "title": "Explore on screening COX-2 inhibitors from the essential oil of Solanum lyratum Thunb. By molecular docking and molecular dynamics simulation",
+        "journal": "Heliyon",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39309954/"
+      },
+      {
+        "pmid": "37005806",
+        "title": "[Main components from cultivated and wild Nardostachyos Radix et Rhizoma by LC-MS and GC-MS]",
+        "journal": "Zhongguo Zhong Yao Za Zhi",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37005806/"
+      },
+      {
+        "pmid": "33435757",
+        "title": "Chemical compositions of the essential oils from Iranian populations of Rhabdosciadium aucheri Boiss. (Apiaceae)",
+        "journal": "Nat Prod Res",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33435757/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Acritopappus prunifolius",
+        "id": "acritopappus-prunifolius",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Acritopappus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80032-0"
+        ]
+      },
+      {
+        "name": "Aniba riparia",
+        "id": "aniba-riparia",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lauraceae",
+        "genus": "Aniba",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83890-X"
+        ]
+      },
+      {
+        "name": "Atractylodes macrocephala",
+        "id": "atractylodes-macrocephala",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Atractylodes",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3390/MOLECULES16043146"
+        ]
+      },
+      {
+        "name": "Chiloscyphus polyanthos",
+        "id": "chiloscyphus-polyanthos",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lophocoleaceae",
+        "genus": "Chiloscyphus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00159-4"
+        ]
+      },
+      {
+        "name": "Daucus carota carota",
+        "id": "daucus-carota-carota",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Apiaceae",
+        "genus": "Daucus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1177/1934578X1000501226"
+        ]
+      },
+      {
+        "name": "Daucus carota subsp. carota",
+        "id": "daucus-carota-subsp-carota",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Daucus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1177/1934578X1000501226"
+        ]
+      },
+      {
+        "name": "Dendronephthya hemprichi",
+        "id": "dendronephthya-hemprichi",
+        "kingdom": "Metazoa",
+        "phylum": "Cnidaria",
+        "family": "Nephtheidae",
+        "genus": "Dendronephthya",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNB-2011-0413"
+        ]
+      },
+      {
+        "name": "Laggera alata",
+        "id": "laggera-alata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Laggera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)80077-0"
+        ]
+      }
+    ],
+    "organism_count": 8,
+    "reference_count": 7,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0093986"
+  },
+  "research": {
+    "total": 15,
+    "sampled": 15,
+    "designs": {
+      "review": 3,
+      "other": 8,
+      "animal": 2,
+      "human_observational": 2
+    },
+    "topics": [
+      {
+        "term": "Drugs, Chinese Herbal",
+        "papers": 3
+      },
+      {
+        "term": "Camphor",
+        "papers": 3
+      },
+      {
+        "term": "Phytochemicals",
+        "papers": 2
+      },
+      {
+        "term": "Apiaceae",
+        "papers": 2
+      },
+      {
+        "term": "Quality Control",
+        "papers": 2
+      },
+      {
+        "term": "Atractylodes",
+        "papers": 2
+      },
+      {
+        "term": "Plant Preparations",
+        "papers": 2
+      },
+      {
+        "term": "Iran",
+        "papers": 2
+      },
+      {
+        "term": "Artemisia",
+        "papers": 2
+      },
+      {
+        "term": "China",
+        "papers": 2
+      },
+      {
+        "term": "Chrysanthemum",
+        "papers": 2
+      },
+      {
+        "term": "Ethnobotany",
+        "papers": 1
+      },
+      {
+        "term": "Ethnopharmacology",
+        "papers": 1
+      },
+      {
+        "term": "Medicine, Chinese Traditional",
+        "papers": 1
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 2,
+        "designs": {
+          "human_observational": 2
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 2,
+            "pmids": [
+              "21592001",
+              "17032625"
+            ]
+          }
+        ],
+        "pmids": [
+          "21592001",
+          "17032625"
+        ]
+      },
+      {
+        "id": "anti-inflammatory",
+        "label": "Anti-inflammatory",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "37544345"
+            ]
+          }
+        ],
+        "pmids": [
+          "37544345"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 1,
+        "designs": {
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "21592001"
+            ]
+          }
+        ],
+        "pmids": [
+          "21592001"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2006,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Juniper%20camphor%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 0.05–0.13% of total volatiles (0.01–0.026mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Juniper%20camphor"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Juniper camphor is a fragrant sesquiterpene, a type of aromatic molecule often found in the essential oils of various botanicals. Given its chemical family, it likely contributes a woody, herbal, or slightly medicinal scent to the plants that produce it. You might encounter it in traditional herbal preparations or in the essential oils of certain wild plants.",
+    "found_in": "This compound has been identified in the essential oils of wild carrots (Daucus carota) and Atractylodes macrocephala, a plant frequently used in traditional Chinese herbal medicine.",
+    "why_researchers_care": "Researchers are drawn to juniper camphor because it frequently appears in the essential oils of plants with long histories in traditional medicine. They are actively exploring its biological potential, particularly whether it acts as an antimicrobial or anti-inflammatory agent. The strongest evidence so far comes from human observational studies (Oxford level 2b), which are helping scientists map out exactly what this emerging compound might do in the body.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Observational studies suggest juniper camphor may support the body's natural defenses against microbes.",
+        "evidence_level": "human_observational",
+        "basis": "This rests on two human observational studies.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 2
+          }
+        ],
+        "paper_count": 2
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "statement": "Early animal work points toward a potential role in supporting healthy inflammatory responses.",
+        "evidence_level": "animal",
+        "basis": "This is based on one animal study.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antimicrobial",
+        "area": "Antimicrobial activity",
+        "hypothesis": "Researchers are exploring whether juniper camphor can directly inhibit microbial growth in human applications, which could make it a valuable natural preservative or topical agent if it bears out.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized, placebo-controlled human trial testing a standardized topical juniper camphor cream on minor skin abrasions, measuring bacterial colonization rates over a two-week period.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 2
+          }
+        ]
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "area": "Inflammation",
+        "hypothesis": "Early animal work points toward an ability to modulate inflammatory pathways, possibly by interacting with enzymes like COX-2.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A randomized, double-blind human clinical trial measuring systemic inflammatory markers (such as CRP) in healthy adults taking a daily oral dose of juniper camphor for 30 days.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "cancer",
+        "area": "Cellular health",
+        "hypothesis": "Observational data has linked this compound to oncology research contexts, leading scientists to ask if it exerts protective or anti-proliferative effects on human cells.",
+        "evidence_level": "human_observational",
+        "paper_count": 1,
+        "study_to_test_it": "A randomized controlled trial evaluating the safety and biological activity of juniper camphor as an adjunct supplement, tracking cellular biomarkers in a specific patient cohort over 12 months.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b); most of the rest is animal and lab research."
+  }
+}

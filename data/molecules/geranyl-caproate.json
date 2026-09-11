@@ -1,1 +1,273 @@
-{"name":"Geranyl caproate","id":"geranyl-caproate","formula":"C16H28O2","pubchem":{"cid":5365992,"title":"Geranyl hexanoate","formula":"C16H28O2","molecular_weight":252.39,"smiles":"CCCCCC(=O)OCC=C(C)CCC=C(C)C","inchikey":"ARVSCQUZFFSNKF-NTCAYCPXSA-N","iupac_name":"[(2E)-3,7-dimethylocta-2,6-dienyl] hexanoate","image":"data/molecules/images/geranyl-caproate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/5365992","description":"(E)-3,7-Dimethyl-2,6-octadienyl hexanoate is a carboxylic ester.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:196061"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5365992/PNG"},"targets":[],"diseases":[],"literature":{"total":5,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Geranyl%20caproate%5BAll%20Fields%5D","papers":[{"pmid":"37890610","title":"Development of an efficient yeast platform for cannabigerolic acid biosynthesis","journal":"Metab Eng","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37890610/"},{"pmid":"25148991","title":"Fractionation and identification of minor and aroma-active constituents in Kangra orthodox black tea","journal":"Food Chem","year":"2015","url":"https://pubmed.ncbi.nlm.nih.gov/25148991/"},{"pmid":"31627403","title":"The Honey Volatile Code: A Collective Study and Extended Version","journal":"Foods","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/31627403/"},{"pmid":"11119776","title":"Inhibition of host-seeking response and olfactory responsiveness in Anopheles gambiae following blood feeding","journal":"J Insect Physiol","year":"2001","url":"https://pubmed.ncbi.nlm.nih.gov/11119776/"},{"pmid":"11475909","title":"Inactivation of protein farnesyltransferase by active-site-targeted dicarbonyl compounds","journal":"Arch Pharm (Weinheim)","year":"2001","url":"https://pubmed.ncbi.nlm.nih.gov/11475909/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Cymbopogon khasianus","id":"cymbopogon-khasianus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Poaceae","genus":"Cymbopogon","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1080/10412905.1995.9698585"]},{"name":"Cymbopogon martini","id":"cymbopogon-martini","kingdom":"Plantae","phylum":"Tracheophyta","family":"Poaceae","genus":"Cymbopogon","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1080/10412905.1990.9697831"]},{"name":"Cymbopogon martinii","id":"cymbopogon-martinii","kingdom":"Plantae","phylum":"Streptophyta","family":"Poaceae","genus":"Cymbopogon","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1990.9697831"]},{"name":"Origanum syriacum","id":"origanum-syriacum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1991.9697923"]},{"name":"Pelargonium citronellum","id":"pelargonium-citronellum","kingdom":"Plantae","phylum":"Streptophyta","family":"Geraniaceae","genus":"Pelargonium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698214"]},{"name":"Pelargonium quercifolium","id":"pelargonium-quercifolium","kingdom":"Plantae","phylum":"Streptophyta","family":"Geraniaceae","genus":"Pelargonium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1991.9697953"]},{"name":"Thymus funkii","id":"thymus-funkii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1002/FFJ.2730100609"]},{"name":"Tordylium apulum","id":"tordylium-apulum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Tordylium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698167"]}],"organism_count":8,"reference_count":7,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0002008"},"research":{"total":5,"sampled":5,"designs":{"human":1,"other":4},"topics":[{"term":"Saccharomyces cerevisiae","papers":1},{"term":"Caproates","papers":1},{"term":"Cannabinoids","papers":1},{"term":"Salicylates","papers":1},{"term":"Benzoates","papers":1},{"term":"Chemical Fractionation","papers":1},{"term":"Odorants","papers":1},{"term":"Tea","papers":1},{"term":"Alkenes","papers":1},{"term":"Alkyl and Aryl Transferases","papers":1},{"term":"Binding Sites","papers":1},{"term":"Enzyme Inhibitors","papers":1},{"term":"Ketones","papers":1},{"term":"Kinetics","papers":1}],"claims":[],"years":{"from":2001,"to":2023},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Geranyl%20caproate%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.05% of total volatiles (0.01mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Geranyl%20caproate"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Geranyl caproate is a carboxylic ester, a type of volatile compound that contributes to the complex, fragrant profiles of various botanicals. It brings a subtle aromatic touch to the natural world, and you might encounter it while sipping a rich black tea or smelling the crushed leaves of scented geraniums.","found_in":"This compound is found naturally in aromatic plants like palmarosa (Cymbopogon martinii), Syrian oregano, and scented geraniums, and has been identified in the flavor profiles of honey and Kangra orthodox black tea.","why_researchers_care":"Researchers are drawn to geranyl caproate primarily for its role in flavor chemistry and its intriguing biological interactions. Early in vitro and insect studies are exploring how it might inhibit specific enzymes or alter the olfactory responses of mosquitoes. Additionally, scientists are studying its chemical neighborhood to develop yeast platforms for synthesizing rare compounds, making it a molecule of interest in both natural product profiling and synthetic biology.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Research on this molecule is in its earliest stages, consisting entirely of chemical profiling, insect behavioral studies, and in vitro (lab) work."}}
+{
+  "name": "Geranyl caproate",
+  "id": "geranyl-caproate",
+  "formula": "C16H28O2",
+  "pubchem": {
+    "cid": 5365992,
+    "title": "Geranyl hexanoate",
+    "formula": "C16H28O2",
+    "molecular_weight": 252.39,
+    "smiles": "CCCCCC(=O)OCC=C(C)CCC=C(C)C",
+    "inchikey": "ARVSCQUZFFSNKF-NTCAYCPXSA-N",
+    "iupac_name": "[(2E)-3,7-dimethylocta-2,6-dienyl] hexanoate",
+    "image": "data/molecules/images/geranyl-caproate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5365992",
+    "description": "(E)-3,7-Dimethyl-2,6-octadienyl hexanoate is a carboxylic ester.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:196061"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5365992/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 5,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Geranyl%20caproate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "37890610",
+        "title": "Development of an efficient yeast platform for cannabigerolic acid biosynthesis",
+        "journal": "Metab Eng",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37890610/"
+      },
+      {
+        "pmid": "25148991",
+        "title": "Fractionation and identification of minor and aroma-active constituents in Kangra orthodox black tea",
+        "journal": "Food Chem",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25148991/"
+      },
+      {
+        "pmid": "31627403",
+        "title": "The Honey Volatile Code: A Collective Study and Extended Version",
+        "journal": "Foods",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31627403/"
+      },
+      {
+        "pmid": "11119776",
+        "title": "Inhibition of host-seeking response and olfactory responsiveness in Anopheles gambiae following blood feeding",
+        "journal": "J Insect Physiol",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11119776/"
+      },
+      {
+        "pmid": "11475909",
+        "title": "Inactivation of protein farnesyltransferase by active-site-targeted dicarbonyl compounds",
+        "journal": "Arch Pharm (Weinheim)",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11475909/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Cymbopogon khasianus",
+        "id": "cymbopogon-khasianus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1995.9698585"
+        ]
+      },
+      {
+        "name": "Cymbopogon martini",
+        "id": "cymbopogon-martini",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697831"
+        ]
+      },
+      {
+        "name": "Cymbopogon martinii",
+        "id": "cymbopogon-martinii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Cymbopogon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697831"
+        ]
+      },
+      {
+        "name": "Origanum syriacum",
+        "id": "origanum-syriacum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697923"
+        ]
+      },
+      {
+        "name": "Pelargonium citronellum",
+        "id": "pelargonium-citronellum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698214"
+        ]
+      },
+      {
+        "name": "Pelargonium quercifolium",
+        "id": "pelargonium-quercifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697953"
+        ]
+      },
+      {
+        "name": "Thymus funkii",
+        "id": "thymus-funkii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100609"
+        ]
+      },
+      {
+        "name": "Tordylium apulum",
+        "id": "tordylium-apulum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Tordylium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698167"
+        ]
+      }
+    ],
+    "organism_count": 8,
+    "reference_count": 7,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0002008"
+  },
+  "research": {
+    "total": 5,
+    "sampled": 5,
+    "designs": {
+      "human": 1,
+      "other": 4
+    },
+    "topics": [
+      {
+        "term": "Saccharomyces cerevisiae",
+        "papers": 1
+      },
+      {
+        "term": "Caproates",
+        "papers": 1
+      },
+      {
+        "term": "Cannabinoids",
+        "papers": 1
+      },
+      {
+        "term": "Salicylates",
+        "papers": 1
+      },
+      {
+        "term": "Benzoates",
+        "papers": 1
+      },
+      {
+        "term": "Chemical Fractionation",
+        "papers": 1
+      },
+      {
+        "term": "Odorants",
+        "papers": 1
+      },
+      {
+        "term": "Tea",
+        "papers": 1
+      },
+      {
+        "term": "Alkenes",
+        "papers": 1
+      },
+      {
+        "term": "Alkyl and Aryl Transferases",
+        "papers": 1
+      },
+      {
+        "term": "Binding Sites",
+        "papers": 1
+      },
+      {
+        "term": "Enzyme Inhibitors",
+        "papers": 1
+      },
+      {
+        "term": "Ketones",
+        "papers": 1
+      },
+      {
+        "term": "Kinetics",
+        "papers": 1
+      }
+    ],
+    "claims": [],
+    "years": {
+      "from": 2001,
+      "to": 2023
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Geranyl%20caproate%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.05% of total volatiles (0.01mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Geranyl%20caproate"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Geranyl caproate is a naturally occurring ester, a family of molecules famous for their bright, fruity, and floral aromas. It contributes to the complex scent profiles of certain aromatic herbs and flowers. You are most likely to encounter it as a subtle flavor note in black tea, honey, or the fragrant oils of geraniums and lemongrass.",
+    "found_in": "It is naturally present in the essential oils of several fragrant plants, including palmarosa, Syrian oregano, and various species of geranium and thyme.",
+    "why_researchers_care": "Researchers are primarily drawn to geranyl caproate for its role as a volatile aroma compound and its interactions with biological systems. Early laboratory work (Oxford level 5, in vitro) is exploring its potential to inhibit specific enzymes and its utility in bioengineering, such as using yeast platforms to synthesize complex molecules like cannabinoids. Entomologists are also investigating how odorants like this one might influence the host-seeking behavior of mosquitoes.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "The best evidence so far consists of laboratory and insect-model studies (Oxford level 5), primarily focusing on its properties as an aroma compound and enzyme inhibitor rather than human health effects."
+  }
+}

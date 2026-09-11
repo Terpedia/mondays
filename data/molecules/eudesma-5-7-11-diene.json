@@ -1,1 +1,44 @@
-{"name":"Eudesma-5,7(11)-diene","id":"eudesma-5-7-11-diene","formula":null,"pubchem":null,"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":null,"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"summary":null,"evidence":"Measured in 4 of 6 MONDAYS hemp SKUs at 0.06–0.27% of total volatiles (0.012–0.054mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Eudesma-5%2C7(11)-diene"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Eudesma-5,7(11)-diene is a specialized natural molecule belonging to the eudesmane class of sesquiterpenes, a family of compounds often responsible for the rich, woody, and earthy aromas in essential oils. While its chemical structure is known to science, it remains a rare or highly specific compound that most people will not encounter as an isolated ingredient in daily life.","found_in":"Specific plant or food sources for this exact molecule are not currently cataloged in our records.","why_researchers_care":"At present, eudesma-5,7(11)-diene is a chemical ghost in the medical and nutritional literature, with no published studies or clinical trials exploring its effects. Researchers have yet to focus on this specific molecule, leaving its potential biological roles and applications entirely open for future discovery.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no published evidence or clinical data available for this molecule in our records."}}
+{
+  "name": "Eudesma-5,7(11)-diene",
+  "id": "eudesma-5-7-11-diene",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": null,
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "summary": null,
+  "evidence": "Measured in 4 of 6 MONDAYS hemp SKUs at 0.06–0.27% of total volatiles (0.012–0.054mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Eudesma-5%2C7(11)-diene"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Eudesma-5,7(11)-diene is a molecule whose specific characteristics are not yet detailed in our records. While its chemical name suggests it belongs to the terpene family—the compounds often responsible for the vibrant scents and tastes in nature—its exact aromatic profile and daily sources remain unmapped here.",
+    "found_in": "There are currently no specific plants or foods recorded as sources for this compound in our database.",
+    "why_researchers_care": "Because there are no published studies or clinical trials currently recorded for Eudesma-5,7(11)-diene, researchers have not yet established an evidence base for its effects. It remains an unexplored molecule in this dataset, waiting for future scientific inquiry to uncover its potential.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published evidence or Oxford-graded research available for this molecule."
+  }
+}

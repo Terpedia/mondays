@@ -1,1 +1,931 @@
-{"name":"Hexyl acetate","id":"hexyl-acetate","formula":"C8H16O2","pubchem":{"cid":8908,"title":"Hexyl Acetate","formula":"C8H16O2","molecular_weight":144.21,"smiles":"CCCCCCOC(=O)C","inchikey":"AOGQPLXWSUTHQB-UHFFFAOYSA-N","iupac_name":"hexyl acetate","image":"data/molecules/images/hexyl-acetate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/8908","description":"Hexyl acetate is the acetate ester of hexan-1-ol. It has a role as a metabolite. It is functionally related to a hexan-1-ol.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87510"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/8908/PNG"},"targets":[],"diseases":[{"disease":"Autism","kind":"reported_association","pmids":["15585776","7687150","20423563","6150139","3410814","12205654","24130822"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0029980","id":"autism","mondo":{"id":"MONDO:0005260","label":"autism","iri":"http://purl.obolibrary.org/obo/MONDO_0005260"}},{"disease":"Pervasive developmental disorder not otherwise specified","kind":"reported_association","pmids":["24130822"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0029980","id":"pervasive-developmental-disorder-not-otherwise-specified","mondo":{"id":"MONDO:0005258","label":"autism spectrum disorder","iri":"http://purl.obolibrary.org/obo/MONDO_0005258"}},{"disease":"Solvents, acute toxic effect","category":"Acute Poisoning","kind":"occupational_exposure","pmids":[],"source":"Haz-Map, Information on Hazardous Chemicals and Occupational Diseases","source_url":"https://haz-map.com/Agents/3409","id":"solvents-acute-toxic-effect","mondo":null}],"literature":{"total":255,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20acetate%5BAll%20Fields%5D","papers":[{"pmid":"37264424","title":"Alcohol acyltransferases for the biosynthesis of esters","journal":"Biotechnol Biofuels Bioprod","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37264424/"},{"pmid":"35816188","title":"The behavioral sensitivity of mice to acetate esters","journal":"Chem Senses","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35816188/"},{"pmid":"31402808","title":"A 13-week subchronic toxicity study of hexyl acetate in SD rats","journal":"J Toxicol Pathol","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/31402808/"},{"pmid":"39242071","title":"RIFM fragrance ingredient safety assessment, 3-(methylthio)hexyl acetate, CAS registry number 51755-85-2","journal":"Food Chem Toxicol","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39242071/"},{"pmid":"29936280","title":"RIFM fragrance ingredient safety assessment, Hexyl acetate, CAS Registry Number 142-92-7","journal":"Food Chem Toxicol","year":"2018","url":"https://pubmed.ncbi.nlm.nih.gov/29936280/"},{"pmid":"39159911","title":"Update to RIFM fragrance ingredient safety assessment, hexyl acetate, CAS registry number 142-92-7","journal":"Food Chem Toxicol","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39159911/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Aspalathus linearis","id":"aspalathus-linearis","kingdom":"Plantae","phylum":"Streptophyta","family":"Fabaceae","genus":"Aspalathus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00062A024"]},{"name":"Avena haussknechtii","id":"avena-haussknechtii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Poaceae","genus":"Avena","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1021/JF00112A045"]},{"name":"Avena sativa","id":"avena-sativa","kingdom":"Plantae","phylum":"Streptophyta","family":"Poaceae","genus":"Avena","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00112A045"]},{"name":"Boswellia sacra","id":"boswellia-sacra","kingdom":"Plantae","phylum":"Streptophyta","family":"Burseraceae","genus":"Boswellia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1055/S-2006-962745"]},{"name":"Cannabis sativa","id":"cannabis-sativa","kingdom":"Plantae","phylum":"Streptophyta","family":"Cannabaceae","genus":"Cannabis","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/NP50008A001"]},{"name":"Citrus iyo","id":"citrus-iyo","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1271/BBB1961.47.1841"]},{"name":"Cucumis melo","id":"cucumis-melo","kingdom":"Plantae","phylum":"Streptophyta","family":"Cucurbitaceae","genus":"Cucumis","taxonomy_source":"NCBI","reference_count":1,"references":["10.1111/J.1365-2621.1987.TB14284.X"]},{"name":"Festuca arundinacea","id":"festuca-arundinacea","kingdom":"Archaeplastida","phylum":"Streptophyta","family":"Poaceae","genus":"Festuca","taxonomy_source":"Open Tree of Life","reference_count":1,"references":["10.1016/0031-9422(91)84185-U"]},{"name":"Festuca rubra","id":"festuca-rubra","kingdom":"Plantae","phylum":"Streptophyta","family":"Poaceae","genus":"Festuca","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(91)84185-U"]},{"name":"Fragaria ananassa","id":"fragaria-ananassa","kingdom":"Plantae","phylum":"Streptophyta","family":"Rosaceae","genus":"Fragaria","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00023A036"]},{"name":"Garcinia mangostana","id":"garcinia-mangostana","kingdom":"Plantae","phylum":"Streptophyta","family":"Clusiaceae","genus":"Garcinia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(82)80025-3"]},{"name":"Helichrysum ambiguum","id":"helichrysum-ambiguum","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Helichrysum","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1055/S-2006-957552"]},{"name":"Helichrysum pendulum subsp. boissieri","id":"helichrysum-pendulum-subsp-boissieri","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Helichrysum","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1055/S-2006-957552"]},{"name":"Heracleum antasiaticum","id":"heracleum-antasiaticum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Heracleum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF02236436"]},{"name":"Heracleum persicum","id":"heracleum-persicum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Heracleum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1055/S-2007-969621"]},{"name":"Lavandula angustifolia","id":"lavandula-angustifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Lavandula","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1997.9700727"]},{"name":"Lonicera japonica","id":"lonicera-japonica","kingdom":"Plantae","phylum":"Streptophyta","family":"Caprifoliaceae","genus":"Lonicera","taxonomy_source":"NCBI","reference_count":1,"references":["10.1186/1471-2164-13-195"]},{"name":"Malus domestica","id":"malus-domestica","kingdom":"Plantae","phylum":"Streptophyta","family":"Rosaceae","genus":"Malus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00025A025"]},{"name":"Malus pumila","id":"malus-pumila","kingdom":"Plantae","phylum":"Streptophyta","family":"Rosaceae","genus":"Malus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00025A025"]},{"name":"Malus sylvestris","id":"malus-sylvestris","kingdom":"Plantae","phylum":"Streptophyta","family":"Rosaceae","genus":"Malus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00025A025"]},{"name":"Mandragora autumnalis","id":"mandragora-autumnalis","kingdom":"Plantae","phylum":"Streptophyta","family":"Solanaceae","genus":"Mandragora","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2005.07.016"]},{"name":"Mandragora officinarum","id":"mandragora-officinarum","kingdom":"Plantae","phylum":"Streptophyta","family":"Solanaceae","genus":"Mandragora","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2005.07.016"]},{"name":"Musa paradisiaca","id":"musa-paradisiaca","kingdom":"Plantae","phylum":"Streptophyta","family":"Musaceae","genus":"Musa","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00035A046"]},{"name":"Olea europaea","id":"olea-europaea","kingdom":"Plantae","phylum":"Streptophyta","family":"Oleaceae","genus":"Olea","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(97)00730-9"]},{"name":"Osmorhiza aristata","id":"osmorhiza-aristata","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Osmorhiza","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/YAKUSHI1947.99.11_1116"]},{"name":"Paeonia lactiflora","id":"paeonia-lactiflora","kingdom":"Plantae","phylum":"Streptophyta","family":"Paeoniaceae","genus":"Paeonia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)94541-2"]},{"name":"Picea abies","id":"picea-abies","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Picea","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)80745-1"]},{"name":"Polygala senega","id":"polygala-senega","kingdom":"Plantae","phylum":"Streptophyta","family":"Polygalaceae","genus":"Polygala","taxonomy_source":"NCBI","reference_count":1,"references":["10.1002/FFJ.2730100408"]},{"name":"Psidium guajava","id":"psidium-guajava","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Psidium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(82)80138-6"]},{"name":"Pternistria bispina","id":"pternistria-bispina","kingdom":"Metazoa","phylum":"Arthropoda","family":"Coreidae","genus":"Pternistria","taxonomy_source":"NCBI","reference_count":1,"references":["10.1071/CH9670395"]},{"name":"Pyrus pyrifolia","id":"pyrus-pyrifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Rosaceae","genus":"Pyrus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1992.9698151"]},{"name":"Quercus agrifolia","id":"quercus-agrifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Fagaceae","genus":"Quercus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)84047-9"]},{"name":"Salvia reuteriana","id":"salvia-reuteriana","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1002/(SICI)1099-1026(199907/08)14:4<230::AID-FFJ816>3.0.CO;2-L"]},{"name":"Schedonorus arundinaceus","id":"schedonorus-arundinaceus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Poaceae","genus":"Schedonorus","taxonomy_source":"ITIS","reference_count":1,"references":["10.1016/0031-9422(91)84185-U"]},{"name":"Scolochloa festucacea","id":"scolochloa-festucacea","kingdom":"Plantae","phylum":"Streptophyta","family":"Poaceae","genus":"Scolochloa","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(91)84185-U"]},{"name":"Spondias mombin","id":"spondias-mombin","kingdom":"Plantae","phylum":"Streptophyta","family":"Anacardiaceae","genus":"Spondias","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1992.9698127"]},{"name":"Tricholoma matsutake","id":"tricholoma-matsutake","kingdom":"Fungi","phylum":"Basidiomycota","family":"Tricholomataceae","genus":"Tricholoma","taxonomy_source":"Index Fungorum","reference_count":1,"references":["10.1271/BBB1961.45.373"]},{"name":"Vitis rotundifolia","id":"vitis-rotundifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Vitaceae","genus":"Vitis","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00112A014"]}],"organism_count":38,"reference_count":30,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0202355"},"research":{"total":255,"sampled":200,"designs":{"review":4,"animal":35,"other":138,"human_observational":23},"topics":[{"term":"Volatile Organic Compounds","papers":64},{"term":"Odorants","papers":53},{"term":"Fruit","papers":48},{"term":"Acetates","papers":33},{"term":"Esters","papers":24},{"term":"Fermentation","papers":24},{"term":"Wine","papers":22},{"term":"Taste","papers":20},{"term":"Malus","papers":20},{"term":"Flavoring Agents","papers":16},{"term":"Saccharomyces cerevisiae","papers":14},{"term":"Vitis","papers":12},{"term":"Smell","papers":10},{"term":"Solid Phase Microextraction","papers":10}],"claims":[{"id":"antioxidant","label":"Antioxidant","papers":3,"designs":{"other":3},"evidence_level":"none_found","eco":{"id":"ECO:0000205","label":"curator inference"},"oxford":{"level":null,"label":"no evidence found"},"evidence_lines":[],"pmids":["31766371","32327687","35671659"]},{"id":"antimicrobial","label":"Antimicrobial","papers":2,"designs":{"other":1,"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["28528251"]}],"pmids":["12720377","28528251"]},{"id":"insect","label":"Insect repellent","papers":2,"designs":{"animal":2},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":2,"pmids":["38348748","33089649"]}],"pmids":["38348748","33089649"]}],"years":{"from":1982,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20acetate%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.05% of total volatiles (0.01mg per chew).","trials":{"total":0,"matched_loosely":1,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Hexyl%20acetate"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Hexyl acetate is a volatile organic compound and ester that helps give many fruits and fermented beverages their signature sweet aromas. As a natural metabolite, it is widely used as a flavoring agent and fragrance ingredient to impart bright, fruity notes. You likely encounter it daily when enjoying fresh fruits, sipping wine, or smelling scented consumer products.","found_in":"This molecule is naturally found in a variety of familiar foods and plants, including strawberries, melons, apples, and grapes. It is also present in oats, citrus fruits, and fermented products involving brewer's yeast.","why_researchers_care":"Researchers are drawn to hexyl acetate for its prominent role as an odorant that shapes the flavor profiles of fruits and wines. Scientists are actively exploring its behavioral effects and safety as a fragrance ingredient, alongside its potential biological properties. The strongest evidence exploring its functional effects comes from human observational research (Oxford level 2b) looking at its antimicrobial potential.","structure_function":[{"claim_id":"antimicrobial","statement":"Hexyl acetate is being studied for its potential antimicrobial properties.","evidence_level":"human_observational","basis":"This is based on two papers, including one human observational study.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}],"paper_count":2},{"claim_id":"insect","statement":"Early work points toward hexyl acetate having potential as an insect repellent.","evidence_level":"animal","basis":"This rests on two animal studies.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":2}],"paper_count":2}],"hypothesized_benefits":[{"claim_id":"antimicrobial","area":"Antimicrobial activity","hypothesis":"Researchers are exploring whether hexyl acetate can effectively inhibit microbial growth in real-world applications.","evidence_level":"human_observational","paper_count":2,"study_to_test_it":"A randomized controlled trial applying a hexyl acetate-based topical formulation or environmental spray to measure its efficacy in reducing specific bacterial or fungal counts over a two-week period compared to a placebo.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}]},{"claim_id":"insect","area":"Pest deterrence","hypothesis":"Early animal work points toward the possibility that this volatile ester could deter insects, which would make it a valuable natural alternative for pest management.","evidence_level":"animal","paper_count":2,"study_to_test_it":"A human field trial where volunteers apply a standardized hexyl acetate lotion to one arm and a control to the other, measuring the number of mosquito or tick landings over a four-hour exposure period.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":2}]}],"associated_conditions":[{"condition":"autism","mondo_id":"MONDO:0005260","relationship":"Detected in metabolomic studies of"},{"condition":"autism spectrum disorder","mondo_id":"MONDO:0005258","relationship":"Detected in metabolomic studies of"},{"condition":"Solvents, acute toxic effect","mondo_id":null,"relationship":"Occupational exposure hazard"}],"cautions":"In industrial or occupational settings, concentrated hexyl acetate is recognized as a solvent exposure hazard that can cause acute toxic effects.","evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b) regarding its antimicrobial potential; most of the rest is animal research and safety assessments of its use as a fragrance."}}
+{
+  "name": "Hexyl acetate",
+  "id": "hexyl-acetate",
+  "formula": "C8H16O2",
+  "pubchem": {
+    "cid": 8908,
+    "title": "Hexyl Acetate",
+    "formula": "C8H16O2",
+    "molecular_weight": 144.21,
+    "smiles": "CCCCCCOC(=O)C",
+    "inchikey": "AOGQPLXWSUTHQB-UHFFFAOYSA-N",
+    "iupac_name": "hexyl acetate",
+    "image": "data/molecules/images/hexyl-acetate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8908",
+    "description": "Hexyl acetate is the acetate ester of hexan-1-ol. It has a role as a metabolite. It is functionally related to a hexan-1-ol.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:87510"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/8908/PNG"
+  },
+  "targets": [],
+  "diseases": [
+    {
+      "disease": "Autism",
+      "kind": "reported_association",
+      "pmids": [
+        "15585776",
+        "7687150",
+        "20423563",
+        "6150139",
+        "3410814",
+        "12205654",
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0029980",
+      "id": "autism",
+      "mondo": {
+        "id": "MONDO:0005260",
+        "label": "autism",
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0005260"
+      }
+    },
+    {
+      "disease": "Pervasive developmental disorder not otherwise specified",
+      "kind": "reported_association",
+      "pmids": [
+        "24130822"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0029980",
+      "id": "pervasive-developmental-disorder-not-otherwise-specified",
+      "mondo": {
+        "id": "MONDO:0005258",
+        "label": "autism spectrum disorder",
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0005258"
+      }
+    },
+    {
+      "disease": "Solvents, acute toxic effect",
+      "category": "Acute Poisoning",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/3409",
+      "id": "solvents-acute-toxic-effect",
+      "mondo": null
+    }
+  ],
+  "literature": {
+    "total": 255,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20acetate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "37264424",
+        "title": "Alcohol acyltransferases for the biosynthesis of esters",
+        "journal": "Biotechnol Biofuels Bioprod",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37264424/"
+      },
+      {
+        "pmid": "35816188",
+        "title": "The behavioral sensitivity of mice to acetate esters",
+        "journal": "Chem Senses",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35816188/"
+      },
+      {
+        "pmid": "31402808",
+        "title": "A 13-week subchronic toxicity study of hexyl acetate in SD rats",
+        "journal": "J Toxicol Pathol",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31402808/"
+      },
+      {
+        "pmid": "39242071",
+        "title": "RIFM fragrance ingredient safety assessment, 3-(methylthio)hexyl acetate, CAS registry number 51755-85-2",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39242071/"
+      },
+      {
+        "pmid": "29936280",
+        "title": "RIFM fragrance ingredient safety assessment, Hexyl acetate, CAS Registry Number 142-92-7",
+        "journal": "Food Chem Toxicol",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29936280/"
+      },
+      {
+        "pmid": "39159911",
+        "title": "Update to RIFM fragrance ingredient safety assessment, hexyl acetate, CAS registry number 142-92-7",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39159911/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Aspalathus linearis",
+        "id": "aspalathus-linearis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Fabaceae",
+        "genus": "Aspalathus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00062A024"
+        ]
+      },
+      {
+        "name": "Avena haussknechtii",
+        "id": "avena-haussknechtii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Poaceae",
+        "genus": "Avena",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00112A045"
+        ]
+      },
+      {
+        "name": "Avena sativa",
+        "id": "avena-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Avena",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00112A045"
+        ]
+      },
+      {
+        "name": "Boswellia sacra",
+        "id": "boswellia-sacra",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Burseraceae",
+        "genus": "Boswellia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-962745"
+        ]
+      },
+      {
+        "name": "Cannabis sativa",
+        "id": "cannabis-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Cannabis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50008A001"
+        ]
+      },
+      {
+        "name": "Citrus iyo",
+        "id": "citrus-iyo",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.47.1841"
+        ]
+      },
+      {
+        "name": "Cucumis melo",
+        "id": "cucumis-melo",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cucurbitaceae",
+        "genus": "Cucumis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1111/J.1365-2621.1987.TB14284.X"
+        ]
+      },
+      {
+        "name": "Festuca arundinacea",
+        "id": "festuca-arundinacea",
+        "kingdom": "Archaeplastida",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Festuca",
+        "taxonomy_source": "Open Tree of Life",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)84185-U"
+        ]
+      },
+      {
+        "name": "Festuca rubra",
+        "id": "festuca-rubra",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Festuca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)84185-U"
+        ]
+      },
+      {
+        "name": "Fragaria ananassa",
+        "id": "fragaria-ananassa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Fragaria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00023A036"
+        ]
+      },
+      {
+        "name": "Garcinia mangostana",
+        "id": "garcinia-mangostana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Clusiaceae",
+        "genus": "Garcinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80025-3"
+        ]
+      },
+      {
+        "name": "Helichrysum ambiguum",
+        "id": "helichrysum-ambiguum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957552"
+        ]
+      },
+      {
+        "name": "Helichrysum pendulum subsp. boissieri",
+        "id": "helichrysum-pendulum-subsp-boissieri",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-957552"
+        ]
+      },
+      {
+        "name": "Heracleum antasiaticum",
+        "id": "heracleum-antasiaticum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF02236436"
+        ]
+      },
+      {
+        "name": "Heracleum persicum",
+        "id": "heracleum-persicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969621"
+        ]
+      },
+      {
+        "name": "Lavandula angustifolia",
+        "id": "lavandula-angustifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Lavandula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1997.9700727"
+        ]
+      },
+      {
+        "name": "Lonicera japonica",
+        "id": "lonicera-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Lonicera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1186/1471-2164-13-195"
+        ]
+      },
+      {
+        "name": "Malus domestica",
+        "id": "malus-domestica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Malus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00025A025"
+        ]
+      },
+      {
+        "name": "Malus pumila",
+        "id": "malus-pumila",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Malus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00025A025"
+        ]
+      },
+      {
+        "name": "Malus sylvestris",
+        "id": "malus-sylvestris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Malus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00025A025"
+        ]
+      },
+      {
+        "name": "Mandragora autumnalis",
+        "id": "mandragora-autumnalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Mandragora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.07.016"
+        ]
+      },
+      {
+        "name": "Mandragora officinarum",
+        "id": "mandragora-officinarum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Solanaceae",
+        "genus": "Mandragora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.07.016"
+        ]
+      },
+      {
+        "name": "Musa paradisiaca",
+        "id": "musa-paradisiaca",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Musaceae",
+        "genus": "Musa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00035A046"
+        ]
+      },
+      {
+        "name": "Olea europaea",
+        "id": "olea-europaea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Oleaceae",
+        "genus": "Olea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00730-9"
+        ]
+      },
+      {
+        "name": "Osmorhiza aristata",
+        "id": "osmorhiza-aristata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Osmorhiza",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.99.11_1116"
+        ]
+      },
+      {
+        "name": "Paeonia lactiflora",
+        "id": "paeonia-lactiflora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Paeoniaceae",
+        "genus": "Paeonia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)94541-2"
+        ]
+      },
+      {
+        "name": "Picea abies",
+        "id": "picea-abies",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Picea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)80745-1"
+        ]
+      },
+      {
+        "name": "Polygala senega",
+        "id": "polygala-senega",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Polygalaceae",
+        "genus": "Polygala",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100408"
+        ]
+      },
+      {
+        "name": "Psidium guajava",
+        "id": "psidium-guajava",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Psidium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80138-6"
+        ]
+      },
+      {
+        "name": "Pternistria bispina",
+        "id": "pternistria-bispina",
+        "kingdom": "Metazoa",
+        "phylum": "Arthropoda",
+        "family": "Coreidae",
+        "genus": "Pternistria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1071/CH9670395"
+        ]
+      },
+      {
+        "name": "Pyrus pyrifolia",
+        "id": "pyrus-pyrifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Pyrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698151"
+        ]
+      },
+      {
+        "name": "Quercus agrifolia",
+        "id": "quercus-agrifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Fagaceae",
+        "genus": "Quercus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)84047-9"
+        ]
+      },
+      {
+        "name": "Salvia reuteriana",
+        "id": "salvia-reuteriana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/(SICI)1099-1026(199907/08)14:4<230::AID-FFJ816>3.0.CO;2-L"
+        ]
+      },
+      {
+        "name": "Schedonorus arundinaceus",
+        "id": "schedonorus-arundinaceus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Poaceae",
+        "genus": "Schedonorus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)84185-U"
+        ]
+      },
+      {
+        "name": "Scolochloa festucacea",
+        "id": "scolochloa-festucacea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Poaceae",
+        "genus": "Scolochloa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)84185-U"
+        ]
+      },
+      {
+        "name": "Spondias mombin",
+        "id": "spondias-mombin",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Spondias",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698127"
+        ]
+      },
+      {
+        "name": "Tricholoma matsutake",
+        "id": "tricholoma-matsutake",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Tricholomataceae",
+        "genus": "Tricholoma",
+        "taxonomy_source": "Index Fungorum",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.45.373"
+        ]
+      },
+      {
+        "name": "Vitis rotundifolia",
+        "id": "vitis-rotundifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Vitaceae",
+        "genus": "Vitis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00112A014"
+        ]
+      }
+    ],
+    "organism_count": 38,
+    "reference_count": 30,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0202355"
+  },
+  "research": {
+    "total": 255,
+    "sampled": 200,
+    "designs": {
+      "review": 4,
+      "animal": 35,
+      "other": 138,
+      "human_observational": 23
+    },
+    "topics": [
+      {
+        "term": "Volatile Organic Compounds",
+        "papers": 64
+      },
+      {
+        "term": "Odorants",
+        "papers": 53
+      },
+      {
+        "term": "Fruit",
+        "papers": 48
+      },
+      {
+        "term": "Acetates",
+        "papers": 33
+      },
+      {
+        "term": "Esters",
+        "papers": 24
+      },
+      {
+        "term": "Fermentation",
+        "papers": 24
+      },
+      {
+        "term": "Wine",
+        "papers": 22
+      },
+      {
+        "term": "Taste",
+        "papers": 20
+      },
+      {
+        "term": "Malus",
+        "papers": 20
+      },
+      {
+        "term": "Flavoring Agents",
+        "papers": 16
+      },
+      {
+        "term": "Saccharomyces cerevisiae",
+        "papers": 14
+      },
+      {
+        "term": "Vitis",
+        "papers": 12
+      },
+      {
+        "term": "Smell",
+        "papers": 10
+      },
+      {
+        "term": "Solid Phase Microextraction",
+        "papers": 10
+      }
+    ],
+    "claims": [
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 3,
+        "designs": {
+          "other": 3
+        },
+        "evidence_level": "none_found",
+        "eco": {
+          "id": "ECO:0000205",
+          "label": "curator inference"
+        },
+        "oxford": {
+          "level": null,
+          "label": "no evidence found"
+        },
+        "evidence_lines": [],
+        "pmids": [
+          "31766371",
+          "32327687",
+          "35671659"
+        ]
+      },
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 2,
+        "designs": {
+          "other": 1,
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "28528251"
+            ]
+          }
+        ],
+        "pmids": [
+          "12720377",
+          "28528251"
+        ]
+      },
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 2,
+        "designs": {
+          "animal": 2
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 2,
+            "pmids": [
+              "38348748",
+              "33089649"
+            ]
+          }
+        ],
+        "pmids": [
+          "38348748",
+          "33089649"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1982,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20acetate%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.05% of total volatiles (0.01mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 1,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Hexyl%20acetate"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Hexyl acetate is a volatile organic compound and ester responsible for the fruity, sweet aromas found in many foods and beverages. As a natural metabolite, it plays a major role in the scent and flavor profiles of fermented drinks and fresh produce. You encounter it daily in the smell of ripe fruit or as a common flavoring and fragrance ingredient.",
+    "found_in": "This ester is naturally produced by fruits like strawberries, melons, and citrus, as well as apples and grapes. It is also found in oats, rooibos tea, and is a key aromatic byproduct of the yeast used to ferment wine.",
+    "why_researchers_care": "Researchers are drawn to hexyl acetate primarily for its role as a potent odorant and flavoring agent, exploring how it shapes the sensory experience of foods and wines. Beyond its aromatic properties, scientists are investigating its potential biological activities, including its effects on microbes and insects. The strongest evidence for its biological activity comes from human observational studies (Oxford level 2b) looking at its antimicrobial properties, though much of the safety and behavioral research relies on animal models.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Hexyl acetate is being studied for its potential antimicrobial properties.",
+        "evidence_level": "human_observational",
+        "basis": "This is based on two papers, including one human observational study.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ],
+        "paper_count": 2
+      },
+      {
+        "claim_id": "insect",
+        "statement": "Early work points toward hexyl acetate having potential as an insect repellent.",
+        "evidence_level": "animal",
+        "basis": "This rests on two animal studies observing its effects on insects.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 2
+          }
+        ],
+        "paper_count": 2
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antimicrobial",
+        "area": "Antimicrobial activity",
+        "hypothesis": "Researchers are exploring whether hexyl acetate can effectively inhibit microbial growth, which could make it useful in food preservation or sanitation.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized controlled trial applying a hexyl acetate-based formulation to specific bacterial or fungal strains on human skin, measuring microbial reduction over several days compared to a placebo.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "insect",
+        "area": "Insect repellent",
+        "hypothesis": "Early animal work points toward hexyl acetate acting as a deterrent for insects, raising the possibility of its use in natural pest control.",
+        "evidence_level": "animal",
+        "paper_count": 2,
+        "study_to_test_it": "A human field study where volunteers apply a standardized topical dose of hexyl acetate to their skin, measuring the number of mosquito or tick landings over a set number of hours compared to a standard repellent.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 2
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [
+      {
+        "condition": "Autism",
+        "mondo_id": "MONDO:0005260",
+        "relationship": "detected in metabolomic studies of"
+      },
+      {
+        "condition": "autism spectrum disorder",
+        "mondo_id": "MONDO:0005258",
+        "relationship": "detected in metabolomic studies of"
+      },
+      {
+        "condition": "Solvents, acute toxic effect",
+        "mondo_id": null,
+        "relationship": "occupational exposure hazard"
+      }
+    ],
+    "cautions": "In industrial or laboratory settings, concentrated hexyl acetate is recognized as an occupational exposure hazard that can cause acute toxic effects from solvent exposure, though this is not a concern at the trace levels found in a normal diet.",
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b) regarding its antimicrobial potential; most of the rest of the literature focuses on its aromatic properties, safety assessments, and animal research."
+  }
+}

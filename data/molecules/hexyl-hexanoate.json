@@ -1,1 +1,515 @@
-{"name":"Hexyl hexanoate","id":"hexyl-hexanoate","formula":"C12H24O2","pubchem":{"cid":22873,"title":"Hexyl Hexanoate","formula":"C12H24O2","molecular_weight":200.32,"smiles":"CCCCCCOC(=O)CCCCC","inchikey":"NCDCLPBOMHPFCV-UHFFFAOYSA-N","iupac_name":"hexyl hexanoate","image":"data/molecules/images/hexyl-hexanoate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/22873","description":"Hexyl hexanoate is a hexanoate ester obtained by the formal condensation of the carboxy group of hexanoic acid (caproic acid) with hexan-1-ol. It is a constituent found in passion fruit, apples, strawberries and wine. It has a role as a volatile oil component, a flavouring agent, a fragrance and a plant metabolite. It is functionally related to a hexan-1-ol.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:156492"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/22873/PNG"},"targets":[],"literature":{"total":48,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20hexanoate%5BAll%20Fields%5D","papers":[{"pmid":"32781227","title":"RIFM fragrance ingredient safety assessment, hexyl hexanoate, CAS Registry Number 6378-65-0","journal":"Food Chem Toxicol","year":"2020","url":"https://pubmed.ncbi.nlm.nih.gov/32781227/"},{"pmid":"41111059","title":"Evidence of Aerosol Formation During Simulated Wine Drinking","journal":"J Texture Stud","year":"2025","url":"https://pubmed.ncbi.nlm.nih.gov/41111059/"},{"pmid":"38411441","title":"Bioactivities of scent gland chemicals from Mictis fuscipes Hsiao (Hemiptera: Coreidae) on Solenopsis invicta Buren (Hymenoptera: Formicidae)","journal":"Pest Manag Sci","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38411441/"},{"pmid":"36598383","title":"Odorant-Binding Protein HvarOBP5 in Ladybird Hippodamia variegata Regulates the Perception of Semiochemicals from Preys and Habitat Plants","journal":"J Agric Food Chem","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36598383/"},{"pmid":"37591815","title":"VOCs from fungi-infected apples attract and increase the oviposition of yellow peach moth Conogethes punctiferalis","journal":"Pest Manag Sci","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37591815/"},{"pmid":"36374655","title":"Effective hexanol production from carbon monoxide using extractive fermentation with Clostridium carboxidivorans P7","journal":"Bioresour Technol","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36374655/"}]},"retrieved":"2026-09-11","summary":null,"evidence":"Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–1.55% of total volatiles (0.012–0.31mg per chew).","diseases":[],"occurrence":{"organisms":[{"name":"Spondias mombin","id":"spondias-mombin","kingdom":"Plantae","phylum":"Streptophyta","family":"Anacardiaceae","genus":"Spondias","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/JF00008A025","10.1080/10412905.1992.9698127"]},{"name":"Boswellia sacra","id":"boswellia-sacra","kingdom":"Plantae","phylum":"Streptophyta","family":"Burseraceae","genus":"Boswellia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1055/S-2006-962745"]},{"name":"Cannabis sativa","id":"cannabis-sativa","kingdom":"Plantae","phylum":"Streptophyta","family":"Cannabaceae","genus":"Cannabis","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/NP50008A001"]},{"name":"Citrus aurantium","id":"citrus-aurantium","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(88)80123-7"]},{"name":"Conyza incana","id":"conyza-incana","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Conyza","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.3109/13880209109082876"]},{"name":"Heracleum antasiaticum","id":"heracleum-antasiaticum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Heracleum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698208"]},{"name":"Heracleum persicum","id":"heracleum-persicum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Heracleum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1055/S-2007-969621"]},{"name":"Musa paradisiaca","id":"musa-paradisiaca","kingdom":"Plantae","phylum":"Streptophyta","family":"Musaceae","genus":"Musa","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00035A046"]},{"name":"Oecophylla smaragdina","id":"oecophylla-smaragdina","kingdom":"Metazoa","phylum":"Arthropoda","family":"Formicidae","genus":"Oecophylla","taxonomy_source":"NCBI","reference_count":1,"references":["10.1271/BBB1961.54.3335"]},{"name":"Prunus armeniaca","id":"prunus-armeniaca","kingdom":"Plantae","phylum":"Streptophyta","family":"Rosaceae","genus":"Prunus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00092A031"]},{"name":"Pternistria bispina","id":"pternistria-bispina","kingdom":"Metazoa","phylum":"Arthropoda","family":"Coreidae","genus":"Pternistria","taxonomy_source":"NCBI","reference_count":1,"references":["10.1071/CH9670395"]},{"name":"Tordylium apulum","id":"tordylium-apulum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Tordylium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698167"]},{"name":"Vasconcellea heilbornii","id":"vasconcellea-heilbornii","kingdom":"Plantae","phylum":"Streptophyta","family":"Caricaceae","genus":"Vasconcellea","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00065A006"]}],"organism_count":13,"reference_count":14,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0063928"},"research":{"total":48,"sampled":48,"designs":{"review":1,"human_observational":7,"animal":12,"other":28},"topics":[{"term":"Volatile Organic Compounds","papers":10},{"term":"Fruit","papers":9},{"term":"Receptors, Odorant","papers":7},{"term":"Esters","papers":6},{"term":"Odorants","papers":5},{"term":"Pheromones","papers":5},{"term":"Insect Proteins","papers":5},{"term":"Fermentation","papers":5},{"term":"Caproates","papers":4},{"term":"Arthropod Antennae","papers":4},{"term":"Wine","papers":3},{"term":"Taste","papers":3},{"term":"Heteroptera","papers":3},{"term":"Molecular Docking Simulation","papers":3}],"claims":[{"id":"anxiety","label":"Anxiety and calm","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["29777752"]}],"pmids":["29777752"]},{"id":"insect","label":"Insect repellent","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["29777752"]}],"pmids":["29777752"]}],"years":{"from":2002,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20hexanoate%5BAll%20Fields%5D"},"trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Hexyl%20hexanoate"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Hexyl hexanoate is a volatile ester that helps give fruits like apples, strawberries, and passion fruit their characteristic sweet, fruity aromas. Formed naturally when hexanoic acid combines with hexanol, it is widely used as a flavoring agent and fragrance. You likely encounter it every time you enjoy a glass of wine or bite into a fresh apricot.","found_in":"This fragrant molecule is naturally found in everyday fruits like apples, apricots, and plantains, as well as in bitter orange and cannabis. It is also a key aromatic component that develops during wine fermentation.","why_researchers_care":"Researchers are primarily drawn to hexyl hexanoate for its role as a powerful odorant and signaling molecule, both in human flavor perception and insect communication. Much of the current literature focuses on how it interacts with odorant receptors, with the strongest evidence coming from human observational studies (Oxford level 2b) examining its presence in wine aerosols and fruit volatiles. Scientists are also exploring its potential ecological roles, including how it functions as a pheromone or semiochemical in various insect species.","structure_function":[{"claim_id":"anxiety","statement":"Early animal work points toward hexyl hexanoate having potential calming properties that may support relaxation.","evidence_level":"animal","basis":"This rests on a single animal study exploring its effects on anxiety-like behavior.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":1},{"claim_id":"insect","statement":"Hexyl hexanoate is being studied for its potential to act as a natural insect repellent or behavioral modifier.","evidence_level":"animal","basis":"This is based on one animal study observing its effects on insect behavior and scent gland chemistry.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"anxiety","area":"Anxiety and calm","hypothesis":"Researchers are exploring whether the aroma of hexyl hexanoate can directly influence the nervous system to promote calm. If this bears out, it could help explain the relaxing effects of certain fruit and wine aromatics.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A randomized, placebo-controlled human trial exposing healthy volunteers to hexyl hexanoate vapor via inhalation and measuring physiological stress markers like heart rate variability and salivary cortisol over a 30-minute session.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]},{"claim_id":"insect","area":"Insect repellent","hypothesis":"Early animal work points toward this ester acting as a semiochemical that deters certain pests, raising the question of whether it could be harnessed as a natural crop protectant or repellent.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A controlled field or greenhouse study applying hexyl hexanoate formulations to target crops and measuring the landing and oviposition rates of specific agricultural pests compared to a control over a two-week period.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b) regarding its role in flavor and aerosols; the limited research into its physiological effects is currently restricted to animal and lab studies."}}
+{
+  "name": "Hexyl hexanoate",
+  "id": "hexyl-hexanoate",
+  "formula": "C12H24O2",
+  "pubchem": {
+    "cid": 22873,
+    "title": "Hexyl Hexanoate",
+    "formula": "C12H24O2",
+    "molecular_weight": 200.32,
+    "smiles": "CCCCCCOC(=O)CCCCC",
+    "inchikey": "NCDCLPBOMHPFCV-UHFFFAOYSA-N",
+    "iupac_name": "hexyl hexanoate",
+    "image": "data/molecules/images/hexyl-hexanoate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/22873",
+    "description": "Hexyl hexanoate is a hexanoate ester obtained by the formal condensation of the carboxy group of hexanoic acid (caproic acid) with hexan-1-ol. It is a constituent found in passion fruit, apples, strawberries and wine. It has a role as a volatile oil component, a flavouring agent, a fragrance and a plant metabolite. It is functionally related to a hexan-1-ol.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:156492"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/22873/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 48,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20hexanoate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "32781227",
+        "title": "RIFM fragrance ingredient safety assessment, hexyl hexanoate, CAS Registry Number 6378-65-0",
+        "journal": "Food Chem Toxicol",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32781227/"
+      },
+      {
+        "pmid": "41111059",
+        "title": "Evidence of Aerosol Formation During Simulated Wine Drinking",
+        "journal": "J Texture Stud",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41111059/"
+      },
+      {
+        "pmid": "38411441",
+        "title": "Bioactivities of scent gland chemicals from Mictis fuscipes Hsiao (Hemiptera: Coreidae) on Solenopsis invicta Buren (Hymenoptera: Formicidae)",
+        "journal": "Pest Manag Sci",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38411441/"
+      },
+      {
+        "pmid": "36598383",
+        "title": "Odorant-Binding Protein HvarOBP5 in Ladybird Hippodamia variegata Regulates the Perception of Semiochemicals from Preys and Habitat Plants",
+        "journal": "J Agric Food Chem",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36598383/"
+      },
+      {
+        "pmid": "37591815",
+        "title": "VOCs from fungi-infected apples attract and increase the oviposition of yellow peach moth Conogethes punctiferalis",
+        "journal": "Pest Manag Sci",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37591815/"
+      },
+      {
+        "pmid": "36374655",
+        "title": "Effective hexanol production from carbon monoxide using extractive fermentation with Clostridium carboxidivorans P7",
+        "journal": "Bioresour Technol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36374655/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–1.55% of total volatiles (0.012–0.31mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Spondias mombin",
+        "id": "spondias-mombin",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Spondias",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JF00008A025",
+          "10.1080/10412905.1992.9698127"
+        ]
+      },
+      {
+        "name": "Boswellia sacra",
+        "id": "boswellia-sacra",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Burseraceae",
+        "genus": "Boswellia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-962745"
+        ]
+      },
+      {
+        "name": "Cannabis sativa",
+        "id": "cannabis-sativa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Cannabis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50008A001"
+        ]
+      },
+      {
+        "name": "Citrus aurantium",
+        "id": "citrus-aurantium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(88)80123-7"
+        ]
+      },
+      {
+        "name": "Conyza incana",
+        "id": "conyza-incana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Conyza",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.3109/13880209109082876"
+        ]
+      },
+      {
+        "name": "Heracleum antasiaticum",
+        "id": "heracleum-antasiaticum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698208"
+        ]
+      },
+      {
+        "name": "Heracleum persicum",
+        "id": "heracleum-persicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Heracleum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2007-969621"
+        ]
+      },
+      {
+        "name": "Musa paradisiaca",
+        "id": "musa-paradisiaca",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Musaceae",
+        "genus": "Musa",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00035A046"
+        ]
+      },
+      {
+        "name": "Oecophylla smaragdina",
+        "id": "oecophylla-smaragdina",
+        "kingdom": "Metazoa",
+        "phylum": "Arthropoda",
+        "family": "Formicidae",
+        "genus": "Oecophylla",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1271/BBB1961.54.3335"
+        ]
+      },
+      {
+        "name": "Prunus armeniaca",
+        "id": "prunus-armeniaca",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rosaceae",
+        "genus": "Prunus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00092A031"
+        ]
+      },
+      {
+        "name": "Pternistria bispina",
+        "id": "pternistria-bispina",
+        "kingdom": "Metazoa",
+        "phylum": "Arthropoda",
+        "family": "Coreidae",
+        "genus": "Pternistria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1071/CH9670395"
+        ]
+      },
+      {
+        "name": "Tordylium apulum",
+        "id": "tordylium-apulum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Tordylium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698167"
+        ]
+      },
+      {
+        "name": "Vasconcellea heilbornii",
+        "id": "vasconcellea-heilbornii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caricaceae",
+        "genus": "Vasconcellea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00065A006"
+        ]
+      }
+    ],
+    "organism_count": 13,
+    "reference_count": 14,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0063928"
+  },
+  "research": {
+    "total": 48,
+    "sampled": 48,
+    "designs": {
+      "review": 1,
+      "human_observational": 7,
+      "animal": 12,
+      "other": 28
+    },
+    "topics": [
+      {
+        "term": "Volatile Organic Compounds",
+        "papers": 10
+      },
+      {
+        "term": "Fruit",
+        "papers": 9
+      },
+      {
+        "term": "Receptors, Odorant",
+        "papers": 7
+      },
+      {
+        "term": "Esters",
+        "papers": 6
+      },
+      {
+        "term": "Odorants",
+        "papers": 5
+      },
+      {
+        "term": "Pheromones",
+        "papers": 5
+      },
+      {
+        "term": "Insect Proteins",
+        "papers": 5
+      },
+      {
+        "term": "Fermentation",
+        "papers": 5
+      },
+      {
+        "term": "Caproates",
+        "papers": 4
+      },
+      {
+        "term": "Arthropod Antennae",
+        "papers": 4
+      },
+      {
+        "term": "Wine",
+        "papers": 3
+      },
+      {
+        "term": "Taste",
+        "papers": 3
+      },
+      {
+        "term": "Heteroptera",
+        "papers": 3
+      },
+      {
+        "term": "Molecular Docking Simulation",
+        "papers": 3
+      }
+    ],
+    "claims": [
+      {
+        "id": "anxiety",
+        "label": "Anxiety and calm",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "29777752"
+            ]
+          }
+        ],
+        "pmids": [
+          "29777752"
+        ]
+      },
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "29777752"
+            ]
+          }
+        ],
+        "pmids": [
+          "29777752"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2002,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Hexyl%20hexanoate%5BAll%20Fields%5D"
+  },
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Hexyl%20hexanoate"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Hexyl hexanoate is a volatile ester that helps give fruits like apples, strawberries, and passion fruit their sweet, fruity aromas. As a common fragrance and flavoring agent, it is a molecule you frequently encounter when enjoying a glass of wine or smelling a fresh fruit basket.",
+    "found_in": "It is naturally found in familiar foods like apples, strawberries, apricots, and bitter oranges, as well as in the aromatic profiles of wine, frankincense, and cannabis.",
+    "why_researchers_care": "Researchers are drawn to hexyl hexanoate because of its powerful role as a chemical messenger in nature, particularly how its scent influences insect behavior and plant ecology. Much of the current research focuses on its function as a volatile organic compound, exploring how it interacts with insect antennae and odorant-binding proteins to attract or deter species. The strongest evidence in the literature comes from human observational studies (Oxford level 2b) examining its sensory role in foods and beverages, while its behavioral and ecological effects are primarily explored in animal models.",
+    "structure_function": [
+      {
+        "claim_id": "anxiety",
+        "statement": "Early animal work points toward hexyl hexanoate potentially supporting calm and relaxation.",
+        "evidence_level": "animal",
+        "basis": "This is based on a single animal study exploring its effects on anxiety-like behaviors.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      },
+      {
+        "claim_id": "insect",
+        "statement": "It is being studied for its ability to influence insect behavior and potentially act as a natural repellent.",
+        "evidence_level": "animal",
+        "basis": "This rests on animal research investigating its role as a scent gland chemical and semiochemical.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "anxiety",
+        "area": "Anxiety and calm",
+        "hypothesis": "Researchers are exploring whether the aroma of hexyl hexanoate might promote relaxation and ease stress, a common trait among certain volatile plant esters.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A randomized, placebo-controlled human trial exposing healthy volunteers to hexyl hexanoate vapor via aromatherapy, measuring self-reported anxiety scores and physiological markers like heart rate and cortisol over a 30-minute session.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "insect",
+        "area": "Insect repellent",
+        "hypothesis": "Entomologists are investigating if this compound, which naturally mediates plant-insect interactions, could be harnessed as an effective, natural insect repellent or agricultural pest management tool.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A controlled field study testing the efficacy of hexyl hexanoate formulations applied to crops or human skin models, measuring the deterrence rate of specific agricultural pests or mosquitoes over a 24-hour period.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b) regarding its sensory properties, while its biological and ecological effects are primarily supported by animal and lab research."
+  }
+}

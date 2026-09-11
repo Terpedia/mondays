@@ -1,1 +1,2667 @@
-{"name":"γ-Terpinene","id":"gamma-terpinene","formula":"C10H16","pubchem":{"cid":7461,"title":"Gamma-Terpinene","formula":"C10H16","molecular_weight":136.23,"smiles":"CC1=CCC(=CC1)C(C)C","inchikey":"YKFLAYDHMOASIY-UHFFFAOYSA-N","iupac_name":"1-methyl-4-propan-2-ylcyclohexa-1,4-diene","image":"data/molecules/images/gamma-terpinene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/7461","description":"Gamma-terpinene is one of three isomeric monoterpenes differing in the positions of their two double bonds (alpha- and beta-terpinene being the others). In gamma-terpinene the double bonds are at the 1- and 4-positions of the p-menthane skeleton. It has a role as an antioxidant, a volatile oil component, a plant metabolite and a human xenobiotic metabolite. It is a monoterpene and a cyclohexadiene.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:10577"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/7461/PNG"},"targets":[],"diseases":[{"disease":"Perillyl alcohol administration for cancer treatment","kind":"reported_association","pmids":["15607313","17668437","10379660","14569192","17403619","20300169","22284503","22061338","19783829","19010317"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0005806","id":"perillyl-alcohol-administration-for-cancer-treatment","mondo":null},{"disease":"Diarrhoea predominant irritable bowel syndrome","kind":"reported_association","pmids":["23516449"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0005806","id":"diarrhoea-predominant-irritable-bowel-syndrome","mondo":null},{"disease":"Nonalcoholic fatty liver disease","kind":"reported_association","pmids":["23454028"],"source":"Human Metabolome Database (HMDB)","source_url":"http://www.hmdb.ca/metabolites/HMDB0005806","id":"nonalcoholic-fatty-liver-disease","mondo":{"id":"MONDO:0013209","label":"metabolic dysfunction-associated steatotic liver disease","iri":"http://purl.obolibrary.org/obo/MONDO_0013209"}},{"disease":"Solvents, acute toxic effect","category":"Acute Poisoning","kind":"occupational_exposure","pmids":[],"source":"Haz-Map, Information on Hazardous Chemicals and Occupational Diseases","source_url":"https://haz-map.com/Agents/19384","id":"solvents-acute-toxic-effect","mondo":null}],"literature":{"total":1293,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=gamma-Terpinene%5BAll%20Fields%5D","papers":[{"pmid":"22654405","title":"Trachyspermum ammi","journal":"Pharmacogn Rev","year":"2012","url":"https://pubmed.ncbi.nlm.nih.gov/22654405/"},{"pmid":"26132854","title":"Gamma-Terpinene Modulates Acute Inflammatory Response in Mice","journal":"Planta Med","year":"2015","url":"https://pubmed.ncbi.nlm.nih.gov/26132854/"},{"pmid":"26773165","title":"In vitro and in vivo action of terpinen-4-ol, γ-terpinene, and α-terpinene against Trypanosoma evansi","journal":"Exp Parasitol","year":"2016","url":"https://pubmed.ncbi.nlm.nih.gov/26773165/"},{"pmid":"41127846","title":"Oxidation Mechanism and Kinetics of γ‑Terpinene in the Indoor Atmosphere","journal":"Environ Health (Wash)","year":"2025","url":"https://pubmed.ncbi.nlm.nih.gov/41127846/"},{"pmid":"33341300","title":"Synergic antioxidant activity of γ-terpinene with phenols and polyphenols enabled by hydroperoxyl radicals","journal":"Food Chem","year":"2021","url":"https://pubmed.ncbi.nlm.nih.gov/33341300/"},{"pmid":"38169485","title":"Photochemical Reduction of Quinolines with γ-Terpinene","journal":"Org Lett","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38169485/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Melaleuca alternifolia","id":"melaleuca-alternifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Melaleuca","taxonomy_source":"NCBI","reference_count":15,"references":["10.1016/0300-483X(95)03242-8","10.1016/S0031-9422(02)00038-9"]},{"name":"Citrus limon","id":"citrus-limon","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":9,"references":["10.1007/BF00579661","10.1080/10412905.1995.9698535"]},{"name":"Origanum vulgare","id":"origanum-vulgare","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":9,"references":["10.1002/JSFA.2740430304","10.1080/10412905.1993.9698294"]},{"name":"Thymus vulgaris","id":"thymus-vulgaris","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"NCBI","reference_count":7,"references":["10.1111/J.1365-2672.1994.TB01661.X","10.1002/PTR.2650090215"]},{"name":"Citrus aurantium","id":"citrus-aurantium","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":6,"references":["10.1271/BBB1961.50.2111","10.1080/10412905.1995.9698535"]},{"name":"Eucalyptus camaldulensis","id":"eucalyptus-camaldulensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":6,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1994.9698428"]},{"name":"Origanum syriacum","id":"origanum-syriacum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":6,"references":["10.1080/10412905.1993.9698294","10.1080/10412905.1991.9697923"]},{"name":"Satureja thymbra","id":"satureja-thymbra","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Satureja","taxonomy_source":"NCBI","reference_count":6,"references":["10.1016/J.PHYTOCHEM.2005.09.020","10.1016/S0021-9673(01)82096-3"]},{"name":"Lippia multiflora","id":"lippia-multiflora","kingdom":"Plantae","phylum":"Tracheophyta","family":"Verbenaceae","genus":"Lippia","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":5,"references":["10.1021/NP50017A018","10.1080/10412905.1995.9698531"]},{"name":"Rosmarinus officinalis","id":"rosmarinus-officinalis","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Rosmarinus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":5,"references":["10.1111/J.1365-2621.1985.TB10476.X","10.1002/FFJ.2730090107"]},{"name":"Satureja montana","id":"satureja-montana","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Satureja","taxonomy_source":"NCBI","reference_count":5,"references":["10.1002/PTR.2650090215","10.1080/10412905.1991.9700495"]},{"name":"Thymbra capitata","id":"thymbra-capitata","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Thymbra","taxonomy_source":"NCBI","reference_count":5,"references":["10.1016/J.PHYTOCHEM.2005.09.020","10.1080/10412905.1995.9698524"]},{"name":"Citrus reticulata","id":"citrus-reticulata","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":4,"references":["10.1007/BF00580068","10.1080/10412905.1990.9697892"]},{"name":"Citrus sinensis","id":"citrus-sinensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":4,"references":["10.3390/MOLECULES13061333","10.1080/10412905.1990.9697861"]},{"name":"Citrus taitensis","id":"citrus-taitensis","kingdom":"Plantae","phylum":"Tracheophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":4,"references":["10.3390/MOLECULES13061333","10.1080/10412905.1990.9697861"]},{"name":"Coriandrum sativum","id":"coriandrum-sativum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Coriandrum","taxonomy_source":"NCBI","reference_count":4,"references":["10.1055/S-0028-1100058","10.1021/JF00029A021"]},{"name":"Crithmum maritimum","id":"crithmum-maritimum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Crithmum","taxonomy_source":"NCBI","reference_count":4,"references":["10.1002/1099-1026(200005/06)15:3<186::AID-FFJ889>3.0.CO;2-I","10.1002/FFJ.2730060205"]},{"name":"Daucus carota","id":"daucus-carota","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Daucus","taxonomy_source":"NCBI","reference_count":4,"references":["10.1016/S0031-9422(00)81741-0","10.1016/0031-9422(82)80129-5"]},{"name":"Juniperus communis","id":"juniperus-communis","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Juniperus","taxonomy_source":"NCBI","reference_count":4,"references":["10.1080/10412905.1989.9699439","10.3891/ACTA.CHEM.SCAND.15-1003"]},{"name":"Laurus nobilis","id":"laurus-nobilis","kingdom":"Plantae","phylum":"Streptophyta","family":"Lauraceae","genus":"Laurus","taxonomy_source":"NCBI","reference_count":4,"references":["10.1007/BF00600858","10.1021/JF00056A055"]},{"name":"Myrtus communis","id":"myrtus-communis","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Myrtus","taxonomy_source":"NCBI","reference_count":4,"references":["10.1016/J.PHYTOCHEM.2006.04.025","10.1080/10412905.1991.9700498"]},{"name":"Ocimum gratissimum","id":"ocimum-gratissimum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Ocimum","taxonomy_source":"NCBI","reference_count":4,"references":["10.1016/S0305-1978(00)00062-4","10.1002/1099-1026(200009/10)15:5<339::AID-FFJ922>3.0.CO;2-H"]},{"name":"Salvia fruticosa","id":"salvia-fruticosa","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":4,"references":["10.1021/JF970031M","10.1021/JF00056A055"]},{"name":"Salvia rosmarinus","id":"salvia-rosmarinus","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":4,"references":["10.1111/J.1365-2621.1985.TB10476.X","10.1080/10412905.1998.9700854"]},{"name":"Thymbra spicata","id":"thymbra-spicata","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Thymbra","taxonomy_source":"NCBI","reference_count":4,"references":["10.1080/10412905.1994.9698427","10.1021/JF00056A055"]},{"name":"Thymus capitatus","id":"thymus-capitatus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"ITIS","reference_count":4,"references":["10.1080/10412905.1995.9698524","10.1055/S-2007-969862"]},{"name":"Thymus martinezii","id":"thymus-martinezii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":4,"references":["10.1080/10412905.1995.9698524","10.1055/S-2007-969862"]},{"name":"Alpinia zerumbet","id":"alpinia-zerumbet","kingdom":"Plantae","phylum":"Streptophyta","family":"Zingiberaceae","genus":"Alpinia","taxonomy_source":"NCBI","reference_count":3,"references":["10.1016/J.PHYMED.2004.04.006","10.1080/10412905.1993.9698218"]},{"name":"Artemisia annua","id":"artemisia-annua","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":3,"references":["10.1007/S11418-007-0175-2","10.1201/B22102-8"]},{"name":"Citrus limonia","id":"citrus-limonia","kingdom":"Plantae","phylum":null,"family":"Rutaceae","genus":"Citrus","taxonomy_source":"ITIS","reference_count":3,"references":["10.3390/MOLECULES13061333","10.1080/10412905.1990.9697861"]},{"name":"Citrus medica","id":"citrus-medica","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":3,"references":["10.1002/FFJ.2730100602","10.1021/JF60196A027"]},{"name":"Corymbia citriodora","id":"corymbia-citriodora","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Corymbia","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1994.9698428"]},{"name":"Eucalyptus dealbata","id":"eucalyptus-dealbata","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus globulus","id":"eucalyptus-globulus","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1994.9698428","10.1080/10412905.1991.9697921"]},{"name":"Foeniculum vulgare","id":"foeniculum-vulgare","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Foeniculum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1994.9698394","10.1080/10412905.1993.9698207"]},{"name":"Hyptis suaveolens","id":"hyptis-suaveolens","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Hyptis","taxonomy_source":"ITIS","reference_count":3,"references":["10.3109/13880209009082783","10.1080/10412905.1994.9699348"]},{"name":"Larix sibirica","id":"larix-sibirica","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Larix","taxonomy_source":"NCBI","reference_count":3,"references":["10.1007/BF00580452","10.1007/BF00567053"]},{"name":"Mesosphaerum suaveolens","id":"mesosphaerum-suaveolens","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Mesosphaerum","taxonomy_source":"NCBI","reference_count":3,"references":["10.3109/13880209009082783","10.1080/10412905.1994.9699348"]},{"name":"Origanum majorana","id":"origanum-majorana","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1055/S-2006-960024","10.1080/10412905.1993.9698294"]},{"name":"Origanum minutiflorum","id":"origanum-minutiflorum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1991.9697982","10.1080/10412905.1993.9698294"]},{"name":"Origanum onites","id":"origanum-onites","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1007/BF02860163","10.1080/10412905.1993.9698294"]},{"name":"Origanum vulgare subsp. gracile","id":"origanum-vulgare-subsp-gracile","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Origanum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1997.9700793","10.1080/10412905.1993.9698253"]},{"name":"Picea abies","id":"picea-abies","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Picea","taxonomy_source":"NCBI","reference_count":3,"references":["10.1055/S-0028-1097609","10.1016/0031-9422(96)00119-7"]},{"name":"Satureja hortensis","id":"satureja-hortensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Satureja","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.2002.9699754","10.1016/S0378-8741(99)00209-3"]},{"name":"Sequoia sempervirens","id":"sequoia-sempervirens","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Sequoia","taxonomy_source":"NCBI","reference_count":3,"references":["10.1016/0305-1978(86)90043-8","10.1016/0305-1978(91)90079-F"]},{"name":"Tanacetum parthenium","id":"tanacetum-parthenium","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Tanacetum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1989.9699438","10.1007/S004030050433"]},{"name":"Tanacetum vulgare","id":"tanacetum-vulgare","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Tanacetum","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1989.9699438","10.1016/0031-9422(75)85347-7"]},{"name":"Thymus broussonetii","id":"thymus-broussonetii","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"NCBI","reference_count":3,"references":["10.1016/J.PHYMED.2011.12.003","10.1080/10412905.1993.9698169"]},{"name":"Thymus longicaulis","id":"thymus-longicaulis","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"NCBI","reference_count":3,"references":["10.1080/10412905.1998.9700964","10.1080/10412905.1994.9698359"]},{"name":"Vitex agnus-castus","id":"vitex-agnus-castus","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Vitex","taxonomy_source":"NCBI","reference_count":3,"references":["10.1055/S-2006-957814","10.1002/RCM.1290091307"]},{"name":"Xylopia sericea","id":"xylopia-sericea","kingdom":"Plantae","phylum":"Tracheophyta","family":"Annonaceae","genus":"Xylopia","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":3,"references":["10.5897/JMPR10.078","10.1021/NP50048A039"]},{"name":"Aloysia citriodora","id":"aloysia-citriodora","kingdom":"Plantae","phylum":"Tracheophyta","family":"Verbenaceae","genus":"Aloysia","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1080/10412905.1994.9698440","10.1080/10412905.1994.9698409"]},{"name":"Aloysia citrodora","id":"aloysia-citrodora","kingdom":"Plantae","phylum":"Streptophyta","family":"Verbenaceae","genus":"Aloysia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1994.9698440","10.1080/10412905.1994.9698409"]},{"name":"Aloysia triphylla","id":"aloysia-triphylla","kingdom":"Plantae","phylum":"Streptophyta","family":"Verbenaceae","genus":"Aloysia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1994.9698440","10.1080/10412905.1994.9698409"]},{"name":"Apium graveolens","id":"apium-graveolens","kingdom":"Plantae","phylum":"Tracheophyta","family":"Apiaceae","genus":"Apium","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1080/10412905.1997.9700822","10.1007/BF01959202"]},{"name":"Artemisia","id":"artemisia","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1993.9698215","10.1007/BF00568367"]},{"name":"Artemisia arborescens","id":"artemisia-arborescens","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1055/S-2007-969948","10.1080/10412905.1993.9698215"]},{"name":"Artemisia herba-alba","id":"artemisia-herba-alba","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/S0031-9422(00)81692-1","10.1016/J.ARABJC.2012.04.042"]},{"name":"Bupleurum fruticosum","id":"bupleurum-fruticosum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Bupleurum","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/NP50062A008","10.1080/10412905.1992.9698110"]},{"name":"Centella asiatica","id":"centella-asiatica","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Centella","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/0031-9422(82)85264-3","10.1080/10412905.1994.9698382"]},{"name":"Chamaecyparis lawsoniana","id":"chamaecyparis-lawsoniana","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Chamaecyparis","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1991.9697898","10.1016/0305-1978(85)90081-X"]},{"name":"Cistus creticus","id":"cistus-creticus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/J.PHYTOCHEM.2009.06.013","10.1080/10412905.1994.9698322"]},{"name":"Cistus incanus","id":"cistus-incanus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/J.PHYTOCHEM.2009.06.013","10.1080/10412905.1994.9698322"]},{"name":"Citrus","id":"citrus","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1993.9698179","NA"]},{"name":"Citrus aurantifolia","id":"citrus-aurantifolia","kingdom":"Plantae","phylum":"Tracheophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"iNaturalist","reference_count":2,"references":["NA","10.1016/J.PHYTOCHEM.2009.07.031"]},{"name":"Citrus aurantiifolia","id":"citrus-aurantiifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":2,"references":["NA","10.1016/J.PHYTOCHEM.2009.07.031"]},{"name":"Citrus bergamia","id":"citrus-bergamia","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1995.9698535","10.1055/S-2006-960081"]},{"name":"Citrus junos","id":"citrus-junos","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF00580068","10.1007/BF00579448"]},{"name":"Citrus paradisi","id":"citrus-paradisi","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1271/BBB1961.55.2571","10.1021/JF9702149"]},{"name":"Citrus unshiu","id":"citrus-unshiu","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Citrus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF00580068","10.1007/BF00579167"]},{"name":"Clinopodium serpyllifolium subsp. fruticosum","id":"clinopodium-serpyllifolium-subsp-fruticosum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Clinopodium","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1991.9697971","10.1080/10412905.1993.9698200"]},{"name":"Corymbia maculata","id":"corymbia-maculata","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Corymbia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Cryptocarya agathophylla","id":"cryptocarya-agathophylla","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lauraceae","genus":"Cryptocarya","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1055/S-2006-959548","10.1080/10412905.1995.9698530"]},{"name":"Cryptomeria japonica","id":"cryptomeria-japonica","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Cryptomeria","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1991.9697930","10.1271/BBB1961.45.1493"]},{"name":"Cupressus dupreziana var. dupreziana","id":"cupressus-dupreziana-var-dupreziana","kingdom":"Plantae","phylum":"Tracheophyta","family":"Cupressaceae","genus":"Cupressus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1016/0031-9422(81)80025-8","10.1016/0031-9422(83)85029-8"]},{"name":"Cupressus sempervirens","id":"cupressus-sempervirens","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Cupressus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1991.9697959","10.1016/0031-9422(83)85029-8"]},{"name":"Cupressus sempervirens var. dupreziana","id":"cupressus-sempervirens-var-dupreziana","kingdom":"Plantae","phylum":null,"family":"Cupressaceae","genus":"Cupressus","taxonomy_source":"ITIS","reference_count":2,"references":["10.1016/0031-9422(81)80025-8","10.1016/0031-9422(83)85029-8"]},{"name":"Diplotaenia cachrydifolia","id":"diplotaenia-cachrydifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Diplotaenia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1055/S-2006-962452","10.1021/NP50053A047"]},{"name":"Dorystaechas hastata","id":"dorystaechas-hastata","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Dorystaechas","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1055/S-2007-969275","10.1080/10412905.1992.9698087"]},{"name":"Echinophora tenuifolia","id":"echinophora-tenuifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Echinophora","taxonomy_source":"NCBI","reference_count":2,"references":["10.1002/FFJ.2730040206","10.1080/10412905.1994.9698406"]},{"name":"Eucalyptus bosistoana","id":"eucalyptus-bosistoana","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus botryoides","id":"eucalyptus-botryoides","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus cladocalyx","id":"eucalyptus-cladocalyx","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus diversicolor","id":"eucalyptus-diversicolor","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus maculata","id":"eucalyptus-maculata","kingdom":"Plantae","phylum":null,"family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"ITIS","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus melliodora","id":"eucalyptus-melliodora","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus moluccana","id":"eucalyptus-moluccana","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus oviformis","id":"eucalyptus-oviformis","kingdom":"Plantae","phylum":"Tracheophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus polyanthemos","id":"eucalyptus-polyanthemos","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus punctata","id":"eucalyptus-punctata","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus saligna","id":"eucalyptus-saligna","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus siderophloia","id":"eucalyptus-siderophloia","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus sideroxylon","id":"eucalyptus-sideroxylon","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Eucalyptus tereticornis","id":"eucalyptus-tereticornis","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1992.9698059","10.1080/10412905.1991.9697921"]},{"name":"Illicium verum","id":"illicium-verum","kingdom":"Plantae","phylum":"Streptophyta","family":"Schisandraceae","genus":"Illicium","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF02860485","10.1080/10412905.1990.9697830"]},{"name":"Larix gmelinii var. gmelinii","id":"larix-gmelinii-var-gmelinii","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Larix","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF00567284","10.1007/BF00576212"]},{"name":"Levisticum officinale","id":"levisticum-officinale","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Levisticum","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/JF9800559","10.1080/10412905.1992.9698088"]},{"name":"Licaria puchury-major","id":"licaria-puchury-major","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lauraceae","genus":"Licaria","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1016/0378-8741(83)90056-9","10.1021/NP50083A010"]},{"name":"Lippia origanoides","id":"lippia-origanoides","kingdom":"Plantae","phylum":"Streptophyta","family":"Verbenaceae","genus":"Lippia","taxonomy_source":"NCBI","reference_count":2,"references":["10.5897/JMPR10.078","10.1055/S-2003-37032"]},{"name":"Liquidambar styraciflua","id":"liquidambar-styraciflua","kingdom":"Plantae","phylum":"Streptophyta","family":"Altingiaceae","genus":"Liquidambar","taxonomy_source":"NCBI","reference_count":2,"references":["10.1055/S-2008-1074841","10.2307/2423424"]},{"name":"Mangifera indica","id":"mangifera-indica","kingdom":"Plantae","phylum":"Streptophyta","family":"Anacardiaceae","genus":"Mangifera","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/0031-9422(88)80124-9","10.1021/JF00063A015"]},{"name":"Melaleuca linariifolia","id":"melaleuca-linariifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Melaleuca","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/0031-9422(90)85269-L","10.1080/10412905.1992.9698086"]},{"name":"Mentha piperita","id":"mentha-piperita","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Mentha","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/J.PHYTOCHEM.2006.04.025","10.1080/10412905.1993.9698164"]},{"name":"Mentha rotundifolia","id":"mentha-rotundifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Mentha","taxonomy_source":"NCBI","reference_count":2,"references":["10.1055/S-0028-1097962","10.1080/10575639808044941"]},{"name":"Mentha suaveolens","id":"mentha-suaveolens","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Mentha","taxonomy_source":"NCBI","reference_count":2,"references":["10.1055/S-0028-1097962","10.1080/10575639808044941"]},{"name":"Monarda fistulosa","id":"monarda-fistulosa","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Monarda","taxonomy_source":"NCBI","reference_count":2,"references":["10.1055/S-0028-1099434","10.1002/FFJ.2730020310"]},{"name":"Ocimum americanum","id":"ocimum-americanum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Ocimum","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/NP50018A028","10.1016/S0944-7113(11)80031-0"]},{"name":"Persea americana","id":"persea-americana","kingdom":"Plantae","phylum":"Streptophyta","family":"Lauraceae","genus":"Persea","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/JF00035A029","10.1021/JF00019A020"]},{"name":"Pilocarpus","id":"pilocarpus","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Pilocarpus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/JO00200A028","10.1021/NP50006A014"]},{"name":"Pimenta racemosa","id":"pimenta-racemosa","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Pimenta","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1995.9698553","10.1080/10412905.1991.9697952"]},{"name":"Piper auritum","id":"piper-auritum","kingdom":"Plantae","phylum":"Streptophyta","family":"Piperaceae","genus":"Piper","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1998.9700913","10.1021/NP50038A026"]},{"name":"Piper marginatum","id":"piper-marginatum","kingdom":"Plantae","phylum":"Streptophyta","family":"Piperaceae","genus":"Piper","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF02860485","10.1021/NP50046A033"]},{"name":"Salvia absconditiflora","id":"salvia-absconditiflora","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1995.9698479","10.1016/S0031-9422(00)84802-5"]},{"name":"Salvia dorisiana","id":"salvia-dorisiana","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/JF60199A051","10.1080/10412905.1994.9698330"]},{"name":"Salvia officinalis","id":"salvia-officinalis","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/NP50033A002","10.1016/S0031-9422(00)84802-5"]},{"name":"Satureja cuneifolia","id":"satureja-cuneifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Satureja","taxonomy_source":"NCBI","reference_count":2,"references":["10.1080/10412905.1999.9701113","10.1016/S0031-9422(00)90514-4"]},{"name":"Seriphidium herba-alba","id":"seriphidium-herba-alba","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Seriphidium","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1016/S0031-9422(00)81692-1","10.1016/J.ARABJC.2012.04.042"]},{"name":"Sideritis lyciae","id":"sideritis-lyciae","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Sideritis","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1080/10412905.1996.9701048","10.1080/10412905.1995.9698496"]},{"name":"Sideritis tragoriganum","id":"sideritis-tragoriganum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Sideritis","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/S0031-9422(00)80325-8","10.1016/B978-0-444-88558-6.50020-9"]},{"name":"Tagetes minuta","id":"tagetes-minuta","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Tagetes","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF02269705","10.1007/BF02536610"]}],"organism_count":602,"reference_count":561,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0232891"},"research":{"total":1293,"sampled":200,"designs":{"other":116,"animal":37,"human_observational":19,"review":18,"rct":1,"in_vitro":8,"clinical_trial":1},"topics":[{"term":"Cymenes","papers":34},{"term":"Antioxidants","papers":27},{"term":"Limonene","papers":26},{"term":"Thymol","papers":22},{"term":"Citrus","papers":22},{"term":"Thymus Plant","papers":12},{"term":"Microbial Sensitivity Tests","papers":12},{"term":"Volatile Organic Compounds","papers":12},{"term":"Origanum","papers":11},{"term":"Anti-Bacterial Agents","papers":10},{"term":"Molecular Docking Simulation","papers":10},{"term":"Alkyl and Aryl Transferases","papers":10},{"term":"Antifungal Agents","papers":10},{"term":"Anti-Infective Agents","papers":10}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":28,"designs":{"human_observational":4,"animal":3,"review":3,"other":10,"in_vitro":8},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":4,"pmids":["35292704","37837471","32573485","34885712"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":3,"pmids":["36422848","38252712","32143475"]},{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":8,"pmids":["29206158","28964825","28278678","38087292","40277089","39942542","25515896","22538487"]},{"design":"review","eco":{"id":"ECO:0000033","label":"author statement supported by traceable reference"},"mesh_publication_types":["Review"],"papers":3,"pmids":["31936168","37108100","28782167"]}],"pmids":["35292704","36422848","31936168","37108100","26771167","28782167","29206158","37837471","32573485","38252712","28964825","28278678"]},{"id":"antioxidant","label":"Antioxidant","papers":28,"designs":{"other":11,"animal":6,"review":2,"human_observational":7,"in_vitro":2},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":7,"pmids":["39392313","38067161","42480463","37837471","15070159","27793897","34253776"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":6,"pmids":["38753259","35472413","40452598","38252712","22250748","39277413"]},{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":2,"pmids":["40277089","22538487"]},{"design":"review","eco":{"id":"ECO:0000033","label":"author statement supported by traceable reference"},"mesh_publication_types":["Review"],"papers":2,"pmids":["16492481","37158401"]}],"pmids":["33341300","38753259","35472413","16492481","40452598","30502144","37158401","19326866","39392313","38067161","35188332","42480463"]},{"id":"cancer","label":"Cancer","papers":11,"designs":{"animal":4,"human_observational":6,"review":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":6,"pmids":["42014849","37764505","39392313","38067161","32573485","27793897"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":4,"pmids":["39079594","35976257","40452598","38252712"]},{"design":"review","eco":{"id":"ECO:0000033","label":"author statement supported by traceable reference"},"mesh_publication_types":["Review"],"papers":1,"pmids":["35414316"]}],"pmids":["39079594","35976257","42014849","37764505","40452598","39392313","35414316","38067161","32573485","38252712","27793897"]},{"id":"insect","label":"Insect repellent","papers":7,"designs":{"animal":6,"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["10721849"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":6,"pmids":["39216571","38652776","31241777","35576618","39612696","32143475"]}],"pmids":["39216571","38652776","31241777","35576618","39612696","32143475","10721849"]},{"id":"anti-inflammatory","label":"Anti-inflammatory","papers":3,"designs":{"animal":3},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":3,"pmids":["26132854","40232375","38753259"]}],"pmids":["26132854","40232375","38753259"]},{"id":"pain","label":"Pain relief","papers":3,"designs":{"animal":3},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":3,"pmids":["39079594","40232375","34846548"]}],"pmids":["39079594","40232375","34846548"]},{"id":"neuroprotection","label":"Neuroprotection","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["38753259"]}],"pmids":["38753259"]}],"years":{"from":1978,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=gamma-Terpinene%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 4 of 6 MONDAYS hemp SKUs at 0.05–0.08% of total volatiles (0.01–0.016mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=gamma-Terpinene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Gamma-terpinene is a volatile monoterpene that helps give many essential oils their characteristic sharp, citrusy, and herbal aromas. As a natural plant metabolite, it acts as a built-in antioxidant for the plants that produce it. You likely encounter it daily when zesting a lemon, using herbal seasonings, or smelling tea tree oil.","found_in":"It is highly concentrated in familiar botanicals like tea tree (Melaleuca alternifolia), lemons (Citrus limon), oregano (Origanum vulgare), and thyme (Thymus vulgaris).","why_researchers_care":"Researchers are drawn to gamma-terpinene for its potent antioxidant properties and its ability to work synergistically with other plant compounds like phenols. They are actively exploring how it interacts with microbial threats and its potential role in modulating inflammation. The strongest evidence so far comes from human observational studies (Oxford level 2b) looking at its antimicrobial and antioxidant effects.","structure_function":[{"claim_id":"antioxidant","statement":"Gamma-terpinene may support the body's natural antioxidant defenses by neutralizing free radicals.","evidence_level":"human_observational","basis":"This is based on 28 papers, including 7 human observational studies.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":7},{"design":"animal","eco":"ECO:0007120","papers":6},{"design":"in_vitro","eco":"ECO:0000181","papers":2},{"design":"review","eco":"ECO:0000033","papers":2}],"paper_count":28},{"claim_id":"antimicrobial","statement":"This molecule is being studied for its ability to support resistance against microbial threats.","evidence_level":"human_observational","basis":"This rests on 28 papers, including 4 human observational studies and 8 in vitro experiments.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":4},{"design":"animal","eco":"ECO:0007120","papers":3},{"design":"in_vitro","eco":"ECO:0000181","papers":8},{"design":"review","eco":"ECO:0000033","papers":3}],"paper_count":28},{"claim_id":"anti-inflammatory","statement":"Early work points toward gamma-terpinene playing a role in supporting a healthy inflammatory response.","evidence_level":"animal","basis":"This is supported by 3 animal studies.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":3}],"paper_count":3},{"claim_id":"pain","statement":"The compound is being explored for its potential to support comfort and natural pain relief.","evidence_level":"animal","basis":"This rests on 3 animal studies.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":3}],"paper_count":3}],"hypothesized_benefits":[{"claim_id":"cancer","area":"Cancer","hypothesis":"Researchers are exploring whether gamma-terpinene might influence cellular pathways related to tumor growth, particularly in conjunction with other therapies. If this bears out, it could offer a supportive botanical adjunct in oncology.","evidence_level":"human_observational","paper_count":11,"study_to_test_it":"A randomized, double-blind, placebo-controlled clinical trial in human patients to measure the effect of standardized gamma-terpinene supplementation on tumor markers and quality of life over six months.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":6},{"design":"animal","eco":"ECO:0007120","papers":4},{"design":"review","eco":"ECO:0000033","papers":1}]},{"claim_id":"insect","area":"Insect repellent","hypothesis":"Scientists are investigating whether gamma-terpinene can effectively deter insects, which could lead to new, plant-based alternatives to synthetic bug sprays.","evidence_level":"human_observational","paper_count":7,"study_to_test_it":"A randomized controlled trial comparing a topical gamma-terpinene formulation against a standard DEET repellent in human volunteers, measuring the duration of complete protection against mosquito landings.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"animal","eco":"ECO:0007120","papers":6}]},{"claim_id":"neuroprotection","area":"Neuroprotection","hypothesis":"Early animal work points toward the possibility that gamma-terpinene might protect neural tissues from oxidative stress, raising exciting questions about its role in cognitive aging.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A human observational cohort study tracking dietary intake of gamma-terpinene-rich foods and correlating it with cognitive decline markers and brain imaging over a 5-year period.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]}],"associated_conditions":[{"condition":"Perillyl alcohol administration for cancer treatment","mondo_id":null,"relationship":"Detected in metabolomic studies of patients undergoing this treatment."},{"condition":"metabolic dysfunction-associated steatotic liver disease","mondo_id":"MONDO:0013209","relationship":"Detected in metabolomic studies of the condition."},{"condition":"Diarrhoea predominant irritable bowel syndrome","mondo_id":null,"relationship":"Detected in metabolomic studies of the condition."},{"condition":"Solvents, acute toxic effect","mondo_id":null,"relationship":"Listed as an occupational exposure hazard in industrial settings."}],"cautions":"In industrial settings involving concentrated solvents, gamma-terpinene is listed as an occupational exposure hazard, though this does not apply to dietary consumption of the foods that contain it.","evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b) for its antioxidant and antimicrobial properties; most of the rest is animal and lab research."}}
+{
+  "name": "γ-Terpinene",
+  "id": "gamma-terpinene",
+  "formula": "C10H16",
+  "pubchem": {
+    "cid": 7461,
+    "title": "Gamma-Terpinene",
+    "formula": "C10H16",
+    "molecular_weight": 136.23,
+    "smiles": "CC1=CCC(=CC1)C(C)C",
+    "inchikey": "YKFLAYDHMOASIY-UHFFFAOYSA-N",
+    "iupac_name": "1-methyl-4-propan-2-ylcyclohexa-1,4-diene",
+    "image": "data/molecules/images/gamma-terpinene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/7461",
+    "description": "Gamma-terpinene is one of three isomeric monoterpenes differing in the positions of their two double bonds (alpha- and beta-terpinene being the others). In gamma-terpinene the double bonds are at the 1- and 4-positions of the p-menthane skeleton. It has a role as an antioxidant, a volatile oil component, a plant metabolite and a human xenobiotic metabolite. It is a monoterpene and a cyclohexadiene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:10577"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/7461/PNG"
+  },
+  "targets": [],
+  "diseases": [
+    {
+      "disease": "Perillyl alcohol administration for cancer treatment",
+      "kind": "reported_association",
+      "pmids": [
+        "15607313",
+        "17668437",
+        "10379660",
+        "14569192",
+        "17403619",
+        "20300169",
+        "22284503",
+        "22061338",
+        "19783829",
+        "19010317"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0005806",
+      "id": "perillyl-alcohol-administration-for-cancer-treatment",
+      "mondo": null
+    },
+    {
+      "disease": "Diarrhoea predominant irritable bowel syndrome",
+      "kind": "reported_association",
+      "pmids": [
+        "23516449"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0005806",
+      "id": "diarrhoea-predominant-irritable-bowel-syndrome",
+      "mondo": null
+    },
+    {
+      "disease": "Nonalcoholic fatty liver disease",
+      "kind": "reported_association",
+      "pmids": [
+        "23454028"
+      ],
+      "source": "Human Metabolome Database (HMDB)",
+      "source_url": "http://www.hmdb.ca/metabolites/HMDB0005806",
+      "id": "nonalcoholic-fatty-liver-disease",
+      "mondo": {
+        "id": "MONDO:0013209",
+        "label": "metabolic dysfunction-associated steatotic liver disease",
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0013209"
+      }
+    },
+    {
+      "disease": "Solvents, acute toxic effect",
+      "category": "Acute Poisoning",
+      "kind": "occupational_exposure",
+      "pmids": [],
+      "source": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+      "source_url": "https://haz-map.com/Agents/19384",
+      "id": "solvents-acute-toxic-effect",
+      "mondo": null
+    }
+  ],
+  "literature": {
+    "total": 1293,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=gamma-Terpinene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "22654405",
+        "title": "Trachyspermum ammi",
+        "journal": "Pharmacogn Rev",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22654405/"
+      },
+      {
+        "pmid": "26132854",
+        "title": "Gamma-Terpinene Modulates Acute Inflammatory Response in Mice",
+        "journal": "Planta Med",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26132854/"
+      },
+      {
+        "pmid": "26773165",
+        "title": "In vitro and in vivo action of terpinen-4-ol, γ-terpinene, and α-terpinene against Trypanosoma evansi",
+        "journal": "Exp Parasitol",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26773165/"
+      },
+      {
+        "pmid": "41127846",
+        "title": "Oxidation Mechanism and Kinetics of γ‑Terpinene in the Indoor Atmosphere",
+        "journal": "Environ Health (Wash)",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41127846/"
+      },
+      {
+        "pmid": "33341300",
+        "title": "Synergic antioxidant activity of γ-terpinene with phenols and polyphenols enabled by hydroperoxyl radicals",
+        "journal": "Food Chem",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33341300/"
+      },
+      {
+        "pmid": "38169485",
+        "title": "Photochemical Reduction of Quinolines with γ-Terpinene",
+        "journal": "Org Lett",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38169485/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Melaleuca alternifolia",
+        "id": "melaleuca-alternifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Melaleuca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 15,
+        "references": [
+          "10.1016/0300-483X(95)03242-8",
+          "10.1016/S0031-9422(02)00038-9"
+        ]
+      },
+      {
+        "name": "Citrus limon",
+        "id": "citrus-limon",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 9,
+        "references": [
+          "10.1007/BF00579661",
+          "10.1080/10412905.1995.9698535"
+        ]
+      },
+      {
+        "name": "Origanum vulgare",
+        "id": "origanum-vulgare",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 9,
+        "references": [
+          "10.1002/JSFA.2740430304",
+          "10.1080/10412905.1993.9698294"
+        ]
+      },
+      {
+        "name": "Thymus vulgaris",
+        "id": "thymus-vulgaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 7,
+        "references": [
+          "10.1111/J.1365-2672.1994.TB01661.X",
+          "10.1002/PTR.2650090215"
+        ]
+      },
+      {
+        "name": "Citrus aurantium",
+        "id": "citrus-aurantium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 6,
+        "references": [
+          "10.1271/BBB1961.50.2111",
+          "10.1080/10412905.1995.9698535"
+        ]
+      },
+      {
+        "name": "Eucalyptus camaldulensis",
+        "id": "eucalyptus-camaldulensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 6,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1994.9698428"
+        ]
+      },
+      {
+        "name": "Origanum syriacum",
+        "id": "origanum-syriacum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 6,
+        "references": [
+          "10.1080/10412905.1993.9698294",
+          "10.1080/10412905.1991.9697923"
+        ]
+      },
+      {
+        "name": "Satureja thymbra",
+        "id": "satureja-thymbra",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Satureja",
+        "taxonomy_source": "NCBI",
+        "reference_count": 6,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.09.020",
+          "10.1016/S0021-9673(01)82096-3"
+        ]
+      },
+      {
+        "name": "Lippia multiflora",
+        "id": "lippia-multiflora",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Verbenaceae",
+        "genus": "Lippia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 5,
+        "references": [
+          "10.1021/NP50017A018",
+          "10.1080/10412905.1995.9698531"
+        ]
+      },
+      {
+        "name": "Rosmarinus officinalis",
+        "id": "rosmarinus-officinalis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Rosmarinus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 5,
+        "references": [
+          "10.1111/J.1365-2621.1985.TB10476.X",
+          "10.1002/FFJ.2730090107"
+        ]
+      },
+      {
+        "name": "Satureja montana",
+        "id": "satureja-montana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Satureja",
+        "taxonomy_source": "NCBI",
+        "reference_count": 5,
+        "references": [
+          "10.1002/PTR.2650090215",
+          "10.1080/10412905.1991.9700495"
+        ]
+      },
+      {
+        "name": "Thymbra capitata",
+        "id": "thymbra-capitata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymbra",
+        "taxonomy_source": "NCBI",
+        "reference_count": 5,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.09.020",
+          "10.1080/10412905.1995.9698524"
+        ]
+      },
+      {
+        "name": "Citrus reticulata",
+        "id": "citrus-reticulata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1007/BF00580068",
+          "10.1080/10412905.1990.9697892"
+        ]
+      },
+      {
+        "name": "Citrus sinensis",
+        "id": "citrus-sinensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.3390/MOLECULES13061333",
+          "10.1080/10412905.1990.9697861"
+        ]
+      },
+      {
+        "name": "Citrus taitensis",
+        "id": "citrus-taitensis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 4,
+        "references": [
+          "10.3390/MOLECULES13061333",
+          "10.1080/10412905.1990.9697861"
+        ]
+      },
+      {
+        "name": "Coriandrum sativum",
+        "id": "coriandrum-sativum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Coriandrum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1055/S-0028-1100058",
+          "10.1021/JF00029A021"
+        ]
+      },
+      {
+        "name": "Crithmum maritimum",
+        "id": "crithmum-maritimum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Crithmum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1002/1099-1026(200005/06)15:3<186::AID-FFJ889>3.0.CO;2-I",
+          "10.1002/FFJ.2730060205"
+        ]
+      },
+      {
+        "name": "Daucus carota",
+        "id": "daucus-carota",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Daucus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1016/S0031-9422(00)81741-0",
+          "10.1016/0031-9422(82)80129-5"
+        ]
+      },
+      {
+        "name": "Juniperus communis",
+        "id": "juniperus-communis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1080/10412905.1989.9699439",
+          "10.3891/ACTA.CHEM.SCAND.15-1003"
+        ]
+      },
+      {
+        "name": "Laurus nobilis",
+        "id": "laurus-nobilis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Laurus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1007/BF00600858",
+          "10.1021/JF00056A055"
+        ]
+      },
+      {
+        "name": "Myrtus communis",
+        "id": "myrtus-communis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Myrtus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2006.04.025",
+          "10.1080/10412905.1991.9700498"
+        ]
+      },
+      {
+        "name": "Ocimum gratissimum",
+        "id": "ocimum-gratissimum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Ocimum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1016/S0305-1978(00)00062-4",
+          "10.1002/1099-1026(200009/10)15:5<339::AID-FFJ922>3.0.CO;2-H"
+        ]
+      },
+      {
+        "name": "Salvia fruticosa",
+        "id": "salvia-fruticosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1021/JF970031M",
+          "10.1021/JF00056A055"
+        ]
+      },
+      {
+        "name": "Salvia rosmarinus",
+        "id": "salvia-rosmarinus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1111/J.1365-2621.1985.TB10476.X",
+          "10.1080/10412905.1998.9700854"
+        ]
+      },
+      {
+        "name": "Thymbra spicata",
+        "id": "thymbra-spicata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymbra",
+        "taxonomy_source": "NCBI",
+        "reference_count": 4,
+        "references": [
+          "10.1080/10412905.1994.9698427",
+          "10.1021/JF00056A055"
+        ]
+      },
+      {
+        "name": "Thymus capitatus",
+        "id": "thymus-capitatus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 4,
+        "references": [
+          "10.1080/10412905.1995.9698524",
+          "10.1055/S-2007-969862"
+        ]
+      },
+      {
+        "name": "Thymus martinezii",
+        "id": "thymus-martinezii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 4,
+        "references": [
+          "10.1080/10412905.1995.9698524",
+          "10.1055/S-2007-969862"
+        ]
+      },
+      {
+        "name": "Alpinia zerumbet",
+        "id": "alpinia-zerumbet",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1016/J.PHYMED.2004.04.006",
+          "10.1080/10412905.1993.9698218"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1007/S11418-007-0175-2",
+          "10.1201/B22102-8"
+        ]
+      },
+      {
+        "name": "Citrus limonia",
+        "id": "citrus-limonia",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 3,
+        "references": [
+          "10.3390/MOLECULES13061333",
+          "10.1080/10412905.1990.9697861"
+        ]
+      },
+      {
+        "name": "Citrus medica",
+        "id": "citrus-medica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1002/FFJ.2730100602",
+          "10.1021/JF60196A027"
+        ]
+      },
+      {
+        "name": "Corymbia citriodora",
+        "id": "corymbia-citriodora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Corymbia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1994.9698428"
+        ]
+      },
+      {
+        "name": "Eucalyptus dealbata",
+        "id": "eucalyptus-dealbata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus globulus",
+        "id": "eucalyptus-globulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1994.9698428",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Foeniculum vulgare",
+        "id": "foeniculum-vulgare",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Foeniculum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1994.9698394",
+          "10.1080/10412905.1993.9698207"
+        ]
+      },
+      {
+        "name": "Hyptis suaveolens",
+        "id": "hyptis-suaveolens",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Hyptis",
+        "taxonomy_source": "ITIS",
+        "reference_count": 3,
+        "references": [
+          "10.3109/13880209009082783",
+          "10.1080/10412905.1994.9699348"
+        ]
+      },
+      {
+        "name": "Larix sibirica",
+        "id": "larix-sibirica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Larix",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1007/BF00580452",
+          "10.1007/BF00567053"
+        ]
+      },
+      {
+        "name": "Mesosphaerum suaveolens",
+        "id": "mesosphaerum-suaveolens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mesosphaerum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.3109/13880209009082783",
+          "10.1080/10412905.1994.9699348"
+        ]
+      },
+      {
+        "name": "Origanum majorana",
+        "id": "origanum-majorana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1055/S-2006-960024",
+          "10.1080/10412905.1993.9698294"
+        ]
+      },
+      {
+        "name": "Origanum minutiflorum",
+        "id": "origanum-minutiflorum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1991.9697982",
+          "10.1080/10412905.1993.9698294"
+        ]
+      },
+      {
+        "name": "Origanum onites",
+        "id": "origanum-onites",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1007/BF02860163",
+          "10.1080/10412905.1993.9698294"
+        ]
+      },
+      {
+        "name": "Origanum vulgare subsp. gracile",
+        "id": "origanum-vulgare-subsp-gracile",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Origanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1997.9700793",
+          "10.1080/10412905.1993.9698253"
+        ]
+      },
+      {
+        "name": "Picea abies",
+        "id": "picea-abies",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Picea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1055/S-0028-1097609",
+          "10.1016/0031-9422(96)00119-7"
+        ]
+      },
+      {
+        "name": "Satureja hortensis",
+        "id": "satureja-hortensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Satureja",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.2002.9699754",
+          "10.1016/S0378-8741(99)00209-3"
+        ]
+      },
+      {
+        "name": "Sequoia sempervirens",
+        "id": "sequoia-sempervirens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Sequoia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1016/0305-1978(86)90043-8",
+          "10.1016/0305-1978(91)90079-F"
+        ]
+      },
+      {
+        "name": "Tanacetum parthenium",
+        "id": "tanacetum-parthenium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tanacetum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1989.9699438",
+          "10.1007/S004030050433"
+        ]
+      },
+      {
+        "name": "Tanacetum vulgare",
+        "id": "tanacetum-vulgare",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tanacetum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1989.9699438",
+          "10.1016/0031-9422(75)85347-7"
+        ]
+      },
+      {
+        "name": "Thymus broussonetii",
+        "id": "thymus-broussonetii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1016/J.PHYMED.2011.12.003",
+          "10.1080/10412905.1993.9698169"
+        ]
+      },
+      {
+        "name": "Thymus longicaulis",
+        "id": "thymus-longicaulis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1080/10412905.1998.9700964",
+          "10.1080/10412905.1994.9698359"
+        ]
+      },
+      {
+        "name": "Vitex agnus-castus",
+        "id": "vitex-agnus-castus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Vitex",
+        "taxonomy_source": "NCBI",
+        "reference_count": 3,
+        "references": [
+          "10.1055/S-2006-957814",
+          "10.1002/RCM.1290091307"
+        ]
+      },
+      {
+        "name": "Xylopia sericea",
+        "id": "xylopia-sericea",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Annonaceae",
+        "genus": "Xylopia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 3,
+        "references": [
+          "10.5897/JMPR10.078",
+          "10.1021/NP50048A039"
+        ]
+      },
+      {
+        "name": "Aloysia citriodora",
+        "id": "aloysia-citriodora",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Verbenaceae",
+        "genus": "Aloysia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1994.9698440",
+          "10.1080/10412905.1994.9698409"
+        ]
+      },
+      {
+        "name": "Aloysia citrodora",
+        "id": "aloysia-citrodora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Aloysia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1994.9698440",
+          "10.1080/10412905.1994.9698409"
+        ]
+      },
+      {
+        "name": "Aloysia triphylla",
+        "id": "aloysia-triphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Aloysia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1994.9698440",
+          "10.1080/10412905.1994.9698409"
+        ]
+      },
+      {
+        "name": "Apium graveolens",
+        "id": "apium-graveolens",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Apiaceae",
+        "genus": "Apium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1997.9700822",
+          "10.1007/BF01959202"
+        ]
+      },
+      {
+        "name": "Artemisia",
+        "id": "artemisia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1993.9698215",
+          "10.1007/BF00568367"
+        ]
+      },
+      {
+        "name": "Artemisia arborescens",
+        "id": "artemisia-arborescens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-2007-969948",
+          "10.1080/10412905.1993.9698215"
+        ]
+      },
+      {
+        "name": "Artemisia herba-alba",
+        "id": "artemisia-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)81692-1",
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Bupleurum fruticosum",
+        "id": "bupleurum-fruticosum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Bupleurum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/NP50062A008",
+          "10.1080/10412905.1992.9698110"
+        ]
+      },
+      {
+        "name": "Centella asiatica",
+        "id": "centella-asiatica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Centella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/0031-9422(82)85264-3",
+          "10.1080/10412905.1994.9698382"
+        ]
+      },
+      {
+        "name": "Chamaecyparis lawsoniana",
+        "id": "chamaecyparis-lawsoniana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Chamaecyparis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1991.9697898",
+          "10.1016/0305-1978(85)90081-X"
+        ]
+      },
+      {
+        "name": "Cistus creticus",
+        "id": "cistus-creticus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013",
+          "10.1080/10412905.1994.9698322"
+        ]
+      },
+      {
+        "name": "Cistus incanus",
+        "id": "cistus-incanus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013",
+          "10.1080/10412905.1994.9698322"
+        ]
+      },
+      {
+        "name": "Citrus",
+        "id": "citrus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1993.9698179",
+          "NA"
+        ]
+      },
+      {
+        "name": "Citrus aurantifolia",
+        "id": "citrus-aurantifolia",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 2,
+        "references": [
+          "NA",
+          "10.1016/J.PHYTOCHEM.2009.07.031"
+        ]
+      },
+      {
+        "name": "Citrus aurantiifolia",
+        "id": "citrus-aurantiifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "NA",
+          "10.1016/J.PHYTOCHEM.2009.07.031"
+        ]
+      },
+      {
+        "name": "Citrus bergamia",
+        "id": "citrus-bergamia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1995.9698535",
+          "10.1055/S-2006-960081"
+        ]
+      },
+      {
+        "name": "Citrus junos",
+        "id": "citrus-junos",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00580068",
+          "10.1007/BF00579448"
+        ]
+      },
+      {
+        "name": "Citrus paradisi",
+        "id": "citrus-paradisi",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1271/BBB1961.55.2571",
+          "10.1021/JF9702149"
+        ]
+      },
+      {
+        "name": "Citrus unshiu",
+        "id": "citrus-unshiu",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00580068",
+          "10.1007/BF00579167"
+        ]
+      },
+      {
+        "name": "Clinopodium serpyllifolium subsp. fruticosum",
+        "id": "clinopodium-serpyllifolium-subsp-fruticosum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Clinopodium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1991.9697971",
+          "10.1080/10412905.1993.9698200"
+        ]
+      },
+      {
+        "name": "Corymbia maculata",
+        "id": "corymbia-maculata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Corymbia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Cryptocarya agathophylla",
+        "id": "cryptocarya-agathophylla",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lauraceae",
+        "genus": "Cryptocarya",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-2006-959548",
+          "10.1080/10412905.1995.9698530"
+        ]
+      },
+      {
+        "name": "Cryptomeria japonica",
+        "id": "cryptomeria-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Cryptomeria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1991.9697930",
+          "10.1271/BBB1961.45.1493"
+        ]
+      },
+      {
+        "name": "Cupressus dupreziana var. dupreziana",
+        "id": "cupressus-dupreziana-var-dupreziana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Cupressus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1016/0031-9422(81)80025-8",
+          "10.1016/0031-9422(83)85029-8"
+        ]
+      },
+      {
+        "name": "Cupressus sempervirens",
+        "id": "cupressus-sempervirens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Cupressus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1991.9697959",
+          "10.1016/0031-9422(83)85029-8"
+        ]
+      },
+      {
+        "name": "Cupressus sempervirens var. dupreziana",
+        "id": "cupressus-sempervirens-var-dupreziana",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Cupressaceae",
+        "genus": "Cupressus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 2,
+        "references": [
+          "10.1016/0031-9422(81)80025-8",
+          "10.1016/0031-9422(83)85029-8"
+        ]
+      },
+      {
+        "name": "Diplotaenia cachrydifolia",
+        "id": "diplotaenia-cachrydifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Diplotaenia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-2006-962452",
+          "10.1021/NP50053A047"
+        ]
+      },
+      {
+        "name": "Dorystaechas hastata",
+        "id": "dorystaechas-hastata",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Dorystaechas",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-2007-969275",
+          "10.1080/10412905.1992.9698087"
+        ]
+      },
+      {
+        "name": "Echinophora tenuifolia",
+        "id": "echinophora-tenuifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Echinophora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1002/FFJ.2730040206",
+          "10.1080/10412905.1994.9698406"
+        ]
+      },
+      {
+        "name": "Eucalyptus bosistoana",
+        "id": "eucalyptus-bosistoana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus botryoides",
+        "id": "eucalyptus-botryoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus cladocalyx",
+        "id": "eucalyptus-cladocalyx",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus diversicolor",
+        "id": "eucalyptus-diversicolor",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus maculata",
+        "id": "eucalyptus-maculata",
+        "kingdom": "Plantae",
+        "phylum": null,
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "ITIS",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus melliodora",
+        "id": "eucalyptus-melliodora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus moluccana",
+        "id": "eucalyptus-moluccana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus oviformis",
+        "id": "eucalyptus-oviformis",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus polyanthemos",
+        "id": "eucalyptus-polyanthemos",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus punctata",
+        "id": "eucalyptus-punctata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus saligna",
+        "id": "eucalyptus-saligna",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus siderophloia",
+        "id": "eucalyptus-siderophloia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus sideroxylon",
+        "id": "eucalyptus-sideroxylon",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Eucalyptus tereticornis",
+        "id": "eucalyptus-tereticornis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1992.9698059",
+          "10.1080/10412905.1991.9697921"
+        ]
+      },
+      {
+        "name": "Illicium verum",
+        "id": "illicium-verum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Schisandraceae",
+        "genus": "Illicium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF02860485",
+          "10.1080/10412905.1990.9697830"
+        ]
+      },
+      {
+        "name": "Larix gmelinii var. gmelinii",
+        "id": "larix-gmelinii-var-gmelinii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Larix",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00567284",
+          "10.1007/BF00576212"
+        ]
+      },
+      {
+        "name": "Levisticum officinale",
+        "id": "levisticum-officinale",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Levisticum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JF9800559",
+          "10.1080/10412905.1992.9698088"
+        ]
+      },
+      {
+        "name": "Licaria puchury-major",
+        "id": "licaria-puchury-major",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lauraceae",
+        "genus": "Licaria",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1016/0378-8741(83)90056-9",
+          "10.1021/NP50083A010"
+        ]
+      },
+      {
+        "name": "Lippia origanoides",
+        "id": "lippia-origanoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Verbenaceae",
+        "genus": "Lippia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.5897/JMPR10.078",
+          "10.1055/S-2003-37032"
+        ]
+      },
+      {
+        "name": "Liquidambar styraciflua",
+        "id": "liquidambar-styraciflua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Altingiaceae",
+        "genus": "Liquidambar",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-2008-1074841",
+          "10.2307/2423424"
+        ]
+      },
+      {
+        "name": "Mangifera indica",
+        "id": "mangifera-indica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Mangifera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/0031-9422(88)80124-9",
+          "10.1021/JF00063A015"
+        ]
+      },
+      {
+        "name": "Melaleuca linariifolia",
+        "id": "melaleuca-linariifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Melaleuca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/0031-9422(90)85269-L",
+          "10.1080/10412905.1992.9698086"
+        ]
+      },
+      {
+        "name": "Mentha piperita",
+        "id": "mentha-piperita",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mentha",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2006.04.025",
+          "10.1080/10412905.1993.9698164"
+        ]
+      },
+      {
+        "name": "Mentha rotundifolia",
+        "id": "mentha-rotundifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mentha",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-0028-1097962",
+          "10.1080/10575639808044941"
+        ]
+      },
+      {
+        "name": "Mentha suaveolens",
+        "id": "mentha-suaveolens",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Mentha",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-0028-1097962",
+          "10.1080/10575639808044941"
+        ]
+      },
+      {
+        "name": "Monarda fistulosa",
+        "id": "monarda-fistulosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Monarda",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1055/S-0028-1099434",
+          "10.1002/FFJ.2730020310"
+        ]
+      },
+      {
+        "name": "Ocimum americanum",
+        "id": "ocimum-americanum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Ocimum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/NP50018A028",
+          "10.1016/S0944-7113(11)80031-0"
+        ]
+      },
+      {
+        "name": "Persea americana",
+        "id": "persea-americana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Persea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JF00035A029",
+          "10.1021/JF00019A020"
+        ]
+      },
+      {
+        "name": "Pilocarpus",
+        "id": "pilocarpus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Pilocarpus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JO00200A028",
+          "10.1021/NP50006A014"
+        ]
+      },
+      {
+        "name": "Pimenta racemosa",
+        "id": "pimenta-racemosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Pimenta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1995.9698553",
+          "10.1080/10412905.1991.9697952"
+        ]
+      },
+      {
+        "name": "Piper auritum",
+        "id": "piper-auritum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1998.9700913",
+          "10.1021/NP50038A026"
+        ]
+      },
+      {
+        "name": "Piper marginatum",
+        "id": "piper-marginatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF02860485",
+          "10.1021/NP50046A033"
+        ]
+      },
+      {
+        "name": "Salvia absconditiflora",
+        "id": "salvia-absconditiflora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1995.9698479",
+          "10.1016/S0031-9422(00)84802-5"
+        ]
+      },
+      {
+        "name": "Salvia dorisiana",
+        "id": "salvia-dorisiana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/JF60199A051",
+          "10.1080/10412905.1994.9698330"
+        ]
+      },
+      {
+        "name": "Salvia officinalis",
+        "id": "salvia-officinalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/NP50033A002",
+          "10.1016/S0031-9422(00)84802-5"
+        ]
+      },
+      {
+        "name": "Satureja cuneifolia",
+        "id": "satureja-cuneifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Satureja",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1999.9701113",
+          "10.1016/S0031-9422(00)90514-4"
+        ]
+      },
+      {
+        "name": "Seriphidium herba-alba",
+        "id": "seriphidium-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Seriphidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)81692-1",
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Sideritis lyciae",
+        "id": "sideritis-lyciae",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Sideritis",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1080/10412905.1996.9701048",
+          "10.1080/10412905.1995.9698496"
+        ]
+      },
+      {
+        "name": "Sideritis tragoriganum",
+        "id": "sideritis-tragoriganum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Sideritis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)80325-8",
+          "10.1016/B978-0-444-88558-6.50020-9"
+        ]
+      },
+      {
+        "name": "Tagetes minuta",
+        "id": "tagetes-minuta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Tagetes",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF02269705",
+          "10.1007/BF02536610"
+        ]
+      }
+    ],
+    "organism_count": 602,
+    "reference_count": 561,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0232891"
+  },
+  "research": {
+    "total": 1293,
+    "sampled": 200,
+    "designs": {
+      "other": 116,
+      "animal": 37,
+      "human_observational": 19,
+      "review": 18,
+      "rct": 1,
+      "in_vitro": 8,
+      "clinical_trial": 1
+    },
+    "topics": [
+      {
+        "term": "Cymenes",
+        "papers": 34
+      },
+      {
+        "term": "Antioxidants",
+        "papers": 27
+      },
+      {
+        "term": "Limonene",
+        "papers": 26
+      },
+      {
+        "term": "Thymol",
+        "papers": 22
+      },
+      {
+        "term": "Citrus",
+        "papers": 22
+      },
+      {
+        "term": "Thymus Plant",
+        "papers": 12
+      },
+      {
+        "term": "Microbial Sensitivity Tests",
+        "papers": 12
+      },
+      {
+        "term": "Volatile Organic Compounds",
+        "papers": 12
+      },
+      {
+        "term": "Origanum",
+        "papers": 11
+      },
+      {
+        "term": "Anti-Bacterial Agents",
+        "papers": 10
+      },
+      {
+        "term": "Molecular Docking Simulation",
+        "papers": 10
+      },
+      {
+        "term": "Alkyl and Aryl Transferases",
+        "papers": 10
+      },
+      {
+        "term": "Antifungal Agents",
+        "papers": 10
+      },
+      {
+        "term": "Anti-Infective Agents",
+        "papers": 10
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 28,
+        "designs": {
+          "human_observational": 4,
+          "animal": 3,
+          "review": 3,
+          "other": 10,
+          "in_vitro": 8
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 4,
+            "pmids": [
+              "35292704",
+              "37837471",
+              "32573485",
+              "34885712"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 3,
+            "pmids": [
+              "36422848",
+              "38252712",
+              "32143475"
+            ]
+          },
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 8,
+            "pmids": [
+              "29206158",
+              "28964825",
+              "28278678",
+              "38087292",
+              "40277089",
+              "39942542",
+              "25515896",
+              "22538487"
+            ]
+          },
+          {
+            "design": "review",
+            "eco": {
+              "id": "ECO:0000033",
+              "label": "author statement supported by traceable reference"
+            },
+            "mesh_publication_types": [
+              "Review"
+            ],
+            "papers": 3,
+            "pmids": [
+              "31936168",
+              "37108100",
+              "28782167"
+            ]
+          }
+        ],
+        "pmids": [
+          "35292704",
+          "36422848",
+          "31936168",
+          "37108100",
+          "26771167",
+          "28782167",
+          "29206158",
+          "37837471",
+          "32573485",
+          "38252712",
+          "28964825",
+          "28278678"
+        ]
+      },
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 28,
+        "designs": {
+          "other": 11,
+          "animal": 6,
+          "review": 2,
+          "human_observational": 7,
+          "in_vitro": 2
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 7,
+            "pmids": [
+              "39392313",
+              "38067161",
+              "42480463",
+              "37837471",
+              "15070159",
+              "27793897",
+              "34253776"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 6,
+            "pmids": [
+              "38753259",
+              "35472413",
+              "40452598",
+              "38252712",
+              "22250748",
+              "39277413"
+            ]
+          },
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 2,
+            "pmids": [
+              "40277089",
+              "22538487"
+            ]
+          },
+          {
+            "design": "review",
+            "eco": {
+              "id": "ECO:0000033",
+              "label": "author statement supported by traceable reference"
+            },
+            "mesh_publication_types": [
+              "Review"
+            ],
+            "papers": 2,
+            "pmids": [
+              "16492481",
+              "37158401"
+            ]
+          }
+        ],
+        "pmids": [
+          "33341300",
+          "38753259",
+          "35472413",
+          "16492481",
+          "40452598",
+          "30502144",
+          "37158401",
+          "19326866",
+          "39392313",
+          "38067161",
+          "35188332",
+          "42480463"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 11,
+        "designs": {
+          "animal": 4,
+          "human_observational": 6,
+          "review": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 6,
+            "pmids": [
+              "42014849",
+              "37764505",
+              "39392313",
+              "38067161",
+              "32573485",
+              "27793897"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 4,
+            "pmids": [
+              "39079594",
+              "35976257",
+              "40452598",
+              "38252712"
+            ]
+          },
+          {
+            "design": "review",
+            "eco": {
+              "id": "ECO:0000033",
+              "label": "author statement supported by traceable reference"
+            },
+            "mesh_publication_types": [
+              "Review"
+            ],
+            "papers": 1,
+            "pmids": [
+              "35414316"
+            ]
+          }
+        ],
+        "pmids": [
+          "39079594",
+          "35976257",
+          "42014849",
+          "37764505",
+          "40452598",
+          "39392313",
+          "35414316",
+          "38067161",
+          "32573485",
+          "38252712",
+          "27793897"
+        ]
+      },
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 7,
+        "designs": {
+          "animal": 6,
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "10721849"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 6,
+            "pmids": [
+              "39216571",
+              "38652776",
+              "31241777",
+              "35576618",
+              "39612696",
+              "32143475"
+            ]
+          }
+        ],
+        "pmids": [
+          "39216571",
+          "38652776",
+          "31241777",
+          "35576618",
+          "39612696",
+          "32143475",
+          "10721849"
+        ]
+      },
+      {
+        "id": "anti-inflammatory",
+        "label": "Anti-inflammatory",
+        "papers": 3,
+        "designs": {
+          "animal": 3
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 3,
+            "pmids": [
+              "26132854",
+              "40232375",
+              "38753259"
+            ]
+          }
+        ],
+        "pmids": [
+          "26132854",
+          "40232375",
+          "38753259"
+        ]
+      },
+      {
+        "id": "pain",
+        "label": "Pain relief",
+        "papers": 3,
+        "designs": {
+          "animal": 3
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 3,
+            "pmids": [
+              "39079594",
+              "40232375",
+              "34846548"
+            ]
+          }
+        ],
+        "pmids": [
+          "39079594",
+          "40232375",
+          "34846548"
+        ]
+      },
+      {
+        "id": "neuroprotection",
+        "label": "Neuroprotection",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "38753259"
+            ]
+          }
+        ],
+        "pmids": [
+          "38753259"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1978,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=gamma-Terpinene%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 4 of 6 MONDAYS hemp SKUs at 0.05–0.08% of total volatiles (0.01–0.016mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=gamma-Terpinene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Gamma-terpinene is a volatile monoterpene, a type of aromatic molecule that gives many essential oils their characteristic sharp, citrusy, and herbaceous scent. As a natural plant metabolite and antioxidant, it is a key player in the chemical profile of many fragrant herbs and fruits. You likely encounter it daily when zesting a lemon, crushing fresh oregano, or using tea tree oil.",
+    "found_in": "This molecule is richly concentrated in tea tree (Melaleuca alternifolia), lemons (Citrus limon), and culinary herbs like oregano (Origanum vulgare) and thyme (Thymus vulgaris).",
+    "why_researchers_care": "Researchers are drawn to gamma-terpinene's potential as a natural antioxidant and antimicrobial agent, exploring how it might protect cells from oxidative stress and fight off pathogens. The scientific literature includes over 1,200 papers, with the strongest evidence currently resting at Oxford level 2b (human observational studies). Scientists are particularly interested in its synergistic effects when combined with other plant compounds like phenols, and how it might modulate inflammatory responses.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Gamma-terpinene is being studied for its ability to support antimicrobial defenses.",
+        "evidence_level": "human_observational",
+        "basis": "This rests on 28 papers, including 4 human observational studies and several in vitro tests.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 4
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 8
+          },
+          {
+            "design": "review",
+            "eco": "ECO:0000033",
+            "papers": 3
+          }
+        ],
+        "paper_count": 28
+      },
+      {
+        "claim_id": "antioxidant",
+        "statement": "The molecule may support the body's natural antioxidant capacity.",
+        "evidence_level": "human_observational",
+        "basis": "This is based on 28 papers, including 7 human observational studies.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 7
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 6
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 2
+          },
+          {
+            "design": "review",
+            "eco": "ECO:0000033",
+            "papers": 2
+          }
+        ],
+        "paper_count": 28
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "statement": "Early work points toward a role in supporting healthy inflammatory responses.",
+        "evidence_level": "animal",
+        "basis": "This is supported by 3 animal studies.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          }
+        ],
+        "paper_count": 3
+      },
+      {
+        "claim_id": "pain",
+        "statement": "The compound is being explored for its potential to support natural pain relief.",
+        "evidence_level": "animal",
+        "basis": "This rests on 3 animal studies.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          }
+        ],
+        "paper_count": 3
+      },
+      {
+        "claim_id": "insect",
+        "statement": "Gamma-terpinene is being investigated as a natural insect repellent.",
+        "evidence_level": "human_observational",
+        "basis": "This is based on 7 papers, including 1 human observational study and 6 animal studies.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 6
+          }
+        ],
+        "paper_count": 7
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "cancer",
+        "area": "Cancer",
+        "hypothesis": "Researchers are exploring whether gamma-terpinene might play a role in cancer pathways, potentially as a supportive compound or through its relationship with perillyl alcohol metabolism.",
+        "evidence_level": "human_observational",
+        "paper_count": 11,
+        "study_to_test_it": "A randomized, double-blind, placebo-controlled clinical trial in humans measuring tumor markers and metabolic profiles over 6 to 12 months.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 6
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 4
+          },
+          {
+            "design": "review",
+            "eco": "ECO:0000033",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "neuroprotection",
+        "area": "Neuroprotection",
+        "hypothesis": "Early animal work points toward a potential neuroprotective role, raising the question of whether this molecule could help shield brain cells from damage or degeneration.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A human observational cohort study tracking dietary intake of gamma-terpinene-rich foods and cognitive decline markers over 5 years.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "area": "Inflammation",
+        "hypothesis": "Scientists are investigating if gamma-terpinene can modulate acute inflammatory responses, which could eventually translate to new natural therapies for inflammatory conditions.",
+        "evidence_level": "animal",
+        "paper_count": 3,
+        "study_to_test_it": "A Phase I/II human clinical trial measuring systemic inflammatory biomarkers like CRP in healthy volunteers given a standardized gamma-terpinene extract over 4 weeks.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          }
+        ]
+      },
+      {
+        "claim_id": "antimicrobial",
+        "area": "Infection",
+        "hypothesis": "Researchers are exploring whether gamma-terpinene can effectively combat bacterial and parasitic infections, particularly when used alongside other natural agents.",
+        "evidence_level": "human_observational",
+        "paper_count": 28,
+        "study_to_test_it": "A randomized controlled trial testing a topical gamma-terpinene formulation against standard treatments for localized skin infections over 14 days.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 4
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 8
+          },
+          {
+            "design": "review",
+            "eco": "ECO:0000033",
+            "papers": 3
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [
+      {
+        "condition": "Perillyl alcohol administration for cancer treatment",
+        "mondo_id": null,
+        "relationship": "detected in metabolomic studies of"
+      },
+      {
+        "condition": "metabolic dysfunction-associated steatotic liver disease",
+        "mondo_id": "MONDO:0013209",
+        "relationship": "detected in metabolomic studies of"
+      },
+      {
+        "condition": "Diarrhoea predominant irritable bowel syndrome",
+        "mondo_id": null,
+        "relationship": "detected in metabolomic studies of"
+      },
+      {
+        "condition": "Solvents, acute toxic effect",
+        "mondo_id": null,
+        "relationship": "occupational exposure hazard"
+      }
+    ],
+    "cautions": "In concentrated industrial forms, gamma-terpinene is recorded as an occupational exposure hazard for acute solvent toxicity, though this does not apply to normal dietary consumption.",
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b); most of the rest is animal and lab research focusing on its antioxidant and antimicrobial properties."
+  }
+}

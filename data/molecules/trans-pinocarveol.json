@@ -1,1 +1,837 @@
-{"name":"trans-Pinocarveol","id":"trans-pinocarveol","formula":"C10H16O","pubchem":{"cid":88302,"title":"trans-Pinocarveol","formula":"C10H16O","molecular_weight":152.23,"smiles":"CC1(C2CC1C(=C)C(C2)O)C","inchikey":"LCYXQUJDODZYIJ-VGMNWLOBSA-N","iupac_name":"(1R,3S,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol","image":"data/molecules/images/trans-pinocarveol.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/88302","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/88302/PNG"},"targets":[],"diseases":[],"literature":{"total":66,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=trans-Pinocarveol%5BAll%20Fields%5D","papers":[{"pmid":"38074126","title":"Eucalyptus-derived essential oils alleviate microbes and modulate inflammation by suppressing superoxide and elastase release","journal":"Front Pharmacol","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/38074126/"},{"pmid":"35170197","title":"Comparative Study of the Essential Oil and Hydrosol Composition of Sweet Wormwood (Artemisia annua L.) from Serbia","journal":"Chem Biodivers","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35170197/"},{"pmid":"38384403","title":"Chemical Constituents and Antimicrobial and Antioxidant Activities of Essential Oil from Dried Seeds of Xylopia aethiopica","journal":"Biochem Res Int","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38384403/"},{"pmid":"37653941","title":"Evaluating the Potential of Boswellia rivae to Provide Sustainable Livelihood Benefits in Eastern Ethiopia","journal":"Plants (Basel)","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37653941/"},{"pmid":"36840164","title":"Essential Oils and Biological Activities of Eucalyptus falcata, E. sideroxylon and E. citriodora Growing in Tunisia","journal":"Plants (Basel)","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36840164/"},{"pmid":"31444936","title":"A strategy of rapidly screening out herbicidal chemicals from Eucalyptus essential oils","journal":"Pest Manag Sci","year":"2020","url":"https://pubmed.ncbi.nlm.nih.gov/31444936/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Anthemis aciphylla","id":"anthemis-aciphylla","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Anthemis","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/CPB.54.222"]},{"name":"Artemisia","id":"artemisia","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.FITOTE.2007.11.004"]},{"name":"Artemisia annua","id":"artemisia-annua","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/S11418-007-0175-2"]},{"name":"Artemisia herba-alba","id":"artemisia-herba-alba","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.ARABJC.2012.04.042"]},{"name":"Cedrus libani","id":"cedrus-libani","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Cedrus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYMED.2007.03.013"]},{"name":"Cistus creticus","id":"cistus-creticus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2009.06.013"]},{"name":"Cistus incanus","id":"cistus-incanus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2009.06.013"]},{"name":"Cyperus rotundus","id":"cyperus-rotundus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cyperaceae","genus":"Cyperus","taxonomy_source":"NCBI","reference_count":1,"references":["10.3390/MOLECULES14082909"]},{"name":"Ganoderma lucidum","id":"ganoderma-lucidum","kingdom":"Fungi","phylum":"Basidiomycota","family":"Polyporaceae","genus":"Ganoderma","taxonomy_source":"Index Fungorum","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2005.10.025"]},{"name":"Pinus koraiensis","id":"pinus-koraiensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Pinus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00568368"]},{"name":"Pinus sylvestris var. hamata","id":"pinus-sylvestris-var-hamata","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Pinus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00581596"]},{"name":"Rhodiola rosea","id":"rhodiola-rosea","kingdom":"Plantae","phylum":"Streptophyta","family":"Crassulaceae","genus":"Rhodiola","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(02)00004-3"]},{"name":"Seriphidium herba-alba","id":"seriphidium-herba-alba","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Seriphidium","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/J.ARABJC.2012.04.042"]},{"name":"Teucrium leucocladum","id":"teucrium-leucocladum","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Teucrium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.BSE.2003.12.009"]},{"name":"Teucrium polium subsp. polium","id":"teucrium-polium-subsp-polium","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Teucrium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2012.05.019"]},{"name":"Teucrium polium var. polium","id":"teucrium-polium-var-polium","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Teucrium","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2012.05.019"]}],"organism_count":16,"reference_count":13,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0165758"},"research":{"total":66,"sampled":66,"designs":{"other":43,"human_observational":8,"in_vitro":4,"animal":11},"topics":[{"term":"Eucalyptus","papers":15},{"term":"Tunisia","papers":7},{"term":"Principal Component Analysis","papers":7},{"term":"Anti-Bacterial Agents","papers":6},{"term":"Volatile Organic Compounds","papers":6},{"term":"Microbial Sensitivity Tests","papers":4},{"term":"Antioxidants","papers":4},{"term":"Anti-Infective Agents","papers":4},{"term":"Artemisia","papers":3},{"term":"Eucalyptol","papers":3},{"term":"Pistacia","papers":3},{"term":"Biotransformation","papers":3},{"term":"Oxidation-Reduction","papers":3},{"term":"Candida albicans","papers":3}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":9,"designs":{"human_observational":4,"other":3,"in_vitro":2},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":4,"pmids":["39708555","12385883","42031567","22376220"]},{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":2,"pmids":["30520609","21121270"]}],"pmids":["39708555","12385883","19459749","15186116","42031567","22410416","30520609","21121270","22376220"]},{"id":"antioxidant","label":"Antioxidant","papers":4,"designs":{"animal":1,"human_observational":3},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":3,"pmids":["12385883","17600634","41819909"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["30716018"]}],"pmids":["30716018","12385883","17600634","41819909"]},{"id":"anti-inflammatory","label":"Anti-inflammatory","papers":2,"designs":{"other":1,"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["42392810"]}],"pmids":["34355673","42392810"]},{"id":"cancer","label":"Cancer","papers":2,"designs":{"human_observational":2},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":2,"pmids":["39708555","22376220"]}],"pmids":["39708555","22376220"]},{"id":"insect","label":"Insect repellent","papers":2,"designs":{"animal":1,"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["42031567"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["38230510"]}],"pmids":["38230510","42031567"]}],"years":{"from":1987,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=trans-Pinocarveol%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 2 of 6 MONDAYS hemp SKUs at 0.05–0.09% of total volatiles (0.01–0.018mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=trans-Pinocarveol"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"trans-Pinocarveol is a fragrant, volatile molecule known as a monoterpene alcohol, responsible for some of the fresh, woody, and herbal aromas found in nature. People most commonly encounter it when smelling the crisp scent of pine needles, the cooling vapor of eucalyptus, or when brewing certain traditional herbal teas.","found_in":"It is naturally produced by a wide variety of aromatic plants, including sweet wormwood (Artemisia annua), Korean pine, eucalyptus trees, and even the revered Reishi mushroom (Ganoderma lucidum).","why_researchers_care":"Researchers are drawn to trans-pinocarveol because it frequently appears as a key component in essential oils traditionally used to fight infections and soothe inflammation. Scientists are particularly interested in its potential as a natural antimicrobial and antioxidant agent. The strongest evidence so far comes from human observational studies (Oxford level 2b) examining complex plant extracts where trans-pinocarveol plays a starring role, prompting further investigation into how this specific molecule behaves on its own.","structure_function":[{"claim_id":"antimicrobial","statement":"Early observational work points toward a role in supporting the body's natural defenses against microbes.","evidence_level":"human_observational","basis":"Based on 9 papers, including human observational studies and lab research.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":4},{"design":"in_vitro","eco":"ECO:0000181","papers":2}],"paper_count":9},{"claim_id":"antioxidant","statement":"May support cellular health by acting as a natural antioxidant.","evidence_level":"human_observational","basis":"Based on 4 papers, including human observational and animal research.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":3},{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":4},{"claim_id":"anti-inflammatory","statement":"Early animal work points toward a potential ability to help modulate inflammatory responses.","evidence_level":"animal","basis":"Based on 2 papers, including animal research.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":2},{"claim_id":"cancer","statement":"Is being studied for its potential role in cellular health and abnormal cell growth.","evidence_level":"human_observational","basis":"Based on 2 human observational papers.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":2}],"paper_count":2},{"claim_id":"insect","statement":"May act as a natural deterrent against insects.","evidence_level":"human_observational","basis":"Based on 2 papers, including human observational and animal data.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":2}],"hypothesized_benefits":[{"claim_id":"antimicrobial","area":"Infection Control","hypothesis":"Researchers are exploring whether trans-pinocarveol can effectively neutralize harmful bacteria and fungi, which could make it a valuable natural preservative or topical agent if it bears out.","evidence_level":"human_observational","paper_count":9,"study_to_test_it":"A randomized, double-blind, placebo-controlled human trial testing a standardized trans-pinocarveol topical cream against a placebo for mild bacterial skin colonization over two weeks.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":4},{"design":"in_vitro","eco":"ECO:0000181","papers":2}]},{"claim_id":"anti-inflammatory","area":"Inflammation Modulation","hypothesis":"Early animal work points toward the possibility that this molecule can suppress inflammatory markers like elastase, which would be highly relevant for soothing skin or respiratory irritation.","evidence_level":"animal","paper_count":2,"study_to_test_it":"A Phase I/II human clinical trial measuring inflammatory biomarkers in the blood and sputum of healthy volunteers exposed to inhaled trans-pinocarveol vapor over 14 days.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]},{"claim_id":"antioxidant","area":"Cellular Protection","hypothesis":"Scientists are investigating if trans-pinocarveol can protect cells from oxidative stress, potentially supporting long-term tissue health.","evidence_level":"human_observational","paper_count":4,"study_to_test_it":"A randomized controlled trial in humans measuring serum oxidative stress markers (like lipid peroxidation) before and after a 30-day oral supplementation of an isolated trans-pinocarveol extract.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":3},{"design":"animal","eco":"ECO:0007120","papers":1}]},{"claim_id":"insect","area":"Insect Repellency","hypothesis":"Researchers are exploring whether this compound can provide a natural, plant-based alternative to synthetic bug sprays.","evidence_level":"human_observational","paper_count":2,"study_to_test_it":"A randomized, controlled field trial in humans comparing the mosquito-landing rates on skin treated with a trans-pinocarveol lotion versus a standard DEET repellent over an 8-hour period.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"animal","eco":"ECO:0007120","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b) on plant extracts containing the molecule; most of the rest is animal and lab research."}}
+{
+  "name": "trans-Pinocarveol",
+  "id": "trans-pinocarveol",
+  "formula": "C10H16O",
+  "pubchem": {
+    "cid": 88302,
+    "title": "trans-Pinocarveol",
+    "formula": "C10H16O",
+    "molecular_weight": 152.23,
+    "smiles": "CC1(C2CC1C(=C)C(C2)O)C",
+    "inchikey": "LCYXQUJDODZYIJ-VGMNWLOBSA-N",
+    "iupac_name": "(1R,3S,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",
+    "image": "data/molecules/images/trans-pinocarveol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/88302",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/88302/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 66,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=trans-Pinocarveol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38074126",
+        "title": "Eucalyptus-derived essential oils alleviate microbes and modulate inflammation by suppressing superoxide and elastase release",
+        "journal": "Front Pharmacol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38074126/"
+      },
+      {
+        "pmid": "35170197",
+        "title": "Comparative Study of the Essential Oil and Hydrosol Composition of Sweet Wormwood (Artemisia annua L.) from Serbia",
+        "journal": "Chem Biodivers",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35170197/"
+      },
+      {
+        "pmid": "38384403",
+        "title": "Chemical Constituents and Antimicrobial and Antioxidant Activities of Essential Oil from Dried Seeds of Xylopia aethiopica",
+        "journal": "Biochem Res Int",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38384403/"
+      },
+      {
+        "pmid": "37653941",
+        "title": "Evaluating the Potential of Boswellia rivae to Provide Sustainable Livelihood Benefits in Eastern Ethiopia",
+        "journal": "Plants (Basel)",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37653941/"
+      },
+      {
+        "pmid": "36840164",
+        "title": "Essential Oils and Biological Activities of Eucalyptus falcata, E. sideroxylon and E. citriodora Growing in Tunisia",
+        "journal": "Plants (Basel)",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36840164/"
+      },
+      {
+        "pmid": "31444936",
+        "title": "A strategy of rapidly screening out herbicidal chemicals from Eucalyptus essential oils",
+        "journal": "Pest Manag Sci",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31444936/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Anthemis aciphylla",
+        "id": "anthemis-aciphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Anthemis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.54.222"
+        ]
+      },
+      {
+        "name": "Artemisia",
+        "id": "artemisia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.FITOTE.2007.11.004"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Artemisia herba-alba",
+        "id": "artemisia-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Cedrus libani",
+        "id": "cedrus-libani",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Cedrus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYMED.2007.03.013"
+        ]
+      },
+      {
+        "name": "Cistus creticus",
+        "id": "cistus-creticus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013"
+        ]
+      },
+      {
+        "name": "Cistus incanus",
+        "id": "cistus-incanus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2009.06.013"
+        ]
+      },
+      {
+        "name": "Cyperus rotundus",
+        "id": "cyperus-rotundus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cyperaceae",
+        "genus": "Cyperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3390/MOLECULES14082909"
+        ]
+      },
+      {
+        "name": "Ganoderma lucidum",
+        "id": "ganoderma-lucidum",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Polyporaceae",
+        "genus": "Ganoderma",
+        "taxonomy_source": "Index Fungorum",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.10.025"
+        ]
+      },
+      {
+        "name": "Pinus koraiensis",
+        "id": "pinus-koraiensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568368"
+        ]
+      },
+      {
+        "name": "Pinus sylvestris var. hamata",
+        "id": "pinus-sylvestris-var-hamata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00581596"
+        ]
+      },
+      {
+        "name": "Rhodiola rosea",
+        "id": "rhodiola-rosea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Crassulaceae",
+        "genus": "Rhodiola",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(02)00004-3"
+        ]
+      },
+      {
+        "name": "Seriphidium herba-alba",
+        "id": "seriphidium-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Seriphidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Teucrium leucocladum",
+        "id": "teucrium-leucocladum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.BSE.2003.12.009"
+        ]
+      },
+      {
+        "name": "Teucrium polium subsp. polium",
+        "id": "teucrium-polium-subsp-polium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2012.05.019"
+        ]
+      },
+      {
+        "name": "Teucrium polium var. polium",
+        "id": "teucrium-polium-var-polium",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Teucrium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2012.05.019"
+        ]
+      }
+    ],
+    "organism_count": 16,
+    "reference_count": 13,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0165758"
+  },
+  "research": {
+    "total": 66,
+    "sampled": 66,
+    "designs": {
+      "other": 43,
+      "human_observational": 8,
+      "in_vitro": 4,
+      "animal": 11
+    },
+    "topics": [
+      {
+        "term": "Eucalyptus",
+        "papers": 15
+      },
+      {
+        "term": "Tunisia",
+        "papers": 7
+      },
+      {
+        "term": "Principal Component Analysis",
+        "papers": 7
+      },
+      {
+        "term": "Anti-Bacterial Agents",
+        "papers": 6
+      },
+      {
+        "term": "Volatile Organic Compounds",
+        "papers": 6
+      },
+      {
+        "term": "Microbial Sensitivity Tests",
+        "papers": 4
+      },
+      {
+        "term": "Antioxidants",
+        "papers": 4
+      },
+      {
+        "term": "Anti-Infective Agents",
+        "papers": 4
+      },
+      {
+        "term": "Artemisia",
+        "papers": 3
+      },
+      {
+        "term": "Eucalyptol",
+        "papers": 3
+      },
+      {
+        "term": "Pistacia",
+        "papers": 3
+      },
+      {
+        "term": "Biotransformation",
+        "papers": 3
+      },
+      {
+        "term": "Oxidation-Reduction",
+        "papers": 3
+      },
+      {
+        "term": "Candida albicans",
+        "papers": 3
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 9,
+        "designs": {
+          "human_observational": 4,
+          "other": 3,
+          "in_vitro": 2
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 4,
+            "pmids": [
+              "39708555",
+              "12385883",
+              "42031567",
+              "22376220"
+            ]
+          },
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 2,
+            "pmids": [
+              "30520609",
+              "21121270"
+            ]
+          }
+        ],
+        "pmids": [
+          "39708555",
+          "12385883",
+          "19459749",
+          "15186116",
+          "42031567",
+          "22410416",
+          "30520609",
+          "21121270",
+          "22376220"
+        ]
+      },
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 4,
+        "designs": {
+          "animal": 1,
+          "human_observational": 3
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 3,
+            "pmids": [
+              "12385883",
+              "17600634",
+              "41819909"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "30716018"
+            ]
+          }
+        ],
+        "pmids": [
+          "30716018",
+          "12385883",
+          "17600634",
+          "41819909"
+        ]
+      },
+      {
+        "id": "anti-inflammatory",
+        "label": "Anti-inflammatory",
+        "papers": 2,
+        "designs": {
+          "other": 1,
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "42392810"
+            ]
+          }
+        ],
+        "pmids": [
+          "34355673",
+          "42392810"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 2,
+        "designs": {
+          "human_observational": 2
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 2,
+            "pmids": [
+              "39708555",
+              "22376220"
+            ]
+          }
+        ],
+        "pmids": [
+          "39708555",
+          "22376220"
+        ]
+      },
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 2,
+        "designs": {
+          "animal": 1,
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "42031567"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "38230510"
+            ]
+          }
+        ],
+        "pmids": [
+          "38230510",
+          "42031567"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1987,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=trans-Pinocarveol%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 2 of 6 MONDAYS hemp SKUs at 0.05–0.09% of total volatiles (0.01–0.018mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=trans-Pinocarveol"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "trans-Pinocarveol is a volatile aromatic molecule that helps give certain medicinal plants and trees their fresh, woody, and slightly camphor-like scent. As a natural component of many essential oils, it is something you might breathe in during a walk through a pine forest or encounter in herbal teas and natural fragrances.",
+    "found_in": "It is naturally found in the essential oils of eucalyptus, pine trees, and cedar, as well as in medicinal herbs like sweet wormwood (Artemisia annua), reishi mushrooms (Ganoderma lucidum), and rhodiola.",
+    "why_researchers_care": "Researchers are drawn to trans-pinocarveol for its prominent role in the essential oils of highly valued medicinal plants like eucalyptus and sweet wormwood. They are actively exploring its potential to fight off bacteria and soothe inflammation, often studying how it works alongside other natural compounds in these oils. The strongest evidence so far comes from human observational studies (Oxford level 2b) looking at its antimicrobial and antioxidant properties, sparking interest in how this molecule might be harnessed for natural therapies and protective products.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Early observational work points toward trans-pinocarveol having antimicrobial properties that may support the body's natural defenses.",
+        "evidence_level": "human_observational",
+        "basis": "Based on 9 papers, including human observational research.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 4
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 2
+          }
+        ],
+        "paper_count": 9
+      },
+      {
+        "claim_id": "antioxidant",
+        "statement": "Observational studies suggest it may support cellular health by acting as an antioxidant.",
+        "evidence_level": "human_observational",
+        "basis": "Based on 4 papers, including human observational studies.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 3
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 4
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "statement": "Early animal research points toward a potential role in supporting healthy inflammatory responses.",
+        "evidence_level": "animal",
+        "basis": "Based on 2 papers, including animal models.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 2
+      },
+      {
+        "claim_id": "insect",
+        "statement": "Observational evidence indicates it is being studied for its potential to act as a natural insect repellent.",
+        "evidence_level": "human_observational",
+        "basis": "Based on 2 papers, including human observational research.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 2
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antimicrobial",
+        "area": "Bacterial Defense",
+        "hypothesis": "Researchers are exploring whether trans-pinocarveol can effectively neutralize harmful bacteria, which could make it a valuable natural anti-infective agent.",
+        "evidence_level": "human_observational",
+        "paper_count": 9,
+        "study_to_test_it": "A randomized controlled trial applying a standardized topical formulation of trans-pinocarveol to superficial skin abrasions in healthy volunteers, measuring bacterial load reduction over 7 days compared to a placebo.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 4
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 2
+          }
+        ]
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "area": "Inflammation",
+        "hypothesis": "Early animal work points toward the possibility that this molecule might help modulate the immune system by suppressing inflammatory signals like superoxide.",
+        "evidence_level": "animal",
+        "paper_count": 2,
+        "study_to_test_it": "A first-in-human randomized, double-blind, placebo-controlled trial giving a measured oral dose of trans-pinocarveol to healthy adults, tracking serum inflammatory markers like CRP and cytokines over 4 weeks.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "cancer",
+        "area": "Cellular Protection",
+        "hypothesis": "Researchers are investigating whether the antioxidant properties of trans-pinocarveol might help protect cells from the kind of oxidative damage that contributes to abnormal cellular changes.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized, placebo-controlled clinical trial in a human population, measuring specific biomarkers of oxidative DNA damage in blood samples over six months of daily supplementation.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 2
+          }
+        ]
+      },
+      {
+        "claim_id": "insect",
+        "area": "Insect Repellent",
+        "hypothesis": "If this bears out, trans-pinocarveol could be used as a safe, plant-derived alternative to synthetic bug sprays.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized controlled field trial testing a trans-pinocarveol lotion against a standard DEET repellent on human volunteers, measuring the number of mosquito landings per hour over an 8-hour period.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford level 2b) focusing on its antimicrobial and antioxidant properties; most of the rest is animal and lab research."
+  }
+}

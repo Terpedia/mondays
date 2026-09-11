@@ -1,1 +1,333 @@
-{"name":"allo-Aromadendrene","id":"allo-aromadendrene","formula":"C15H24","pubchem":{"cid":42608158,"title":"Allo-Aromadendrene","formula":"C15H24","molecular_weight":204.35,"smiles":"CC1CCC2C1C3C(C3(C)C)CCC2=C","inchikey":"ITYNGVSTWVVPIC-LRUBOHGLSA-N","iupac_name":"(4aS,7R,7aR)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene","image":"data/molecules/images/allo-aromadendrene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/42608158","description":"Allo-Aromadendrene is a sesquiterpenoid.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:166670"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/42608158/PNG"},"targets":[],"diseases":[],"literature":{"total":36,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=allo-Aromadendrene%5BAll%20Fields%5D","papers":[{"pmid":"37616214","title":"Exploring the chemical composition, in vitro and in silico study of the anticandidal properties of annonaceae species essential oils from the Amazon","journal":"PLoS One","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37616214/"},{"pmid":"28536059","title":"Current state of knowledge on the traditional uses, phytochemistry, and pharmacology of the genus Hymenaea","journal":"J Ethnopharmacol","year":"2017","url":"https://pubmed.ncbi.nlm.nih.gov/28536059/"},{"pmid":"40733254","title":"Compositional Variability of Essential Oils and Their Bioactivity in Native and Invasive Erigeron Species","journal":"Molecules","year":"2025","url":"https://pubmed.ncbi.nlm.nih.gov/40733254/"},{"pmid":"36650708","title":"Chemical composition and antioxidant activity of the essential oil of Renealmia alpinia (Rottb.) Maas","journal":"Nat Prod Res","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36650708/"},{"pmid":"33867898","title":"Brazilian essential oils as source for the discovery of new anti-COVID-19 drug: a review guided by in silico study","journal":"Phytochem Rev","year":"2021","url":"https://pubmed.ncbi.nlm.nih.gov/33867898/"},{"pmid":"39509364","title":"Chemical profiling and cytotoxicity screening of agarwood essential oil (Aquilaria sinensis) in brine shrimp nauplii and cancer cell lines","journal":"PLoS One","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/39509364/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Artemisia herba-alba","id":"artemisia-herba-alba","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.ARABJC.2012.04.042"]},{"name":"Seriphidium herba-alba","id":"seriphidium-herba-alba","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Seriphidium","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/J.ARABJC.2012.04.042"]}],"organism_count":2,"reference_count":1,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0159393"},"research":{"total":36,"sampled":36,"designs":{"review":4,"other":22,"human":3,"in_vitro":2,"animal":5},"topics":[{"term":"Antioxidants","papers":7},{"term":"Annonaceae","papers":3},{"term":"Anti-Infective Agents","papers":3},{"term":"Azulenes","papers":3},{"term":"Phytochemicals","papers":2},{"term":"Cell Line, Tumor","papers":2},{"term":"Bacteria","papers":2},{"term":"Fungi","papers":2},{"term":"Microbial Sensitivity Tests","papers":2},{"term":"Cholinesterase Inhibitors","papers":2},{"term":"Italy","papers":2},{"term":"Herbicides","papers":2},{"term":"Cistus","papers":2},{"term":"Insecticides","papers":2}],"claims":[{"id":"antioxidant","label":"Antioxidant","papers":7,"designs":{"review":1,"other":2,"human":1,"in_vitro":1,"animal":2},"pmids":["40733254","36650708","28332760","31298500","26434142","23472480","21815437"]},{"id":"antimicrobial","label":"Antimicrobial","papers":5,"designs":{"in_vitro":2,"animal":2,"other":1},"pmids":["27033169","31298500","26434142","24273874","21815437"]},{"id":"cancer","label":"Cancer","papers":2,"designs":{"human":2},"pmids":["39509364","28332760"]},{"id":"insect","label":"Insect repellent","papers":2,"designs":{"animal":2},"pmids":["18566831","21815437"]},{"id":"anti-inflammatory","label":"Anti-inflammatory","papers":1,"designs":{"animal":1},"pmids":["26434142"]}],"years":{"from":1977,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=allo-Aromadendrene%5BAll%20Fields%5D"},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Allo-aromadendrene is a sesquiterpenoid, a type of aromatic molecule that helps give certain plants their complex, earthy, and woody scents. You are most likely to encounter it when smelling the essential oils of aromatic herbs or tropical trees.","found_in":"It has been identified in the essential oils of white wormwood (Artemisia herba-alba), as well as in highly prized aromatics like agarwood and various tropical plants.","why_researchers_care":"Researchers are drawn to allo-aromadendrene because it is a key component in several biologically active essential oils traditionally used around the world. They are actively exploring its potential to act as an antioxidant and to fend off microbes and fungi. The strongest evidence so far comes from early laboratory and animal studies (Oxford level 5), where scientists are mapping out exactly how this molecule interacts with cellular defenses and pathogens.","structure_function":[{"claim_id":"antioxidant","statement":"Early laboratory work points toward allo-aromadendrene's potential to support cellular defenses against oxidative stress.","evidence_level":"none_found","basis":"This rests on 7 papers, including early animal and in vitro models.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":7},{"claim_id":"antimicrobial","statement":"It is being studied for its ability to support the body's natural defenses against certain bacteria and fungi.","evidence_level":"none_found","basis":"This is based on 5 papers exploring its effects in laboratory and animal models.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":5},{"claim_id":"insect","statement":"Early animal work suggests it may have properties that help repel insects.","evidence_level":"none_found","basis":"This rests on 2 animal studies evaluating its use as a natural botanical repellent.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":2}],"hypothesized_benefits":[{"claim_id":"cancer","area":"Cellular Health","hypothesis":"Researchers are exploring whether allo-aromadendrene can influence cell life cycles, particularly in abnormal cells. If this bears out, it could help explain the bioactivity of agarwood and other traditional extracts.","evidence_level":"none_found","paper_count":2,"study_to_test_it":"A controlled in vitro study isolating allo-aromadendrene to measure its specific cytotoxicity and mechanism of action on human tumor cell lines over 48 hours, followed by a murine xenograft model to observe systemic effects.","eco":null,"oxford":null,"evidence_lines":[]},{"claim_id":"anti-inflammatory","area":"Inflammatory Response","hypothesis":"Early animal work points toward a potential role in modulating inflammation. Researchers want to know if it can help soothe tissue responses to stress or injury.","evidence_level":"none_found","paper_count":1,"study_to_test_it":"A randomized, placebo-controlled animal study measuring specific inflammatory cytokines after exposure to an inflammatory trigger, comparing allo-aromadendrene to a known anti-inflammatory over a 14-day period.","eco":null,"oxford":null,"evidence_lines":[]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"The best evidence so far consists of preclinical laboratory and animal work (Oxford level 5); formal human clinical trials have not yet been established."},"summary":null,"evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 0.08–0.41% of total volatiles (0.016–0.082mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=allo-Aromadendrene"},"is_terpenoid":true}
+{
+  "name": "allo-Aromadendrene",
+  "id": "allo-aromadendrene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 42608158,
+    "title": "Allo-Aromadendrene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1CCC2C1C3C(C3(C)C)CCC2=C",
+    "inchikey": "ITYNGVSTWVVPIC-LRUBOHGLSA-N",
+    "iupac_name": "(4aS,7R,7aR)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",
+    "image": "data/molecules/images/allo-aromadendrene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/42608158",
+    "description": "Allo-Aromadendrene is a sesquiterpenoid.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:166670"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/42608158/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 36,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=allo-Aromadendrene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "37616214",
+        "title": "Exploring the chemical composition, in vitro and in silico study of the anticandidal properties of annonaceae species essential oils from the Amazon",
+        "journal": "PLoS One",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37616214/"
+      },
+      {
+        "pmid": "28536059",
+        "title": "Current state of knowledge on the traditional uses, phytochemistry, and pharmacology of the genus Hymenaea",
+        "journal": "J Ethnopharmacol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28536059/"
+      },
+      {
+        "pmid": "40733254",
+        "title": "Compositional Variability of Essential Oils and Their Bioactivity in Native and Invasive Erigeron Species",
+        "journal": "Molecules",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40733254/"
+      },
+      {
+        "pmid": "36650708",
+        "title": "Chemical composition and antioxidant activity of the essential oil of Renealmia alpinia (Rottb.) Maas",
+        "journal": "Nat Prod Res",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36650708/"
+      },
+      {
+        "pmid": "33867898",
+        "title": "Brazilian essential oils as source for the discovery of new anti-COVID-19 drug: a review guided by in silico study",
+        "journal": "Phytochem Rev",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33867898/"
+      },
+      {
+        "pmid": "39509364",
+        "title": "Chemical profiling and cytotoxicity screening of agarwood essential oil (Aquilaria sinensis) in brine shrimp nauplii and cancer cell lines",
+        "journal": "PLoS One",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39509364/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Artemisia herba-alba",
+        "id": "artemisia-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      },
+      {
+        "name": "Seriphidium herba-alba",
+        "id": "seriphidium-herba-alba",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Seriphidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.ARABJC.2012.04.042"
+        ]
+      }
+    ],
+    "organism_count": 2,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0159393"
+  },
+  "research": {
+    "total": 36,
+    "sampled": 36,
+    "designs": {
+      "review": 4,
+      "other": 22,
+      "human": 3,
+      "in_vitro": 2,
+      "animal": 5
+    },
+    "topics": [
+      {
+        "term": "Antioxidants",
+        "papers": 7
+      },
+      {
+        "term": "Annonaceae",
+        "papers": 3
+      },
+      {
+        "term": "Anti-Infective Agents",
+        "papers": 3
+      },
+      {
+        "term": "Azulenes",
+        "papers": 3
+      },
+      {
+        "term": "Phytochemicals",
+        "papers": 2
+      },
+      {
+        "term": "Cell Line, Tumor",
+        "papers": 2
+      },
+      {
+        "term": "Bacteria",
+        "papers": 2
+      },
+      {
+        "term": "Fungi",
+        "papers": 2
+      },
+      {
+        "term": "Microbial Sensitivity Tests",
+        "papers": 2
+      },
+      {
+        "term": "Cholinesterase Inhibitors",
+        "papers": 2
+      },
+      {
+        "term": "Italy",
+        "papers": 2
+      },
+      {
+        "term": "Herbicides",
+        "papers": 2
+      },
+      {
+        "term": "Cistus",
+        "papers": 2
+      },
+      {
+        "term": "Insecticides",
+        "papers": 2
+      }
+    ],
+    "claims": [
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 7,
+        "designs": {
+          "review": 1,
+          "other": 2,
+          "human": 1,
+          "in_vitro": 1,
+          "animal": 2
+        },
+        "pmids": [
+          "40733254",
+          "36650708",
+          "28332760",
+          "31298500",
+          "26434142",
+          "23472480",
+          "21815437"
+        ]
+      },
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 5,
+        "designs": {
+          "in_vitro": 2,
+          "animal": 2,
+          "other": 1
+        },
+        "pmids": [
+          "27033169",
+          "31298500",
+          "26434142",
+          "24273874",
+          "21815437"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 2,
+        "designs": {
+          "human": 2
+        },
+        "pmids": [
+          "39509364",
+          "28332760"
+        ]
+      },
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 2,
+        "designs": {
+          "animal": 2
+        },
+        "pmids": [
+          "18566831",
+          "21815437"
+        ]
+      },
+      {
+        "id": "anti-inflammatory",
+        "label": "Anti-inflammatory",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "pmids": [
+          "26434142"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1977,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=allo-Aromadendrene%5BAll%20Fields%5D"
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Allo-aromadendrene is a sesquiterpenoid, a type of aromatic molecule built from three isoprene units that gives many plant essential oils their complex, earthy character. You are most likely to encounter it in the fragrant oils of desert wormwoods or the rich, woody scent of agarwood.",
+    "found_in": "It is naturally produced by desert plants like white wormwood (Artemisia herba-alba), and is frequently identified in the essential oils of tropical trees and aromatic herbs.",
+    "why_researchers_care": "Researchers are drawn to allo-aromadendrene because it is a recurring player in highly bioactive essential oils, from Amazonian botanicals to prized agarwood. They are exploring its potential to fight oxidative stress and microbial threats, trying to understand how this molecule contributes to the traditional uses of the plants that produce it. Currently, the evidence base is primarily exploratory, relying on early lab and animal models rather than formal clinical trials.",
+    "structure_function": [
+      {
+        "claim_id": "antioxidant",
+        "statement": "Early work points toward potential antioxidant properties.",
+        "evidence_level": "none_found",
+        "basis": "Based on 7 exploratory papers, including early animal and lab models.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 7
+      },
+      {
+        "claim_id": "antimicrobial",
+        "statement": "May support defenses against certain bacterial and fungal strains.",
+        "evidence_level": "none_found",
+        "basis": "Rests on 5 papers testing microbial sensitivity in vitro and in animal models.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 5
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "statement": "Is being studied for potential anti-inflammatory effects.",
+        "evidence_level": "none_found",
+        "basis": "Based on a single early animal study.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "cancer",
+        "area": "Oncology",
+        "hypothesis": "Researchers are exploring whether allo-aromadendrene's cytotoxicity in lab settings could translate into targeted actions against certain tumor cell lines.",
+        "evidence_level": "none_found",
+        "paper_count": 2,
+        "study_to_test_it": "A controlled in vivo animal study using a xenograft tumor model to measure tumor growth inhibition and systemic toxicity over 8 weeks.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": []
+      },
+      {
+        "claim_id": "insect",
+        "area": "Pest Control",
+        "hypothesis": "Early work points toward its potential use as a natural insect repellent or agricultural biopesticide.",
+        "evidence_level": "none_found",
+        "paper_count": 2,
+        "study_to_test_it": "A controlled behavioral assay in mosquitoes or agricultural pests comparing allo-aromadendrene to standard repellents like DEET over a 24-hour period.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": []
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "The current evidence base is entirely exploratory, consisting of early lab and animal research with no formal clinical trials established yet."
+  },
+  "summary": null,
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 0.08–0.41% of total volatiles (0.016–0.082mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=allo-Aromadendrene"
+  },
+  "is_terpenoid": true
+}

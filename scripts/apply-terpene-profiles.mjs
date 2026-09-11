@@ -87,6 +87,7 @@ for (const product of data.products) {
     const backing = [];
     for (const compound of listed) {
       const record = moleculeRecords.get(compound.id);
+      if (!record?.is_terpenoid) continue; // the receipts are for terpenes; ethanol and esters are not the claim
       const claims = (record?.research?.claims || []).filter((c) => spec.areas.includes(c.id));
       if (!claims.length) continue;
       const lines = claims.flatMap((c) => c.evidence_lines || []);

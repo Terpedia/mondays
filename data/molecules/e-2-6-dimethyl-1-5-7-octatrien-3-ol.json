@@ -1,1 +1,106 @@
-{"name":"(E)-2,6-Dimethyl-1,5,7-octatrien-3-ol","id":"e-2-6-dimethyl-1-5-7-octatrien-3-ol","formula":"C10H16O","pubchem":{"cid":119847,"title":"2,6-Dimethyl-1,5,7-octatrien-3-ol","formula":"C10H16O","molecular_weight":152.23,"smiles":"CC(=C)C(CC=C(C)C=C)O","inchikey":"TYDDWHVJHGIJCW-UHFFFAOYSA-N","iupac_name":"2,6-dimethylocta-1,5,7-trien-3-ol","image":"data/molecules/images/e-2-6-dimethyl-1-5-7-octatrien-3-ol.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/119847","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/119847/PNG"},"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Ledum palustre","id":"ledum-palustre","kingdom":"Plantae","phylum":"Tracheophyta","family":"Ericaceae","genus":"Ledum","taxonomy_source":"iNaturalist","reference_count":2,"references":["10.3891/ACTA.CHEM.SCAND.27-0551","10.1007/BF00566074"]},{"name":"Rhododendron groenlandicum","id":"rhododendron-groenlandicum","kingdom":"Plantae","phylum":"Streptophyta","family":"Ericaceae","genus":"Rhododendron","taxonomy_source":"NCBI","reference_count":2,"references":["10.3891/ACTA.CHEM.SCAND.27-0551","10.1007/BF00566074"]},{"name":"Rhododendron tomentosum","id":"rhododendron-tomentosum","kingdom":"Plantae","phylum":"Streptophyta","family":"Ericaceae","genus":"Rhododendron","taxonomy_source":"NCBI","reference_count":2,"references":["10.3891/ACTA.CHEM.SCAND.27-0551","10.1007/BF00566074"]}],"organism_count":3,"reference_count":2,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0260545"},"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 0.06–0.09% of total volatiles (0.012–0.018mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=(E)-2%2C6-Dimethyl-1%2C5%2C7-octatrien-3-ol"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"(E)-2,6-Dimethyl-1,5,7-octatrien-3-ol is a monoterpene alcohol, a class of aromatic molecules often responsible for the distinctive scents of wild plants. While its specific aroma profile isn't widely documented, molecules of this shape typically contribute herbal, woody, or floral notes to the plants that produce them. A person is most likely to encounter it when foraging or brewing traditional wild herbal teas.","found_in":"This compound has been identified in the leaves of aromatic bog shrubs, specifically several species of Labrador tea including Rhododendron groenlandicum and Rhododendron tomentosum (historically known as Ledum palustre).","why_researchers_care":"At present, this specific molecule remains an uncharted frontier in natural-product chemistry, with no dedicated studies in the current literature (Oxford level 5, no evidence). Future researchers might be drawn to it to better understand the complex chemical fingerprint and traditional uses of Labrador tea, but for now, its biological potential is a completely open question.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no published research evaluating the biological effects or potential benefits of this molecule."}}
+{
+  "name": "(E)-2,6-Dimethyl-1,5,7-octatrien-3-ol",
+  "id": "e-2-6-dimethyl-1-5-7-octatrien-3-ol",
+  "formula": "C10H16O",
+  "pubchem": {
+    "cid": 119847,
+    "title": "2,6-Dimethyl-1,5,7-octatrien-3-ol",
+    "formula": "C10H16O",
+    "molecular_weight": 152.23,
+    "smiles": "CC(=C)C(CC=C(C)C=C)O",
+    "inchikey": "TYDDWHVJHGIJCW-UHFFFAOYSA-N",
+    "iupac_name": "2,6-dimethylocta-1,5,7-trien-3-ol",
+    "image": "data/molecules/images/e-2-6-dimethyl-1-5-7-octatrien-3-ol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/119847",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/119847/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Ledum palustre",
+        "id": "ledum-palustre",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Ericaceae",
+        "genus": "Ledum",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 2,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.27-0551",
+          "10.1007/BF00566074"
+        ]
+      },
+      {
+        "name": "Rhododendron groenlandicum",
+        "id": "rhododendron-groenlandicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.27-0551",
+          "10.1007/BF00566074"
+        ]
+      },
+      {
+        "name": "Rhododendron tomentosum",
+        "id": "rhododendron-tomentosum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.3891/ACTA.CHEM.SCAND.27-0551",
+          "10.1007/BF00566074"
+        ]
+      }
+    ],
+    "organism_count": 3,
+    "reference_count": 2,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0260545"
+  },
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 0.06–0.09% of total volatiles (0.012–0.018mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=(E)-2%2C6-Dimethyl-1%2C5%2C7-octatrien-3-ol"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "A volatile monoterpene alcohol, (E)-2,6-dimethyl-1,5,7-octatrien-3-ol is one of the many aromatic molecules that give certain wild shrubs their distinctive, earthy scent. People are most likely to encounter it when brushing past or brewing traditional teas from wild marsh plants.",
+    "found_in": "It has been identified in several aromatic shrubs of the heather family, including wild rosemary (Ledum palustre) and bog Labrador tea (Rhododendron groenlandicum).",
+    "why_researchers_care": "While this specific molecule has not yet been the focus of dedicated pharmacological studies, researchers are interested in the complex chemical makeup of the traditional medicinal plants it inhabits. Currently, there is no formal evidence (Oxford level 5, none found) detailing its individual effects, but cataloging compounds like this helps scientists understand the full aromatic and chemical profile of wild botanicals.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published evidence (Oxford level 5) evaluating the health effects of this specific molecule."
+  }
+}

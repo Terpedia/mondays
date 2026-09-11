@@ -1,1 +1,44 @@
-{"name":"Caryophylla-4(12),8(13)-diene","id":"caryophylla-4-12-8-13-diene","formula":null,"pubchem":null,"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":null,"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 0.1–0.15% of total volatiles (0.02–0.03mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Caryophylla-4(12)%2C8(13)-diene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Caryophylla-4(12),8(13)-diene is a sesquiterpene, belonging to the caryophyllene family of aromatic plant molecules. While its chemical structure suggests it is a volatile compound that likely contributes to botanical scents, specific details about its aroma and where a person might encounter it in daily life are not yet cataloged.","found_in":"There are currently no specific familiar plants or foods mapped to this compound in our organism records.","why_researchers_care":"At this time, Caryophylla-4(12),8(13)-diene has not been the primary focus of documented research in our literature database, meaning there is no formal evidence (Oxford level 5, none found) to highlight. Future researchers may eventually explore it as part of broader profiling of plant volatiles, but for now, its specific biological potential remains an entirely open frontier.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no documented research or evidence level available for this molecule in the database."}}
+{
+  "name": "Caryophylla-4(12),8(13)-diene",
+  "id": "caryophylla-4-12-8-13-diene",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": null,
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 0.1–0.15% of total volatiles (0.02–0.03mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Caryophylla-4(12)%2C8(13)-diene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Caryophylla-4(12),8(13)-diene is a distinct chemical compound. Its specific sensory profile—what it smells or tastes like—and where a person might meet it in daily life are not yet documented in current records.",
+    "found_in": "There are currently no familiar plants or foods recorded as sources for this molecule.",
+    "why_researchers_care": "At present, Caryophylla-4(12),8(13)-diene has not yet drawn documented research attention in the available literature. There are no recorded studies or Oxford-level evidence to indicate what researchers might be exploring.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published evidence available for this compound."
+  }
+}

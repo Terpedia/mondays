@@ -1,0 +1,1100 @@
+{
+  "tile": "FOCUS",
+  "id": "focus",
+  "definition": "May support attention and mental clarity.",
+  "areas": [
+    "cognition"
+  ],
+  "sense": "alert",
+  "molecules": [
+    {
+      "id": "beta-caryophyllene",
+      "name": "β-Caryophyllene",
+      "papers": 5,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential role in supporting focus and memory, raising the question of whether it could protect cognitive function over time.",
+          "study": "The next step would be a phase 1 human clinical trial giving a standardized oral dose to healthy adults and measuring memory retention and attention span over several weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 15.11
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 14.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 9.01
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 17.29
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 3.84
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 2.78
+        }
+      ],
+      "pmids": [
+        "38542177",
+        "39653971",
+        "41167414",
+        "33530917",
+        "37558167"
+      ],
+      "score": 5.207
+    },
+    {
+      "id": "linalool",
+      "name": "Linalool",
+      "papers": 2,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "If animal findings bear out, linalool might play a role in supporting focus, memory, and overall cognitive performance.",
+          "study": "The next step is a human observational cohort study (Oxford level 2b) tracking dietary or environmental linalool exposure and correlating it with performance on standardized memory and attention tasks in healthy adults over a year.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 5.99
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.19
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 2.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 4.97
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.46
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.64
+        }
+      ],
+      "pmids": [
+        "41735175",
+        "39060318"
+      ],
+      "score": 2.55
+    },
+    {
+      "id": "limonene",
+      "name": "Limonene",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "If early findings bear out, limonene might play a role in supporting cognitive function and memory.",
+          "study": "The next step would be a human randomized controlled trial assessing cognitive performance metrics, such as memory recall and attention tasks, in adults taking a daily limonene supplement over several weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 13.84
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.91
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 19.03
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 10.11
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 9.71
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 5.88
+        }
+      ],
+      "pmids": [
+        "38932560"
+      ],
+      "score": 2.078
+    },
+    {
+      "id": "camphene",
+      "name": "Camphene",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Expert reviews hypothesize that camphene might support cognitive function, focus, and memory, possibly through its aromatic influence on the nervous system.",
+          "study": "A randomized, placebo-controlled human trial where participants are exposed to camphene via inhalation, followed by standardized cognitive and memory performance tests immediately and after several weeks of daily exposure.",
+          "evidence_level": "review_only"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.56
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.3
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.37
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.42
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.54
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.22
+        }
+      ],
+      "pmids": [
+        "32235333"
+      ],
+      "score": 0.308
+    },
+    {
+      "id": "valencene",
+      "name": "Valencene",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early animal work points toward a potential role in supporting focus and memory."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "If early animal findings bear out, valencene might interact with neurological pathways to support cognitive clarity and memory retention.",
+          "study": "A first-in-human randomized controlled trial (Oxford 1b) giving a standardized valencene dose to healthy adults and measuring cognitive performance and memory recall using standardized computer tasks over a 12-week period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.47
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.37
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.28
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.53
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.1
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.1
+        }
+      ],
+      "pmids": [
+        "32230815"
+      ],
+      "score": 0.295
+    },
+    {
+      "id": "isocaryophyllene",
+      "name": "Isocaryophyllene",
+      "papers": 3,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether this molecule's neuroprotective qualities translate to better focus and memory retention.",
+          "study": "A human clinical trial testing daily isocaryophyllene intake against a placebo, using standardized cognitive and memory recall tests over a three-month period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.13
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.09
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.18
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "38542177",
+        "31173795",
+        "39653971"
+      ],
+      "score": 0.229
+    },
+    {
+      "id": "alpha-bisabolol",
+      "name": "α-Bisabolol",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.29
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.29
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.07
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.25
+        }
+      ],
+      "pmids": [
+        "41412265"
+      ],
+      "score": 0.177
+    },
+    {
+      "id": "geraniol",
+      "name": "Geraniol",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "38517361"
+      ],
+      "score": 0.136
+    },
+    {
+      "id": "citronellol",
+      "name": "Citronellol",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.05
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.14
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "38688895"
+      ],
+      "score": 0.091
+    },
+    {
+      "id": "terpinen-4-ol",
+      "name": "Terpinen-4-ol",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether the aromatic properties of this terpene might support cognitive focus and memory retention during demanding tasks.",
+          "study": "A randomized, double-blind human trial where participants inhale a standardized dose of terpinen-4-ol before completing validated cognitive performance and memory recall tests.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.07
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.07
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.05
+        }
+      ],
+      "pmids": [
+        "12020736"
+      ],
+      "score": 0.07
+    },
+    {
+      "id": "beta-eudesmol",
+      "name": "β-Eudesmol",
+      "papers": 1,
+      "areas": [
+        "Focus and memory"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "16946588"
+      ],
+      "score": 0.047
+    }
+  ],
+  "molecules_with_research": 11,
+  "papers": 18,
+  "best_evidence": "human_observational",
+  "best_oxford": "2b",
+  "trials": [],
+  "products": [
+    {
+      "handle": "wild-things",
+      "name": "Wild Things",
+      "strain": "Animal Mints × Wild Strawberries",
+      "support": {
+        "tile": "FOCUS",
+        "definition": "May support attention and mental clarity.",
+        "areas": [
+          "cognition"
+        ],
+        "backing": [
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 14.08,
+            "mg": 2.82,
+            "papers": 5,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38542177",
+              "39653971",
+              "41167414",
+              "33530917",
+              "37558167"
+            ]
+          },
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 9.91,
+            "mg": 1.98,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38932560"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 9.19,
+            "mg": 1.84,
+            "papers": 2,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "41735175",
+              "39060318"
+            ]
+          },
+          {
+            "id": "valencene",
+            "name": "Valencene",
+            "percent": 0.37,
+            "mg": 0.074,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "32230815"
+            ]
+          },
+          {
+            "id": "camphene",
+            "name": "Camphene",
+            "percent": 0.3,
+            "mg": 0.06,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "32235333"
+            ]
+          },
+          {
+            "id": "alpha-bisabolol",
+            "name": "α-Bisabolol",
+            "percent": 0.29,
+            "mg": 0.058,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "none_found",
+            "eco": "ECO:0000205",
+            "oxford": null,
+            "pmids": [
+              "41412265"
+            ]
+          },
+          {
+            "id": "citronellol",
+            "name": "Citronellol",
+            "percent": 0.14,
+            "mg": 0.028,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38688895"
+            ]
+          },
+          {
+            "id": "geraniol",
+            "name": "Geraniol",
+            "percent": 0.14,
+            "mg": 0.028,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "38517361"
+            ]
+          },
+          {
+            "id": "isocaryophyllene",
+            "name": "Isocaryophyllene",
+            "percent": 0.08,
+            "mg": 0.016,
+            "papers": 3,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38542177",
+              "31173795",
+              "39653971"
+            ]
+          },
+          {
+            "id": "terpinen-4-ol",
+            "name": "Terpinen-4-ol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "12020736"
+            ]
+          },
+          {
+            "id": "beta-eudesmol",
+            "name": "β-Eudesmol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "16946588"
+            ]
+          }
+        ],
+        "compounds_with_research": 11,
+        "papers": 18,
+        "share_of_profile": 34.6,
+        "best_evidence": "human_observational",
+        "best_oxford": "2b"
+      }
+    },
+    {
+      "handle": "go-go-bananas",
+      "name": "Go-Go Bananas",
+      "strain": "Sour Diesel × Banana Cream",
+      "support": {
+        "tile": "FOCUS",
+        "definition": "May support attention and mental clarity.",
+        "areas": [
+          "cognition"
+        ],
+        "backing": [
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 19.03,
+            "mg": 3.81,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38932560"
+            ]
+          },
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 9.01,
+            "mg": 1.8,
+            "papers": 5,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38542177",
+              "39653971",
+              "41167414",
+              "33530917",
+              "37558167"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 2.32,
+            "mg": 0.46,
+            "papers": 2,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "41735175",
+              "39060318"
+            ]
+          },
+          {
+            "id": "camphene",
+            "name": "Camphene",
+            "percent": 0.37,
+            "mg": 0.074,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "32235333"
+            ]
+          },
+          {
+            "id": "valencene",
+            "name": "Valencene",
+            "percent": 0.28,
+            "mg": 0.056,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "32230815"
+            ]
+          },
+          {
+            "id": "isocaryophyllene",
+            "name": "Isocaryophyllene",
+            "percent": 0.09,
+            "mg": 0.018,
+            "papers": 3,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38542177",
+              "31173795",
+              "39653971"
+            ]
+          },
+          {
+            "id": "alpha-bisabolol",
+            "name": "α-Bisabolol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "none_found",
+            "eco": "ECO:0000205",
+            "oxford": null,
+            "pmids": [
+              "41412265"
+            ]
+          }
+        ],
+        "compounds_with_research": 7,
+        "papers": 14,
+        "share_of_profile": 31.2,
+        "best_evidence": "animal",
+        "best_oxford": "5"
+      }
+    },
+    {
+      "handle": "the-daily-commute",
+      "name": "The Daily Commute",
+      "strain": "Pineapple Express × Kona Pineapple",
+      "support": {
+        "tile": "FOCUS",
+        "definition": "May support attention and mental clarity.",
+        "areas": [
+          "cognition"
+        ],
+        "backing": [
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 5.88,
+            "mg": 1.18,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38932560"
+            ]
+          },
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 2.78,
+            "mg": 0.56,
+            "papers": 5,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38542177",
+              "39653971",
+              "41167414",
+              "33530917",
+              "37558167"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 0.64,
+            "mg": 0.128,
+            "papers": 2,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "41735175",
+              "39060318"
+            ]
+          },
+          {
+            "id": "camphene",
+            "name": "Camphene",
+            "percent": 0.22,
+            "mg": 0.044,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "32235333"
+            ]
+          },
+          {
+            "id": "valencene",
+            "name": "Valencene",
+            "percent": 0.1,
+            "mg": 0.02,
+            "papers": 1,
+            "areas": [
+              "Focus and memory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "32230815"
+            ]
+          }
+        ],
+        "compounds_with_research": 5,
+        "papers": 10,
+        "share_of_profile": 9.6,
+        "best_evidence": "animal",
+        "best_oxford": "5"
+      }
+    }
+  ],
+  "summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_means": "When a product claims to support focus, it refers to that clear, dialed-in feeling where distractions fade and attention holds steady. For readers, this means the potential to stay on task and maintain mental clarity during demanding work or study sessions.",
+    "physiology": "The physiology of focus relies on complex neural networks that regulate attention and memory. Researchers are exploring how certain terpenes might interact with these systems, such as β-caryophyllene's affinity for the cannabinoid receptor 2 (CB2) and PPAR-alpha, which are involved in cellular energy and neuroprotection. Other molecules like limonene and valencene interact with Nrf2, a protein that helps manage oxidative stress. Additionally, scientists are investigating whether linalool might support cognitive clarity by interacting with monoaminergic pathways in the brain.",
+    "the_science": "The scientific literature exploring these molecules for cognition includes 18 papers spanning 11 different compounds. The strongest evidence currently sits at Oxford level 2b, human observational, which has detected geraniol in studies of cognitive function. The bulk of the remaining research consists of animal models and scientific reviews investigating how these terpenes might protect neural pathways and support memory retention.",
+    "leading_molecules": [
+      {
+        "id": "geraniol",
+        "name": "Geraniol",
+        "why": "Geraniol holds the strongest evidence level for this claim, with human observational data exploring its role in cognition and known interactions with estrogen receptors and lipoxygenase pathways.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "beta-caryophyllene",
+        "name": "β-Caryophyllene",
+        "why": "Backed by five papers and a strong presence in focus-oriented products, early animal work points toward its potential to protect neural pathways via CB2 and PPAR-alpha receptors.",
+        "evidence_level": "animal",
+        "oxford": "5",
+        "eco": "ECO:0007120"
+      },
+      {
+        "id": "linalool",
+        "name": "Linalool",
+        "why": "Scientists are investigating whether this terpene might support focus and memory by interacting with monoaminergic pathways in the brain.",
+        "evidence_level": "animal",
+        "oxford": "5",
+        "eco": "ECO:0007120"
+      },
+      {
+        "id": "limonene",
+        "name": "Limonene",
+        "why": "Researchers are curious if limonene might support focus and memory by interacting with Nrf2 to manage cellular stress along neural pathways.",
+        "evidence_level": "animal",
+        "oxford": "5",
+        "eco": "ECO:0007120"
+      },
+      {
+        "id": "valencene",
+        "name": "Valencene",
+        "why": "Early animal research points toward a possible role in supporting focus and memory, with a broad receptor profile that includes Nrf2 and various cytochrome P450 enzymes.",
+        "evidence_level": "animal",
+        "oxford": "5",
+        "eco": "ECO:0007120"
+      }
+    ],
+    "open_questions": [
+      {
+        "question": "Could β-caryophyllene reliably support memory retention and executive function in humans?",
+        "study_to_settle_it": "A Phase 1/2 human clinical trial administering a standardized oral dose to healthy older adults, measuring memory recall and executive function over a 12-week period."
+      },
+      {
+        "question": "Does linalool's interaction with monoaminergic pathways translate to measurable improvements in focus?",
+        "study_to_settle_it": "A randomized, placebo-controlled human trial administering a controlled dose of linalool to healthy adults and measuring cognitive performance and memory retention over a 12-week period."
+      }
+    ],
+    "evidence_at_a_glance": "The strongest evidence for this claim is Oxford level 2b, human observational."
+  }
+}

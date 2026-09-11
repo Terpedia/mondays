@@ -1,1 +1,80 @@
-{"name":"para-Camphorene","id":"para-camphorene","formula":"C20H32","pubchem":{"cid":101750,"title":"alpha-Camphorene","formula":"C20H32","molecular_weight":272.5,"smiles":"CC(=CCCC1=CCC(CC1)C(=C)CCC=C(C)C)C","inchikey":"GJYJYFHBOBUTBY-UHFFFAOYSA-N","iupac_name":"4-(6-methylhepta-1,5-dien-2-yl)-1-(4-methylpent-3-enyl)cyclohexene","image":"data/molecules/images/para-camphorene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/101750","description":"Alpha-camphorene is a cycloalkene that is cyclohexene substituted by 2-methylpent-2-en-5-yl and 6-methylhepta-1,5-dien-2-yl groups at positions 1 and 4, respectively. It is a diterpene isolated from several plant species. It has a role as a volatile oil component. It is a cycloalkene and a diterpene.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:191730"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/101750/PNG"},"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Pistacia lentiscus","id":"pistacia-lentiscus","kingdom":"Plantae","phylum":"Streptophyta","family":"Anacardiaceae","genus":"Pistacia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1002/FFJ.2730060406"]}],"organism_count":1,"reference_count":1,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0207532"},"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.07% of total volatiles (0.014mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=para-Camphorene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"para-Camphorene is a diterpene, a type of large, volatile molecule that plants use to build their essential oils and resins. As a cycloalkene, it has a complex ring structure that contributes to the unique aromatic profiles of the plants that produce it.","found_in":"It has been identified in the essential oil of Pistacia lentiscus, the Mediterranean shrub famous for producing aromatic mastic resin.","why_researchers_care":"While diterpenes as a class are famous for their diverse biological activities, para-camphorene itself remains a chemical curiosity. Researchers are currently interested in its role as a structural building block in plant volatile oils, though no formal studies have yet investigated its specific effects in humans or animals (Oxford level 5, none found). It represents an untapped area of natural-product chemistry waiting to be explored.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no published research evaluating the biological or health effects of para-camphorene (Oxford level 5, none found)."}}
+{
+  "name": "para-Camphorene",
+  "id": "para-camphorene",
+  "formula": "C20H32",
+  "pubchem": {
+    "cid": 101750,
+    "title": "alpha-Camphorene",
+    "formula": "C20H32",
+    "molecular_weight": 272.5,
+    "smiles": "CC(=CCCC1=CCC(CC1)C(=C)CCC=C(C)C)C",
+    "inchikey": "GJYJYFHBOBUTBY-UHFFFAOYSA-N",
+    "iupac_name": "4-(6-methylhepta-1,5-dien-2-yl)-1-(4-methylpent-3-enyl)cyclohexene",
+    "image": "data/molecules/images/para-camphorene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/101750",
+    "description": "Alpha-camphorene is a cycloalkene that is cyclohexene substituted by 2-methylpent-2-en-5-yl and 6-methylhepta-1,5-dien-2-yl groups at positions 1 and 4, respectively. It is a diterpene isolated from several plant species. It has a role as a volatile oil component. It is a cycloalkene and a diterpene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:191730"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/101750/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Pistacia lentiscus",
+        "id": "pistacia-lentiscus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Anacardiaceae",
+        "genus": "Pistacia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730060406"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0207532"
+  },
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.07% of total volatiles (0.014mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=para-Camphorene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "para-Camphorene is a large, volatile molecule known as a diterpene. As a component of plant essential oils, it contributes to the complex, earthy aromas of the botanicals that produce it.",
+    "found_in": "It has been identified in the mastic tree (Pistacia lentiscus), an evergreen shrub famous for producing an aromatic resin used in Mediterranean cuisine and traditional practices.",
+    "why_researchers_care": "Because it is a diterpene, a class of molecules often prized for their biological activity, para-camphorene is of structural interest to natural-product chemists. However, it has not yet been the focus of dedicated pharmacological or clinical research, leaving its specific effects in the body largely unexplored. Currently, there is no formal evidence evaluating its potential health benefits.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There are currently no published studies evaluating the health effects or biological activity of this molecule."
+  }
+}

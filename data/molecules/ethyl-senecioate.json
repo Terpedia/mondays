@@ -1,1 +1,217 @@
-{"name":"Ethyl senecioate","id":"ethyl-senecioate","formula":"C7H12O2","pubchem":{"cid":12516,"title":"Ethyl 3,3-dimethylacrylate","formula":"C7H12O2","molecular_weight":128.17,"smiles":"CCOC(=O)C=C(C)C","inchikey":"UTXVCHVLDOLVPC-UHFFFAOYSA-N","iupac_name":"ethyl 3-methylbut-2-enoate","image":"data/molecules/images/ethyl-senecioate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/12516","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12516/PNG"},"targets":[],"diseases":[],"literature":{"total":1,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Ethyl%20senecioate%5BAll%20Fields%5D","papers":[{"pmid":"14984083","title":"A new insecticidal protolimonoid from Aegle marmelos","journal":"Nat Prod Res","year":"2004","url":"https://pubmed.ncbi.nlm.nih.gov/14984083/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Vaccinium angustifolium","id":"vaccinium-angustifolium","kingdom":"Plantae","phylum":"Streptophyta","family":"Ericaceae","genus":"Vaccinium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00085A053"]}],"organism_count":1,"reference_count":1,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0017512"},"research":{"total":1,"sampled":1,"designs":{"animal":1},"topics":[{"term":"Aegle","papers":1},{"term":"Biological Assay","papers":1},{"term":"Coleoptera","papers":1},{"term":"Houseflies","papers":1},{"term":"Insecticides","papers":1},{"term":"Limonins","papers":1},{"term":"Plant Bark","papers":1},{"term":"Spectrum Analysis","papers":1},{"term":"Triterpenes","papers":1}],"claims":[{"id":"insect","label":"Insect repellent","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["14984083"]}],"pmids":["14984083"]}],"years":{"from":2004,"to":2004},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Ethyl%20senecioate%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 0.1–0.14% of total volatiles (0.02–0.028mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Ethyl%20senecioate"},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Ethyl senecioate is a naturally occurring organic ester. As a volatile compound produced by plants, it is part of the complex chemical matrix that people encounter when eating certain fresh fruits.","found_in":"It has been reported in the lowbush blueberry (Vaccinium angustifolium).","why_researchers_care":"Researchers are drawn to ethyl senecioate to understand its ecological function, particularly its potential as a natural pest deterrent. Early bench and animal research (Oxford level 5) has detected it in plant extracts being tested against beetles and houseflies. Scientists are exploring whether molecules like this could eventually inform the design of new, plant-derived insecticides.","structure_function":[{"claim_id":"insect","statement":"Early work points toward a potential role in natural insect deterrence.","evidence_level":"animal","basis":"This rests on a single laboratory study evaluating the insecticidal properties of plant extracts.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"insect","area":"Botanical Insecticide","hypothesis":"Researchers are exploring whether ethyl senecioate contributes to the insect-repelling power of certain plants. If this bears out, it could help identify new, naturally derived ways to manage agricultural pests and houseflies.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A controlled greenhouse study applying isolated ethyl senecioate to crop plants to measure its efficacy, optimal concentration, and duration of action against specific beetle species over a four-week period.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"The best evidence so far is early bench and animal research (Oxford level 5) investigating its effects on insects."}}
+{
+  "name": "Ethyl senecioate",
+  "id": "ethyl-senecioate",
+  "formula": "C7H12O2",
+  "pubchem": {
+    "cid": 12516,
+    "title": "Ethyl 3,3-dimethylacrylate",
+    "formula": "C7H12O2",
+    "molecular_weight": 128.17,
+    "smiles": "CCOC(=O)C=C(C)C",
+    "inchikey": "UTXVCHVLDOLVPC-UHFFFAOYSA-N",
+    "iupac_name": "ethyl 3-methylbut-2-enoate",
+    "image": "data/molecules/images/ethyl-senecioate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/12516",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/12516/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 1,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Ethyl%20senecioate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "14984083",
+        "title": "A new insecticidal protolimonoid from Aegle marmelos",
+        "journal": "Nat Prod Res",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14984083/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Vaccinium angustifolium",
+        "id": "vaccinium-angustifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Vaccinium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00085A053"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0017512"
+  },
+  "research": {
+    "total": 1,
+    "sampled": 1,
+    "designs": {
+      "animal": 1
+    },
+    "topics": [
+      {
+        "term": "Aegle",
+        "papers": 1
+      },
+      {
+        "term": "Biological Assay",
+        "papers": 1
+      },
+      {
+        "term": "Coleoptera",
+        "papers": 1
+      },
+      {
+        "term": "Houseflies",
+        "papers": 1
+      },
+      {
+        "term": "Insecticides",
+        "papers": 1
+      },
+      {
+        "term": "Limonins",
+        "papers": 1
+      },
+      {
+        "term": "Plant Bark",
+        "papers": 1
+      },
+      {
+        "term": "Spectrum Analysis",
+        "papers": 1
+      },
+      {
+        "term": "Triterpenes",
+        "papers": 1
+      }
+    ],
+    "claims": [
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "14984083"
+            ]
+          }
+        ],
+        "pmids": [
+          "14984083"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2004,
+      "to": 2004
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Ethyl%20senecioate%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 0.1–0.14% of total volatiles (0.02–0.028mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Ethyl%20senecioate"
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Ethyl senecioate is a natural ester, a family of compounds that typically give fruits and flowers their distinctive aromas. People most likely encounter this molecule in their daily lives when eating fresh, wild berries.",
+    "found_in": "This compound has been identified in Vaccinium angustifolium, commonly known as the wild lowbush blueberry.",
+    "why_researchers_care": "Researchers are drawn to ethyl senecioate for its potential role in natural pest control. Early bench and animal research (Oxford level 5) is exploring whether compounds like this can act as effective insect repellents or insecticides. If this bears out, it could offer new, plant-derived ways to manage agricultural pests or household insects without relying on synthetic chemicals.",
+    "structure_function": [
+      {
+        "claim_id": "insect",
+        "statement": "Early work points toward ethyl senecioate having properties that may support natural insect deterrence.",
+        "evidence_level": "animal",
+        "basis": "This rests on a single animal-model study evaluating its insecticidal potential.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "insect",
+        "area": "Insect repellent",
+        "hypothesis": "Researchers are exploring whether ethyl senecioate can effectively repel or eliminate pests like houseflies and beetles, which could eventually lead to new botanical insecticides or personal repellents.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A controlled human volunteer study (arm-in-cage test) applying a topical dilution of ethyl senecioate to measure the time until first insect landing compared to a standard repellent like DEET over a 6-hour period.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is bench and animal research (Oxford level 5) focusing on its effects against insects."
+  }
+}

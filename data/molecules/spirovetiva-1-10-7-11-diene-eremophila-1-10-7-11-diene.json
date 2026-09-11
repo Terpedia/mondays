@@ -1,1 +1,44 @@
-{"name":"Spirovetiva-1(10),7(11)-diene + Eremophila-1(10),7(11)-diene","id":"spirovetiva-1-10-7-11-diene-eremophila-1-10-7-11-diene","formula":null,"pubchem":null,"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":null,"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.11% of total volatiles (0.022mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Spirovetiva-1(10)%2C7(11)-diene%20%2B%20Eremophila-1(10)%2C7(11)-diene"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Spirovetiva-1(10),7(11)-diene and Eremophila-1(10),7(11)-diene are a pair of complex hydrocarbon molecules. While their chemical names suggest they belong to the diverse and aromatic family of natural terpenes, specific details about their scent, taste, and where a person might encounter them in daily life are not yet mapped in our current records.","found_in":"Specific plant or food sources for this exact combination of molecules have not yet been recorded in our database.","why_researchers_care":"This specific pairing of molecules currently sits at the frontier of natural product chemistry, with no formal studies or evidence levels recorded in the current literature. Researchers are often drawn to unmapped compounds like these to discover novel biological interactions, though for now, their potential remains an open mystery waiting to be explored.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no published evidence or literature recorded for this specific molecular combination."}}
+{
+  "name": "Spirovetiva-1(10),7(11)-diene + Eremophila-1(10),7(11)-diene",
+  "id": "spirovetiva-1-10-7-11-diene-eremophila-1-10-7-11-diene",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": null,
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.11% of total volatiles (0.022mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Spirovetiva-1(10)%2C7(11)-diene%20%2B%20Eremophila-1(10)%2C7(11)-diene"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Spirovetiva-1(10),7(11)-diene and Eremophila-1(10),7(11)-diene are a pair of complex terpene molecules. While many terpenes are responsible for the rich aromas of the natural world, this specific combination currently lacks documented sensory profiles or common dietary sources. It stands as a structural curiosity waiting to be fully characterized by natural product chemists.",
+    "found_in": "There are currently no familiar plants or foods recorded in our database that are known to produce this specific molecular combination.",
+    "why_researchers_care": "At present, this specific combination of molecules has not yet drawn documented attention in the primary research literature, meaning there is no Oxford-graded evidence to report. As an unstudied pair, it represents a blank slate for future natural product chemists to explore. Researchers may eventually investigate these terpenes to understand their potential ecological roles or biological activities.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published evidence or clinical data available for this specific molecular combination."
+  }
+}

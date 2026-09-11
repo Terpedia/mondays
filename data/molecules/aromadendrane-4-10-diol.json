@@ -1,1 +1,614 @@
-{"name":"Aromadendrane-4,10-diol","id":"aromadendrane-4-10-diol","formula":"C15H26O2","pubchem":{"cid":3411815,"title":"Aromadendrane-4,10-diol","formula":"C15H26O2","molecular_weight":238.37,"smiles":"CC1(C2C1C3C(CCC3(C)O)C(CC2)(C)O)C","inchikey":"DWNPMJOWAWGIMM-UHFFFAOYSA-N","iupac_name":"1,1,4,7-tetramethyl-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulene-4,7-diol","image":"data/molecules/images/aromadendrane-4-10-diol.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/3411815","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3411815/PNG"},"targets":[],"diseases":[],"literature":{"total":9,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Aromadendrane-4%2C10-diol%5BAll%20Fields%5D","papers":[{"pmid":"33982521","title":"[A new sesquiterpene from Chloranthus henryi]","journal":"Zhongguo Zhong Yao Za Zhi","year":"2021","url":"https://pubmed.ncbi.nlm.nih.gov/33982521/"},{"pmid":"22423284","title":"Carbamate derivatives and sesquiterpenoids from the South China Sea gorgonian Melitodes squamata","journal":"Beilstein J Org Chem","year":"2012","url":"https://pubmed.ncbi.nlm.nih.gov/22423284/"},{"pmid":"24692360","title":"Gold(I) as an artificial cyclase: short stereodivergent syntheses of (-)-epiglobulol and (-)-4β,7α- and (-)-4α,7α-aromadendranediols","journal":"Angew Chem Int Ed Engl","year":"2014","url":"https://pubmed.ncbi.nlm.nih.gov/24692360/"},{"pmid":"26593432","title":"Inhibitory effect of sesquiterpene lactones and the sesquiterpene alcohol aromadendrane-4β,10α-diol on memory impairment in a mouse model of Alzheimer","journal":"Eur J Pharmacol","year":"2015","url":"https://pubmed.ncbi.nlm.nih.gov/26593432/"},{"pmid":"23544451","title":"Nudibaccatumone, a trimer comprising a phenylpropanoid and two sesquiterpene moieties from Piper nudibaccatum","journal":"J Nat Prod","year":"2013","url":"https://pubmed.ncbi.nlm.nih.gov/23544451/"},{"pmid":"27840407","title":"The natural product 4,10-aromadendranediol induces neuritogenesis in neuronal cells in vitro through activation of the ERK pathway","journal":"Acta Pharmacol Sin","year":"2017","url":"https://pubmed.ncbi.nlm.nih.gov/27840407/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Vitex agnus-castus","id":"vitex-agnus-castus","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Vitex","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/J.FITOTE.2010.12.003","10.1248/CPB.57.1132"]},{"name":"Acorus calamus var. angustatus","id":"acorus-calamus-var-angustatus","kingdom":"Plantae","phylum":"Streptophyta","family":"Acoraceae","genus":"Acorus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10286020.2010.490522"]},{"name":"Aglaia grandis","id":"aglaia-grandis","kingdom":"Plantae","phylum":"Streptophyta","family":"Meliaceae","genus":"Aglaia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(99)00519-1"]},{"name":"Ambrosia peruviana","id":"ambrosia-peruviana","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Ambrosia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)82350-X"]},{"name":"Baccharis gaudichaudiana","id":"baccharis-gaudichaudiana","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Baccharis","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1021/NP050081I"]},{"name":"Calea sickii","id":"calea-sickii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Calea","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/0031-9422(83)80224-6"]},{"name":"Conyza sumatrensis","id":"conyza-sumatrensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Conyza","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/CPB.51.545"]},{"name":"Erigeron sumatrensis","id":"erigeron-sumatrensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Erigeron","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/CPB.51.545"]},{"name":"Jackiella javanica","id":"jackiella-javanica","kingdom":"Plantae","phylum":"Streptophyta","family":"Jackiellaceae","genus":"Jackiella","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/CPB.56.1184"]},{"name":"Ligularia dolichobotrys","id":"ligularia-dolichobotrys","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Ligularia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(97)00493-7"]},{"name":"Neolitsea hiiranensis","id":"neolitsea-hiiranensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Lauraceae","genus":"Neolitsea","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2011.01.006"]},{"name":"Panax ginseng","id":"panax-ginseng","kingdom":"Plantae","phylum":"Streptophyta","family":"Araliaceae","genus":"Panax","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/CPB.37.509"]},{"name":"Premna obtusifolia","id":"premna-obtusifolia","kingdom":"Plantae","phylum":"Tracheophyta","family":"Verbenaceae","genus":"Premna","taxonomy_source":"iNaturalist","reference_count":1,"references":["10.1016/J.TET.2011.11.058"]},{"name":"Premna serratifolia","id":"premna-serratifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Premna","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.TET.2011.11.058"]},{"name":"Senecio nemorensis","id":"senecio-nemorensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Senecio","taxonomy_source":"NCBI","reference_count":1,"references":["10.1135/CCCC19811048"]},{"name":"Sinularia maxima","id":"sinularia-maxima","kingdom":"Metazoa","phylum":"Cnidaria","family":"Alcyoniidae","genus":"Sinularia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0040-4020(95)00655-R"]}],"organism_count":16,"reference_count":15,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0107117"},"research":{"total":9,"sampled":9,"designs":{"other":6,"animal":2,"human_observational":1},"topics":[{"term":"Sesquiterpenes, Guaiane","papers":5},{"term":"Stereoisomerism","papers":2},{"term":"Chromatography, High Pressure Liquid","papers":1},{"term":"Enzymes","papers":1},{"term":"Gold","papers":1},{"term":"X-Ray Diffraction","papers":1},{"term":"Alzheimer Disease","papers":1},{"term":"Amyloid beta-Peptides","papers":1},{"term":"Avoidance Learning","papers":1},{"term":"Behavior, Animal","papers":1},{"term":"Brain","papers":1},{"term":"Disease Models, Animal","papers":1},{"term":"Magnoliopsida","papers":1},{"term":"Maze Learning","papers":1}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":1,"designs":{"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["23544451"]}],"pmids":["23544451"]},{"id":"antioxidant","label":"Antioxidant","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["26593432"]}],"pmids":["26593432"]},{"id":"neuroprotection","label":"Neuroprotection","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["26593432"]}],"pmids":["26593432"]}],"years":{"from":2005,"to":2021},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Aromadendrane-4%2C10-diol%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.07% of total volatiles (0.014mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Aromadendrane-4%2C10-diol"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Aromadendrane-4,10-diol is a sesquiterpene alcohol, a member of the large family of aromatic compounds that give many plants their distinct scents and flavors. While its specific aroma profile is not widely documented for consumers, people naturally encounter this molecule when consuming certain traditional herbs and botanicals.","found_in":"It has been identified in familiar botanicals like ginseng (Panax ginseng) and the chaste tree (Vitex agnus-castus), as well as in marine organisms like South China Sea gorgonians.","why_researchers_care":"Researchers are drawn to aromadendrane-4,10-diol for its potential to interact with the nervous system, particularly its ability to stimulate the growth of new neural connections in early models. While the highest level of evidence for this molecule overall is human observational work (Oxford level 2b) regarding its antimicrobial properties, scientists are highly interested in what its neurological effects could mean for cognitive health and memory.","structure_function":[{"claim_id":"antimicrobial","statement":"Aromadendrane-4,10-diol may support the body's natural defenses against certain microbes.","evidence_level":"human_observational","basis":"This is based on one human observational study.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}],"paper_count":1},{"claim_id":"antioxidant","statement":"Early work points toward antioxidant properties that may help neutralize free radicals.","evidence_level":"animal","basis":"This rests on a single animal study.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":1},{"claim_id":"neuroprotection","statement":"The molecule is being studied for its potential to support brain health and protect neural pathways.","evidence_level":"animal","basis":"This is supported by one animal study evaluating memory and brain function.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"neuroprotection","area":"Cognitive Function and Memory","hypothesis":"Researchers are exploring whether aromadendrane-4,10-diol can protect against memory impairment and encourage the growth of new neurons (neuritogenesis). If this bears out, it could offer a novel botanical approach to supporting long-term cognitive health.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A randomized, double-blind, placebo-controlled human trial measuring cognitive performance and memory retention over six months in older adults using a standardized extract.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]},{"claim_id":"antimicrobial","area":"Microbial Defense","hypothesis":"Scientists are investigating the compound's ability to act as an antimicrobial agent when isolated from natural extracts.","evidence_level":"human_observational","paper_count":1,"study_to_test_it":"A randomized controlled trial applying a standardized topical or oral dose to evaluate specific microbial clearance rates compared to a placebo.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}]}],"associated_conditions":[{"condition":"Alzheimer disease","mondo_id":"MONDO:0004975","relationship":"studied as an intervention for in animal models"}],"cautions":null,"evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b) for antimicrobial properties; most of the rest, including the exciting neurological research, is based on animal and lab studies."}}
+{
+  "name": "Aromadendrane-4,10-diol",
+  "id": "aromadendrane-4-10-diol",
+  "formula": "C15H26O2",
+  "pubchem": {
+    "cid": 3411815,
+    "title": "Aromadendrane-4,10-diol",
+    "formula": "C15H26O2",
+    "molecular_weight": 238.37,
+    "smiles": "CC1(C2C1C3C(CCC3(C)O)C(CC2)(C)O)C",
+    "inchikey": "DWNPMJOWAWGIMM-UHFFFAOYSA-N",
+    "iupac_name": "1,1,4,7-tetramethyl-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulene-4,7-diol",
+    "image": "data/molecules/images/aromadendrane-4-10-diol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/3411815",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3411815/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 9,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Aromadendrane-4%2C10-diol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "33982521",
+        "title": "[A new sesquiterpene from Chloranthus henryi]",
+        "journal": "Zhongguo Zhong Yao Za Zhi",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33982521/"
+      },
+      {
+        "pmid": "22423284",
+        "title": "Carbamate derivatives and sesquiterpenoids from the South China Sea gorgonian Melitodes squamata",
+        "journal": "Beilstein J Org Chem",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22423284/"
+      },
+      {
+        "pmid": "24692360",
+        "title": "Gold(I) as an artificial cyclase: short stereodivergent syntheses of (-)-epiglobulol and (-)-4β,7α- and (-)-4α,7α-aromadendranediols",
+        "journal": "Angew Chem Int Ed Engl",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24692360/"
+      },
+      {
+        "pmid": "26593432",
+        "title": "Inhibitory effect of sesquiterpene lactones and the sesquiterpene alcohol aromadendrane-4β,10α-diol on memory impairment in a mouse model of Alzheimer",
+        "journal": "Eur J Pharmacol",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26593432/"
+      },
+      {
+        "pmid": "23544451",
+        "title": "Nudibaccatumone, a trimer comprising a phenylpropanoid and two sesquiterpene moieties from Piper nudibaccatum",
+        "journal": "J Nat Prod",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23544451/"
+      },
+      {
+        "pmid": "27840407",
+        "title": "The natural product 4,10-aromadendranediol induces neuritogenesis in neuronal cells in vitro through activation of the ERK pathway",
+        "journal": "Acta Pharmacol Sin",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27840407/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Vitex agnus-castus",
+        "id": "vitex-agnus-castus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Vitex",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/J.FITOTE.2010.12.003",
+          "10.1248/CPB.57.1132"
+        ]
+      },
+      {
+        "name": "Acorus calamus var. angustatus",
+        "id": "acorus-calamus-var-angustatus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Acoraceae",
+        "genus": "Acorus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10286020.2010.490522"
+        ]
+      },
+      {
+        "name": "Aglaia grandis",
+        "id": "aglaia-grandis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Meliaceae",
+        "genus": "Aglaia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00519-1"
+        ]
+      },
+      {
+        "name": "Ambrosia peruviana",
+        "id": "ambrosia-peruviana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ambrosia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)82350-X"
+        ]
+      },
+      {
+        "name": "Baccharis gaudichaudiana",
+        "id": "baccharis-gaudichaudiana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Baccharis",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP050081I"
+        ]
+      },
+      {
+        "name": "Calea sickii",
+        "id": "calea-sickii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Calea",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(83)80224-6"
+        ]
+      },
+      {
+        "name": "Conyza sumatrensis",
+        "id": "conyza-sumatrensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Conyza",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.51.545"
+        ]
+      },
+      {
+        "name": "Erigeron sumatrensis",
+        "id": "erigeron-sumatrensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Erigeron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.51.545"
+        ]
+      },
+      {
+        "name": "Jackiella javanica",
+        "id": "jackiella-javanica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Jackiellaceae",
+        "genus": "Jackiella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.56.1184"
+        ]
+      },
+      {
+        "name": "Ligularia dolichobotrys",
+        "id": "ligularia-dolichobotrys",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ligularia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00493-7"
+        ]
+      },
+      {
+        "name": "Neolitsea hiiranensis",
+        "id": "neolitsea-hiiranensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Neolitsea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2011.01.006"
+        ]
+      },
+      {
+        "name": "Panax ginseng",
+        "id": "panax-ginseng",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Araliaceae",
+        "genus": "Panax",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.37.509"
+        ]
+      },
+      {
+        "name": "Premna obtusifolia",
+        "id": "premna-obtusifolia",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Verbenaceae",
+        "genus": "Premna",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.TET.2011.11.058"
+        ]
+      },
+      {
+        "name": "Premna serratifolia",
+        "id": "premna-serratifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Premna",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.TET.2011.11.058"
+        ]
+      },
+      {
+        "name": "Senecio nemorensis",
+        "id": "senecio-nemorensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Senecio",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1135/CCCC19811048"
+        ]
+      },
+      {
+        "name": "Sinularia maxima",
+        "id": "sinularia-maxima",
+        "kingdom": "Metazoa",
+        "phylum": "Cnidaria",
+        "family": "Alcyoniidae",
+        "genus": "Sinularia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0040-4020(95)00655-R"
+        ]
+      }
+    ],
+    "organism_count": 16,
+    "reference_count": 15,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0107117"
+  },
+  "research": {
+    "total": 9,
+    "sampled": 9,
+    "designs": {
+      "other": 6,
+      "animal": 2,
+      "human_observational": 1
+    },
+    "topics": [
+      {
+        "term": "Sesquiterpenes, Guaiane",
+        "papers": 5
+      },
+      {
+        "term": "Stereoisomerism",
+        "papers": 2
+      },
+      {
+        "term": "Chromatography, High Pressure Liquid",
+        "papers": 1
+      },
+      {
+        "term": "Enzymes",
+        "papers": 1
+      },
+      {
+        "term": "Gold",
+        "papers": 1
+      },
+      {
+        "term": "X-Ray Diffraction",
+        "papers": 1
+      },
+      {
+        "term": "Alzheimer Disease",
+        "papers": 1
+      },
+      {
+        "term": "Amyloid beta-Peptides",
+        "papers": 1
+      },
+      {
+        "term": "Avoidance Learning",
+        "papers": 1
+      },
+      {
+        "term": "Behavior, Animal",
+        "papers": 1
+      },
+      {
+        "term": "Brain",
+        "papers": 1
+      },
+      {
+        "term": "Disease Models, Animal",
+        "papers": 1
+      },
+      {
+        "term": "Magnoliopsida",
+        "papers": 1
+      },
+      {
+        "term": "Maze Learning",
+        "papers": 1
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 1,
+        "designs": {
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "23544451"
+            ]
+          }
+        ],
+        "pmids": [
+          "23544451"
+        ]
+      },
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "26593432"
+            ]
+          }
+        ],
+        "pmids": [
+          "26593432"
+        ]
+      },
+      {
+        "id": "neuroprotection",
+        "label": "Neuroprotection",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "26593432"
+            ]
+          }
+        ],
+        "pmids": [
+          "26593432"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2005,
+      "to": 2021
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Aromadendrane-4%2C10-diol%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.07% of total volatiles (0.014mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Aromadendrane-4%2C10-diol"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Aromadendrane-4,10-diol is a naturally occurring sesquiterpene alcohol, a class of aromatic molecules often responsible for the distinct scents and flavors of botanical extracts. As a specialized plant compound, it is encountered in trace amounts when consuming certain traditional herbs or smelling their essential oils.",
+    "found_in": "This molecule has been identified in a variety of botanicals, most notably in ginseng (Panax ginseng) and the chaste tree (Vitex agnus-castus).",
+    "why_researchers_care": "Researchers are drawn to aromadendrane-4,10-diol for its potential interactions with the brain and nervous system. Early studies are exploring how it might influence nerve growth and memory, particularly in the context of cognitive decline. While the strongest evidence currently available is human observational research (Oxford level 2b) noting antimicrobial associations, the molecule's ability to cross into neurological research has made it a compelling target for laboratory and animal studies.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "May support the body's natural antimicrobial defenses.",
+        "evidence_level": "human_observational",
+        "basis": "This rests on a single human observational study.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      },
+      {
+        "claim_id": "antioxidant",
+        "statement": "Early work points toward antioxidant properties.",
+        "evidence_level": "animal",
+        "basis": "This is based on one animal study.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      },
+      {
+        "claim_id": "neuroprotection",
+        "statement": "Is being studied for potential neuroprotective effects.",
+        "evidence_level": "animal",
+        "basis": "Supported by one animal study exploring brain health and memory.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "neuroprotection",
+        "area": "Cognitive Health & Memory",
+        "hypothesis": "Researchers are exploring whether this molecule can support memory and stimulate the growth of new neural connections, particularly in the presence of amyloid-beta peptides. If this bears out, it could offer a new botanical pathway for supporting brain health during aging.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A Phase I/II randomized, double-blind, placebo-controlled human trial measuring cognitive performance and neurological biomarkers in older adults over 6 to 12 months.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "antimicrobial",
+        "area": "Antimicrobial Activity",
+        "hypothesis": "Early observational work suggests it may play a role in neutralizing microbial threats, which could help explain the traditional use of the plants that contain it.",
+        "evidence_level": "human_observational",
+        "paper_count": 1,
+        "study_to_test_it": "A randomized controlled trial comparing an aromadendrane-4,10-diol-standardized extract against a placebo to measure specific microbial clearance rates in a human cohort over 2 to 4 weeks.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [
+      {
+        "condition": "Alzheimer disease",
+        "mondo_id": "MONDO:0004975",
+        "relationship": "studied as an intervention for in animal models"
+      }
+    ],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b); most of the rest is animal and lab research focusing on brain health."
+  }
+}

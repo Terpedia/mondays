@@ -1,1 +1,718 @@
-{"name":"10-epi-γ-Eudesmol","id":"10-epi-gamma-eudesmol","formula":"C15H26O","pubchem":{"cid":6430754,"title":"10-epi-gamma-Eudesmol","formula":"C15H26O","molecular_weight":222.37,"smiles":"CC1=C2CC(CCC2(CCC1)C)C(C)(C)O","inchikey":"WMOPMQRJLLIEJV-DOMZBBRYSA-N","iupac_name":"2-[(2R,4aS)-4a,8-dimethyl-2,3,4,5,6,7-hexahydro-1H-naphthalen-2-yl]propan-2-ol","image":"data/molecules/images/10-epi-gamma-eudesmol.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/6430754","description":"10-epi-gamma-eudesmol is a eudesmane sesquiterpenoid in which the eudesmane skeleton carries a hydroxy substituent at C-11, has a double bond between C-4 and C-5 and has inversion of configuration at C-10. It has a role as a volatile oil component.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:62514"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6430754/PNG"},"targets":[],"diseases":[],"literature":{"total":25,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=10-epi-gamma-Eudesmol%5BAll%20Fields%5D","papers":[{"pmid":"35436102","title":"Terpenes and Cannabinoids Yields and Profile from Direct-Seeded and Transplanted CBD-Cannabis sativa","journal":"J Agric Food Chem","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35436102/"},{"pmid":"23528036","title":"Bioactivity-guided investigation of geranium essential oils as natural tick repellents","journal":"J Agric Food Chem","year":"2013","url":"https://pubmed.ncbi.nlm.nih.gov/23528036/"},{"pmid":"38613430","title":"Essential oil of the leaves of psychotria asiatica L.: chemical composition, antioxidant, anti-inflammatory, and cytotoxic properties","journal":"Nat Prod Res","year":"2025","url":"https://pubmed.ncbi.nlm.nih.gov/38613430/"},{"pmid":"30887919","title":"Amruthapala (Decalepis arayalpathra (J. Joseph and V. Chandras.) Venter): A Comprehensive Review on Diversity, Therapeutic Uses, and Valorization of Bioactive Constituents","journal":"Curr Pharm Biotechnol","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/30887919/"},{"pmid":"29417841","title":"Chemical composition of essential oil from plants of abandoned mining site of Elba island","journal":"Nat Prod Res","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/29417841/"},{"pmid":"32041311","title":"Chemical Composition and Preliminary Antimicrobial Activity of the Hydroxylated Sesquiterpenes in the Essential Oil from Piper barbatum Kunth Leaves","journal":"Plants (Basel)","year":"2020","url":"https://pubmed.ncbi.nlm.nih.gov/32041311/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Amyris balsamifera","id":"amyris-balsamifera","kingdom":"Plantae","phylum":"Tracheophyta","family":"Rutaceae","genus":"Amyris","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":2,"references":["10.1016/S0031-9422(00)89256-0","10.1016/S0031-9422(00)97885-3"]},{"name":"Alpinia japonica","id":"alpinia-japonica","kingdom":"Plantae","phylum":"Streptophyta","family":"Zingiberaceae","genus":"Alpinia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/CPB.33.1148"]},{"name":"Alpinia zerumbet","id":"alpinia-zerumbet","kingdom":"Plantae","phylum":"Streptophyta","family":"Zingiberaceae","genus":"Alpinia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698218"]},{"name":"Annona cascarilloides","id":"annona-cascarilloides","kingdom":"Plantae","phylum":"Tracheophyta","family":"Annonaceae","genus":"Annona","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1080/10412905.1998.9701015"]},{"name":"Artemisia annua","id":"artemisia-annua","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/S11418-007-0175-2"]},{"name":"Hedychium spicatum","id":"hedychium-spicatum","kingdom":"Plantae","phylum":"Streptophyta","family":"Zingiberaceae","genus":"Hedychium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1002/FFJ.2730100310"]},{"name":"Laggera alata","id":"laggera-alata","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Laggera","taxonomy_source":"NCBI","reference_count":1,"references":["10.1002/FFJ.2730050307"]},{"name":"Lepechinia chamaedryoides","id":"lepechinia-chamaedryoides","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Lepechinia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1055/S-2006-961452"]},{"name":"Pelargonium vitifolium","id":"pelargonium-vitifolium","kingdom":"Plantae","phylum":"Streptophyta","family":"Geraniaceae","genus":"Pelargonium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1992.9698083"]},{"name":"Piper obliquum","id":"piper-obliquum","kingdom":"Plantae","phylum":"Streptophyta","family":"Piperaceae","genus":"Piper","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(97)00762-0"]},{"name":"Salvia sclarea","id":"salvia-sclarea","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Salvia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1076/PHBI.35.3.218.13295"]},{"name":"Thymus camphoratus","id":"thymus-camphoratus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/S0031-9422(97)00117-9"]},{"name":"Ursinia sericea","id":"ursinia-sericea","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Ursinia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(92)80176-F"]}],"organism_count":13,"reference_count":14,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0149523"},"research":{"total":25,"sampled":25,"designs":{"other":14,"animal":4,"review":1,"in_vitro":4,"human_observational":2},"topics":[{"term":"Antioxidants","papers":5},{"term":"Sesquiterpenes, Eudesmane","papers":4},{"term":"Microbial Sensitivity Tests","papers":4},{"term":"Phytochemicals","papers":3},{"term":"Anti-Infective Agents","papers":3},{"term":"Anti-Bacterial Agents","papers":3},{"term":"Cannabinoids","papers":2},{"term":"Cannabis","papers":2},{"term":"Pelargonium","papers":2},{"term":"Anti-Inflammatory Agents","papers":2},{"term":"Camphor","papers":2},{"term":"Asteraceae","papers":2},{"term":"Cote d'Ivoire","papers":2},{"term":"Zingiberaceae","papers":2}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":6,"designs":{"animal":1,"in_vitro":4,"other":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["35920490"]},{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":4,"pmids":["36903525","23027699","18293443","39843246"]}],"pmids":["35920490","36903525","23027699","18293443","23497874","39843246"]},{"id":"antioxidant","label":"Antioxidant","papers":5,"designs":{"animal":2,"in_vitro":2,"other":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":2,"pmids":["38613430","35920490"]},{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":2,"pmids":["23027699","18293443"]}],"pmids":["38613430","35920490","23027699","18293443","23497874"]},{"id":"anti-inflammatory","label":"Anti-inflammatory","papers":3,"designs":{"animal":3},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":3,"pmids":["38613430","35920490","23566359"]}],"pmids":["38613430","35920490","23566359"]},{"id":"cancer","label":"Cancer","papers":1,"designs":{"animal":1},"evidence_level":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["38613430"]}],"pmids":["38613430"]}],"years":{"from":2002,"to":2025},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=10-epi-gamma-Eudesmol%5BAll%20Fields%5D"},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"10-epi-gamma-Eudesmol is a sesquiterpenoid, a type of aromatic molecule found in the volatile essential oils of various plants. As a component of these fragrant oils, it contributes to the complex scents and botanical defenses of the plants that produce it. You might encounter it in the aroma of certain herbs, spices, and even some varieties of cannabis.","found_in":"This molecule is found in the essential oils of familiar aromatic plants like clary sage, sweet wormwood, and geraniums. It has also been identified in the volatile profiles of certain cannabis strains and members of the ginger family.","why_researchers_care":"Researchers are drawn to 10-epi-gamma-Eudesmol for its potential as an active botanical defense compound, particularly exploring its ability to fight off microbes and oxidative stress. The scientific community is investigating whether this fragrant molecule could serve as a natural anti-infective or anti-inflammatory agent. The strongest evidence so far comes from early animal research (Oxford level 5), which is laying the groundwork to understand exactly how this compound interacts with living cells.","structure_function":[{"claim_id":"antimicrobial","statement":"Early work points toward 10-epi-gamma-Eudesmol having properties that may support the body's defense against microbial threats.","evidence_level":"animal","basis":"This rests on six papers, including animal and laboratory studies evaluating its anti-infective potential.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1},{"design":"in_vitro","eco":"ECO:0000181","papers":4}],"paper_count":6},{"claim_id":"antioxidant","statement":"This molecule is being studied for its potential to support cellular health by acting as an antioxidant.","evidence_level":"animal","basis":"Five papers, primarily animal and in vitro research, have explored its ability to neutralize oxidative stress.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":2},{"design":"in_vitro","eco":"ECO:0000181","papers":2}],"paper_count":5},{"claim_id":"anti-inflammatory","statement":"Early animal work points toward a potential role in supporting healthy inflammatory responses.","evidence_level":"animal","basis":"This is based on three animal studies investigating its effects on inflammation.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":3}],"paper_count":3}],"hypothesized_benefits":[{"claim_id":"antimicrobial","area":"Antimicrobial activity","hypothesis":"Researchers are exploring whether 10-epi-gamma-Eudesmol can effectively inhibit bacterial or fungal growth in living systems, which could eventually point to new natural anti-infective applications.","evidence_level":"animal","paper_count":6,"study_to_test_it":"A Phase 1 human safety and dosing trial applying a standardized topical formulation of 10-epi-gamma-Eudesmol to healthy volunteers to measure skin microbiome changes and tolerability over two weeks.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1},{"design":"in_vitro","eco":"ECO:0000181","papers":4}]},{"claim_id":"anti-inflammatory","area":"Inflammation","hypothesis":"Early animal work points toward this molecule helping to modulate inflammatory pathways, raising the question of whether it could soothe tissue irritation in humans.","evidence_level":"animal","paper_count":3,"study_to_test_it":"A randomized, placebo-controlled human trial measuring systemic inflammatory markers like CRP in healthy adults taking a standardized oral dose over 30 days.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":3}]},{"claim_id":"cancer","area":"Cellular health","hypothesis":"Scientists are investigating if the properties observed in early models mean this compound could one day play a role in targeted cellular therapies.","evidence_level":"animal","paper_count":1,"study_to_test_it":"A Phase 1 human clinical trial evaluating the safety, maximum tolerated dose, and pharmacokinetic profile of an isolated 10-epi-gamma-Eudesmol therapeutic in healthy volunteers over a 4-week period.","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"animal","eco":"ECO:0007120","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is animal research (Oxford level 5); the rest of the literature consists of laboratory studies and chemical profiling."},"summary":null,"evidence":"Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–0.17% of total volatiles (0.012–0.034mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=10-epi-gamma-Eudesmol"},"is_terpenoid":true}
+{
+  "name": "10-epi-γ-Eudesmol",
+  "id": "10-epi-gamma-eudesmol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 6430754,
+    "title": "10-epi-gamma-Eudesmol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1=C2CC(CCC2(CCC1)C)C(C)(C)O",
+    "inchikey": "WMOPMQRJLLIEJV-DOMZBBRYSA-N",
+    "iupac_name": "2-[(2R,4aS)-4a,8-dimethyl-2,3,4,5,6,7-hexahydro-1H-naphthalen-2-yl]propan-2-ol",
+    "image": "data/molecules/images/10-epi-gamma-eudesmol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6430754",
+    "description": "10-epi-gamma-eudesmol is a eudesmane sesquiterpenoid in which the eudesmane skeleton carries a hydroxy substituent at C-11, has a double bond between C-4 and C-5 and has inversion of configuration at C-10. It has a role as a volatile oil component.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:62514"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6430754/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 25,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=10-epi-gamma-Eudesmol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35436102",
+        "title": "Terpenes and Cannabinoids Yields and Profile from Direct-Seeded and Transplanted CBD-Cannabis sativa",
+        "journal": "J Agric Food Chem",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35436102/"
+      },
+      {
+        "pmid": "23528036",
+        "title": "Bioactivity-guided investigation of geranium essential oils as natural tick repellents",
+        "journal": "J Agric Food Chem",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23528036/"
+      },
+      {
+        "pmid": "38613430",
+        "title": "Essential oil of the leaves of psychotria asiatica L.: chemical composition, antioxidant, anti-inflammatory, and cytotoxic properties",
+        "journal": "Nat Prod Res",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38613430/"
+      },
+      {
+        "pmid": "30887919",
+        "title": "Amruthapala (Decalepis arayalpathra (J. Joseph and V. Chandras.) Venter): A Comprehensive Review on Diversity, Therapeutic Uses, and Valorization of Bioactive Constituents",
+        "journal": "Curr Pharm Biotechnol",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30887919/"
+      },
+      {
+        "pmid": "29417841",
+        "title": "Chemical composition of essential oil from plants of abandoned mining site of Elba island",
+        "journal": "Nat Prod Res",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29417841/"
+      },
+      {
+        "pmid": "32041311",
+        "title": "Chemical Composition and Preliminary Antimicrobial Activity of the Hydroxylated Sesquiterpenes in the Essential Oil from Piper barbatum Kunth Leaves",
+        "journal": "Plants (Basel)",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32041311/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Amyris balsamifera",
+        "id": "amyris-balsamifera",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Rutaceae",
+        "genus": "Amyris",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)89256-0",
+          "10.1016/S0031-9422(00)97885-3"
+        ]
+      },
+      {
+        "name": "Alpinia japonica",
+        "id": "alpinia-japonica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/CPB.33.1148"
+        ]
+      },
+      {
+        "name": "Alpinia zerumbet",
+        "id": "alpinia-zerumbet",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Alpinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698218"
+        ]
+      },
+      {
+        "name": "Annona cascarilloides",
+        "id": "annona-cascarilloides",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Annonaceae",
+        "genus": "Annona",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1998.9701015"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Hedychium spicatum",
+        "id": "hedychium-spicatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Hedychium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730100310"
+        ]
+      },
+      {
+        "name": "Laggera alata",
+        "id": "laggera-alata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Laggera",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1002/FFJ.2730050307"
+        ]
+      },
+      {
+        "name": "Lepechinia chamaedryoides",
+        "id": "lepechinia-chamaedryoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Lepechinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1055/S-2006-961452"
+        ]
+      },
+      {
+        "name": "Pelargonium vitifolium",
+        "id": "pelargonium-vitifolium",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Geraniaceae",
+        "genus": "Pelargonium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698083"
+        ]
+      },
+      {
+        "name": "Piper obliquum",
+        "id": "piper-obliquum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00762-0"
+        ]
+      },
+      {
+        "name": "Salvia sclarea",
+        "id": "salvia-sclarea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Salvia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1076/PHBI.35.3.218.13295"
+        ]
+      },
+      {
+        "name": "Thymus camphoratus",
+        "id": "thymus-camphoratus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00117-9"
+        ]
+      },
+      {
+        "name": "Ursinia sericea",
+        "id": "ursinia-sericea",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Ursinia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)80176-F"
+        ]
+      }
+    ],
+    "organism_count": 13,
+    "reference_count": 14,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0149523"
+  },
+  "research": {
+    "total": 25,
+    "sampled": 25,
+    "designs": {
+      "other": 14,
+      "animal": 4,
+      "review": 1,
+      "in_vitro": 4,
+      "human_observational": 2
+    },
+    "topics": [
+      {
+        "term": "Antioxidants",
+        "papers": 5
+      },
+      {
+        "term": "Sesquiterpenes, Eudesmane",
+        "papers": 4
+      },
+      {
+        "term": "Microbial Sensitivity Tests",
+        "papers": 4
+      },
+      {
+        "term": "Phytochemicals",
+        "papers": 3
+      },
+      {
+        "term": "Anti-Infective Agents",
+        "papers": 3
+      },
+      {
+        "term": "Anti-Bacterial Agents",
+        "papers": 3
+      },
+      {
+        "term": "Cannabinoids",
+        "papers": 2
+      },
+      {
+        "term": "Cannabis",
+        "papers": 2
+      },
+      {
+        "term": "Pelargonium",
+        "papers": 2
+      },
+      {
+        "term": "Anti-Inflammatory Agents",
+        "papers": 2
+      },
+      {
+        "term": "Camphor",
+        "papers": 2
+      },
+      {
+        "term": "Asteraceae",
+        "papers": 2
+      },
+      {
+        "term": "Cote d'Ivoire",
+        "papers": 2
+      },
+      {
+        "term": "Zingiberaceae",
+        "papers": 2
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 6,
+        "designs": {
+          "animal": 1,
+          "in_vitro": 4,
+          "other": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "35920490"
+            ]
+          },
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 4,
+            "pmids": [
+              "36903525",
+              "23027699",
+              "18293443",
+              "39843246"
+            ]
+          }
+        ],
+        "pmids": [
+          "35920490",
+          "36903525",
+          "23027699",
+          "18293443",
+          "23497874",
+          "39843246"
+        ]
+      },
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 5,
+        "designs": {
+          "animal": 2,
+          "in_vitro": 2,
+          "other": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 2,
+            "pmids": [
+              "38613430",
+              "35920490"
+            ]
+          },
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 2,
+            "pmids": [
+              "23027699",
+              "18293443"
+            ]
+          }
+        ],
+        "pmids": [
+          "38613430",
+          "35920490",
+          "23027699",
+          "18293443",
+          "23497874"
+        ]
+      },
+      {
+        "id": "anti-inflammatory",
+        "label": "Anti-inflammatory",
+        "papers": 3,
+        "designs": {
+          "animal": 3
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 3,
+            "pmids": [
+              "38613430",
+              "35920490",
+              "23566359"
+            ]
+          }
+        ],
+        "pmids": [
+          "38613430",
+          "35920490",
+          "23566359"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "evidence_level": "animal",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "38613430"
+            ]
+          }
+        ],
+        "pmids": [
+          "38613430"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2002,
+      "to": 2025
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=10-epi-gamma-Eudesmol%5BAll%20Fields%5D"
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "10-epi-γ-Eudesmol is a sesquiterpenoid, a type of aromatic molecule that helps give certain essential oils their complex, earthy, and botanical scents. As a volatile compound, it easily evaporates into the air, which is why you might encounter it when crushing fragrant herbs or blending botanical perfumes.",
+    "found_in": "It is found in the essential oils of several familiar aromatic plants, including clary sage (Salvia sclarea), sweet wormwood (Artemisia annua), and certain types of geranium and thyme.",
+    "why_researchers_care": "Researchers are drawn to 10-epi-γ-Eudesmol to understand how the complex mixtures in essential oils protect plants and how those defenses might be adapted for human use. They are particularly interested in its potential to fight off microbes, repel insects, and soothe inflammation. While the broader literature includes human observational studies (Oxford level 2b), most specific investigations into this molecule's health properties are currently based on bench and animal research.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Early animal and lab work points toward a potential role in supporting the body's natural defenses against microbes.",
+        "evidence_level": "animal",
+        "basis": "This rests on 6 papers, primarily in vitro and animal studies.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 4
+          }
+        ],
+        "paper_count": 6
+      },
+      {
+        "claim_id": "antioxidant",
+        "statement": "Animal research suggests it may support cellular health by acting as an antioxidant.",
+        "evidence_level": "animal",
+        "basis": "This is based on 5 papers exploring its effects in animal and lab models.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 2
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 2
+          }
+        ],
+        "paper_count": 5
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "statement": "Early work points toward a potential to support healthy inflammatory responses.",
+        "evidence_level": "animal",
+        "basis": "This is supported by 3 animal studies.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          }
+        ],
+        "paper_count": 3
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antimicrobial",
+        "area": "Infection and Pest Repellency",
+        "hypothesis": "Researchers are exploring whether it can effectively neutralize harmful bacteria or act as a natural repellent against pests like ticks.",
+        "evidence_level": "animal",
+        "paper_count": 6,
+        "study_to_test_it": "A randomized, placebo-controlled human trial applying a standardized topical formulation of 10-epi-γ-Eudesmol to measure its efficacy in preventing specific bacterial colonization on the skin over two weeks.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 4
+          }
+        ]
+      },
+      {
+        "claim_id": "antioxidant",
+        "area": "Cellular Protection",
+        "hypothesis": "If this bears out, it could be used as a botanical antioxidant to help protect tissues from everyday oxidative stress.",
+        "evidence_level": "animal",
+        "paper_count": 5,
+        "study_to_test_it": "A controlled human dietary or supplementation trial measuring blood markers of oxidative stress, such as lipid peroxidation, over 30 days.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 2
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 2
+          }
+        ]
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "area": "Inflammation",
+        "hypothesis": "Early animal work points toward a potential to soothe inflammatory pathways, which could eventually inform new topical or systemic soothing agents.",
+        "evidence_level": "animal",
+        "paper_count": 3,
+        "study_to_test_it": "A randomized, double-blind human trial evaluating the topical application of the molecule on UV-induced skin erythema (inflammation) over 7 days.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 3
+          }
+        ]
+      },
+      {
+        "claim_id": "cancer",
+        "area": "Cellular Proliferation",
+        "hypothesis": "Scientists are investigating whether it has cytotoxic properties that could selectively target rogue cells without harming healthy tissue.",
+        "evidence_level": "animal",
+        "paper_count": 1,
+        "study_to_test_it": "A Phase I human clinical trial in healthy volunteers to establish the safety, maximum tolerated dose, and pharmacokinetic profile of an oral formulation over 28 days.",
+        "eco": {
+          "id": "ECO:0007120",
+          "label": "animal model system study evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b); most of the specific health claims rest on animal and lab research."
+  },
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.06–0.17% of total volatiles (0.012–0.034mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=10-epi-gamma-Eudesmol"
+  },
+  "is_terpenoid": true
+}

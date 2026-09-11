@@ -1,1 +1,134 @@
-{"name":"Selina-4(15),7(11)-diene","id":"selina-4-15-7-11-diene","formula":"C15H24","pubchem":{"cid":10655819,"title":"Selina-4(15),7(11)-diene","formula":"C15H24","molecular_weight":204.35,"smiles":"CC(=C1CCC2(CCCC(=C)C2C1)C)C","inchikey":"RMZHSBMIZBMVMN-LSDHHAIUSA-N","iupac_name":"(4aS,8aR)-8a-methyl-4-methylidene-6-propan-2-ylidene-2,3,4a,5,7,8-hexahydro-1H-naphthalene","image":"data/molecules/images/selina-4-15-7-11-diene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/10655819","description":"Selina-4(15),7(11)-diene is a bicyclic sesquiterpene that is 1-methylidenedecahydronaphthalene carrying additional methyl and isopropylidene substituents at positions 4a and 7 respectively. It has a role as a plant metabolite. It is a sesquiterpene, a polycyclic olefin and a carbobicyclic compound. It derives from a hydride of a eudesmane.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:138051"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/10655819/PNG"},"targets":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","summary":null,"evidence":"Measured in 6 of 6 MONDAYS hemp SKUs at 0.31–9.08% of total volatiles (0.062–1.82mg per chew).","diseases":[],"occurrence":{"organisms":[{"name":"Eugenia uniflora","id":"eugenia-uniflora","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eugenia","taxonomy_source":"NCBI","reference_count":2,"references":["10.1590/S0103-50532010000500012","10.1055/S-0028-1097540"]},{"name":"Humulus lupulus","id":"humulus-lupulus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cannabaceae","genus":"Humulus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/S0031-9422(00)85414-X","10.1016/S0031-9422(00)85970-1"]},{"name":"Coespeletia timotensis","id":"coespeletia-timotensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Coespeletia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(99)00346-5"]},{"name":"Podocarpus spicatus","id":"podocarpus-spicatus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Podocarpaceae","genus":"Podocarpus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/S0031-9422(00)82471-1"]},{"name":"Prumnopitys andina","id":"prumnopitys-andina","kingdom":"Plantae","phylum":"Streptophyta","family":"Podocarpaceae","genus":"Prumnopitys","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)82471-1"]}],"organism_count":5,"reference_count":6,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0199661"},"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Selina-4(15)%2C7(11)-diene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Selina-4(15),7(11)-diene is a bicyclic sesquiterpene, a type of aromatic molecule naturally produced by plants. As a volatile compound, it contributes to the complex scent and flavor profiles of the botanical oils it inhabits. A person is most likely to encounter it in the background notes of certain craft beers or tropical fruits.","found_in":"It has been identified in the essential oils of hops (Humulus lupulus) and the tropical Surinam cherry (Eugenia uniflora), as well as in certain evergreen trees like the New Zealand black pine (Podocarpus spicatus).","why_researchers_care":"As a bicyclic sesquiterpene, selina-4(15),7(11)-diene belongs to a family of aromatic molecules known for their diverse biological roles in nature. Currently, researchers are primarily interested in this compound as a botanical marker to understand the chemical profiles of the specific plants that produce it. There is currently no formal pharmacological research on this specific molecule (Oxford level: none found), leaving its potential biological activities an open frontier for future discovery.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no formal research literature (Oxford level: none found) evaluating the biological or health effects of this specific molecule."}}
+{
+  "name": "Selina-4(15),7(11)-diene",
+  "id": "selina-4-15-7-11-diene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 10655819,
+    "title": "Selina-4(15),7(11)-diene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC(=C1CCC2(CCCC(=C)C2C1)C)C",
+    "inchikey": "RMZHSBMIZBMVMN-LSDHHAIUSA-N",
+    "iupac_name": "(4aS,8aR)-8a-methyl-4-methylidene-6-propan-2-ylidene-2,3,4a,5,7,8-hexahydro-1H-naphthalene",
+    "image": "data/molecules/images/selina-4-15-7-11-diene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/10655819",
+    "description": "Selina-4(15),7(11)-diene is a bicyclic sesquiterpene that is 1-methylidenedecahydronaphthalene carrying additional methyl and isopropylidene substituents at positions 4a and 7 respectively. It has a role as a plant metabolite. It is a sesquiterpene, a polycyclic olefin and a carbobicyclic compound. It derives from a hydride of a eudesmane.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:138051"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/10655819/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "summary": null,
+  "evidence": "Measured in 6 of 6 MONDAYS hemp SKUs at 0.31–9.08% of total volatiles (0.062–1.82mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Eugenia uniflora",
+        "id": "eugenia-uniflora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1590/S0103-50532010000500012",
+          "10.1055/S-0028-1097540"
+        ]
+      },
+      {
+        "name": "Humulus lupulus",
+        "id": "humulus-lupulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Humulus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/S0031-9422(00)85414-X",
+          "10.1016/S0031-9422(00)85970-1"
+        ]
+      },
+      {
+        "name": "Coespeletia timotensis",
+        "id": "coespeletia-timotensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Coespeletia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(99)00346-5"
+        ]
+      },
+      {
+        "name": "Podocarpus spicatus",
+        "id": "podocarpus-spicatus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Podocarpaceae",
+        "genus": "Podocarpus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)82471-1"
+        ]
+      },
+      {
+        "name": "Prumnopitys andina",
+        "id": "prumnopitys-andina",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Podocarpaceae",
+        "genus": "Prumnopitys",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)82471-1"
+        ]
+      }
+    ],
+    "organism_count": 5,
+    "reference_count": 6,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0199661"
+  },
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Selina-4(15)%2C7(11)-diene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Selina-4(15),7(11)-diene is a bicyclic sesquiterpene, a class of complex aromatic molecules often responsible for the rich scents and flavors of botanical extracts. As a natural plant metabolite, it is a hydrocarbon that contributes to the chemical profile of the leaves, fruits, and resins where it is found.",
+    "found_in": "You can find this molecule in familiar plants like hops (Humulus lupulus), which are famously used to brew beer, and the tropical fruit-bearing Surinam cherry (Eugenia uniflora).",
+    "why_researchers_care": "Currently, researchers are primarily interested in Selina-4(15),7(11)-diene as a structural component of plant essential oils and resins. Because it is a naturally occurring sesquiterpene found in agriculturally important plants like hops, it helps chemists understand the complex chemical makeup and metabolic pathways of these species. At present, there is no specific medical or pharmacological research literature available for this compound (Oxford level 5, chemical profiling).",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published pharmacological or clinical evidence available for this molecule; it is known primarily through the chemical profiling of plants."
+  }
+}

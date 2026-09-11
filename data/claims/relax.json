@@ -1,0 +1,1777 @@
+{
+  "tile": "RELAX",
+  "id": "relax",
+  "definition": "May support unwinding and a sense of calm.",
+  "areas": [
+    "anxiety",
+    "sleep"
+  ],
+  "sense": "calm",
+  "molecules": [
+    {
+      "id": "linalool",
+      "name": "Linalool",
+      "papers": 13,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "review",
+          "papers": 2
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "The molecule is being explored for its potential to support a calm mood and ease feelings of anxiety.",
+        "Linalool may support restful sleep and healthy sedation."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 5.99
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.19
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 2.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 4.97
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.46
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.64
+        }
+      ],
+      "pmids": [
+        "38968949",
+        "26983194",
+        "39409026",
+        "39060318",
+        "38012973",
+        "31625973",
+        "30347669",
+        "18824339",
+        "26983194",
+        "41735175"
+      ],
+      "score": 9.189
+    },
+    {
+      "id": "myrcene",
+      "name": "Myrcene",
+      "papers": 3,
+      "areas": [
+        "Sleep and sedation",
+        "Anxiety and calm"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early evidence suggests myrcene may support relaxation and healthy sleep cycles."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Because it is a major component of hops, scientists are investigating if myrcene contributes to the plant's traditional calming and sleep-supporting reputation.",
+          "study": "A randomized, placebo-controlled human trial measuring sleep latency and architecture using polysomnography after isolated myrcene administration would clarify this effect.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 6.2
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 2.29
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 36.63
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 6.41
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 23.43
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 65
+        }
+      ],
+      "pmids": [
+        "34584156",
+        "12587690",
+        "34584156"
+      ],
+      "score": 8.712
+    },
+    {
+      "id": "beta-caryophyllene",
+      "name": "β-Caryophyllene",
+      "papers": 4,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "If early findings bear out, this molecule might help regulate stress pathways and promote a sense of calm.",
+          "study": "A randomized, double-blind clinical trial in adults with generalized anxiety, measuring subjective stress scores and cortisol levels over an eight-week period, would definitively test this.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 15.11
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 14.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 9.01
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 17.29
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 3.84
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 2.78
+        }
+      ],
+      "pmids": [
+        "36241680",
+        "24930711",
+        "30864870",
+        "36241680"
+      ],
+      "score": 7.016
+    },
+    {
+      "id": "alpha-pinene",
+      "name": "α-Pinene",
+      "papers": 6,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Alpha-pinene is being explored for its potential to promote calm and ease anxiety."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a sedative effect, raising the question of whether inhaled alpha-pinene could naturally improve sleep quality.",
+          "study": "A randomized, double-blind human crossover trial where participants inhale alpha-pinene or a placebo before bed, using polysomnography to measure sleep latency and duration over two weeks.",
+          "evidence_level": "animal"
+        },
+        {
+          "hypothesis": "Researchers are curious if the calming effects observed in animals translate to humans, potentially offering a natural way to manage daily stress.",
+          "study": "The completed Phase 1 trial NCT04130633 evaluated the behavioral pharmacology of alpha-pinene alongside THC in 33 enrolled participants.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 2.45
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.1
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 4.4
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 2.1
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 31.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 9.18
+        }
+      ],
+      "pmids": [
+        "36241680",
+        "25340185",
+        "42025586",
+        "25230317",
+        "36241680",
+        "27573669"
+      ],
+      "score": 6.748
+    },
+    {
+      "id": "beta-pinene",
+      "name": "β-Pinene",
+      "papers": 2,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether the relaxing scent of beta-pinene translates to measurable sedative effects that improve sleep quality and duration.",
+          "study": "A human crossover trial using polysomnography to measure sleep latency and REM cycle duration in adults exposed to ambient beta-pinene vapor overnight.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 1.92
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.62
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 3.66
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.78
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 14.29
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 4.5
+        }
+      ],
+      "pmids": [
+        "38012973",
+        "22867633"
+      ],
+      "score": 4.494
+    },
+    {
+      "id": "limonene",
+      "name": "Limonene",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward limonene having a calming effect, and researchers are curious if it can modulate subjective mood and anxiety in humans.",
+          "study": "A recruiting Phase 1 clinical trial (NCT06378957) is currently testing the behavioral pharmacology and subjective effects of orally administered D-limonene alongside THC in 65 participants.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 13.84
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.91
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 19.03
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 10.11
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 9.71
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 5.88
+        }
+      ],
+      "pmids": [
+        "39352146"
+      ],
+      "score": 2.078
+    },
+    {
+      "id": "alpha-humulene",
+      "name": "α-Humulene",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether the calming aroma of α-humulene translates to measurable reductions in anxiety pathways.",
+          "study": "A randomized, placebo-controlled human trial evaluating self-reported anxiety scores and salivary cortisol levels after inhalation of isolated α-humulene over a 2-week period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 4.21
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 4.15
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 2.27
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 5.14
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.23
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.72
+        }
+      ],
+      "pmids": [
+        "42503214"
+      ],
+      "score": 1.258
+    },
+    {
+      "id": "beta-selinene",
+      "name": "β-Selinene",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential calming effect, raising the question of whether this terpene contributes to the relaxing properties of hops and other botanicals.",
+          "study": "A randomized, placebo-controlled human trial measuring self-reported anxiety scores and salivary cortisol levels after inhalation of isolated β-selinene over a four-week period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 1.08
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.43
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.96
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.59
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.38
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "16122763"
+      ],
+      "score": 0.66
+    },
+    {
+      "id": "terpinolene",
+      "name": "Terpinolene",
+      "papers": 2,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early animal work points toward a role in supporting sleep and sedation."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Given its presence in calming herbs like valerian, scientists are investigating if terpinolene contributes to reducing anxiety and promoting a sense of calm.",
+          "study": "A randomized, double-blind human trial assessing self-reported anxiety scores and cortisol levels after acute inhalation or oral ingestion of isolated terpinolene.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.29
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.18
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.23
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.49
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.16
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.3
+        }
+      ],
+      "pmids": [
+        "37865998",
+        "23339024"
+      ],
+      "score": 0.657
+    },
+    {
+      "id": "beta-bisabolene",
+      "name": "β-Bisabolene",
+      "papers": 3,
+      "areas": [
+        "Sleep and sedation",
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early animal work points toward a potential role in promoting restful sleep and mild sedation."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether the calming effects seen in animal models could mean β-bisabolene helps ease anxiety and promote relaxation.",
+          "study": "A randomized, placebo-controlled human trial measuring salivary cortisol levels and self-reported anxiety scores in healthy adults exposed to a mild acute stressor after inhaling β-bisabolene vapor.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.4
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.35
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.51
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.11
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.19
+        }
+      ],
+      "pmids": [
+        "38630162",
+        "25771354",
+        "25771354"
+      ],
+      "score": 0.571
+    },
+    {
+      "id": "camphene",
+      "name": "Camphene",
+      "papers": 2,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early animal research points toward a potential role for camphene in supporting a calm mood and easing anxiety."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.56
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.3
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.37
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.42
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.54
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.22
+        }
+      ],
+      "pmids": [
+        "32235333",
+        "25340185"
+      ],
+      "score": 0.489
+    },
+    {
+      "id": "caryophyllene-oxide",
+      "name": "Caryophyllene oxide",
+      "papers": 2,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000033",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Observational data hints at a sedative effect, leading researchers to explore whether it can improve sleep architecture. If this holds up, it could be utilized in natural sleep aids to help people fall asleep faster and stay asleep longer.",
+          "study": "A randomized, placebo-controlled crossover trial in adults with mild insomnia, using polysomnography to measure sleep latency and duration over a 4-week period.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.09
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.3
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.17
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.13
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.09
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "38934531",
+        "28381767"
+      ],
+      "score": 0.432
+    },
+    {
+      "id": "beta-sesquiphellandrene",
+      "name": "β-Sesquiphellandrene",
+      "papers": 3,
+      "areas": [
+        "Sleep and sedation",
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential sedative effect, and researchers are curious if it could support restful sleep in humans.",
+          "study": "A small human pilot study measuring sleep architecture and latency via polysomnography in healthy volunteers exposed to the compound aromatically before bedtime.",
+          "evidence_level": "animal"
+        },
+        {
+          "hypothesis": "Scientists are investigating whether this ginger volatile can promote a sense of calm and emotional balance.",
+          "study": "A randomized, placebo-controlled human trial assessing subjective anxiety scores and salivary cortisol levels after acute oral or olfactory exposure to the isolated compound.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.35
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.27
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.08
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.28
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "38630162",
+        "25771354",
+        "25771354"
+      ],
+      "score": 0.416
+    },
+    {
+      "id": "1-8-cineole",
+      "name": "1,8-Cineole",
+      "papers": 1,
+      "areas": [
+        "Sleep and sedation"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.26
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.1
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.5
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "31493462"
+      ],
+      "score": 0.281
+    },
+    {
+      "id": "isocaryophyllene",
+      "name": "Isocaryophyllene",
+      "papers": 4,
+      "areas": [
+        "Anxiety and calm",
+        "Sleep and sedation"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a calming effect, prompting researchers to ask if it could naturally ease stress and anxiety.",
+          "study": "A randomized, double-blind human trial measuring self-reported anxiety scores and cortisol levels over four weeks of daily supplementation.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.13
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.09
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.18
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "41003922",
+        "36241680",
+        "35766031",
+        "36241680"
+      ],
+      "score": 0.266
+    },
+    {
+      "id": "borneol",
+      "name": "Borneol",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Because it is found in calming herbs like valerian, researchers are exploring whether borneol directly contributes to relaxation and anxiety relief.",
+          "study": "A randomized, double-blind, placebo-controlled human trial measuring validated anxiety scores over 4 weeks would move this beyond current animal (Oxford 5) models.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.28
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.45
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.32
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "29223397"
+      ],
+      "score": 0.258
+    },
+    {
+      "id": "geraniol",
+      "name": "Geraniol",
+      "papers": 3,
+      "areas": [
+        "Sleep and sedation",
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether the calming aroma and systemic effects of geraniol can modulate the central nervous system to improve sleep quality.",
+          "study": "A randomized, placebo-controlled human crossover trial testing nightly inhaled or oral geraniol over four weeks, using polysomnography to measure sleep latency, REM cycles, and total sleep time.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "33389551",
+        "30580793",
+        "38795639"
+      ],
+      "score": 0.182
+    },
+    {
+      "id": "citronellol",
+      "name": "Citronellol",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Because of its prominent use in aromatherapy, researchers are exploring whether inhaling citronellol can actively promote calm and reduce anxiety.",
+          "study": "A randomized, controlled human trial measuring salivary cortisol levels and self-reported anxiety scores in participants exposed to ambient citronellol vapor during a stressful cognitive task.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.05
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.14
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "32475228"
+      ],
+      "score": 0.091
+    },
+    {
+      "id": "alpha-phellandrene",
+      "name": "α-Phellandrene",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Experts are investigating whether the volatile oils containing alpha-phellandrene can promote calm and reduce anxiety. If true, it might explain the relaxing effects of certain herbal aromatherapies.",
+          "study": "A randomized controlled trial in humans measuring acute anxiety scores (such as the STAI) and heart rate variability before and after exposure to alpha-phellandrene vapor.",
+          "evidence_level": "review_only"
+        }
+      ],
+      "products": [
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.05
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.11
+        }
+      ],
+      "pmids": [
+        "38934531"
+      ],
+      "score": 0.072
+    },
+    {
+      "id": "cis-pinene-hydrate",
+      "name": "cis-Pinene hydrate",
+      "papers": 1,
+      "areas": [
+        "Sleep and sedation"
+      ],
+      "evidence_level": "human_trials",
+      "eco": "ECO:0000180",
+      "oxford": "1b",
+      "evidence_lines": [
+        {
+          "design": "rct",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early clinical work points toward cis-pinene hydrate as a compound that may support restful sleep and relaxation."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether cis-pinene hydrate can actively promote sleep onset or improve sleep quality. If this bears out, it could offer a new botanical avenue for nighttime relaxation.",
+          "study": "A larger, multi-center randomized, double-blind, placebo-controlled trial measuring sleep latency and architecture via polysomnography over a four-week period.",
+          "evidence_level": "human_trials"
+        }
+      ],
+      "products": [
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.05
+        }
+      ],
+      "pmids": [
+        "27329516"
+      ],
+      "score": 0.068
+    },
+    {
+      "id": "beta-myrcene",
+      "name": "β-Myrcene",
+      "papers": 3,
+      "areas": [
+        "Sleep and sedation",
+        "Anxiety and calm"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "It is being studied for its potential to support restful sleep."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether beta-myrcene contributes to the relaxing and calming effects famously associated with hops and cannabis.",
+          "study": "A registered clinical trial (NCT05432284, not yet recruiting) will evaluate the behavioral pharmacology of beta-myrcene and THC in humans.",
+          "evidence_level": "none_found"
+        }
+      ],
+      "products": [],
+      "pmids": [
+        "8257941",
+        "34584156",
+        "34584156"
+      ],
+      "score": 0
+    },
+    {
+      "id": "humulene",
+      "name": "Humulene",
+      "papers": 1,
+      "areas": [
+        "Anxiety and calm"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential calming effect, raising the question of whether humulene-rich extracts might support relaxation and mood.",
+          "study": "A randomized, placebo-controlled human trial measuring subjective anxiety scores and salivary cortisol levels before and after acute exposure to humulene vapor.",
+          "evidence_level": "none_found"
+        }
+      ],
+      "products": [],
+      "pmids": [
+        "42503214"
+      ],
+      "score": 0
+    }
+  ],
+  "molecules_with_research": 22,
+  "papers": 59,
+  "best_evidence": "human_trials",
+  "best_oxford": "1b",
+  "trials": [
+    {
+      "nct_id": "NCT06914167",
+      "title": "The Effectiveness of Lavender Aromatherapy Combined With Slow Breathing Exercises in Improving Occupational Burnout and Sleep Disorders Among Nursing Staff",
+      "status": "COMPLETED",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sleep Wake Disorders"
+      ],
+      "interventions": [
+        "Slow Breathing Exercises",
+        "Lavender Essential Oil Inhalation",
+        "linalyl acetate essential oil Inhalation",
+        "linalool essential oil Inhalation"
+      ],
+      "sponsor": "Tri-Service General Hospital (TSGH)",
+      "enrollment": 70,
+      "start_date": "2025-04-01",
+      "completion_date": "2025-10-28",
+      "summary": "This study investigates the effects of breathing exercises combined with lavender essential oil inhalation on occupational burnout and sleep disturbances in rotating shift nurses.",
+      "url": "https://clinicaltrials.gov/study/NCT06914167",
+      "molecule": "Linalool",
+      "molecule_id": "linalool"
+    }
+  ],
+  "products": [
+    {
+      "handle": "raspberry-relief",
+      "name": "Raspberry Relief",
+      "strain": "LA Confidential × Red Raspberry",
+      "support": {
+        "tile": "RELAX",
+        "definition": "May support unwinding and a sense of calm.",
+        "areas": [
+          "anxiety",
+          "sleep"
+        ],
+        "backing": [
+          {
+            "id": "alpha-pinene",
+            "name": "α-Pinene",
+            "percent": 31.07,
+            "mg": 6.21,
+            "papers": 6,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "36241680",
+              "25340185",
+              "42025586",
+              "25230317",
+              "36241680",
+              "27573669"
+            ]
+          },
+          {
+            "id": "myrcene",
+            "name": "Myrcene",
+            "percent": 23.43,
+            "mg": 4.69,
+            "papers": 3,
+            "areas": [
+              "Sleep and sedation",
+              "Anxiety and calm"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "34584156",
+              "12587690",
+              "34584156"
+            ]
+          },
+          {
+            "id": "beta-pinene",
+            "name": "β-Pinene",
+            "percent": 14.29,
+            "mg": 2.86,
+            "papers": 2,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "38012973",
+              "22867633"
+            ]
+          },
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 9.71,
+            "mg": 1.94,
+            "papers": 1,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "39352146"
+            ]
+          },
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 3.84,
+            "mg": 0.77,
+            "papers": 4,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "36241680",
+              "24930711",
+              "30864870",
+              "36241680"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 1.46,
+            "mg": 0.29,
+            "papers": 13,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "38968949",
+              "26983194",
+              "39409026",
+              "39060318",
+              "38012973",
+              "31625973",
+              "30347669",
+              "18824339"
+            ]
+          },
+          {
+            "id": "alpha-humulene",
+            "name": "α-Humulene",
+            "percent": 1.23,
+            "mg": 0.25,
+            "papers": 1,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "42503214"
+            ]
+          },
+          {
+            "id": "camphene",
+            "name": "Camphene",
+            "percent": 0.54,
+            "mg": 0.108,
+            "papers": 2,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "32235333",
+              "25340185"
+            ]
+          },
+          {
+            "id": "1-8-cineole",
+            "name": "1,8-Cineole",
+            "percent": 0.5,
+            "mg": 0.1,
+            "papers": 1,
+            "areas": [
+              "Sleep and sedation"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "31493462"
+            ]
+          },
+          {
+            "id": "beta-selinene",
+            "name": "β-Selinene",
+            "percent": 0.38,
+            "mg": 0.076,
+            "papers": 1,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "16122763"
+            ]
+          },
+          {
+            "id": "terpinolene",
+            "name": "Terpinolene",
+            "percent": 0.16,
+            "mg": 0.032,
+            "papers": 2,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "37865998",
+              "23339024"
+            ]
+          },
+          {
+            "id": "beta-bisabolene",
+            "name": "β-Bisabolene",
+            "percent": 0.11,
+            "mg": 0.022,
+            "papers": 3,
+            "areas": [
+              "Sleep and sedation",
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38630162",
+              "25771354",
+              "25771354"
+            ]
+          },
+          {
+            "id": "caryophyllene-oxide",
+            "name": "Caryophyllene oxide",
+            "percent": 0.09,
+            "mg": 0.018,
+            "papers": 2,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000033",
+            "oxford": "2b",
+            "pmids": [
+              "38934531",
+              "28381767"
+            ]
+          },
+          {
+            "id": "borneol",
+            "name": "Borneol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 1,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "29223397"
+            ]
+          },
+          {
+            "id": "citronellol",
+            "name": "Citronellol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 1,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "32475228"
+            ]
+          },
+          {
+            "id": "beta-sesquiphellandrene",
+            "name": "β-Sesquiphellandrene",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 3,
+            "areas": [
+              "Sleep and sedation",
+              "Anxiety and calm"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38630162",
+              "25771354",
+              "25771354"
+            ]
+          },
+          {
+            "id": "isocaryophyllene",
+            "name": "Isocaryophyllene",
+            "percent": 0.06,
+            "mg": 0.012,
+            "papers": 4,
+            "areas": [
+              "Anxiety and calm",
+              "Sleep and sedation"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "41003922",
+              "36241680",
+              "35766031",
+              "36241680"
+            ]
+          },
+          {
+            "id": "alpha-phellandrene",
+            "name": "α-Phellandrene",
+            "percent": 0.05,
+            "mg": 0.01,
+            "papers": 1,
+            "areas": [
+              "Anxiety and calm"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "38934531"
+            ]
+          },
+          {
+            "id": "cis-pinene-hydrate",
+            "name": "cis-Pinene hydrate",
+            "percent": 0.05,
+            "mg": 0.01,
+            "papers": 1,
+            "areas": [
+              "Sleep and sedation"
+            ],
+            "evidence_level": "human_trials",
+            "eco": "ECO:0000180",
+            "oxford": "1b",
+            "pmids": [
+              "27329516"
+            ]
+          }
+        ],
+        "compounds_with_research": 19,
+        "papers": 52,
+        "share_of_profile": 87.2,
+        "best_evidence": "human_trials",
+        "best_oxford": "1b"
+      }
+    }
+  ],
+  "summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_means": "When a product claims to help you relax, it is designed to support unwinding after a long day and foster a gentle sense of calm. You might experience this as a quieted mind, a release of physical tension, or an easier transition into restful sleep. It is about taking the edge off and finding a comfortable, grounded baseline.",
+    "physiology": "The sensation of unwinding involves a complex interplay between our nervous system and our senses, often beginning the moment an aroma hits the olfactory receptors and signals the brain's emotional centers. Researchers are particularly interested in how certain terpenes might interact with the endocannabinoid system, specifically the CB2 receptors, to help modulate stress responses without intoxicating effects. Other compounds are being studied for their influence on cellular pathways, including PPAR-alpha and Nrf2, which may indirectly support a balanced, calm state. Together, these mechanisms are thought to help quiet the nervous system, paving the way for both daytime relaxation and restful sleep.",
+    "the_science": "The scientific literature exploring these calming molecules spans 59 papers, with the strongest backing coming from human observational studies at Oxford level 1b. Researchers have primarily focused on how these compounds might ease feelings of anxiety and support healthy sleep architecture. While the human data provides an exciting glimpse into real-world effects, the foundation of this research is built on a robust collection of animal models and in vitro studies that map out exactly how these botanicals interact with our biology.",
+    "leading_molecules": [
+      {
+        "id": "linalool",
+        "name": "Linalool",
+        "why": "With 13 papers and a strong presence in calming products, linalool is heavily researched for its potential to ease feelings of anxiety and support a calm mood through its soothing aroma.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "myrcene",
+        "name": "Myrcene",
+        "why": "Myrcene is a dominant terpene in many botanical blends and is closely studied for its potential to support restful sleep and deep relaxation.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "beta-caryophyllene",
+        "name": "β-Caryophyllene",
+        "why": "Known for its unique ability to bind directly to CB2 receptors, this molecule is a major focus for researchers looking into natural ways to modulate the body's stress response.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "alpha-pinene",
+        "name": "α-Pinene",
+        "why": "Though best known for its fresh pine scent, early animal work points toward a potential role for alpha-pinene in supporting calm and mild sedation.",
+        "evidence_level": "animal",
+        "oxford": "5",
+        "eco": "ECO:0007120"
+      }
+    ],
+    "open_questions": [
+      {
+        "question": "Can linalool's calming aroma directly improve sleep quality and reduce occupational burnout in high-stress environments?",
+        "study_to_settle_it": "This is currently being investigated in a completed clinical trial (NCT06914167) evaluating lavender aromatherapy combined with slow breathing exercises in nursing staff."
+      },
+      {
+        "question": "How do specific terpenes alter the behavioral effects and relaxing properties of other botanical compounds like THC?",
+        "study_to_settle_it": "A recruiting Phase 1 clinical trial (NCT06378957) is currently testing the behavioral pharmacology and subjective effects of orally administered D-limonene alongside THC in 65 participants."
+      }
+    ],
+    "evidence_at_a_glance": "The strongest evidence for this claim comes from human observational studies at Oxford level 1b."
+  }
+}

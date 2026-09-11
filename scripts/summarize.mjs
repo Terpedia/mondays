@@ -141,6 +141,22 @@ const ProductSummary = z.object({
   minor_notes: z.string().nullable().describe("Anything notable in the long tail of the profile. Null if nothing."),
 });
 
+const ClaimSummary = z.object({
+  what_it_means: z.string().describe("2-3 sentences: what this claim means in plain language, as an experience a person would recognise."),
+  physiology: z.string().describe("3-5 sentences on the physiology behind the experience — the systems and receptors involved, in plain language, and where terpenes are thought to act (e.g. GABA-A, CB2, TRP channels, adenosine, olfactory routes). Only mechanisms supported by the protein targets and literature provided. Interested, not hedged."),
+  the_science: z.string().describe("3-5 sentences: what the literature on the backing molecules has actually looked at for this claim, naming the strongest evidence level once in Oxford terms, and what kinds of studies make up the rest."),
+  leading_molecules: z.array(z.object({
+    id: z.string(), name: z.string(),
+    why: z.string().describe("One or two sentences: why this molecule is the one to watch for this claim — its research, its mechanism, its share of the chews."),
+    evidence_level: EvidenceLevel,
+  })).describe("The 3-5 molecules that carry this claim, from the backing provided, best-evidenced first."),
+  open_questions: z.array(z.object({
+    question: z.string(),
+    study_to_settle_it: z.string().describe("The study that would move this up an Oxford level. If a registered trial exists in this area, name it (NCT id) instead."),
+  })).describe("2-3 open questions."),
+  evidence_at_a_glance: z.string().describe("One sentence: strongest evidence and its Oxford level, plainly."),
+});
+
 const SYSTEM = `You write for a reference site about natural-product chemistry, for curious readers who want to understand the molecules in what they eat, drink and smell. Terpedia is enthusiastic about what these molecules might do. Its job is to make the potential legible, with the evidence grade stated cleanly so readers can weigh it themselves.
 
 Voice:
@@ -233,6 +249,31 @@ async function summarizeProduct(product, profile, molecules) {
   return { ...stamp(), ...output };
 }
 
+async function summarizeClaim(claim, molecules) {
+  const top = claim.molecules.slice(0, 8).map((b) => {
+    const m = molecules.get(b.id);
+    return {
+      id: b.id, name: b.name, papers: b.papers, evidence_level: b.evidence_level, oxford: b.oxford, eco: b.eco,
+      evidence_lines: b.evidence_lines, share_in_products: b.products.map((p) => `${p.name} ${p.percent}%`),
+      protein_targets: (m?.targets || []).map((t) => `${t.protein} (${t.activity} ${t.value_um ?? "?"} µM)`),
+      statements: b.statements, hypotheses: b.hypotheses,
+    };
+  });
+  const input = {
+    claim: claim.tile, definition: claim.definition, research_areas: claim.areas,
+    molecules_with_research: claim.molecules_with_research, total_papers: claim.papers,
+    best_evidence: claim.best_evidence, best_oxford: claim.best_oxford,
+    leading_molecules: top,
+    registered_trials: claim.trials.slice(0, 5).map((t) => ({ nct_id: t.nct_id, title: t.title, status: t.status, molecule: t.molecule, conditions: t.conditions })),
+    products_carrying_claim: claim.products.map((p) => p.name),
+  };
+  const output = await generate(SYSTEM, `Write the page for the pack claim "${claim.tile}": what it means, the physiology, the science, the leading molecules and the open questions.\n\n${JSON.stringify(input, null, 2)}`, ClaimSummary);
+  // Enforce grades from the backing, as everywhere else.
+  const byId = new Map(claim.molecules.map((b) => [b.id, b]));
+  output.leading_molecules = output.leading_molecules.filter((lm) => byId.has(lm.id)).map((lm) => ({ ...lm, evidence_level: byId.get(lm.id).evidence_level, oxford: byId.get(lm.id).oxford, eco: byId.get(lm.id).eco }));
+  return { ...stamp(), ...output };
+}
+
 const molecules = new Map();
 for (const file of await fs.readdir(moleculeDir)) {
   if (!file.endsWith(".json")) continue;
@@ -254,6 +295,22 @@ if (!productsOnly) {
       console.log(`${id}: ${record.consumer_summary.structure_function.length} statements, ${record.consumer_summary.hypothesized_benefits.length} hypotheses`);
     } catch (error) { console.warn(`  ! ${id}: ${error.message}`); }
   }
+}
+
+if (process.argv.includes("--claims")) {
+  const dir = path.join(root, "data/claims");
+  for (const file of await fs.readdir(dir)) {
+    if (!file.endsWith(".json") || file === "vocabulary.json") continue;
+    const claim = JSON.parse(await fs.readFile(path.join(dir, file), "utf8"));
+    if (only.length && !only.includes(claim.id)) continue;
+    if (claim.summary && !force) continue;
+    try {
+      claim.summary = await summarizeClaim(claim, molecules);
+      await fs.writeFile(path.join(dir, file), `${JSON.stringify(claim, null, 2)}\n`);
+      console.log(`${claim.tile}: ${claim.summary.leading_molecules.length} leading molecules, ${claim.summary.open_questions.length} open questions`);
+    } catch (error) { console.warn(`  ! ${claim.tile}: ${error.message}`); }
+  }
+  process.exit(0);
 }
 
 if (!moleculesOnly) {

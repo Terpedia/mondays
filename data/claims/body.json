@@ -1,0 +1,4074 @@
+{
+  "tile": "BODY",
+  "id": "body",
+  "definition": "May support physical ease and comfort.",
+  "areas": [
+    "pain",
+    "anti-inflammatory"
+  ],
+  "sense": "calm",
+  "molecules": [
+    {
+      "id": "limonene",
+      "name": "Limonene",
+      "papers": 16,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_trials",
+      "eco": "ECO:0000033",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "systematic_review",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 6
+        },
+        {
+          "design": "review",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward limonene having a role in supporting healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether limonene's interactions with the nervous system might offer a natural pathway for pain relief.",
+          "study": "To advance this from Oxford level 5, researchers would need to design a randomized, placebo-controlled human trial measuring subjective pain scores in healthy adults exposed to a mild, controlled pain stimulus after ingesting limonene.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 13.84
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.91
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 19.03
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 10.11
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 9.71
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 5.88
+        }
+      ],
+      "pmids": [
+        "34361686",
+        "29427589",
+        "40650139",
+        "40986263",
+        "41366672",
+        "40443223",
+        "38540754",
+        "32220222",
+        "38308792",
+        "32514601"
+      ],
+      "score": 16.984
+    },
+    {
+      "id": "beta-caryophyllene",
+      "name": "β-Caryophyllene",
+      "papers": 40,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 21
+        },
+        {
+          "design": "review",
+          "papers": 5
+        },
+        {
+          "design": "animal",
+          "papers": 7
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "The molecule is being studied for its potential to support healthy inflammatory responses.",
+        "Animal research suggests it may support physical comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether β-caryophyllene's interaction with CB2 receptors can provide meaningful pain relief.",
+          "study": "This is currently being tested in humans, such as in the active clinical trial NCT04451863 evaluating the analgesic effects of terpenes.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 15.11
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 14.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 9.01
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 17.29
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 3.84
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 2.78
+        }
+      ],
+      "pmids": [
+        "41120021",
+        "31841509",
+        "33114564",
+        "38744071",
+        "37762646",
+        "32205230",
+        "38542177",
+        "35792574",
+        "36555694",
+        "37241885"
+      ],
+      "score": 16.189
+    },
+    {
+      "id": "myrcene",
+      "name": "Myrcene",
+      "papers": 11,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        }
+      ],
+      "statements": [
+        "Early work points toward myrcene playing a role in supporting healthy inflammatory responses.",
+        "Researchers are exploring whether this terpene may support physical comfort."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether myrcene can act on pathways to support physical comfort, which could explain some of the soothing properties of myrcene-rich plants.",
+          "study": "This is currently being tested in an active, non-recruiting Phase 1 clinical trial (NCT04451863) evaluating the analgesic and subjective effects of terpenes in humans.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 6.2
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 2.29
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 36.63
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 6.41
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 23.43
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 65
+        }
+      ],
+      "pmids": [
+        "35887239",
+        "36677744",
+        "36557879",
+        "33007969",
+        "32962470",
+        "25622554",
+        "41223757",
+        "40839768",
+        "35887239",
+        "1983154"
+      ],
+      "score": 15.616
+    },
+    {
+      "id": "alpha-pinene",
+      "name": "α-Pinene",
+      "papers": 19,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 12
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        }
+      ],
+      "statements": [
+        "Early work points toward a role for alpha-pinene in supporting the body's natural anti-inflammatory responses.",
+        "Early animal work points toward a potential role in pain relief."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 2.45
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.1
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 4.4
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 2.1
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 31.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 9.18
+        }
+      ],
+      "pmids": [
+        "40015205",
+        "38494527",
+        "39727379",
+        "37329479",
+        "37789204",
+        "39534602",
+        "32689608",
+        "39298016",
+        "24455984",
+        "30521868"
+      ],
+      "score": 15.583
+    },
+    {
+      "id": "linalool",
+      "name": "Linalool",
+      "papers": 14,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "review",
+          "papers": 3
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early work points toward the possibility that linalool might help modulate the body's inflammatory response, which could have implications for chronic inflammatory conditions.",
+          "study": "A randomized, double-blind human trial (Oxford level 1b) administering a controlled oral dose of linalool and measuring systemic inflammatory markers like CRP and IL-6 over an 8-week period would clarify its efficacy.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 5.99
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.19
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 2.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 4.97
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.46
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.64
+        }
+      ],
+      "pmids": [
+        "34611674",
+        "38968949",
+        "31254955",
+        "26983194",
+        "36330908",
+        "25311666",
+        "26040565",
+        "39098193",
+        "32632735",
+        "38968949"
+      ],
+      "score": 9.43
+    },
+    {
+      "id": "alpha-humulene",
+      "name": "α-Humulene",
+      "papers": 15,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        },
+        {
+          "design": "review",
+          "papers": 2
+        },
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward α-humulene supporting the body's natural anti-inflammatory responses.",
+        "Early observational work points toward a potential role in supporting comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating if α-humulene can modulate pro-inflammatory cytokines like TNF-alpha to soothe systemic inflammation.",
+          "study": "A randomized, double-blind human trial measuring serum inflammatory cytokine levels in healthy volunteers given a standardized α-humulene supplement versus placebo over 8 weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 4.21
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 4.15
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 2.27
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 5.14
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.23
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.72
+        }
+      ],
+      "pmids": [
+        "34770801",
+        "38388989",
+        "17559833",
+        "29783680",
+        "19438512",
+        "39826808",
+        "38006221",
+        "33844433",
+        "38068924",
+        "29066299"
+      ],
+      "score": 7.548
+    },
+    {
+      "id": "beta-pinene",
+      "name": "β-Pinene",
+      "papers": 5,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Beta-pinene is being explored for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether beta-pinene interacts with the nervous system to blunt pain signals, potentially serving as a natural, non-habit-forming analgesic.",
+          "study": "A Phase I/II human clinical trial evaluating self-reported pain scales and inflammatory markers in subjects with chronic joint pain over an 8-week supplementation period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 1.92
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.62
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 3.66
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.78
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 14.29
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 4.5
+        }
+      ],
+      "pmids": [
+        "28106736",
+        "36113677",
+        "34072723",
+        "17893834",
+        "36113677"
+      ],
+      "score": 7.33
+    },
+    {
+      "id": "selina-3-7-11-diene",
+      "name": "Selina-3,7(11)-diene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "May support the body's natural inflammatory response."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether this terpene contributes to the anti-inflammatory effects observed in hemp and hop extracts. If this bears out, it could help explain the soothing properties of these botanical oils.",
+          "study": "A randomized, double-blind, placebo-controlled human trial administering a standardized dose of selina-3,7(11)-diene over four weeks, measuring circulating inflammatory markers like CRP and IL-6.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 8.12
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.48
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 3.06
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 8.77
+        }
+      ],
+      "pmids": [
+        "41125761",
+        "42280118"
+      ],
+      "score": 3.872
+    },
+    {
+      "id": "beta-selinene",
+      "name": "β-Selinene",
+      "papers": 9,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "in_vitro",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "early work points toward a role in supporting healthy inflammatory responses.",
+        "may support physical comfort and pain relief."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 1.08
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.43
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.96
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.59
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.38
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "42280118",
+        "38006221",
+        "39221717",
+        "35840057",
+        "25263165",
+        "26411034",
+        "28191277",
+        "34885954",
+        "25263165"
+      ],
+      "score": 3.287
+    },
+    {
+      "id": "alpha-selinene",
+      "name": "α-Selinene",
+      "papers": 5,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "The compound is being studied for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward alpha-selinene potentially playing a role in pain relief, possibly by interacting with inflammatory pathways.",
+          "study": "A pilot human clinical trial (Oxford level 1b) evaluating the analgesic effects of a topical alpha-selinene preparation in healthy volunteers subjected to mild, induced localized pain over a two-week period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 1.3
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.53
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.4
+        }
+      ],
+      "pmids": [
+        "38006221",
+        "42250614",
+        "42513156",
+        "34138517",
+        "22233038"
+      ],
+      "score": 2.495
+    },
+    {
+      "id": "alpha-terpineol",
+      "name": "α-Terpineol",
+      "papers": 12,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 6
+        }
+      ],
+      "statements": [
+        "Observational research suggests this molecule may support healthy inflammatory responses.",
+        "Early animal research points toward a potential role for alpha-terpineol in supporting comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward alpha-terpineol having a soothing effect on pain pathways, prompting researchers to ask if it could serve as a non-habit-forming analgesic. If this holds up, it could provide a novel botanical option for managing everyday aches.",
+          "study": "A phase 1/2 human clinical trial administering oral alpha-terpineol to healthy volunteers subjected to a standardized pain stimulus (like the cold pressor test), measuring subjective pain scores and tolerance time over a 4-hour period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.87
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.78
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.11
+        }
+      ],
+      "pmids": [
+        "22380944",
+        "24947163",
+        "21830186",
+        "17867636",
+        "38138443",
+        "34355673",
+        "21385090",
+        "29902764",
+        "34846548",
+        "27231091"
+      ],
+      "score": 2.408
+    },
+    {
+      "id": "borneol",
+      "name": "Borneol",
+      "papers": 19,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_trials",
+      "eco": "ECO:0000033",
+      "oxford": "1a",
+      "evidence_lines": [
+        {
+          "design": "systematic_review",
+          "papers": 2
+        },
+        {
+          "design": "rct",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 7
+        },
+        {
+          "design": "review",
+          "papers": 1
+        },
+        {
+          "design": "systematic_review",
+          "papers": 1
+        },
+        {
+          "design": "rct",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 5
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy inflammatory responses.",
+        "It is being explored for its potential to support comfort and pain relief."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.28
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.45
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.32
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "33588596",
+        "36087846",
+        "38964157",
+        "39041145",
+        "37310024",
+        "24975100",
+        "39439351",
+        "25835611",
+        "31978868",
+        "38527573"
+      ],
+      "score": 2.226
+    },
+    {
+      "id": "e-beta-farnesene",
+      "name": "(E)-β-Farnesene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "It may support anti-inflammatory pathways."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether it can modulate inflammatory pathways, which could offer a natural way to support joint or tissue health.",
+          "study": "A randomized, double-blind clinical trial in adults with mild osteoarthritis, administering an oral (E)-β-farnesene extract and measuring joint pain and mobility scores over 12 weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 2.23
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 2.53
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.67
+        }
+      ],
+      "pmids": [
+        "23459148",
+        "39343745"
+      ],
+      "score": 2.079
+    },
+    {
+      "id": "1-8-cineole",
+      "name": "1,8-Cineole",
+      "papers": 22,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 5
+        },
+        {
+          "design": "animal",
+          "papers": 9
+        },
+        {
+          "design": "review",
+          "papers": 5
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Is being studied for its potential to support healthy inflammatory pathways."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early observational work points toward a potential role in pain management, raising the exciting question of whether it could be used as a topical or systemic analgesic.",
+          "study": "A randomized controlled trial (Oxford level 1b) applying a standardized 1,8-cineole topical formulation versus a placebo to human subjects with localized joint pain, measuring standardized pain scores over a four-week period.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.26
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.1
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.5
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "33111547",
+        "37047133",
+        "40850199",
+        "24831245",
+        "38810792",
+        "15019181",
+        "27129189",
+        "39885809",
+        "20722639",
+        "32200535"
+      ],
+      "score": 1.907
+    },
+    {
+      "id": "endo-fenchol",
+      "name": "endo-Fenchol",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early observational work suggests it may support pain relief."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 2.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.73
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.25
+        }
+      ],
+      "pmids": [
+        "42280118",
+        "24122170"
+      ],
+      "score": 1.886
+    },
+    {
+      "id": "delta-cadinene",
+      "name": "δ-Cadinene",
+      "papers": 17,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 6
+        },
+        {
+          "design": "review",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        }
+      ],
+      "statements": [
+        "May support healthy inflammatory responses in the body.",
+        "Early work points toward a potential role in supporting physical comfort and pain relief."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.39
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.36
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.1
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.4
+        }
+      ],
+      "pmids": [
+        "35744884",
+        "40899416",
+        "39337440",
+        "42131893",
+        "37498376",
+        "36576262",
+        "38688144",
+        "36094726",
+        "25263165",
+        "39891598"
+      ],
+      "score": 1.459
+    },
+    {
+      "id": "gamma-elemene",
+      "name": "γ-Elemene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "in_vitro",
+      "eco": "ECO:0000181",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "in_vitro",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Is being studied for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.05
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 2.76
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.19
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.09
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "35744884",
+        "34684809"
+      ],
+      "score": 1.455
+    },
+    {
+      "id": "beta-bisabolene",
+      "name": "β-Bisabolene",
+      "papers": 8,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "review",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "It is being studied for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential ability to soothe pain, prompting questions about its role in the analgesic effects of ginger and valerian.",
+          "study": "A randomized, double-blind, placebo-controlled human trial evaluating self-reported pain scores and inflammatory markers in adults with mild osteoarthritis taking a measured oral dose of β-bisabolene for 12 weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.4
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.35
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.51
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.11
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.19
+        }
+      ],
+      "pmids": [
+        "41910695",
+        "41097327",
+        "42280118",
+        "38006221",
+        "24662935",
+        "42451615",
+        "41687931",
+        "41687931"
+      ],
+      "score": 1.358
+    },
+    {
+      "id": "terpinolene",
+      "name": "Terpinolene",
+      "papers": 7,
+      "areas": [
+        "Pain relief",
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Is being studied for potential pain relief support."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether terpinolene can modulate inflammatory pathways, which could make it a valuable natural compound for managing systemic inflammation.",
+          "study": "A randomized, placebo-controlled human trial measuring systemic inflammatory markers like CRP and IL-6 over 8 weeks in adults with elevated baseline inflammation.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.29
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.18
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.23
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.49
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.16
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.3
+        }
+      ],
+      "pmids": [
+        "40447115",
+        "27332775",
+        "36648357",
+        "37792093",
+        "27332775",
+        "41967723",
+        "30792116"
+      ],
+      "score": 1.244
+    },
+    {
+      "id": "gamma-muurolene",
+      "name": "γ-Muurolene",
+      "papers": 12,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 7
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy inflammatory responses.",
+        "May support physical comfort and natural pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "If this bears out, γ-muurolene might help modulate the body's inflammatory pathways, contributing to the soothing effects historically associated with traditional resins like Copaiba.",
+          "study": "A randomized, placebo-controlled human trial measuring systemic inflammatory markers, such as C-reactive protein, in healthy adults taking a measured oral dose of γ-muurolene over 8 weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.35
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.31
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.1
+        }
+      ],
+      "pmids": [
+        "36442761",
+        "32439404",
+        "39891598",
+        "25097889",
+        "18293438",
+        "31429309",
+        "41599390",
+        "40462766",
+        "22728247",
+        "36442761"
+      ],
+      "score": 1.155
+    },
+    {
+      "id": "valencene",
+      "name": "Valencene",
+      "papers": 5,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        }
+      ],
+      "statements": [
+        "Valencene is being studied for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether valencene can modulate inflammatory pathways, potentially offering a natural way to support tissue recovery and comfort.",
+          "study": "A randomized, placebo-controlled human trial (Oxford 1b) measuring systemic inflammatory markers (like CRP and cytokines) in healthy adults given a daily valencene supplement for eight weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.47
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.37
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.28
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.53
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.1
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.1
+        }
+      ],
+      "pmids": [
+        "35469837",
+        "36076580",
+        "37536183",
+        "21843620",
+        "29675712"
+      ],
+      "score": 1.143
+    },
+    {
+      "id": "e-nerolidol",
+      "name": "(E)-Nerolidol",
+      "papers": 11,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 5
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Human observational research points toward a potential role in supporting healthy inflammatory responses.",
+        "Early animal research is investigating whether it may support pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "If this bears out, (E)-nerolidol could be utilized to help manage systemic inflammation by interacting with enzymes like 15-lipoxygenase.",
+          "study": "A randomized, double-blind human trial supplementing (E)-nerolidol and tracking inflammatory markers like CRP and 15-lipoxygenase activity over 12 weeks.",
+          "evidence_level": "human_observational"
+        },
+        {
+          "hypothesis": "Early animal work points toward a potential analgesic effect, raising the question of whether it could soothe discomfort in humans.",
+          "study": "A phase 1/2 human clinical trial assessing subjective pain scores and safety profiles in healthy volunteers exposed to a standardized mild pain stimulus after receiving (E)-nerolidol.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.35
+        }
+      ],
+      "pmids": [
+        "35744884",
+        "38006221",
+        "30576771",
+        "40572450",
+        "35840057",
+        "38527573",
+        "36280015",
+        "17826984",
+        "21971207",
+        "30576771"
+      ],
+      "score": 1.119
+    },
+    {
+      "id": "caryophyllene-oxide",
+      "name": "Caryophyllene oxide",
+      "papers": 11,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Is being studied for its potential to support healthy inflammatory responses.",
+        "May support comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward potential analgesic properties, prompting researchers to ask if it can safely modulate pain pathways in humans. If successful, it might provide a non-habit-forming alternative for managing discomfort.",
+          "study": "A Phase I/II first-in-human trial administering standardized oral doses of caryophyllene oxide to healthy volunteers subjected to acute pain stimuli, assessing pain scores and safety over a 24-hour period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.09
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.3
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.17
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.13
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.09
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "24484210",
+        "36008995",
+        "39411871",
+        "33844433",
+        "19576741",
+        "37337451",
+        "28335395",
+        "33091493",
+        "27696789",
+        "39710306"
+      ],
+      "score": 0.978
+    },
+    {
+      "id": "beta-sesquiphellandrene",
+      "name": "β-Sesquiphellandrene",
+      "papers": 7,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Is being studied for its potential to support healthy inflammatory responses.",
+        "Early observational work points toward a potential role in supporting physical comfort."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.35
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.27
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.08
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.28
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "41910695",
+        "24662935",
+        "41968572",
+        "39986357",
+        "24020099",
+        "41968572",
+        "24020099"
+      ],
+      "score": 0.936
+    },
+    {
+      "id": "alpha-bisabolol",
+      "name": "α-Bisabolol",
+      "papers": 32,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "α-Bisabolol is being studied for its potential to support the body's natural response to inflammation.",
+        "Animal research suggests it may support physical comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are testing whether topical application can accelerate wound healing and soothe histamine-driven skin reactions.",
+          "study": "A larger Phase 2 randomized controlled trial to follow up on the completed Phase 1 trial (NCT05022108), measuring wound healing time and histamine response over 14 days.",
+          "evidence_level": "none_found"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.29
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.29
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.07
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.25
+        }
+      ],
+      "pmids": [
+        "40943092",
+        "36142441",
+        "41412265",
+        "37714321",
+        "35807237",
+        "40765560",
+        "21771629",
+        "24894548",
+        "37762315",
+        "21870032"
+      ],
+      "score": 0.89
+    },
+    {
+      "id": "isocaryophyllene",
+      "name": "Isocaryophyllene",
+      "papers": 30,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 5
+        },
+        {
+          "design": "animal",
+          "papers": 11
+        },
+        {
+          "design": "review",
+          "papers": 4
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 6
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Is being studied for its potential to support healthy inflammatory responses.",
+        "May support physical comfort and pain management."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.13
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.09
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.18
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "38744071",
+        "32205230",
+        "35792574",
+        "35648433",
+        "27840942",
+        "32416450",
+        "33114564",
+        "38542177",
+        "31841509",
+        "32998300"
+      ],
+      "score": 0.853
+    },
+    {
+      "id": "geraniol",
+      "name": "Geraniol",
+      "papers": 26,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 8
+        },
+        {
+          "design": "animal",
+          "papers": 12
+        },
+        {
+          "design": "review",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Geraniol is being studied for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward geraniol interacting with pain signaling pathways, raising the question of whether it could serve as a natural analgesic.",
+          "study": "A Phase I/II human clinical trial administering a standardized oral geraniol extract to healthy volunteers subjected to a controlled pain stimulus, measuring subjective pain scores and inflammatory biomarkers over a 24-hour period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "32708169",
+        "30308694",
+        "39460887",
+        "41008574",
+        "38897034",
+        "37175079",
+        "38517361",
+        "31040644",
+        "33274899",
+        "37848748"
+      ],
+      "score": 0.648
+    },
+    {
+      "id": "z-beta-ocimene",
+      "name": "(Z)-β-Ocimene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "in_vitro",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early animal work points toward a potential role in supporting healthy inflammatory responses."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.12
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.07
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.79
+        }
+      ],
+      "pmids": [
+        "33932510",
+        "34684809"
+      ],
+      "score": 0.64
+    },
+    {
+      "id": "citronellol",
+      "name": "Citronellol",
+      "papers": 12,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 5
+        },
+        {
+          "design": "in_vitro",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        }
+      ],
+      "statements": [
+        "Early observational work points toward citronellol having properties that may support a healthy inflammatory response.",
+        "Early animal studies suggest citronellol may support physical comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether citronellol can modulate inflammatory pathways to protect organs from stress-induced damage.",
+          "study": "A randomized, double-blind clinical trial evaluating inflammatory markers like TNF-alpha in human subjects taking a standardized citronellol extract versus placebo over 12 weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.05
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.14
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "41301532",
+        "36372917",
+        "39342545",
+        "39621091",
+        "33838788",
+        "37087210",
+        "34310905",
+        "22350215",
+        "40328821",
+        "22350215"
+      ],
+      "score": 0.504
+    },
+    {
+      "id": "selina-4-11-diene",
+      "name": "Selina-4,11-diene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy immune and inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early observational work points toward the possibility that this terpene might modulate the activity of neutrophils, a type of white blood cell, to soothe overactive immune responses.",
+          "study": "A randomized, double-blind clinical trial measuring serum inflammatory markers like CRP and neutrophil activity in healthy adults taking a measured oral dose of selina-4,11-diene versus placebo for 30 days.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.24
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.31
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "28191277",
+        "35744884"
+      ],
+      "score": 0.445
+    },
+    {
+      "id": "alpha-phellandrene",
+      "name": "α-Phellandrene",
+      "papers": 15,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 7
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy inflammatory responses.",
+        "May support physical comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether alpha-phellandrene can protect against neurodegenerative damage, such as in Parkinson's disease models, by attenuating inflammatory responses. If this bears out, it could offer a new natural pathway for protecting brain health.",
+          "study": "A randomized, placebo-controlled human trial measuring systemic inflammatory markers and motor function scores in patients with early-stage Parkinson's disease over 12 weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.05
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.11
+        }
+      ],
+      "pmids": [
+        "33744277",
+        "32415495",
+        "30792116",
+        "16713153",
+        "36280015",
+        "38138443",
+        "36206869",
+        "37570874",
+        "24662935",
+        "25154406"
+      ],
+      "score": 0.434
+    },
+    {
+      "id": "gamma-curcumene",
+      "name": "γ-Curcumene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "This compound is being studied for its potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Because it is found in soothing cosmeceutical extracts like Helichrysum, scientists are investigating if isolated gamma-curcumene can directly calm localized tissue inflammation.",
+          "study": "A randomized controlled trial in healthy human volunteers applying a gamma-curcumene cream to UV-induced erythema (sunburn) to measure reductions in skin redness and inflammatory cytokine levels over 72 hours.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.27
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.3
+        }
+      ],
+      "pmids": [
+        "18838835",
+        "38934732"
+      ],
+      "score": 0.432
+    },
+    {
+      "id": "guaiol",
+      "name": "Guaiol",
+      "papers": 7,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0007120",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "The molecule is being studied for its potential to support healthy inflammatory responses.",
+        "Guaiol may support comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether guaiol can modulate macrophage activity to reduce systemic inflammation.",
+          "study": "A first-in-human Phase I/II trial giving oral guaiol to healthy volunteers with elevated baseline inflammatory markers, measuring serum cytokines like TNF-alpha and IL-6 over 4 weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.13
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.13
+        }
+      ],
+      "pmids": [
+        "35744884",
+        "36018718",
+        "42280118",
+        "39150493",
+        "35462181",
+        "39150493",
+        "35747996"
+      ],
+      "score": 0.381
+    },
+    {
+      "id": "fenchone",
+      "name": "Fenchone",
+      "papers": 4,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward fenchone supporting healthy inflammatory responses.",
+        "Animal research is exploring whether fenchone may support pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward fenchone modulating gut microbiota and inflammatory pathways, raising the question of whether it could soothe irritable bowel symptoms.",
+          "study": "A randomized, double-blind, placebo-controlled human trial giving a daily oral fenchone capsule to patients with constipation-predominant irritable bowel syndrome, tracking symptom severity scores and inflammatory biomarkers over 8 weeks.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.17
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.12
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "40591211",
+        "37689616",
+        "40509153",
+        "36552848"
+      ],
+      "score": 0.379
+    },
+    {
+      "id": "alpha-muurolene",
+      "name": "α-Muurolene",
+      "papers": 6,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether α-muurolene can help modulate inflammatory responses, which could make it a valuable component of soothing botanical extracts.",
+          "study": "A randomized, placebo-controlled human trial measuring systemic inflammatory markers (such as CRP) over 8 weeks in healthy adults consuming a standardized α-muurolene extract.",
+          "evidence_level": "none_found"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.2
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.2
+        }
+      ],
+      "pmids": [
+        "38006221",
+        "35744884",
+        "42131893",
+        "35793972",
+        "38688144",
+        "42178874"
+      ],
+      "score": 0.355
+    },
+    {
+      "id": "alpha-copaene",
+      "name": "α-Copaene",
+      "papers": 8,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "review",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating if this sesquiterpene can help regulate the body's inflammatory pathways, potentially supporting tissue recovery.",
+          "study": "A randomized controlled trial in humans measuring systemic inflammatory markers, such as CRP, before and after a targeted dietary intervention.",
+          "evidence_level": "human_observational"
+        },
+        {
+          "hypothesis": "Early animal work points toward a potential role in modulating pain signaling, raising the question of whether it could offer soothing benefits for humans.",
+          "study": "A Phase I human clinical trial assessing subjective pain scores and safety profiles in healthy volunteers using a standardized topical application.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.11
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "29783680",
+        "38006221",
+        "42131893",
+        "18838835",
+        "25097889",
+        "42128233",
+        "23459148",
+        "25097889"
+      ],
+      "score": 0.344
+    },
+    {
+      "id": "gamma-cadinene",
+      "name": "γ-Cadinene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Animal research is exploring whether this molecule may support healthy inflammatory responses."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.35
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.19
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.06
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.22
+        }
+      ],
+      "pmids": [
+        "18293438",
+        "3725873"
+      ],
+      "score": 0.33
+    },
+    {
+      "id": "terpinen-4-ol",
+      "name": "Terpinen-4-ol",
+      "papers": 9,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_trials",
+      "eco": "ECO:0000033",
+      "oxford": "1a",
+      "evidence_lines": [
+        {
+          "design": "systematic_review",
+          "papers": 1
+        },
+        {
+          "design": "clinical_trial",
+          "papers": 1
+        },
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "May support healthy inflammatory responses, particularly in topical applications for the skin and eyes."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Researchers are exploring whether terpinen-4-ol can effectively soothe chronic eyelid inflammation caused by Demodex mites, which would offer a targeted natural approach to a common source of eye irritation.",
+          "study": "This is already being tested in humans, such as in the completed clinical trial NCT01647217 measuring its effects on chronic blepharitis.",
+          "evidence_level": "human_trials"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.07
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.07
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.05
+        }
+      ],
+      "pmids": [
+        "30003404",
+        "38838826",
+        "15373773",
+        "24947163",
+        "23649340",
+        "34426115",
+        "37455134",
+        "22473218",
+        "22799106"
+      ],
+      "score": 0.312
+    },
+    {
+      "id": "camphene",
+      "name": "Camphene",
+      "papers": 1,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward camphene having anti-inflammatory properties, raising the question of whether it could help manage systemic inflammation in humans.",
+          "study": "The next step would be a phase I/II human clinical trial giving healthy volunteers a standardized oral dose of camphene and measuring inflammatory blood markers, such as CRP and cytokines, over a four-week period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.56
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.3
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.37
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.42
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.54
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.22
+        }
+      ],
+      "pmids": [
+        "39317688"
+      ],
+      "score": 0.308
+    },
+    {
+      "id": "humulene-epoxide-ii",
+      "name": "Humulene epoxide II",
+      "papers": 6,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward humulene epoxide II as a compound that may support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating whether this terpene derivative might play a role in soothing physical discomfort and providing natural pain relief.",
+          "study": "A randomized, double-blind human trial measuring subjective pain scores and inflammatory markers in adults with mild joint discomfort over a 4-week period.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "38006221",
+        "33844433",
+        "37355085",
+        "33359187",
+        "20157878",
+        "20157878"
+      ],
+      "score": 0.225
+    },
+    {
+      "id": "alpha-terpinene",
+      "name": "α-Terpinene",
+      "papers": 8,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy inflammatory responses.",
+        "Early animal work points toward a potential role in supporting pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Animal research points toward a potential role in soothing neuropathic pain, which would be an exciting development for natural pain management if it translates to humans.",
+          "study": "The first human randomized controlled trial evaluating an oral or topical alpha-terpinene preparation, measuring patient-reported neuropathic pain scores over eight weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.07
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "26132854",
+        "40232375",
+        "38753259",
+        "39955008",
+        "24315850",
+        "34846548",
+        "39079594",
+        "40232375"
+      ],
+      "score": 0.223
+    },
+    {
+      "id": "beta-eudesmol",
+      "name": "β-Eudesmol",
+      "papers": 8,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "in_vitro",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy inflammatory responses, such as mast cell regulation."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early work points toward beta-eudesmol suppressing allergic reactions by inhibiting mast cell degranulation. If confirmed, it could offer a novel natural approach to managing seasonal or environmental sensitivities.",
+          "study": "A randomized, double-blind, placebo-controlled human trial administering a standardized beta-eudesmol extract to individuals with known seasonal allergies, measuring serum histamine levels and self-reported symptom scores over a 12-week allergy season.",
+          "evidence_level": "human_observational"
+        }
+      ],
+      "products": [
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "40972729",
+        "41683199",
+        "34684809",
+        "38869184",
+        "35176999",
+        "26411034",
+        "31270736",
+        "35579663"
+      ],
+      "score": 0.223
+    },
+    {
+      "id": "beta-phellandrene",
+      "name": "β-Phellandrene",
+      "papers": 5,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        },
+        {
+          "design": "in_vitro",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "This molecule may support healthy inflammatory responses."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "32496130",
+        "41413236",
+        "28911567",
+        "28385055",
+        "31352022"
+      ],
+      "score": 0.207
+    },
+    {
+      "id": "10-epi-gamma-eudesmol",
+      "name": "10-epi-γ-Eudesmol",
+      "papers": 3,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 3
+        }
+      ],
+      "statements": [
+        "Early work points toward a potential to support healthy inflammatory responses."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential to soothe inflammatory pathways, which could eventually inform new topical or systemic soothing agents.",
+          "study": "A randomized, double-blind human trial evaluating the topical application of the molecule on UV-induced skin erythema (inflammation) over 7 days.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.12
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.11
+        }
+      ],
+      "pmids": [
+        "38613430",
+        "35920490",
+        "23566359"
+      ],
+      "score": 0.157
+    },
+    {
+      "id": "gamma-terpinene",
+      "name": "γ-Terpinene",
+      "papers": 6,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 3
+        },
+        {
+          "design": "animal",
+          "papers": 3
+        }
+      ],
+      "statements": [
+        "Early work points toward a role in supporting healthy inflammatory responses.",
+        "The compound is being explored for its potential to support natural pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are investigating if gamma-terpinene can modulate acute inflammatory responses, which could eventually translate to new natural therapies for inflammatory conditions.",
+          "study": "A Phase I/II human clinical trial measuring systemic inflammatory biomarkers like CRP in healthy volunteers given a standardized gamma-terpinene extract over 4 weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.08
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "26132854",
+        "40232375",
+        "38753259",
+        "39079594",
+        "40232375",
+        "34846548"
+      ],
+      "score": 0.15
+    },
+    {
+      "id": "para-cymene",
+      "name": "para-Cymene",
+      "papers": 3,
+      "areas": [
+        "Pain relief",
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Is being studied for potential pain relief applications.",
+        "Early work points toward anti-inflammatory potential."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "If this bears out, para-cymene might one day be utilized as a natural analgesic to help manage pain pathways.",
+          "study": "A randomized, placebo-controlled human clinical trial measuring subjective pain scores and inflammatory markers following the administration of a standardized para-cymene extract.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.11
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "14256581",
+        "15103664",
+        "32957888"
+      ],
+      "score": 0.145
+    },
+    {
+      "id": "alpha-eudesmol",
+      "name": "α-Eudesmol",
+      "papers": 7,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "The compound is being explored for its ability to support healthy inflammatory responses.",
+        "Alpha-eudesmol is being investigated for its potential to support physical comfort."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Based on its presence in traditional botanical remedies, researchers are investigating whether it can support airway dilation and reduce respiratory inflammation.",
+          "study": "A randomized, placebo-controlled human trial measuring forced expiratory volume (FEV1) and inflammatory cytokines in patients with mild asthma over a 4-week period.",
+          "evidence_level": "none_found"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "40972729",
+        "38613430",
+        "35920490",
+        "21971207",
+        "23566359",
+        "35579663",
+        "21971207"
+      ],
+      "score": 0.121
+    },
+    {
+      "id": "allo-aromadendrene",
+      "name": "allo-Aromadendrene",
+      "papers": 1,
+      "areas": [
+        "Anti-inflammatory"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "Is being studied for potential anti-inflammatory effects."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.09
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.15
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "26434142"
+      ],
+      "score": 0.097
+    },
+    {
+      "id": "beta-myrcene",
+      "name": "β-Myrcene",
+      "papers": 2,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "It is being studied for potential anti-inflammatory effects.",
+        "Early work points toward a potential role in supporting physical comfort and pain relief."
+      ],
+      "hypotheses": [],
+      "products": [],
+      "pmids": [
+        "36557879",
+        "1983154"
+      ],
+      "score": 0
+    },
+    {
+      "id": "gamma-eudesmol",
+      "name": "γ-Eudesmol",
+      "papers": 8,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "Gamma-eudesmol may support healthy inflammatory responses, though research is still in its infancy.",
+        "Early literature points toward a potential role in supporting neurological comfort and pain relief."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Based on its presence in traditional botanical remedies, scientists are investigating whether gamma-eudesmol can support bronchodilation and soothe airway inflammation.",
+          "study": "A preclinical animal study using an allergen-induced asthma model to measure airway hyperresponsiveness and inflammatory cytokine levels in lung tissue over 4 weeks.",
+          "evidence_level": "none_found"
+        }
+      ],
+      "products": [],
+      "pmids": [
+        "40972729",
+        "36576262",
+        "35920490",
+        "38613430",
+        "17826984",
+        "23566359",
+        "19469288",
+        "35579663"
+      ],
+      "score": 0
+    },
+    {
+      "id": "humulene",
+      "name": "Humulene",
+      "papers": 15,
+      "areas": [
+        "Anti-inflammatory",
+        "Pain relief"
+      ],
+      "evidence_level": "none_found",
+      "eco": "ECO:0000205",
+      "oxford": null,
+      "evidence_lines": [],
+      "statements": [
+        "Early literature suggests humulene is being studied for its potential to support healthy inflammatory responses.",
+        "Researchers are exploring whether this terpene may support pain relief and comfort."
+      ],
+      "hypotheses": [],
+      "products": [],
+      "pmids": [
+        "34770801",
+        "38388989",
+        "29783680",
+        "39826808",
+        "17559833",
+        "37355085",
+        "33844433",
+        "19438512",
+        "38006221",
+        "38068924"
+      ],
+      "score": 0
+    }
+  ],
+  "molecules_with_research": 51,
+  "papers": 503,
+  "best_evidence": "human_trials",
+  "best_oxford": "1a",
+  "trials": [
+    {
+      "nct_id": "NCT04451863",
+      "title": "Analgesic and Subjective Effects of Terpenes",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pain",
+        "Abuse, Drug"
+      ],
+      "interventions": [
+        "Low THC",
+        "High THC",
+        "Low Myrcene",
+        "High Myrcene",
+        "Low Beta-Caryophyllene",
+        "High Beta-Caryophyllene",
+        "Placebo"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "enrollment": 45,
+      "start_date": "2021-12-15",
+      "completion_date": "2025-11-12",
+      "summary": "The purpose of this research is to assess the analgesic and subjective effects of terpenes administered alone and in combination of THC.",
+      "url": "https://clinicaltrials.gov/study/NCT04451863",
+      "molecule": "β-Caryophyllene",
+      "molecule_id": "beta-caryophyllene"
+    },
+    {
+      "nct_id": "NCT06218407",
+      "title": "Development and Evaluation of Computerized Chemosensory Based Orbitofrontal Networks Training for Treatment of Pain",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Pain",
+        "Low Back Pain"
+      ],
+      "interventions": [
+        "Computerized Chemosensory-Based Orbitofrontal Cortex Training (CBOT) short burst paradigm",
+        "Computerized Chemosensory-Based Orbitofrontal Cortex Training (CBOT) long burst paradigm",
+        "Computerized Chemosensory-Based Orbitofrontal Cortex Training plus beta caryophyllene (CBOT-Plus)",
+        "Computerized Chemosensory-Based Orbitofrontal Cortex Training (CBOT)"
+      ],
+      "sponsor": "Evon Medics LLC",
+      "enrollment": 86,
+      "start_date": "2023-04-27",
+      "completion_date": "2023-09-15",
+      "summary": "The overarching goal of this study phase, Phase I component is to configure Computerized Chemosensory-Based Orbitofrontal Networks Training (CBOT) into Computerized Chemosensory-Based Orbitofrontal Networks Training for Treatment of Pain CBOT-Pain (or CBOT-P) for rapid and sustained reduction of Pain, Negative Affect (NA) and Cognitive Impairments. The investigators aimed at first establishing if stimulation parameters targeting key olfactory regions, and their associated networks, paired with tasks that synergistically activate the orbitofrontal cortex (OFC) would have significantly different",
+      "url": "https://clinicaltrials.gov/study/NCT06218407",
+      "molecule": "β-Caryophyllene",
+      "molecule_id": "beta-caryophyllene"
+    },
+    {
+      "nct_id": "NCT03152578",
+      "title": "Topical Use of 20% Beta Caryophyllene Alone And In Combination With 0.025% Capsaicin for Pain Caused by Osteoarthritis Of The Knee",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pain"
+      ],
+      "interventions": [
+        "BetaC + Capsaicin Topical Cream",
+        "BetaC Topical Cream",
+        "Placebo Topical Cream"
+      ],
+      "sponsor": "Panag Pharma Inc.",
+      "enrollment": 56,
+      "start_date": "2017-07-01",
+      "completion_date": "2019-06-30",
+      "summary": "This study consists of a randomized, double-blind, placebo-controlled crossover trial with open label extension evaluating a topical natural health cream containing ß-caryophyllene alone and in combination with 0.025% capsicum oleoresin against placebo. At the end of the randomized controlled phase of the trial all participants will be given open-label combination cream to be administered over the subsequent 3 weeks.\n\nPrimary Endpoint: Evaluation of improvement in pain interference as measured by the BPI in individuals who are experiencing pain due to osteoarthritis of the knee.\n\nSecondary End",
+      "url": "https://clinicaltrials.gov/study/NCT03152578",
+      "molecule": "β-Caryophyllene",
+      "molecule_id": "beta-caryophyllene"
+    },
+    {
+      "nct_id": "NCT04794205",
+      "title": "Acute Changes In Thermal Pain Response Following Single Oral Dose of Beta-Cary",
+      "status": "WITHDRAWN",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Beta-Caryophyllene"
+      ],
+      "interventions": [
+        "Low Dose Beta-Caryophyllene",
+        "Medium Dose Beta-Caryophyllene",
+        "High Dose Beta-Caryophyllene",
+        "Placebo"
+      ],
+      "sponsor": "Hartford Hospital",
+      "enrollment": 0,
+      "start_date": "2021-09",
+      "completion_date": "2022-04",
+      "summary": "Beta-Caryophyllene is an essential oil and cannabis plant derivative also found in edible herbs. It has shown promise as a potential analgesic in preclinical trials. However, there are no human studies characterizing pharmacokinetics of BCP in humans. Therefore, it is of great importance to determine the pharmacokinetics of BCP in humans so that appropriate dosing can be developed for analgesia. This pharmacokinetic work will lay the groundwork for subsequent experiments testing the neural mechanism of BCP on pain.",
+      "url": "https://clinicaltrials.gov/study/NCT04794205",
+      "molecule": "β-Caryophyllene",
+      "molecule_id": "beta-caryophyllene"
+    }
+  ],
+  "products": [
+    {
+      "handle": "raspberry-relief",
+      "name": "Raspberry Relief",
+      "strain": "LA Confidential × Red Raspberry",
+      "support": {
+        "tile": "BODY",
+        "definition": "May support physical ease and comfort.",
+        "areas": [
+          "pain",
+          "anti-inflammatory"
+        ],
+        "backing": [
+          {
+            "id": "alpha-pinene",
+            "name": "α-Pinene",
+            "percent": 31.07,
+            "mg": 6.21,
+            "papers": 19,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "40015205",
+              "38494527",
+              "39727379",
+              "37329479",
+              "37789204",
+              "39534602",
+              "32689608",
+              "39298016"
+            ]
+          },
+          {
+            "id": "myrcene",
+            "name": "Myrcene",
+            "percent": 23.43,
+            "mg": 4.69,
+            "papers": 11,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "35887239",
+              "36677744",
+              "36557879",
+              "33007969",
+              "32962470",
+              "25622554",
+              "41223757",
+              "40839768"
+            ]
+          },
+          {
+            "id": "beta-pinene",
+            "name": "β-Pinene",
+            "percent": 14.29,
+            "mg": 2.86,
+            "papers": 5,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "28106736",
+              "36113677",
+              "34072723",
+              "17893834",
+              "36113677"
+            ]
+          },
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 9.71,
+            "mg": 1.94,
+            "papers": 16,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_trials",
+            "eco": "ECO:0000033",
+            "oxford": "2b",
+            "pmids": [
+              "34361686",
+              "29427589",
+              "40650139",
+              "40986263",
+              "41366672",
+              "40443223",
+              "38540754",
+              "32220222"
+            ]
+          },
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 3.84,
+            "mg": 0.77,
+            "papers": 40,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "41120021",
+              "31841509",
+              "33114564",
+              "38744071",
+              "37762646",
+              "32205230",
+              "38542177",
+              "35792574"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 1.46,
+            "mg": 0.29,
+            "papers": 14,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "34611674",
+              "38968949",
+              "31254955",
+              "26983194",
+              "36330908",
+              "25311666",
+              "26040565",
+              "39098193"
+            ]
+          },
+          {
+            "id": "alpha-humulene",
+            "name": "α-Humulene",
+            "percent": 1.23,
+            "mg": 0.25,
+            "papers": 15,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "34770801",
+              "38388989",
+              "17559833",
+              "29783680",
+              "19438512",
+              "39826808",
+              "38006221",
+              "33844433"
+            ]
+          },
+          {
+            "id": "z-beta-ocimene",
+            "name": "(Z)-β-Ocimene",
+            "percent": 0.79,
+            "mg": 0.158,
+            "papers": 2,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "33932510",
+              "34684809"
+            ]
+          },
+          {
+            "id": "e-beta-farnesene",
+            "name": "(E)-β-Farnesene",
+            "percent": 0.67,
+            "mg": 0.134,
+            "papers": 2,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "23459148",
+              "39343745"
+            ]
+          },
+          {
+            "id": "camphene",
+            "name": "Camphene",
+            "percent": 0.54,
+            "mg": 0.108,
+            "papers": 1,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "39317688"
+            ]
+          },
+          {
+            "id": "1-8-cineole",
+            "name": "1,8-Cineole",
+            "percent": 0.5,
+            "mg": 0.1,
+            "papers": 22,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "33111547",
+              "37047133",
+              "40850199",
+              "24831245",
+              "38810792",
+              "15019181",
+              "27129189",
+              "39885809"
+            ]
+          },
+          {
+            "id": "alpha-selinene",
+            "name": "α-Selinene",
+            "percent": 0.4,
+            "mg": 0.08,
+            "papers": 5,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "38006221",
+              "42250614",
+              "42513156",
+              "34138517",
+              "22233038"
+            ]
+          },
+          {
+            "id": "beta-selinene",
+            "name": "β-Selinene",
+            "percent": 0.38,
+            "mg": 0.076,
+            "papers": 9,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "42280118",
+              "38006221",
+              "39221717",
+              "35840057",
+              "25263165",
+              "26411034",
+              "28191277",
+              "34885954"
+            ]
+          },
+          {
+            "id": "endo-fenchol",
+            "name": "endo-Fenchol",
+            "percent": 0.25,
+            "mg": 0.05,
+            "papers": 2,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "42280118",
+              "24122170"
+            ]
+          },
+          {
+            "id": "terpinolene",
+            "name": "Terpinolene",
+            "percent": 0.16,
+            "mg": 0.032,
+            "papers": 7,
+            "areas": [
+              "Pain relief",
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "40447115",
+              "27332775",
+              "36648357",
+              "37792093",
+              "27332775",
+              "41967723",
+              "30792116"
+            ]
+          },
+          {
+            "id": "alpha-terpineol",
+            "name": "α-Terpineol",
+            "percent": 0.11,
+            "mg": 0.022,
+            "papers": 12,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "22380944",
+              "24947163",
+              "21830186",
+              "17867636",
+              "38138443",
+              "34355673",
+              "21385090",
+              "29902764"
+            ]
+          },
+          {
+            "id": "beta-bisabolene",
+            "name": "β-Bisabolene",
+            "percent": 0.11,
+            "mg": 0.022,
+            "papers": 8,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "41910695",
+              "41097327",
+              "42280118",
+              "38006221",
+              "24662935",
+              "42451615",
+              "41687931",
+              "41687931"
+            ]
+          },
+          {
+            "id": "gamma-muurolene",
+            "name": "γ-Muurolene",
+            "percent": 0.1,
+            "mg": 0.02,
+            "papers": 12,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "36442761",
+              "32439404",
+              "39891598",
+              "25097889",
+              "18293438",
+              "31429309",
+              "41599390",
+              "40462766"
+            ]
+          },
+          {
+            "id": "valencene",
+            "name": "Valencene",
+            "percent": 0.1,
+            "mg": 0.02,
+            "papers": 5,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "35469837",
+              "36076580",
+              "37536183",
+              "21843620",
+              "29675712"
+            ]
+          },
+          {
+            "id": "caryophyllene-oxide",
+            "name": "Caryophyllene oxide",
+            "percent": 0.09,
+            "mg": 0.018,
+            "papers": 11,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "24484210",
+              "36008995",
+              "39411871",
+              "33844433",
+              "19576741",
+              "37337451",
+              "28335395",
+              "33091493"
+            ]
+          },
+          {
+            "id": "allo-aromadendrene",
+            "name": "allo-Aromadendrene",
+            "percent": 0.08,
+            "mg": 0.016,
+            "papers": 1,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "none_found",
+            "eco": "ECO:0000205",
+            "oxford": null,
+            "pmids": [
+              "26434142"
+            ]
+          },
+          {
+            "id": "borneol",
+            "name": "Borneol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 19,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_trials",
+            "eco": "ECO:0000033",
+            "oxford": "1a",
+            "pmids": [
+              "33588596",
+              "36087846",
+              "38964157",
+              "39041145",
+              "37310024",
+              "24975100",
+              "39439351",
+              "25835611"
+            ]
+          },
+          {
+            "id": "citronellol",
+            "name": "Citronellol",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 12,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "41301532",
+              "36372917",
+              "39342545",
+              "39621091",
+              "33838788",
+              "37087210",
+              "34310905",
+              "22350215"
+            ]
+          },
+          {
+            "id": "gamma-elemene",
+            "name": "γ-Elemene",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 2,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "in_vitro",
+            "eco": "ECO:0000181",
+            "oxford": "5",
+            "pmids": [
+              "35744884",
+              "34684809"
+            ]
+          },
+          {
+            "id": "selina-4-11-diene",
+            "name": "Selina-4,11-diene",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 2,
+            "areas": [
+              "Anti-inflammatory"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "28191277",
+              "35744884"
+            ]
+          },
+          {
+            "id": "beta-sesquiphellandrene",
+            "name": "β-Sesquiphellandrene",
+            "percent": 0.07,
+            "mg": 0.014,
+            "papers": 7,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "41910695",
+              "24662935",
+              "41968572",
+              "39986357",
+              "24020099",
+              "41968572",
+              "24020099"
+            ]
+          },
+          {
+            "id": "fenchone",
+            "name": "Fenchone",
+            "percent": 0.06,
+            "mg": 0.012,
+            "papers": 4,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "40591211",
+              "37689616",
+              "40509153",
+              "36552848"
+            ]
+          },
+          {
+            "id": "isocaryophyllene",
+            "name": "Isocaryophyllene",
+            "percent": 0.06,
+            "mg": 0.012,
+            "papers": 30,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "38744071",
+              "32205230",
+              "35792574",
+              "35648433",
+              "27840942",
+              "32416450",
+              "33114564",
+              "38542177"
+            ]
+          },
+          {
+            "id": "alpha-phellandrene",
+            "name": "α-Phellandrene",
+            "percent": 0.05,
+            "mg": 0.01,
+            "papers": 15,
+            "areas": [
+              "Anti-inflammatory",
+              "Pain relief"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "33744277",
+              "32415495",
+              "30792116",
+              "16713153",
+              "36280015",
+              "38138443",
+              "36206869",
+              "37570874"
+            ]
+          }
+        ],
+        "compounds_with_research": 29,
+        "papers": 310,
+        "share_of_profile": 89.8,
+        "best_evidence": "human_trials",
+        "best_oxford": "1a"
+      }
+    }
+  ],
+  "summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_means": "When a product claims to support the body, it is usually targeting the everyday stiffness and physical tension that can get in the way of a good day. It means the ingredients are being explored for their ability to soothe the system and promote a sense of physical ease. For readers, this translates to that welcome feeling of loosening up and finding comfort after a long workout or a stressful week.",
+    "physiology": "The sensation of physical comfort is closely tied to how the body processes inflammatory signals and sensory input. Terpenes are thought to interact with several key pathways that modulate these responses, most notably the CB2 receptors of the endocannabinoid system, which play a major role in soothing peripheral tissues. Researchers are also looking at how these molecules engage with Nrf2 and PPAR-alpha, proteins that help regulate the body's natural antioxidant and inflammatory defenses. Additionally, some terpenes are believed to interact with sensory channels like TRPV1, which are directly involved in how we perceive physical discomfort.",
+    "the_science": "The research into these molecules for physical ease and comfort is anchored by human trials, reaching Oxford level 1a evidence. Scientists have published over 500 papers in this area, primarily focusing on how these compounds might support healthy inflammatory responses and modulate pain pathways. While the strongest data comes from systematic reviews of human clinical trials, the bulk of the literature is built on a robust foundation of animal models and human observational studies.",
+    "leading_molecules": [
+      {
+        "id": "limonene",
+        "name": "Limonene",
+        "why": "Limonene is a major focus for its potential to support healthy inflammatory responses by interacting with Nrf2 proteins. It is backed by human trials and makes up a significant portion of the terpene profile in these products.",
+        "evidence_level": "human_trials",
+        "oxford": "2b",
+        "eco": "ECO:0000033"
+      },
+      {
+        "id": "beta-caryophyllene",
+        "name": "β-Caryophyllene",
+        "why": "This molecule is highly compelling because it directly binds to CB2 receptors, making it a primary candidate for supporting physical comfort. It is the most heavily researched terpene in this category, with numerous human observational studies and active clinical trials.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "myrcene",
+        "name": "Myrcene",
+        "why": "Early work points toward myrcene's ability to soothe sensory pathways, potentially by modulating TRPV1 receptors. It is being closely studied for its role in supporting joint health and mobility.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "alpha-pinene",
+        "name": "α-Pinene",
+        "why": "Researchers are exploring whether alpha-pinene can modulate pain signals to support physical comfort. Animal models suggest it may play a valuable role in maintaining healthy inflammatory responses.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      }
+    ],
+    "open_questions": [
+      {
+        "question": "Can terpenes act as natural analgesics to support physical comfort?",
+        "study_to_settle_it": "A Phase 1 clinical trial (NCT04451863, active, not recruiting) is currently investigating the analgesic and subjective effects of terpenes in humans."
+      },
+      {
+        "question": "Does topical application of specific terpenes soothe localized joint discomfort?",
+        "study_to_settle_it": "This has been explored in NCT03152578, a completed Phase 2 trial measuring the effects of topical beta-caryophyllene on osteoarthritis knee pain."
+      },
+      {
+        "question": "Can these botanical compounds support systemic joint health and mobility over time?",
+        "study_to_settle_it": "To elevate the current human observational evidence, researchers could design a double-blind, placebo-controlled human study measuring joint mobility and systemic inflammatory markers over a 12-week period."
+      }
+    ],
+    "evidence_at_a_glance": "The strongest evidence for this claim comes from systematic reviews of human trials, reaching Oxford level 1a."
+  }
+}

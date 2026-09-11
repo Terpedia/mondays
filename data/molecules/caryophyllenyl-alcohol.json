@@ -1,1 +1,212 @@
-{"name":"Caryophyllenyl alcohol","id":"caryophyllenyl-alcohol","formula":"C15H26O","pubchem":{"cid":91704770,"title":"Caryophyllenyl alcohol","formula":"C15H26O","molecular_weight":222.37,"smiles":"CC1CCC(C(=CCC2C1CC2(C)C)C)O","inchikey":"QYGTVPFTIUUDSL-WZUFQYTHSA-N","iupac_name":"(3Z)-4,8,11,11-tetramethylbicyclo[7.2.0]undec-3-en-5-ol","image":"data/molecules/images/caryophyllenyl-alcohol.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/91704770","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/91704770/PNG"},"targets":[],"diseases":[],"literature":{"total":3,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Caryophyllenyl%20alcohol%5BAll%20Fields%5D","papers":[{"pmid":"32872359","title":"Grinding and Fractionation during Distillation Alter Hemp Essential Oil Profile and Its Antimicrobial Activity","journal":"Molecules","year":"2020","url":"https://pubmed.ncbi.nlm.nih.gov/32872359/"},{"pmid":"42293562","title":"Characterization and antibacterial efficacy of Streptomyces sp. NELs-40 against Staphylococcus aureus","journal":"Front Microbiol","year":"2026","url":"https://pubmed.ncbi.nlm.nih.gov/42293562/"},{"pmid":"42083961","title":"Phytochemical Exploration and Anti-asthmatic Activity of Crude Methanol Extract and Derived Fractions of Sonchus asper (L.) Hill","journal":"Curr Med Chem","year":"2026","url":"https://pubmed.ncbi.nlm.nih.gov/42083961/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[],"organism_count":0,"reference_count":0},"research":{"total":3,"sampled":3,"designs":{"in_vitro":1,"other":2},"topics":[{"term":"Anti-Infective Agents","papers":1},{"term":"Cannabis","papers":1},{"term":"Chemical Fractionation","papers":1},{"term":"Distillation","papers":1},{"term":"Microbial Sensitivity Tests","papers":1}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":1,"designs":{"in_vitro":1},"evidence_level":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":1,"pmids":["32872359"]}],"pmids":["32872359"]}],"years":{"from":2020,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Caryophyllenyl%20alcohol%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.14% of total volatiles (0.028mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Caryophyllenyl%20alcohol"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Caryophyllenyl alcohol is a botanical compound known as a terpene alcohol, sharing a close structural relationship with the spicy, woody molecule beta-caryophyllene. It contributes to the complex aromatic profiles of certain plant essential oils, where it is extracted through careful distillation. People most likely encounter it as a trace element in the scent of hemp and other aromatic herbs.","found_in":"It is notably found in the essential oils of hemp (Cannabis) and the herbaceous plant Sonchus asper, commonly known as spiny sowthistle.","why_researchers_care":"Researchers are drawn to caryophyllenyl alcohol to understand how trace components in essential oils contribute to a plant's natural defenses. Early laboratory research (Oxford level 5, in vitro) is exploring its potential role as an antimicrobial agent, particularly when it is concentrated through specific distillation techniques. Scientists are interested in whether this molecule might offer new ways to inhibit bacterial growth.","structure_function":[{"claim_id":"antimicrobial","statement":"Early work points toward caryophyllenyl alcohol supporting natural defenses against certain microbes.","evidence_level":"in_vitro","basis":"This rests on a single laboratory study evaluating the antimicrobial activity of hemp essential oil fractions.","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"in_vitro","eco":"ECO:0000181","papers":1}],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"antimicrobial","area":"Bacterial inhibition","hypothesis":"Researchers are exploring whether caryophyllenyl alcohol can effectively inhibit the growth of bacteria like Staphylococcus aureus. If this bears out, it could eventually inspire new botanical preservatives or topical formulations.","evidence_level":"in_vitro","paper_count":1,"study_to_test_it":"An animal model of topical bacterial infection comparing a caryophyllenyl alcohol ointment against a standard antibacterial and a placebo over 14 days, measuring bacterial load reduction and tissue healing.","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"oxford":{"level":"5","label":"bench or animal research"},"evidence_lines":[{"design":"in_vitro","eco":"ECO:0000181","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is early laboratory research (Oxford level 5); the molecule has not yet been evaluated in human or animal trials."}}
+{
+  "name": "Caryophyllenyl alcohol",
+  "id": "caryophyllenyl-alcohol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 91704770,
+    "title": "Caryophyllenyl alcohol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1CCC(C(=CCC2C1CC2(C)C)C)O",
+    "inchikey": "QYGTVPFTIUUDSL-WZUFQYTHSA-N",
+    "iupac_name": "(3Z)-4,8,11,11-tetramethylbicyclo[7.2.0]undec-3-en-5-ol",
+    "image": "data/molecules/images/caryophyllenyl-alcohol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/91704770",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/91704770/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 3,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Caryophyllenyl%20alcohol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "32872359",
+        "title": "Grinding and Fractionation during Distillation Alter Hemp Essential Oil Profile and Its Antimicrobial Activity",
+        "journal": "Molecules",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32872359/"
+      },
+      {
+        "pmid": "42293562",
+        "title": "Characterization and antibacterial efficacy of Streptomyces sp. NELs-40 against Staphylococcus aureus",
+        "journal": "Front Microbiol",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42293562/"
+      },
+      {
+        "pmid": "42083961",
+        "title": "Phytochemical Exploration and Anti-asthmatic Activity of Crude Methanol Extract and Derived Fractions of Sonchus asper (L.) Hill",
+        "journal": "Curr Med Chem",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083961/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  },
+  "research": {
+    "total": 3,
+    "sampled": 3,
+    "designs": {
+      "in_vitro": 1,
+      "other": 2
+    },
+    "topics": [
+      {
+        "term": "Anti-Infective Agents",
+        "papers": 1
+      },
+      {
+        "term": "Cannabis",
+        "papers": 1
+      },
+      {
+        "term": "Chemical Fractionation",
+        "papers": 1
+      },
+      {
+        "term": "Distillation",
+        "papers": 1
+      },
+      {
+        "term": "Microbial Sensitivity Tests",
+        "papers": 1
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 1,
+        "designs": {
+          "in_vitro": 1
+        },
+        "evidence_level": "in_vitro",
+        "eco": {
+          "id": "ECO:0000181",
+          "label": "in vitro assay evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "32872359"
+            ]
+          }
+        ],
+        "pmids": [
+          "32872359"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2020,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Caryophyllenyl%20alcohol%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.14% of total volatiles (0.028mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Caryophyllenyl%20alcohol"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Caryophyllenyl alcohol is a botanical compound known as a sesquiterpene alcohol, closely related to the spicy, woody terpene caryophyllene. People most often encounter it as a trace component in the aromatic essential oils of certain plants and herbs.",
+    "found_in": "It has been identified in the essential oils of hemp and in extracts of the wild herb Sonchus asper.",
+    "why_researchers_care": "Researchers are drawn to caryophyllenyl alcohol to understand how it contributes to the defensive properties of the plants that produce it. Early laboratory work (Oxford level 5, in vitro) is exploring its potential to help fight off unwanted bacteria. If this bears out, it could help explain the traditional uses of the plants it comes from and inspire new botanical formulations.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Early laboratory work points toward a potential role in supporting the body's natural defenses against certain microbes.",
+        "evidence_level": "in_vitro",
+        "basis": "This rests on a single in vitro study examining the antimicrobial activity of plant extracts containing the compound.",
+        "eco": {
+          "id": "ECO:0000181",
+          "label": "in vitro assay evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antimicrobial",
+        "area": "Antimicrobial activity",
+        "hypothesis": "Researchers are exploring whether caryophyllenyl alcohol contributes to the bacteria-fighting power of hemp essential oils and other plant extracts. If this bears out, it could be isolated or concentrated for use in natural topical botanical defenses.",
+        "evidence_level": "in_vitro",
+        "paper_count": 1,
+        "study_to_test_it": "An animal model of topical bacterial infection comparing a standardized dose of isolated caryophyllenyl alcohol against a vehicle control over 7 to 14 days to measure bacterial load reduction.",
+        "eco": {
+          "id": "ECO:0000181",
+          "label": "in vitro assay evidence"
+        },
+        "oxford": {
+          "level": "5",
+          "label": "bench or animal research"
+        },
+        "evidence_lines": [
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [
+      {
+        "condition": "Asthma",
+        "mondo_id": null,
+        "relationship": "studied as an intervention for"
+      },
+      {
+        "condition": "Staphylococcus aureus infection",
+        "mondo_id": null,
+        "relationship": "studied as an intervention for"
+      }
+    ],
+    "cautions": null,
+    "evidence_at_a_glance": "The best evidence so far is early laboratory research (Oxford level 5); no human or animal trials have been published yet."
+  }
+}

@@ -1,1 +1,44 @@
-{"name":"(3Z)-Hexenyl (3Z)-hexenoate","id":"3z-hexenyl-3z-hexenoate","formula":null,"pubchem":null,"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":null,"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"(3Z)-Hexenyl (3Z)-hexenoate is an ester, a type of molecule often associated with the aromas and flavors of the natural world. While its chemical structure suggests it belongs to the family of green leaf volatiles, specific details about its scent or daily encounters remain unmapped in our current records.","found_in":"Our database does not currently list specific familiar plants or foods where this molecule has been reported.","why_researchers_care":"At present, (3Z)-hexenyl (3Z)-hexenoate represents an unexplored frontier in our catalog, with no published studies or evidence levels recorded. It remains a structural curiosity waiting for researchers to investigate its potential biological activity or role in nature.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There is currently no published research or evidence available for this molecule in the database."},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.05% of total volatiles (0.01mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=(3Z)-Hexenyl%20(3Z)-hexenoate"},"is_terpenoid":false}
+{
+  "name": "(3Z)-Hexenyl (3Z)-hexenoate",
+  "id": "3z-hexenyl-3z-hexenoate",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": null,
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "(3Z)-Hexenyl (3Z)-hexenoate is an organic ester, a class of molecules that frequently gives plants and fruits their characteristic aromas. While its chemical structure is known, specific details about how it smells, tastes, or where it appears in daily life are not yet cataloged in our database.",
+    "found_in": "Our database does not currently list any specific familiar plants or foods that contain this compound.",
+    "why_researchers_care": "At this time, there are no published studies or clinical trials recorded for this molecule, meaning researchers have not yet established a profile of its effects. Any future scientific interest would likely begin with foundational laboratory screening (Oxford level 5, none found) to understand how it might interact with biological systems.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published evidence (Oxford level 5, none found) available for this compound."
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.05% of total volatiles (0.01mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=(3Z)-Hexenyl%20(3Z)-hexenoate"
+  },
+  "is_terpenoid": false
+}

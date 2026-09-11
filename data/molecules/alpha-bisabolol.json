@@ -1,1 +1,995 @@
-{"name":"α-Bisabolol","id":"alpha-bisabolol","formula":"C15H26O","pubchem":{"cid":1549992,"title":"Bisabolol","formula":"C15H26O","molecular_weight":222.37,"smiles":"CC1=CCC(CC1)C(C)(CCC=C(C)C)O","inchikey":"RGZSQWQPBWRIAQ-LSDHHAIUSA-N","iupac_name":"(2R)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol","image":"data/molecules/images/alpha-bisabolol.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/1549992","description":"(+)-alpha-Bisabolol is a sesquiterpenoid.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:192031"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1549992/PNG"},"targets":[{"accession":"AAH96839","activity":null,"value_um":0,"assay":"5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay: Summary","aid":"2061100","pmid":null,"protein":"5-hydroxytryptamine (serotonin) receptor 2A","organism":"Homo sapiens","url":"https://www.ncbi.nlm.nih.gov/protein/AAH96839","source":"NCBI Protein"},{"accession":"P33261","activity":"Potency","value_um":5.0119,"assay":"qHTS for inhibitors of CYP2C19 against the NCATS DSHEA and TCM libraries","aid":"1919974","pmid":"37200814","protein":"Cytochrome P450 2C19","gene":"CYP2C19","organism":"Homo sapiens","url":"https://www.uniprot.org/uniprotkb/P33261","source":"UniProt"},{"accession":"AAV41877","activity":"Potency","value_um":8.709,"assay":"Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay","aid":"1671197","pmid":null,"protein":"cytochrome P450, family 2, subfamily C, polypeptide 19","organism":"Homo sapiens","url":"https://www.ncbi.nlm.nih.gov/protein/AAV41877","source":"NCBI Protein"},{"accession":"NP_000756","activity":"Potency","value_um":13.8029,"assay":"Cytochrome P450 family 3 subfamily A member 7 (CYP3A7) small molecule antagonists: luciferase cell-based qHTS assay","aid":"1963596","pmid":null,"protein":"cytochrome P450 3A7","organism":"Homo sapiens","url":"https://www.ncbi.nlm.nih.gov/protein/NP_000756","source":"NCBI Protein"},{"accession":"AGS09764","activity":"Potency","value_um":17.3768,"assay":"Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay","aid":"1671198","pmid":null,"protein":"cytochrome P450 family 2 subfamily C polypeptide 9","organism":"Homo sapiens","url":"https://www.ncbi.nlm.nih.gov/protein/AGS09764","source":"NCBI Protein"},{"accession":"ABI96208","activity":"Potency","value_um":27.5404,"assay":"Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay","aid":"1671201","pmid":null,"protein":"cytochrome P450 family 3 subfamily A polypeptide 4","organism":"Homo sapiens","url":"https://www.ncbi.nlm.nih.gov/protein/ABI96208","source":"NCBI Protein"},{"accession":"ADZ17384","activity":"Potency","value_um":29.8493,"assay":"Human pregnane X receptor (PXR) small molecule agonists, qHTS assay","aid":"1346982","pmid":null,"protein":"pregnane X nuclear receptor","organism":"Homo sapiens","url":"https://www.ncbi.nlm.nih.gov/protein/ADZ17384","source":"NCBI Protein"}],"diseases":[],"literature":{"total":621,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Bisabolol%5BAll%20Fields%5D","papers":[{"pmid":"35454969","title":"Chamomile (Matricaria chamomilla L.): A Review of Ethnomedicinal Use, Phytochemistry and Pharmacological Uses","journal":"Life (Basel)","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35454969/"},{"pmid":"29025339","title":"Bisabolol","journal":"Int J Toxicol","year":"2017","url":"https://pubmed.ncbi.nlm.nih.gov/29025339/"},{"pmid":"16628544","title":"A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.)","journal":"Phytother Res","year":"2006","url":"https://pubmed.ncbi.nlm.nih.gov/16628544/"},{"pmid":"20137740","title":"Bisabolol","journal":"Dermatitis","year":"2010","url":"https://pubmed.ncbi.nlm.nih.gov/20137740/"},{"pmid":"35164145","title":"Biotransformation of (-)-α-Bisabolol by Absidia coerulea","journal":"Molecules","year":"2022","url":"https://pubmed.ncbi.nlm.nih.gov/35164145/"},{"pmid":"36824492","title":"Engineering Saccharomyces cerevisiae for enhanced (-)-α-bisabolol production","journal":"Synth Syst Biotechnol","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36824492/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Abies nephrolepis","id":"abies-nephrolepis","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Abies","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF00574245","10.1007/BF00579171"]},{"name":"Abies sibirica subsp. semenovii","id":"abies-sibirica-subsp-semenovii","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Abies","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF00574818","10.1007/BF00579171"]},{"name":"Microbiota decussata","id":"microbiota-decussata","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Microbiota","taxonomy_source":"NCBI","reference_count":2,"references":["10.1021/NP50075A015","10.1007/BF00634727"]},{"name":"Pinus koraiensis","id":"pinus-koraiensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Pinus","taxonomy_source":"NCBI","reference_count":2,"references":["10.1007/BF00568368","10.1007/BF00579171"]},{"name":"Abies sachalinensis var. mayriana","id":"abies-sachalinensis-var-mayriana","kingdom":"Plantae","phylum":"Tracheophyta","family":"Pinaceae","genus":"Abies","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1007/BF00638774"]},{"name":"Abies sibirica","id":"abies-sibirica","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Abies","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00579171"]},{"name":"Artemisia annua","id":"artemisia-annua","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/S11418-007-0175-2"]},{"name":"Artemisia xanthochroa","id":"artemisia-xanthochroa","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(90)85307-2"]},{"name":"Endopappus macrocarpus subsp. macrocarpus","id":"endopappus-macrocarpus-subsp-macrocarpus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Endopappus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1007/S10600-009-9209-1"]},{"name":"Eremanthus incanus","id":"eremanthus-incanus","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Eremanthus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)83940-0"]},{"name":"Ferula hermonis","id":"ferula-hermonis","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Ferula","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/NP50068A033"]},{"name":"Fokienia hodginsii","id":"fokienia-hodginsii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Cupressaceae","genus":"Fokienia","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1002/JLAC.19717450107"]},{"name":"Helichrysum mimetes","id":"helichrysum-mimetes","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Helichrysum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(00)81569-1"]},{"name":"Juniperus barbadensis var. lucayana","id":"juniperus-barbadensis-var-lucayana","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Juniperus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2007.05.030"]},{"name":"Juniperus virginiana silicicola","id":"juniperus-virginiana-silicicola","kingdom":"Plantae","phylum":"Tracheophyta","family":"Cupressaceae","genus":"Juniperus","taxonomy_source":"iNaturalist","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2007.05.030"]},{"name":"Juniperus virginiana var. silicicola","id":"juniperus-virginiana-var-silicicola","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Juniperus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2007.05.030"]},{"name":"Lasiolaena morii","id":"lasiolaena-morii","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Lasiolaena","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(82)80035-6"]},{"name":"Libanotis buchtormensis","id":"libanotis-buchtormensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Libanotis","taxonomy_source":"NCBI","reference_count":1,"references":["10.1135/CCCC19861509"]},{"name":"Lychnophora ericoides","id":"lychnophora-ericoides","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Lychnophora","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2006.08.002"]},{"name":"Merulius tremellosus","id":"merulius-tremellosus","kingdom":"Fungi","phylum":"Basidiomycota","family":"Meruliaceae","genus":"Phlebia","taxonomy_source":"Open Tree of Life","reference_count":1,"references":["10.1021/NP050520D"]},{"name":"Osyris quadripartita","id":"osyris-quadripartita","kingdom":"Plantae","phylum":"Streptophyta","family":"Santalaceae","genus":"Osyris","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2004.05.007"]},{"name":"Pellia epiphylla","id":"pellia-epiphylla","kingdom":"Plantae","phylum":"Streptophyta","family":"Pelliaceae","genus":"Pellia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(97)00414-7"]},{"name":"Phlebia tremellosa","id":"phlebia-tremellosa","kingdom":"Fungi","phylum":"Basidiomycota","family":"Meruliaceae","genus":"Phlebia","taxonomy_source":"Index Fungorum","reference_count":1,"references":["10.1021/NP050520D"]},{"name":"Picea jezoensis var. jezoensis","id":"picea-jezoensis-var-jezoensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Picea","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00579171"]},{"name":"Pinus pumila","id":"pinus-pumila","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Pinus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00568368"]},{"name":"Pinus sibirica","id":"pinus-sibirica","kingdom":"Plantae","phylum":"Streptophyta","family":"Pinaceae","genus":"Pinus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00579171"]},{"name":"Piper fimbriulatum","id":"piper-fimbriulatum","kingdom":"Plantae","phylum":"Streptophyta","family":"Piperaceae","genus":"Piper","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(97)00762-0"]},{"name":"Seseli buchtormense","id":"seseli-buchtormense","kingdom":"Plantae","phylum":"Tracheophyta","family":"Apiaceae","genus":"Seseli","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1135/CCCC19861509"]},{"name":"Seseli transcaucasicum","id":"seseli-transcaucasicum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Seseli","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/BF00568028"]},{"name":"Thymus camphoratus","id":"thymus-camphoratus","kingdom":"Plantae","phylum":"Tracheophyta","family":"Lamiaceae","genus":"Thymus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/S0031-9422(97)00117-9"]},{"name":"Valeriana officinalis","id":"valeriana-officinalis","kingdom":"Plantae","phylum":"Streptophyta","family":"Caprifoliaceae","genus":"Valeriana","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(95)00492-P"]}],"organism_count":31,"reference_count":25,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0087338"},"research":{"total":621,"sampled":200,"designs":{"review":20,"human":40,"other":65,"animal":65,"in_vitro":5,"clinical_trial":5},"topics":[{"term":"Monocyclic Sesquiterpenes","papers":149},{"term":"Apoptosis","papers":30},{"term":"Oxidative Stress","papers":19},{"term":"Disease Models, Animal","papers":19},{"term":"Cell Survival","papers":19},{"term":"Cell Line, Tumor","papers":16},{"term":"Antioxidants","papers":16},{"term":"Matricaria","papers":13},{"term":"Inflammation","papers":13},{"term":"NF-kappa B","papers":12},{"term":"Anti-Inflammatory Agents","papers":12},{"term":"Stereoisomerism","papers":10},{"term":"Signal Transduction","papers":9},{"term":"Analgesics","papers":9}],"claims":[{"id":"antioxidant","label":"Antioxidant","papers":25,"designs":{"review":4,"animal":16,"other":2,"human":3},"pmids":["35753438","40943092","38502021","36142441","37714321","36364909","40765560","37961937","27912887","37762315","39442747","34974077"]},{"id":"anti-inflammatory","label":"Anti-inflammatory","papers":22,"designs":{"animal":18,"human":3,"review":1},"pmids":["40943092","36142441","41412265","37714321","35807237","40765560","21771629","24894548","37762315","21870032","30287152","31425746"]},{"id":"cancer","label":"Cancer","papers":20,"designs":{"human":16,"review":4},"pmids":["39566522","19192636","23056396","28179305","21883695","37515699","40974418","14975741","31127027","38240783","40715238","19570051"]},{"id":"antimicrobial","label":"Antimicrobial","papers":13,"designs":{"in_vitro":5,"animal":3,"other":1,"review":2,"human":2},"pmids":["28622712","36142441","28224386","34974077","27292196","30172312","31121252","22939370","32517106","38005371","29123398","30219391"]},{"id":"pain","label":"Pain relief","papers":10,"designs":{"animal":10},"pmids":["27900410","28193100","28514833","21870032","33857384","29243833","20105451","27292196","31002923","20875845"]},{"id":"neuroprotection","label":"Neuroprotection","papers":8,"designs":{"animal":5,"human":2,"review":1},"pmids":["41412265","37714321","30287152","40715238","35278524","31362072","35249501","37455002"]},{"id":"insect","label":"Insect repellent","papers":5,"designs":{"other":1,"animal":4},"pmids":["38323805","36455706","37513455","37330107","36898498"]},{"id":"digestive","label":"Digestive","papers":3,"designs":{"animal":2,"review":1},"pmids":["40943092","19663933","40085990"]},{"id":"cognition","label":"Focus and memory","papers":1,"designs":{"animal":1},"pmids":["41412265"]}],"years":{"from":1991,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Bisabolol%5BAll%20Fields%5D"},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"α-Bisabolol is a naturally occurring sesquiterpenoid, a type of aromatic molecule known for its delicate, sweet floral scent. It is most famous as the primary active component in chamomile, giving chamomile tea its soothing, recognizable aroma. You likely encounter it frequently in herbal teas, cosmetics, and skincare products where it is prized for its gentle fragrance.","found_in":"While most famously associated with chamomile (Matricaria), α-bisabolol is also found in the essential oils of various trees and shrubs, including pine (Pinus koraiensis), fir (Abies sibirica), and sweet wormwood (Artemisia annua).","why_researchers_care":"Researchers are drawn to α-bisabolol for its prominent role in traditional soothing herbs like chamomile, exploring its potential to calm inflammation and oxidative stress at a cellular level. The scientific literature includes over 600 papers, with the strongest evidence coming from early-phase human clinical trials (Oxford level 4) testing its topical application. Scientists are particularly interested in how this floral compound might influence cell survival and apoptosis, making it a frequent subject in both dermatological and oncological research.","structure_function":[{"claim_id":"anti-inflammatory","statement":"α-Bisabolol is being studied for its potential to support the body's natural inflammatory response.","evidence_level":"none_found","basis":"This rests on 22 papers, predominantly in animal models alongside early human and review literature.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":22},{"claim_id":"antioxidant","statement":"Early work points toward α-bisabolol acting as an antioxidant that may help protect cells from oxidative stress.","evidence_level":"none_found","basis":"This is based on 25 papers, including 16 animal studies and 3 human reports.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":25},{"claim_id":"antimicrobial","statement":"The compound may support the body's defenses against certain microbes and fungi.","evidence_level":"none_found","basis":"Researchers have explored this in 13 papers spanning in vitro, animal, and early human research.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":13},{"claim_id":"pain","statement":"Animal research suggests α-bisabolol may support physical comfort and pain relief.","evidence_level":"none_found","basis":"This observation is drawn entirely from 10 studies conducted in animal models.","eco":null,"oxford":null,"evidence_lines":[],"paper_count":10}],"hypothesized_benefits":[{"claim_id":"cancer","area":"Cellular health and apoptosis","hypothesis":"Researchers are exploring whether α-bisabolol can influence apoptosis (programmed cell death) in abnormal cells, which could eventually inform new supportive approaches in oncology.","evidence_level":"none_found","paper_count":20,"study_to_test_it":"To advance this from early human and lab observations, researchers would need to conduct a randomized, double-blind, placebo-controlled human trial measuring tumor markers and cell survival rates over several months.","eco":null,"oxford":null,"evidence_lines":[]},{"claim_id":"neuroprotection","area":"Brain health and neuroprotection","hypothesis":"Early animal work points toward the possibility that α-bisabolol might protect neural pathways from stress, raising exciting questions about its role in cognitive longevity.","evidence_level":"none_found","paper_count":8,"study_to_test_it":"The next crucial step would be a well-powered human observational study or a Phase 1 clinical trial measuring cognitive biomarkers and safety in healthy adults over a 6-month period.","eco":null,"oxford":null,"evidence_lines":[]},{"claim_id":"antimicrobial","area":"Fungal nail infections","hypothesis":"Researchers are investigating if the compound's natural defensive properties can be harnessed to clear stubborn fungal infections in nails.","evidence_level":"none_found","paper_count":13,"study_to_test_it":"This question has advanced to human testing, with a completed Phase 1 clinical trial (NCT04940520) measuring its efficacy against onychomycosis.","eco":null,"oxford":null,"evidence_lines":[]},{"claim_id":"anti-inflammatory","area":"Wound healing","hypothesis":"Given its traditional use in skin soothing, scientists are testing whether topical α-bisabolol can accelerate tissue repair and calm localized immune responses.","evidence_level":"none_found","paper_count":22,"study_to_test_it":"This is currently being tested in human trials, such as the completed Phase 1 trial (NCT05022108) evaluating an alpha-bisabolol gel for wounds and injuries.","eco":null,"oxford":null,"evidence_lines":[]}],"associated_conditions":[{"condition":"Onychomycosis","mondo_id":null,"relationship":"studied as an intervention for"},{"condition":"Wounds and Injuries","mondo_id":null,"relationship":"studied as an intervention for"}],"cautions":null,"evidence_at_a_glance":"Best evidence so far includes early-phase human clinical trials (Oxford level 4) for topical applications, while the bulk of the remaining research consists of animal and in vitro studies exploring its cellular effects."},"summary":null,"evidence":"Measured in 4 of 6 MONDAYS hemp SKUs at 0.07–0.29% of total volatiles (0.014–0.058mg per chew).","trials":{"total":2,"matched_loosely":8,"studies":[{"nct_id":"NCT04940520","title":"Alpha-bisabolol for Onychomycosis Treatment","status":"COMPLETED","phases":["PHASE1"],"study_type":"INTERVENTIONAL","conditions":["Onychomycosis"],"interventions":["Drug recommended by the Brazilian Society of Dermatology","Alpha bisabolol product and laser","Alpha bisabolol product"],"sponsor":"Universidade do Vale do Sapucai","enrollment":60,"start_date":"2020-06-01","completion_date":"2020-11-30","summary":"Clinical, interventional, longitudinal study with random sampling. 60 patients will be divided into three groups, group A: control group, drug recommended by the Brazilian Society of Dermatology, group B: alpha bisabolol-based product associated with low-level laser therapy, and group C: alpha bisabolol based product. The topical application will be performed twice a day, while the laser application and photographs of the lesions, every 15 days. Areas of the lesions will be compared.","url":"https://clinicaltrials.gov/study/NCT04940520"},{"nct_id":"NCT05022108","title":"Alpha-Bisabolol Gel With Antihistamine Action","status":"COMPLETED","phases":["PHASE1"],"study_type":"INTERVENTIONAL","conditions":["Wounds and Injuries"],"interventions":["Alpha bisabolol gel"],"sponsor":"Universidade do Vale do Sapucai","enrollment":20,"start_date":"2020-04-01","completion_date":"2020-08-01","summary":"It will be developed and evaluated the antihistamine potential of a gel containing alpha-bisabolol. Method: Interventional and cross-sectional study, with convenience sampling, conducted with 20 volunteers. The forearm will be sensitized at four points (A, B, C and D). Point A: positive control will be sensitized with a drop of histamine at a concentration of 10 mg / Ml. Point B: histamine will apply and immediately after, the alpha bisabolol gel with a concentration of 0.5%. Point C: histamine and gel with 2.5% alpha-bisabolol will apply. Point D will be sensitized with a drop of histamine an","url":"https://clinicaltrials.gov/study/NCT05022108"}],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=alpha-Bisabolol"},"is_terpenoid":true}
+{
+  "name": "α-Bisabolol",
+  "id": "alpha-bisabolol",
+  "formula": "C15H26O",
+  "pubchem": {
+    "cid": 1549992,
+    "title": "Bisabolol",
+    "formula": "C15H26O",
+    "molecular_weight": 222.37,
+    "smiles": "CC1=CCC(CC1)C(C)(CCC=C(C)C)O",
+    "inchikey": "RGZSQWQPBWRIAQ-LSDHHAIUSA-N",
+    "iupac_name": "(2R)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol",
+    "image": "data/molecules/images/alpha-bisabolol.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/1549992",
+    "description": "(+)-alpha-Bisabolol is a sesquiterpenoid.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:192031"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1549992/PNG"
+  },
+  "targets": [
+    {
+      "accession": "AAH96839",
+      "activity": null,
+      "value_um": 0,
+      "assay": "5-hydroxytryptamine receptor 2A (HTR2A) small molecule agonists, cell-based qHTS assay: Summary",
+      "aid": "2061100",
+      "pmid": null,
+      "protein": "5-hydroxytryptamine (serotonin) receptor 2A",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAH96839",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "P33261",
+      "activity": "Potency",
+      "value_um": 5.0119,
+      "assay": "qHTS for inhibitors of CYP2C19 against the NCATS DSHEA and TCM libraries",
+      "aid": "1919974",
+      "pmid": "37200814",
+      "protein": "Cytochrome P450 2C19",
+      "gene": "CYP2C19",
+      "organism": "Homo sapiens",
+      "url": "https://www.uniprot.org/uniprotkb/P33261",
+      "source": "UniProt"
+    },
+    {
+      "accession": "AAV41877",
+      "activity": "Potency",
+      "value_um": 8.709,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671197",
+      "pmid": null,
+      "protein": "cytochrome P450, family 2, subfamily C, polypeptide 19",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AAV41877",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "NP_000756",
+      "activity": "Potency",
+      "value_um": 13.8029,
+      "assay": "Cytochrome P450 family 3 subfamily A member 7 (CYP3A7) small molecule antagonists: luciferase cell-based qHTS assay",
+      "aid": "1963596",
+      "pmid": null,
+      "protein": "cytochrome P450 3A7",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/NP_000756",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "AGS09764",
+      "activity": "Potency",
+      "value_um": 17.3768,
+      "assay": "Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671198",
+      "pmid": null,
+      "protein": "cytochrome P450 family 2 subfamily C polypeptide 9",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/AGS09764",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ABI96208",
+      "activity": "Potency",
+      "value_um": 27.5404,
+      "assay": "Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay",
+      "aid": "1671201",
+      "pmid": null,
+      "protein": "cytochrome P450 family 3 subfamily A polypeptide 4",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ABI96208",
+      "source": "NCBI Protein"
+    },
+    {
+      "accession": "ADZ17384",
+      "activity": "Potency",
+      "value_um": 29.8493,
+      "assay": "Human pregnane X receptor (PXR) small molecule agonists, qHTS assay",
+      "aid": "1346982",
+      "pmid": null,
+      "protein": "pregnane X nuclear receptor",
+      "organism": "Homo sapiens",
+      "url": "https://www.ncbi.nlm.nih.gov/protein/ADZ17384",
+      "source": "NCBI Protein"
+    }
+  ],
+  "diseases": [],
+  "literature": {
+    "total": 621,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Bisabolol%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "35454969",
+        "title": "Chamomile (Matricaria chamomilla L.): A Review of Ethnomedicinal Use, Phytochemistry and Pharmacological Uses",
+        "journal": "Life (Basel)",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35454969/"
+      },
+      {
+        "pmid": "29025339",
+        "title": "Bisabolol",
+        "journal": "Int J Toxicol",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29025339/"
+      },
+      {
+        "pmid": "16628544",
+        "title": "A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.)",
+        "journal": "Phytother Res",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16628544/"
+      },
+      {
+        "pmid": "20137740",
+        "title": "Bisabolol",
+        "journal": "Dermatitis",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20137740/"
+      },
+      {
+        "pmid": "35164145",
+        "title": "Biotransformation of (-)-α-Bisabolol by Absidia coerulea",
+        "journal": "Molecules",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35164145/"
+      },
+      {
+        "pmid": "36824492",
+        "title": "Engineering Saccharomyces cerevisiae for enhanced (-)-α-bisabolol production",
+        "journal": "Synth Syst Biotechnol",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36824492/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Abies nephrolepis",
+        "id": "abies-nephrolepis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00574245",
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Abies sibirica subsp. semenovii",
+        "id": "abies-sibirica-subsp-semenovii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00574818",
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Microbiota decussata",
+        "id": "microbiota-decussata",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Microbiota",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1021/NP50075A015",
+          "10.1007/BF00634727"
+        ]
+      },
+      {
+        "name": "Pinus koraiensis",
+        "id": "pinus-koraiensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1007/BF00568368",
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Abies sachalinensis var. mayriana",
+        "id": "abies-sachalinensis-var-mayriana",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00638774"
+        ]
+      },
+      {
+        "name": "Abies sibirica",
+        "id": "abies-sibirica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Abies",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Artemisia annua",
+        "id": "artemisia-annua",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S11418-007-0175-2"
+        ]
+      },
+      {
+        "name": "Artemisia xanthochroa",
+        "id": "artemisia-xanthochroa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(90)85307-2"
+        ]
+      },
+      {
+        "name": "Endopappus macrocarpus subsp. macrocarpus",
+        "id": "endopappus-macrocarpus-subsp-macrocarpus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Endopappus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S10600-009-9209-1"
+        ]
+      },
+      {
+        "name": "Eremanthus incanus",
+        "id": "eremanthus-incanus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Eremanthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)83940-0"
+        ]
+      },
+      {
+        "name": "Ferula hermonis",
+        "id": "ferula-hermonis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Ferula",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50068A033"
+        ]
+      },
+      {
+        "name": "Fokienia hodginsii",
+        "id": "fokienia-hodginsii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Fokienia",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1002/JLAC.19717450107"
+        ]
+      },
+      {
+        "name": "Helichrysum mimetes",
+        "id": "helichrysum-mimetes",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(00)81569-1"
+        ]
+      },
+      {
+        "name": "Juniperus barbadensis var. lucayana",
+        "id": "juniperus-barbadensis-var-lucayana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2007.05.030"
+        ]
+      },
+      {
+        "name": "Juniperus virginiana silicicola",
+        "id": "juniperus-virginiana-silicicola",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "iNaturalist",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2007.05.030"
+        ]
+      },
+      {
+        "name": "Juniperus virginiana var. silicicola",
+        "id": "juniperus-virginiana-var-silicicola",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Juniperus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2007.05.030"
+        ]
+      },
+      {
+        "name": "Lasiolaena morii",
+        "id": "lasiolaena-morii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Lasiolaena",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(82)80035-6"
+        ]
+      },
+      {
+        "name": "Libanotis buchtormensis",
+        "id": "libanotis-buchtormensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Libanotis",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1135/CCCC19861509"
+        ]
+      },
+      {
+        "name": "Lychnophora ericoides",
+        "id": "lychnophora-ericoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Lychnophora",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2006.08.002"
+        ]
+      },
+      {
+        "name": "Merulius tremellosus",
+        "id": "merulius-tremellosus",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Meruliaceae",
+        "genus": "Phlebia",
+        "taxonomy_source": "Open Tree of Life",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP050520D"
+        ]
+      },
+      {
+        "name": "Osyris quadripartita",
+        "id": "osyris-quadripartita",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Santalaceae",
+        "genus": "Osyris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2004.05.007"
+        ]
+      },
+      {
+        "name": "Pellia epiphylla",
+        "id": "pellia-epiphylla",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pelliaceae",
+        "genus": "Pellia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00414-7"
+        ]
+      },
+      {
+        "name": "Phlebia tremellosa",
+        "id": "phlebia-tremellosa",
+        "kingdom": "Fungi",
+        "phylum": "Basidiomycota",
+        "family": "Meruliaceae",
+        "genus": "Phlebia",
+        "taxonomy_source": "Index Fungorum",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP050520D"
+        ]
+      },
+      {
+        "name": "Picea jezoensis var. jezoensis",
+        "id": "picea-jezoensis-var-jezoensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Picea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Pinus pumila",
+        "id": "pinus-pumila",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568368"
+        ]
+      },
+      {
+        "name": "Pinus sibirica",
+        "id": "pinus-sibirica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Pinaceae",
+        "genus": "Pinus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00579171"
+        ]
+      },
+      {
+        "name": "Piper fimbriulatum",
+        "id": "piper-fimbriulatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00762-0"
+        ]
+      },
+      {
+        "name": "Seseli buchtormense",
+        "id": "seseli-buchtormense",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Apiaceae",
+        "genus": "Seseli",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1135/CCCC19861509"
+        ]
+      },
+      {
+        "name": "Seseli transcaucasicum",
+        "id": "seseli-transcaucasicum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Seseli",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/BF00568028"
+        ]
+      },
+      {
+        "name": "Thymus camphoratus",
+        "id": "thymus-camphoratus",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Lamiaceae",
+        "genus": "Thymus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00117-9"
+        ]
+      },
+      {
+        "name": "Valeriana officinalis",
+        "id": "valeriana-officinalis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Caprifoliaceae",
+        "genus": "Valeriana",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(95)00492-P"
+        ]
+      }
+    ],
+    "organism_count": 31,
+    "reference_count": 25,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0087338"
+  },
+  "research": {
+    "total": 621,
+    "sampled": 200,
+    "designs": {
+      "review": 20,
+      "human": 40,
+      "other": 65,
+      "animal": 65,
+      "in_vitro": 5,
+      "clinical_trial": 5
+    },
+    "topics": [
+      {
+        "term": "Monocyclic Sesquiterpenes",
+        "papers": 149
+      },
+      {
+        "term": "Apoptosis",
+        "papers": 30
+      },
+      {
+        "term": "Oxidative Stress",
+        "papers": 19
+      },
+      {
+        "term": "Disease Models, Animal",
+        "papers": 19
+      },
+      {
+        "term": "Cell Survival",
+        "papers": 19
+      },
+      {
+        "term": "Cell Line, Tumor",
+        "papers": 16
+      },
+      {
+        "term": "Antioxidants",
+        "papers": 16
+      },
+      {
+        "term": "Matricaria",
+        "papers": 13
+      },
+      {
+        "term": "Inflammation",
+        "papers": 13
+      },
+      {
+        "term": "NF-kappa B",
+        "papers": 12
+      },
+      {
+        "term": "Anti-Inflammatory Agents",
+        "papers": 12
+      },
+      {
+        "term": "Stereoisomerism",
+        "papers": 10
+      },
+      {
+        "term": "Signal Transduction",
+        "papers": 9
+      },
+      {
+        "term": "Analgesics",
+        "papers": 9
+      }
+    ],
+    "claims": [
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 25,
+        "designs": {
+          "review": 4,
+          "animal": 16,
+          "other": 2,
+          "human": 3
+        },
+        "pmids": [
+          "35753438",
+          "40943092",
+          "38502021",
+          "36142441",
+          "37714321",
+          "36364909",
+          "40765560",
+          "37961937",
+          "27912887",
+          "37762315",
+          "39442747",
+          "34974077"
+        ]
+      },
+      {
+        "id": "anti-inflammatory",
+        "label": "Anti-inflammatory",
+        "papers": 22,
+        "designs": {
+          "animal": 18,
+          "human": 3,
+          "review": 1
+        },
+        "pmids": [
+          "40943092",
+          "36142441",
+          "41412265",
+          "37714321",
+          "35807237",
+          "40765560",
+          "21771629",
+          "24894548",
+          "37762315",
+          "21870032",
+          "30287152",
+          "31425746"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 20,
+        "designs": {
+          "human": 16,
+          "review": 4
+        },
+        "pmids": [
+          "39566522",
+          "19192636",
+          "23056396",
+          "28179305",
+          "21883695",
+          "37515699",
+          "40974418",
+          "14975741",
+          "31127027",
+          "38240783",
+          "40715238",
+          "19570051"
+        ]
+      },
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 13,
+        "designs": {
+          "in_vitro": 5,
+          "animal": 3,
+          "other": 1,
+          "review": 2,
+          "human": 2
+        },
+        "pmids": [
+          "28622712",
+          "36142441",
+          "28224386",
+          "34974077",
+          "27292196",
+          "30172312",
+          "31121252",
+          "22939370",
+          "32517106",
+          "38005371",
+          "29123398",
+          "30219391"
+        ]
+      },
+      {
+        "id": "pain",
+        "label": "Pain relief",
+        "papers": 10,
+        "designs": {
+          "animal": 10
+        },
+        "pmids": [
+          "27900410",
+          "28193100",
+          "28514833",
+          "21870032",
+          "33857384",
+          "29243833",
+          "20105451",
+          "27292196",
+          "31002923",
+          "20875845"
+        ]
+      },
+      {
+        "id": "neuroprotection",
+        "label": "Neuroprotection",
+        "papers": 8,
+        "designs": {
+          "animal": 5,
+          "human": 2,
+          "review": 1
+        },
+        "pmids": [
+          "41412265",
+          "37714321",
+          "30287152",
+          "40715238",
+          "35278524",
+          "31362072",
+          "35249501",
+          "37455002"
+        ]
+      },
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 5,
+        "designs": {
+          "other": 1,
+          "animal": 4
+        },
+        "pmids": [
+          "38323805",
+          "36455706",
+          "37513455",
+          "37330107",
+          "36898498"
+        ]
+      },
+      {
+        "id": "digestive",
+        "label": "Digestive",
+        "papers": 3,
+        "designs": {
+          "animal": 2,
+          "review": 1
+        },
+        "pmids": [
+          "40943092",
+          "19663933",
+          "40085990"
+        ]
+      },
+      {
+        "id": "cognition",
+        "label": "Focus and memory",
+        "papers": 1,
+        "designs": {
+          "animal": 1
+        },
+        "pmids": [
+          "41412265"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1991,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=alpha-Bisabolol%5BAll%20Fields%5D"
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "α-Bisabolol is a sesquiterpenoid, a type of aromatic molecule famous for giving chamomile its mild, sweet, and faintly floral scent. You likely encounter it often, as it is a star ingredient in soothing herbal teas, lotions, and cosmetics.",
+    "found_in": "It is most famously extracted from chamomile (Matricaria), but is also found in the essential oils of fir trees, Korean pine, and sweet wormwood (Artemisia annua).",
+    "why_researchers_care": "Researchers are drawn to α-bisabolol for its long history as a soothing botanical agent, exploring its effects on inflammation, oxidative stress, and cellular health. The strongest evidence comes from early-phase human clinical trials testing it as a topical treatment for skin conditions and fungal infections, though it currently lacks formal Oxford-graded evidence. If its potential bears out, it could offer a gentle, plant-derived tool for managing skin and tissue irritation.",
+    "structure_function": [
+      {
+        "claim_id": "anti-inflammatory",
+        "statement": "α-Bisabolol is being studied for its potential to support the body's natural response to inflammation.",
+        "evidence_level": "none_found",
+        "basis": "This rests on 22 papers, including 18 animal studies and 3 human studies.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 22
+      },
+      {
+        "claim_id": "antioxidant",
+        "statement": "Early work points toward α-bisabolol acting as an antioxidant to help protect cells from oxidative stress.",
+        "evidence_level": "none_found",
+        "basis": "This is based on 25 papers, primarily in animal models.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 25
+      },
+      {
+        "claim_id": "pain",
+        "statement": "Animal research suggests it may support physical comfort and pain relief.",
+        "evidence_level": "none_found",
+        "basis": "This is based on 10 studies conducted in animal models.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 10
+      },
+      {
+        "claim_id": "neuroprotection",
+        "statement": "Early animal and human research is exploring its potential to support long-term brain and nerve health.",
+        "evidence_level": "none_found",
+        "basis": "This rests on 8 papers, including 5 animal studies.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": [],
+        "paper_count": 8
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "cancer",
+        "area": "Oncology support",
+        "hypothesis": "Researchers are exploring whether α-bisabolol can influence apoptosis (programmed cell death) in abnormal cells, which could eventually make it a supportive agent in oncology.",
+        "evidence_level": "none_found",
+        "paper_count": 20,
+        "study_to_test_it": "A Phase 1/2 randomized controlled trial in human patients to evaluate the safety and biomarker response of oral α-bisabolol alongside standard therapies over 6 months.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": []
+      },
+      {
+        "claim_id": "antimicrobial",
+        "area": "Fungal infections",
+        "hypothesis": "It is being investigated as a topical agent to clear fungal infections like nail fungus (onychomycosis).",
+        "evidence_level": "none_found",
+        "paper_count": 13,
+        "study_to_test_it": "A Phase 2 efficacy trial to follow up on the completed Phase 1 safety trial (NCT04940520), measuring fungal clearance rates in patients with onychomycosis over 24 weeks.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": []
+      },
+      {
+        "claim_id": "anti-inflammatory",
+        "area": "Wound healing",
+        "hypothesis": "Researchers are testing whether topical application can accelerate wound healing and soothe histamine-driven skin reactions.",
+        "evidence_level": "none_found",
+        "paper_count": 22,
+        "study_to_test_it": "A larger Phase 2 randomized controlled trial to follow up on the completed Phase 1 trial (NCT05022108), measuring wound healing time and histamine response over 14 days.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": []
+      },
+      {
+        "claim_id": "digestive",
+        "area": "Digestive health",
+        "hypothesis": "Early animal work points toward a potential role in soothing the digestive tract, raising the question of whether it could support gut comfort.",
+        "evidence_level": "none_found",
+        "paper_count": 3,
+        "study_to_test_it": "A randomized, double-blind, placebo-controlled human trial measuring gastrointestinal comfort and inflammatory markers in adults with mild digestive complaints over 8 weeks.",
+        "eco": null,
+        "oxford": null,
+        "evidence_lines": []
+      }
+    ],
+    "associated_conditions": [
+      {
+        "condition": "Onychomycosis",
+        "mondo_id": null,
+        "relationship": "Studied as an intervention for in clinical trials."
+      },
+      {
+        "condition": "Wounds and Injuries",
+        "mondo_id": null,
+        "relationship": "Studied as an intervention for in clinical trials."
+      }
+    ],
+    "cautions": null,
+    "evidence_at_a_glance": "The strongest evidence so far comes from early-phase human clinical trials for skin and nail conditions, though the broader literature currently lacks formal Oxford-graded evidence and consists mostly of animal and lab research."
+  },
+  "summary": null,
+  "evidence": "Measured in 4 of 6 MONDAYS hemp SKUs at 0.07–0.29% of total volatiles (0.014–0.058mg per chew).",
+  "trials": {
+    "total": 2,
+    "matched_loosely": 8,
+    "studies": [
+      {
+        "nct_id": "NCT04940520",
+        "title": "Alpha-bisabolol for Onychomycosis Treatment",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Onychomycosis"
+        ],
+        "interventions": [
+          "Drug recommended by the Brazilian Society of Dermatology",
+          "Alpha bisabolol product and laser",
+          "Alpha bisabolol product"
+        ],
+        "sponsor": "Universidade do Vale do Sapucai",
+        "enrollment": 60,
+        "start_date": "2020-06-01",
+        "completion_date": "2020-11-30",
+        "summary": "Clinical, interventional, longitudinal study with random sampling. 60 patients will be divided into three groups, group A: control group, drug recommended by the Brazilian Society of Dermatology, group B: alpha bisabolol-based product associated with low-level laser therapy, and group C: alpha bisabolol based product. The topical application will be performed twice a day, while the laser application and photographs of the lesions, every 15 days. Areas of the lesions will be compared.",
+        "url": "https://clinicaltrials.gov/study/NCT04940520"
+      },
+      {
+        "nct_id": "NCT05022108",
+        "title": "Alpha-Bisabolol Gel With Antihistamine Action",
+        "status": "COMPLETED",
+        "phases": [
+          "PHASE1"
+        ],
+        "study_type": "INTERVENTIONAL",
+        "conditions": [
+          "Wounds and Injuries"
+        ],
+        "interventions": [
+          "Alpha bisabolol gel"
+        ],
+        "sponsor": "Universidade do Vale do Sapucai",
+        "enrollment": 20,
+        "start_date": "2020-04-01",
+        "completion_date": "2020-08-01",
+        "summary": "It will be developed and evaluated the antihistamine potential of a gel containing alpha-bisabolol. Method: Interventional and cross-sectional study, with convenience sampling, conducted with 20 volunteers. The forearm will be sensitized at four points (A, B, C and D). Point A: positive control will be sensitized with a drop of histamine at a concentration of 10 mg / Ml. Point B: histamine will apply and immediately after, the alpha bisabolol gel with a concentration of 0.5%. Point C: histamine and gel with 2.5% alpha-bisabolol will apply. Point D will be sensitized with a drop of histamine an",
+        "url": "https://clinicaltrials.gov/study/NCT05022108"
+      }
+    ],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=alpha-Bisabolol"
+  },
+  "is_terpenoid": true
+}

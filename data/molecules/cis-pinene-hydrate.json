@@ -1,1 +1,360 @@
-{"name":"cis-Pinene hydrate","id":"cis-pinene-hydrate","formula":"C10H18O","pubchem":{"cid":1268143,"title":"2-Pinanol, trans-","formula":"C10H18O","molecular_weight":154.25,"smiles":"CC1(C2CCC(C1C2)(C)O)C","inchikey":"YYWZKGZIIKPPJZ-QXFUBDJGSA-N","iupac_name":"(1R,2R,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol","image":"data/molecules/images/cis-pinene-hydrate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/1268143","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1268143/PNG"},"targets":[],"diseases":[],"literature":{"total":89715,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=cis-Pinene%20hydrate%5BAll%20Fields%5D","papers":[{"pmid":"30921543","title":"Hydration of Hofmeister ions","journal":"Adv Colloid Interface Sci","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/30921543/"},{"pmid":"31244216","title":"Polarity of Hydrated Phosphatidylcholine Headgroups","journal":"Langmuir","year":"2019","url":"https://pubmed.ncbi.nlm.nih.gov/31244216/"},{"pmid":"33050621","title":"Pharmaceutical Hydrates Analysis-Overview of Methods and Recent Advances","journal":"Pharmaceutics","year":"2020","url":"https://pubmed.ncbi.nlm.nih.gov/33050621/"},{"pmid":"28248491","title":"Water Dynamics in the Hydration Shells of Biomolecules","journal":"Chem Rev","year":"2017","url":"https://pubmed.ncbi.nlm.nih.gov/28248491/"},{"pmid":"29703638","title":"[Skin hydration and hydrating products]","journal":"Ann Dermatol Venereol","year":"2018","url":"https://pubmed.ncbi.nlm.nih.gov/29703638/"},{"pmid":"28342786","title":"Pharmaceutical solvates, hydrates and amorphous forms: A special emphasis on cocrystals","journal":"Adv Drug Deliv Rev","year":"2017","url":"https://pubmed.ncbi.nlm.nih.gov/28342786/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[{"name":"Pimenta racemosa","id":"pimenta-racemosa","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Pimenta","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1991.9697952"]}],"organism_count":1,"reference_count":1,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0124806"},"research":{"total":89715,"sampled":200,"designs":{"other":169,"review":14,"human_observational":12,"animal":3,"rct":2},"topics":[{"term":"Water","papers":43},{"term":"X-Ray Diffraction","papers":17},{"term":"Crystallization","papers":14},{"term":"Thermodynamics","papers":12},{"term":"Kinetics","papers":9},{"term":"Pharmaceutical Preparations","papers":8},{"term":"Calorimetry, Differential Scanning","papers":8},{"term":"Hydrogen Bonding","papers":8},{"term":"Solubility","papers":7},{"term":"Temperature","papers":7},{"term":"Drug Stability","papers":7},{"term":"Chemistry, Pharmaceutical","papers":6},{"term":"Carbon Dioxide","papers":6},{"term":"Models, Molecular","papers":6}],"claims":[{"id":"sleep","label":"Sleep and sedation","papers":1,"designs":{"rct":1},"evidence_level":"human_trials","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"1b","label":"individual randomised trial"},"evidence_lines":[{"design":"rct","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Randomized Controlled Trial"],"papers":1,"pmids":["27329516"]}],"pmids":["27329516"]},{"id":"cancer","label":"Cancer","papers":1,"designs":{"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["32543309"]}],"pmids":["32543309"]}],"years":{"from":1969,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=cis-Pinene%20hydrate%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 0.05–0.09% of total volatiles (0.01–0.018mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=cis-Pinene%20hydrate"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"cis-Pinene hydrate is a botanical terpene molecule, formed when water interacts with pinene—the famous compound that gives pine trees their sharp, fresh scent. It brings a woody, aromatic quality to the plants that produce it. People most often encounter it in essential oils and traditional botanical extracts used in perfumery and wellness.","found_in":"This molecule has been identified in the leaves of Pimenta racemosa, the West Indian bay tree famous for giving bay rum its distinctive spicy-sweet fragrance.","why_researchers_care":"Researchers are drawn to cis-pinene hydrate for its potential role in relaxation and cellular health. While much of the broader literature on chemical hydrates focuses on pharmaceutical formulation and how molecules crystallize, early clinical work is exploring how specific terpene hydrates interact with the human body. The strongest evidence so far comes from an individual randomised trial (Oxford level 1b) investigating its effects on sleep.","structure_function":[{"claim_id":"sleep","statement":"May support relaxation and healthy sleep cycles.","evidence_level":"human_trials","basis":"This rests on one randomized controlled trial evaluating sleep and sedation.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"1b","label":"individual randomised trial"},"evidence_lines":[{"design":"rct","eco":"ECO:0000180","papers":1}],"paper_count":1},{"claim_id":"cancer","statement":"Is being studied for its relationship to cellular health and cancer biology.","evidence_level":"human_observational","basis":"This is based on one human observational study.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"sleep","area":"Sleep and sedation","hypothesis":"Researchers are exploring whether cis-pinene hydrate can act as a natural sedative to improve sleep quality. If this bears out, it could offer a botanical pathway to support restorative rest without heavy grogginess.","evidence_level":"human_trials","paper_count":1,"study_to_test_it":"A multi-center, double-blind, placebo-controlled randomized trial in adults with mild insomnia, measuring sleep latency and total sleep duration via polysomnography over a four-week period.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"1b","label":"individual randomised trial"},"evidence_lines":[{"design":"rct","eco":"ECO:0000180","papers":1}]},{"claim_id":"cancer","area":"Cellular Health","hypothesis":"Early observational work points toward a potential association between exposure to this compound and cancer risk or progression, raising questions about its activity at the cellular level.","evidence_level":"human_observational","paper_count":1,"study_to_test_it":"A randomized, double-blind clinical trial in healthy adults, administering a standardized cis-pinene hydrate supplement and measuring changes in cellular oxidative stress and inflammatory biomarkers over 12 weeks.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is a human randomized trial (Oxford 1b) for sleep, alongside a human observational study regarding cellular health, though the vast majority of literature on hydrates focuses on physical chemistry."}}
+{
+  "name": "cis-Pinene hydrate",
+  "id": "cis-pinene-hydrate",
+  "formula": "C10H18O",
+  "pubchem": {
+    "cid": 1268143,
+    "title": "2-Pinanol, trans-",
+    "formula": "C10H18O",
+    "molecular_weight": 154.25,
+    "smiles": "CC1(C2CCC(C1C2)(C)O)C",
+    "inchikey": "YYWZKGZIIKPPJZ-QXFUBDJGSA-N",
+    "iupac_name": "(1R,2R,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol",
+    "image": "data/molecules/images/cis-pinene-hydrate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/1268143",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1268143/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 89715,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=cis-Pinene%20hydrate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "30921543",
+        "title": "Hydration of Hofmeister ions",
+        "journal": "Adv Colloid Interface Sci",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30921543/"
+      },
+      {
+        "pmid": "31244216",
+        "title": "Polarity of Hydrated Phosphatidylcholine Headgroups",
+        "journal": "Langmuir",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31244216/"
+      },
+      {
+        "pmid": "33050621",
+        "title": "Pharmaceutical Hydrates Analysis-Overview of Methods and Recent Advances",
+        "journal": "Pharmaceutics",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33050621/"
+      },
+      {
+        "pmid": "28248491",
+        "title": "Water Dynamics in the Hydration Shells of Biomolecules",
+        "journal": "Chem Rev",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28248491/"
+      },
+      {
+        "pmid": "29703638",
+        "title": "[Skin hydration and hydrating products]",
+        "journal": "Ann Dermatol Venereol",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29703638/"
+      },
+      {
+        "pmid": "28342786",
+        "title": "Pharmaceutical solvates, hydrates and amorphous forms: A special emphasis on cocrystals",
+        "journal": "Adv Drug Deliv Rev",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28342786/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Pimenta racemosa",
+        "id": "pimenta-racemosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Pimenta",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1991.9697952"
+        ]
+      }
+    ],
+    "organism_count": 1,
+    "reference_count": 1,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0124806"
+  },
+  "research": {
+    "total": 89715,
+    "sampled": 200,
+    "designs": {
+      "other": 169,
+      "review": 14,
+      "human_observational": 12,
+      "animal": 3,
+      "rct": 2
+    },
+    "topics": [
+      {
+        "term": "Water",
+        "papers": 43
+      },
+      {
+        "term": "X-Ray Diffraction",
+        "papers": 17
+      },
+      {
+        "term": "Crystallization",
+        "papers": 14
+      },
+      {
+        "term": "Thermodynamics",
+        "papers": 12
+      },
+      {
+        "term": "Kinetics",
+        "papers": 9
+      },
+      {
+        "term": "Pharmaceutical Preparations",
+        "papers": 8
+      },
+      {
+        "term": "Calorimetry, Differential Scanning",
+        "papers": 8
+      },
+      {
+        "term": "Hydrogen Bonding",
+        "papers": 8
+      },
+      {
+        "term": "Solubility",
+        "papers": 7
+      },
+      {
+        "term": "Temperature",
+        "papers": 7
+      },
+      {
+        "term": "Drug Stability",
+        "papers": 7
+      },
+      {
+        "term": "Chemistry, Pharmaceutical",
+        "papers": 6
+      },
+      {
+        "term": "Carbon Dioxide",
+        "papers": 6
+      },
+      {
+        "term": "Models, Molecular",
+        "papers": 6
+      }
+    ],
+    "claims": [
+      {
+        "id": "sleep",
+        "label": "Sleep and sedation",
+        "papers": 1,
+        "designs": {
+          "rct": 1
+        },
+        "evidence_level": "human_trials",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "1b",
+          "label": "individual randomised trial"
+        },
+        "evidence_lines": [
+          {
+            "design": "rct",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Randomized Controlled Trial"
+            ],
+            "papers": 1,
+            "pmids": [
+              "27329516"
+            ]
+          }
+        ],
+        "pmids": [
+          "27329516"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 1,
+        "designs": {
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "32543309"
+            ]
+          }
+        ],
+        "pmids": [
+          "32543309"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1969,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=cis-Pinene%20hydrate%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 0.05–0.09% of total volatiles (0.01–0.018mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=cis-Pinene%20hydrate"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "cis-Pinene hydrate is a botanical molecule belonging to the terpene family, formed when pinene—the familiar pine-scented compound—interacts with water. In daily life, you might encounter its subtle, woody-herbal aroma in certain essential oils or spiced botanical extracts.",
+    "found_in": "This compound has been identified in Pimenta racemosa, commonly known as the West Indian bay tree, whose leaves are traditionally used to make bay rum.",
+    "why_researchers_care": "Researchers are drawn to cis-pinene hydrate both for its physical chemistry—how it behaves in pharmaceutical preparations—and its potential biological effects. Early clinical work is exploring how this terpene derivative interacts with the human body, particularly regarding rest and relaxation. The strongest evidence to date comes from a human randomized controlled trial (Oxford level 1b) investigating its potential role in sleep and sedation.",
+    "structure_function": [
+      {
+        "claim_id": "sleep",
+        "statement": "Early clinical work points toward cis-pinene hydrate as a compound that may support restful sleep and relaxation.",
+        "evidence_level": "human_trials",
+        "basis": "This is based on one randomized controlled trial evaluating its sedative properties.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "1b",
+          "label": "individual randomised trial"
+        },
+        "evidence_lines": [
+          {
+            "design": "rct",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      },
+      {
+        "claim_id": "cancer",
+        "statement": "Observational research is exploring whether this molecule may support long-term cellular health.",
+        "evidence_level": "human_observational",
+        "basis": "This rests on one human observational study investigating its presence or effects in human cohorts.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "sleep",
+        "area": "Sleep and sedation",
+        "hypothesis": "Researchers are exploring whether cis-pinene hydrate can actively promote sleep onset or improve sleep quality. If this bears out, it could offer a new botanical avenue for nighttime relaxation.",
+        "evidence_level": "human_trials",
+        "paper_count": 1,
+        "study_to_test_it": "A larger, multi-center randomized, double-blind, placebo-controlled trial measuring sleep latency and architecture via polysomnography over a four-week period.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "1b",
+          "label": "individual randomised trial"
+        },
+        "evidence_lines": [
+          {
+            "design": "rct",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "cancer",
+        "area": "Cellular Health",
+        "hypothesis": "Scientists are investigating whether exposure to or consumption of this terpene correlates with specific cellular health outcomes and protections.",
+        "evidence_level": "human_observational",
+        "paper_count": 1,
+        "study_to_test_it": "A long-term prospective cohort study tracking dietary or occupational exposure to pinene hydrates, measuring specific biomarker levels and health outcomes over 5 to 10 years.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far includes a human randomized controlled trial (Oxford 1b) regarding sleep, though the vast majority of the broader literature focuses on the physical chemistry of hydrates in pharmaceutical preparations."
+  }
+}

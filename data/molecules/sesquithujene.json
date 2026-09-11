@@ -1,1 +1,177 @@
-{"name":"Sesquithujene","id":"sesquithujene","formula":"C15H24","pubchem":{"cid":25147318,"title":"Sesquithujene","formula":"C15H24","molecular_weight":204.35,"smiles":"CC1=CCC2(C1C2)C(C)CCC=C(C)C","inchikey":"UCQHFDKBUHCAFR-RBSFLKMASA-N","iupac_name":"(1R)-2-methyl-5-[(2R)-6-methylhept-5-en-2-yl]bicyclo[3.1.0]hex-2-ene","image":"data/molecules/images/sesquithujene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/25147318","description":null,"description_source":null,"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/25147318/PNG"},"targets":[],"diseases":[],"literature":{"total":12,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Sesquithujene%5BAll%20Fields%5D","papers":[{"pmid":"21574561","title":"Absolute configuration of 7-epi-sesquithujene","journal":"J Nat Prod","year":"2011","url":"https://pubmed.ncbi.nlm.nih.gov/21574561/"},{"pmid":"18419907","title":"Development of a host-based semiochemical lure for trapping emerald ash borer Agrilus planipennis (Coleoptera: Buprestidae)","journal":"Environ Entomol","year":"2008","url":"https://pubmed.ncbi.nlm.nih.gov/18419907/"},{"pmid":"22732623","title":"Attraction of Agrilus planipennis (Coleoptera: Buprestidae) to a volatile pheromone: effects of release rate, host volatile, and trap placement","journal":"Environ Entomol","year":"2012","url":"https://pubmed.ncbi.nlm.nih.gov/22732623/"},{"pmid":"21516661","title":"[Microscopic anatomy and volatile secondary metabolites at three stages of development of the inflorescences of Lantana camara (Verbenaceae)]","journal":"Rev Biol Trop","year":"2011","url":"https://pubmed.ncbi.nlm.nih.gov/21516661/"},{"pmid":"24490652","title":"Branching out from the bisabolyl cation. Unifying mechanistic pathways to barbatene, bazzanene, chamigrene, chamipinene, cumacrene, cuprenene, dunniene, isobazzanene, iso-γ-bisabolene, isochamigrene, laurene, microbiotene, sesquithujene, sesquisabinene, thujopsene, trichodiene, and widdradiene sesquiterpenes","journal":"J Am Chem Soc","year":"2014","url":"https://pubmed.ncbi.nlm.nih.gov/24490652/"},{"pmid":"23424668","title":"Identification of odor-processing genes in the emerald ash borer, Agrilus planipennis","journal":"PLoS One","year":"2013","url":"https://pubmed.ncbi.nlm.nih.gov/23424668/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[],"organism_count":0,"reference_count":0},"research":{"total":12,"sampled":12,"designs":{"animal":5,"other":6,"review":1},"topics":[{"term":"Coleoptera","papers":5},{"term":"Monocyclic Sesquiterpenes","papers":5},{"term":"Fraxinus","papers":4},{"term":"Insect Control","papers":2},{"term":"Plant Bark","papers":2},{"term":"Volatile Organic Compounds","papers":2},{"term":"Brazil","papers":1},{"term":"Lauraceae","papers":1},{"term":"Stereoisomerism","papers":1},{"term":"Behavior, Animal","papers":1},{"term":"Pheromones","papers":1},{"term":"Time Factors","papers":1},{"term":"Hexanols","papers":1},{"term":"Lactones","papers":1}],"claims":[],"years":{"from":2008,"to":2025},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Sesquithujene%5BAll%20Fields%5D"},"summary":null,"evidence":"Measured in 4 of 6 MONDAYS hemp SKUs at 0.05–0.15% of total volatiles (0.01–0.03mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Sesquithujene"},"is_terpenoid":false,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Sesquithujene is a volatile sesquiterpene, a type of aromatic molecule that plants release into the air. In nature, it acts as a chemical signal that can attract or repel insects, playing a role in the complex communication between trees and the ecosystems around them.","found_in":"It has been identified in the bark of ash trees and the flowers of the tropical plant Lantana camara.","why_researchers_care":"Researchers are drawn to sesquithujene for its potential in ecological management and insect control. Early animal studies (Oxford level 5) are exploring how this volatile compound acts as a pheromone or host-based lure for the emerald ash borer, a destructive beetle. If this bears out, it could lead to highly targeted, natural trapping systems to protect vulnerable forests.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is animal research (Oxford level 5) focusing on insect behavior, with the remainder consisting of chemical and structural analyses."}}
+{
+  "name": "Sesquithujene",
+  "id": "sesquithujene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 25147318,
+    "title": "Sesquithujene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1=CCC2(C1C2)C(C)CCC=C(C)C",
+    "inchikey": "UCQHFDKBUHCAFR-RBSFLKMASA-N",
+    "iupac_name": "(1R)-2-methyl-5-[(2R)-6-methylhept-5-en-2-yl]bicyclo[3.1.0]hex-2-ene",
+    "image": "data/molecules/images/sesquithujene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/25147318",
+    "description": null,
+    "description_source": null,
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/25147318/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 12,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Sesquithujene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "21574561",
+        "title": "Absolute configuration of 7-epi-sesquithujene",
+        "journal": "J Nat Prod",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21574561/"
+      },
+      {
+        "pmid": "18419907",
+        "title": "Development of a host-based semiochemical lure for trapping emerald ash borer Agrilus planipennis (Coleoptera: Buprestidae)",
+        "journal": "Environ Entomol",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18419907/"
+      },
+      {
+        "pmid": "22732623",
+        "title": "Attraction of Agrilus planipennis (Coleoptera: Buprestidae) to a volatile pheromone: effects of release rate, host volatile, and trap placement",
+        "journal": "Environ Entomol",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22732623/"
+      },
+      {
+        "pmid": "21516661",
+        "title": "[Microscopic anatomy and volatile secondary metabolites at three stages of development of the inflorescences of Lantana camara (Verbenaceae)]",
+        "journal": "Rev Biol Trop",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21516661/"
+      },
+      {
+        "pmid": "24490652",
+        "title": "Branching out from the bisabolyl cation. Unifying mechanistic pathways to barbatene, bazzanene, chamigrene, chamipinene, cumacrene, cuprenene, dunniene, isobazzanene, iso-γ-bisabolene, isochamigrene, laurene, microbiotene, sesquithujene, sesquisabinene, thujopsene, trichodiene, and widdradiene sesquiterpenes",
+        "journal": "J Am Chem Soc",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24490652/"
+      },
+      {
+        "pmid": "23424668",
+        "title": "Identification of odor-processing genes in the emerald ash borer, Agrilus planipennis",
+        "journal": "PLoS One",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23424668/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  },
+  "research": {
+    "total": 12,
+    "sampled": 12,
+    "designs": {
+      "animal": 5,
+      "other": 6,
+      "review": 1
+    },
+    "topics": [
+      {
+        "term": "Coleoptera",
+        "papers": 5
+      },
+      {
+        "term": "Monocyclic Sesquiterpenes",
+        "papers": 5
+      },
+      {
+        "term": "Fraxinus",
+        "papers": 4
+      },
+      {
+        "term": "Insect Control",
+        "papers": 2
+      },
+      {
+        "term": "Plant Bark",
+        "papers": 2
+      },
+      {
+        "term": "Volatile Organic Compounds",
+        "papers": 2
+      },
+      {
+        "term": "Brazil",
+        "papers": 1
+      },
+      {
+        "term": "Lauraceae",
+        "papers": 1
+      },
+      {
+        "term": "Stereoisomerism",
+        "papers": 1
+      },
+      {
+        "term": "Behavior, Animal",
+        "papers": 1
+      },
+      {
+        "term": "Pheromones",
+        "papers": 1
+      },
+      {
+        "term": "Time Factors",
+        "papers": 1
+      },
+      {
+        "term": "Hexanols",
+        "papers": 1
+      },
+      {
+        "term": "Lactones",
+        "papers": 1
+      }
+    ],
+    "claims": [],
+    "years": {
+      "from": 2008,
+      "to": 2025
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Sesquithujene%5BAll%20Fields%5D"
+  },
+  "summary": null,
+  "evidence": "Measured in 4 of 6 MONDAYS hemp SKUs at 0.05–0.15% of total volatiles (0.01–0.03mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Sesquithujene"
+  },
+  "is_terpenoid": false,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Sesquithujene is a volatile sesquiterpene, a type of aromatic molecule that plants release into the air. It forms part of the complex chemical language of trees and flowers, acting as a scent signal that insects can detect from afar.",
+    "found_in": "It has been identified in the bark of ash trees and the developing flowers of the Lantana camara plant.",
+    "why_researchers_care": "Researchers are drawn to sesquithujene for its powerful role in chemical ecology and insect behavior. Animal and insect studies (Oxford level 5) show that it acts as a semiochemical—a messenger molecule—that strongly attracts the emerald ash borer, a highly destructive beetle. Scientists are actively exploring how to use this molecule to develop effective lures and traps for insect control, turning the beetle's own scent preferences against it.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "The best evidence so far comes from animal and insect behavioral studies (Oxford level 5) alongside chemical analysis."
+  }
+}

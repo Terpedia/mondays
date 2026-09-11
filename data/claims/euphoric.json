@@ -1,0 +1,1328 @@
+{
+  "tile": "EUPHORIC",
+  "id": "euphoric",
+  "definition": "May support a lifted sense of wellbeing.",
+  "areas": [
+    "mood"
+  ],
+  "sense": "even",
+  "molecules": [
+    {
+      "id": "beta-caryophyllene",
+      "name": "β-Caryophyllene",
+      "papers": 5,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 4
+        }
+      ],
+      "statements": [
+        "Early observational work points toward a potential role in supporting a balanced mood."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 15.11
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 14.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 9.01
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 17.29
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 3.84
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 2.78
+        }
+      ],
+      "pmids": [
+        "41120021",
+        "29676236",
+        "31862467",
+        "24930711",
+        "30864870"
+      ],
+      "score": 7.811
+    },
+    {
+      "id": "beta-pinene",
+      "name": "β-Pinene",
+      "papers": 3,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        },
+        {
+          "design": "animal",
+          "papers": 2
+        }
+      ],
+      "statements": [
+        "Early work points toward a potential role in supporting a balanced mood."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 1.92
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 1.62
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 3.66
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 1.78
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 14.29
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 4.5
+        }
+      ],
+      "pmids": [
+        "25771248",
+        "38012973",
+        "22867633"
+      ],
+      "score": 5.671
+    },
+    {
+      "id": "linalool",
+      "name": "Linalool",
+      "papers": 4,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 2
+        },
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 5.99
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.19
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 2.32
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 4.97
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.46
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.64
+        }
+      ],
+      "pmids": [
+        "34544345",
+        "38012973",
+        "29037915",
+        "30347669"
+      ],
+      "score": 5.604
+    },
+    {
+      "id": "limonene",
+      "name": "Limonene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 13.84
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 9.91
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 19.03
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 10.11
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 9.71
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 5.88
+        }
+      ],
+      "pmids": [
+        "38932560"
+      ],
+      "score": 2.078
+    },
+    {
+      "id": "gamma-elemene",
+      "name": "γ-Elemene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward a potential role in mood regulation."
+      ],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.05
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 2.76
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.19
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.09
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        }
+      ],
+      "pmids": [
+        "25465853"
+      ],
+      "score": 0.918
+    },
+    {
+      "id": "e-beta-ocimene",
+      "name": "(E)-β-Ocimene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [
+        "Early work points toward a potential role in supporting mood."
+      ],
+      "hypotheses": [
+        {
+          "hypothesis": "Scientists are exploring whether the inhalation of (E)-beta-ocimene-rich essential oils can positively influence mood and alleviate depressive symptoms.",
+          "study": "A randomized, double-blind human trial exposing participants with mild depression to (E)-beta-ocimene vapor, measuring validated mood scales over a 4-week period.",
+          "evidence_level": "review_only"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.65
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.22
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.38
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 1.97
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 2.24
+        }
+      ],
+      "pmids": [
+        "33316383"
+      ],
+      "score": 0.815
+    },
+    {
+      "id": "borneol",
+      "name": "Borneol",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.28
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.45
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.14
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.32
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "37527732"
+      ],
+      "score": 0.386
+    },
+    {
+      "id": "beta-sesquiphellandrene",
+      "name": "β-Sesquiphellandrene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "human_observational",
+      "eco": "ECO:0000180",
+      "oxford": "2b",
+      "evidence_lines": [
+        {
+          "design": "human_observational",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.35
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.27
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.08
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.28
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.07
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.08
+        }
+      ],
+      "pmids": [
+        "29844252"
+      ],
+      "score": 0.312
+    },
+    {
+      "id": "1-8-cineole",
+      "name": "1,8-Cineole",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.06
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.26
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.1
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.5
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "40290092"
+      ],
+      "score": 0.281
+    },
+    {
+      "id": "delta-cadinene",
+      "name": "δ-Cadinene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early reviews point toward the possibility that volatile oils containing δ-cadinene might influence mood and ease depressive symptoms through olfactory pathways.",
+          "study": "A randomized, double-blind human trial exposing participants with mild depression to inhaled δ-cadinene versus a placebo scent, measuring changes in standardized depression rating scales over 8 weeks.",
+          "evidence_level": "review_only"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.39
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.36
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.1
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.4
+        }
+      ],
+      "pmids": [
+        "33316383"
+      ],
+      "score": 0.233
+    },
+    {
+      "id": "gamma-cadinene",
+      "name": "γ-Cadinene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Based on its presence in essential oils traditionally used for mental well-being, scientists are investigating if this terpene might support a healthy mood.",
+          "study": "A randomized, double-blind human clinical trial testing inhaled γ-cadinene essential oil versus a placebo scent over eight weeks, measuring outcomes using standardized depression and anxiety inventories.",
+          "evidence_level": "review_only"
+        }
+      ],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.35
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.19
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.06
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.22
+        }
+      ],
+      "pmids": [
+        "33316383"
+      ],
+      "score": 0.208
+    },
+    {
+      "id": "caryophyllene-oxide",
+      "name": "Caryophyllene oxide",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "review_only",
+      "eco": "ECO:0000033",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "review",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.09
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.3
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.17
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.13
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.09
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.09
+        }
+      ],
+      "pmids": [
+        "38934531"
+      ],
+      "score": 0.182
+    },
+    {
+      "id": "alpha-phellandrene",
+      "name": "α-Phellandrene",
+      "papers": 3,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        },
+        {
+          "design": "review",
+          "papers": 2
+        }
+      ],
+      "statements": [],
+      "hypotheses": [
+        {
+          "hypothesis": "Early animal work points toward a potential role in easing depressive disorders and supporting mood stability. If confirmed, this aromatic compound could be a soothing natural addition to mental health support.",
+          "study": "A pilot human clinical trial evaluating mood scores and cortisol levels in adults with mild to moderate depressive symptoms, using an inhaled or ingested alpha-phellandrene preparation over 8 weeks.",
+          "evidence_level": "animal"
+        }
+      ],
+      "products": [
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.05
+        },
+        {
+          "handle": "the-daily-commute",
+          "name": "The Daily Commute",
+          "percent": 0.11
+        }
+      ],
+      "pmids": [
+        "33316383",
+        "38934531",
+        "24661285"
+      ],
+      "score": 0.145
+    },
+    {
+      "id": "isocaryophyllene",
+      "name": "Isocaryophyllene",
+      "papers": 1,
+      "areas": [
+        "Mood"
+      ],
+      "evidence_level": "animal",
+      "eco": "ECO:0007120",
+      "oxford": "5",
+      "evidence_lines": [
+        {
+          "design": "animal",
+          "papers": 1
+        }
+      ],
+      "statements": [],
+      "hypotheses": [],
+      "products": [
+        {
+          "handle": "grapes-unleaded",
+          "name": "Grapes Unleaded",
+          "percent": 0.13
+        },
+        {
+          "handle": "wild-things",
+          "name": "Wild Things",
+          "percent": 0.08
+        },
+        {
+          "handle": "go-go-bananas",
+          "name": "Go-Go Bananas",
+          "percent": 0.09
+        },
+        {
+          "handle": "main-squeeze",
+          "name": "Main Squeeze",
+          "percent": 0.18
+        },
+        {
+          "handle": "raspberry-relief",
+          "name": "Raspberry Relief",
+          "percent": 0.06
+        }
+      ],
+      "pmids": [
+        "31862467"
+      ],
+      "score": 0.115
+    }
+  ],
+  "molecules_with_research": 14,
+  "papers": 25,
+  "best_evidence": "human_observational",
+  "best_oxford": "2b",
+  "trials": [],
+  "products": [
+    {
+      "handle": "grapes-unleaded",
+      "name": "Grapes Unleaded",
+      "strain": "Grape Gasoline × Concord Grape",
+      "support": {
+        "tile": "EUPHORIC",
+        "definition": "May support a lifted sense of wellbeing.",
+        "areas": [
+          "mood"
+        ],
+        "backing": [
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 15.11,
+            "mg": 3.02,
+            "papers": 5,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "41120021",
+              "29676236",
+              "31862467",
+              "24930711",
+              "30864870"
+            ]
+          },
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 13.84,
+            "mg": 2.77,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38932560"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 5.99,
+            "mg": 1.2,
+            "papers": 4,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "34544345",
+              "38012973",
+              "29037915",
+              "30347669"
+            ]
+          },
+          {
+            "id": "beta-pinene",
+            "name": "β-Pinene",
+            "percent": 1.92,
+            "mg": 0.38,
+            "papers": 3,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "25771248",
+              "38012973",
+              "22867633"
+            ]
+          },
+          {
+            "id": "e-beta-ocimene",
+            "name": "(E)-β-Ocimene",
+            "percent": 0.65,
+            "mg": 0.13,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "33316383"
+            ]
+          },
+          {
+            "id": "delta-cadinene",
+            "name": "δ-Cadinene",
+            "percent": 0.39,
+            "mg": 0.078,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "33316383"
+            ]
+          },
+          {
+            "id": "gamma-cadinene",
+            "name": "γ-Cadinene",
+            "percent": 0.35,
+            "mg": 0.07,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "33316383"
+            ]
+          },
+          {
+            "id": "beta-sesquiphellandrene",
+            "name": "β-Sesquiphellandrene",
+            "percent": 0.35,
+            "mg": 0.07,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "29844252"
+            ]
+          },
+          {
+            "id": "borneol",
+            "name": "Borneol",
+            "percent": 0.28,
+            "mg": 0.056,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "37527732"
+            ]
+          },
+          {
+            "id": "isocaryophyllene",
+            "name": "Isocaryophyllene",
+            "percent": 0.13,
+            "mg": 0.026,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "31862467"
+            ]
+          },
+          {
+            "id": "caryophyllene-oxide",
+            "name": "Caryophyllene oxide",
+            "percent": 0.09,
+            "mg": 0.018,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "38934531"
+            ]
+          },
+          {
+            "id": "1-8-cineole",
+            "name": "1,8-Cineole",
+            "percent": 0.06,
+            "mg": 0.012,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "40290092"
+            ]
+          },
+          {
+            "id": "gamma-elemene",
+            "name": "γ-Elemene",
+            "percent": 0.05,
+            "mg": 0.01,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "25465853"
+            ]
+          }
+        ],
+        "compounds_with_research": 13,
+        "papers": 22,
+        "share_of_profile": 39.2,
+        "best_evidence": "human_observational",
+        "best_oxford": "2b"
+      }
+    },
+    {
+      "handle": "main-squeeze",
+      "name": "Main Squeeze",
+      "strain": "Lemon Cherry Gelato × Ponderosa Lemon",
+      "support": {
+        "tile": "EUPHORIC",
+        "definition": "May support a lifted sense of wellbeing.",
+        "areas": [
+          "mood"
+        ],
+        "backing": [
+          {
+            "id": "beta-caryophyllene",
+            "name": "β-Caryophyllene",
+            "percent": 17.29,
+            "mg": 3.46,
+            "papers": 5,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "41120021",
+              "29676236",
+              "31862467",
+              "24930711",
+              "30864870"
+            ]
+          },
+          {
+            "id": "limonene",
+            "name": "Limonene",
+            "percent": 10.11,
+            "mg": 2.02,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "38932560"
+            ]
+          },
+          {
+            "id": "linalool",
+            "name": "Linalool",
+            "percent": 4.97,
+            "mg": 0.99,
+            "papers": 4,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "34544345",
+              "38012973",
+              "29037915",
+              "30347669"
+            ]
+          },
+          {
+            "id": "beta-pinene",
+            "name": "β-Pinene",
+            "percent": 1.78,
+            "mg": 0.36,
+            "papers": 3,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "25771248",
+              "38012973",
+              "22867633"
+            ]
+          },
+          {
+            "id": "delta-cadinene",
+            "name": "δ-Cadinene",
+            "percent": 0.4,
+            "mg": 0.08,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "33316383"
+            ]
+          },
+          {
+            "id": "e-beta-ocimene",
+            "name": "(E)-β-Ocimene",
+            "percent": 0.38,
+            "mg": 0.076,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "33316383"
+            ]
+          },
+          {
+            "id": "borneol",
+            "name": "Borneol",
+            "percent": 0.32,
+            "mg": 0.064,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "37527732"
+            ]
+          },
+          {
+            "id": "beta-sesquiphellandrene",
+            "name": "β-Sesquiphellandrene",
+            "percent": 0.28,
+            "mg": 0.056,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "human_observational",
+            "eco": "ECO:0000180",
+            "oxford": "2b",
+            "pmids": [
+              "29844252"
+            ]
+          },
+          {
+            "id": "gamma-cadinene",
+            "name": "γ-Cadinene",
+            "percent": 0.22,
+            "mg": 0.044,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "33316383"
+            ]
+          },
+          {
+            "id": "isocaryophyllene",
+            "name": "Isocaryophyllene",
+            "percent": 0.18,
+            "mg": 0.036,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "31862467"
+            ]
+          },
+          {
+            "id": "caryophyllene-oxide",
+            "name": "Caryophyllene oxide",
+            "percent": 0.13,
+            "mg": 0.026,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "review_only",
+            "eco": "ECO:0000033",
+            "oxford": "5",
+            "pmids": [
+              "38934531"
+            ]
+          },
+          {
+            "id": "1-8-cineole",
+            "name": "1,8-Cineole",
+            "percent": 0.1,
+            "mg": 0.02,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "40290092"
+            ]
+          },
+          {
+            "id": "gamma-elemene",
+            "name": "γ-Elemene",
+            "percent": 0.09,
+            "mg": 0.018,
+            "papers": 1,
+            "areas": [
+              "Mood"
+            ],
+            "evidence_level": "animal",
+            "eco": "ECO:0007120",
+            "oxford": "5",
+            "pmids": [
+              "25465853"
+            ]
+          }
+        ],
+        "compounds_with_research": 13,
+        "papers": 22,
+        "share_of_profile": 36.3,
+        "best_evidence": "human_observational",
+        "best_oxford": "2b"
+      }
+    }
+  ],
+  "summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_means": "A euphoric claim points to a lifted, buoyant sense of well-being that brightens your day. It is that recognizable feeling of sudden lightness or a gentle boost in mood when you encounter certain aromas or flavors. For curious consumers, it means these products are formulated with molecules that may support a balanced, positive emotional state.",
+    "physiology": "The sensation of a lifted mood is deeply connected to how volatile molecules interact with our nervous and endocannabinoid systems. Terpenes associated with this claim are thought to act on Cannabinoid receptor 2 (CB2), which plays a role in modulating emotional balance without intoxicating effects. Other molecules target PPAR-alpha, a receptor involved in energy regulation, as well as the AR protein and Nrf2, which help manage cellular stress. By engaging these pathways, alongside direct olfactory routes to the brain's emotion centers, these compounds may help orchestrate a brighter, more resilient state of mind.",
+    "the_science": "The research into these mood-lifting molecules is currently led by human observational studies (Oxford level 2b), which track how people's emotional well-being correlates with their exposure to specific terpenes. Across the 25 papers exploring this claim, scientists are primarily investigating how these compounds influence mood regulation and emotional balance. The supporting literature is largely built on animal models observing behavioral changes, alongside a handful of literature reviews. While clinical trials are still needed, this foundational work provides a compelling look at how our bodies respond to these natural compounds.",
+    "leading_molecules": [
+      {
+        "id": "beta-caryophyllene",
+        "name": "β-Caryophyllene",
+        "why": "This terpene leads the research with its ability to bind directly to CB2 and PPAR-alpha receptors to support a balanced mood, making up a massive 17.29% of the Main Squeeze chew.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "linalool",
+        "name": "Linalool",
+        "why": "Backed by multiple observational studies, this molecule is being studied for its ability to support emotional well-being and features prominently in Wild Things at over 9%.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "beta-pinene",
+        "name": "β-Pinene",
+        "why": "With research exploring its role in mood regulation, this molecule is a key player in Raspberry Relief, where it accounts for over 14% of the blend.",
+        "evidence_level": "human_observational",
+        "oxford": "2b",
+        "eco": "ECO:0000180"
+      },
+      {
+        "id": "limonene",
+        "name": "Limonene",
+        "why": "Early animal work points toward its interaction with cellular stress regulators like Nrf2, and it dominates the Go-Go Bananas profile at 19.03%.",
+        "evidence_level": "animal",
+        "oxford": "5",
+        "eco": "ECO:0007120"
+      },
+      {
+        "id": "e-beta-ocimene",
+        "name": "(E)-β-Ocimene",
+        "why": "Researchers are exploring whether inhaling this terpene positively influences mood, making it an exciting target for future clinical work.",
+        "evidence_level": "review_only",
+        "oxford": "5",
+        "eco": "ECO:0000033"
+      }
+    ],
+    "open_questions": [
+      {
+        "question": "Does inhaled (E)-β-ocimene interact with the olfactory system to positively influence mood and alleviate depressive symptoms?",
+        "study_to_settle_it": "A randomized, placebo-controlled human trial where participants with mild depression inhale a standardized dose of (E)-β-ocimene daily for 8 weeks, measuring changes in validated mood scores like the Hamilton Depression Rating Scale."
+      },
+      {
+        "question": "Can the direct activation of CB2 and PPAR-alpha receptors by β-caryophyllene reliably elevate mood in humans?",
+        "study_to_settle_it": "A randomized, double-blind clinical trial administering a standardized oral dose of β-caryophyllene to healthy adults, tracking subjective well-being and mood regulation over a 4-week period using validated psychological questionnaires."
+      }
+    ],
+    "evidence_at_a_glance": "The strongest evidence for this claim comes from human observational studies at Oxford level 2b."
+  }
+}

@@ -1,1 +1,171 @@
-{"name":"trans-α-Bergamotene + α-Guaiene","id":"trans-alpha-bergamotene-alpha-guaiene","formula":null,"pubchem":null,"targets":[],"literature":{"total":2,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene%5BAll%20Fields%5D","papers":[{"pmid":"36677891","title":"Comparison of the Cannabinoid and Terpene Profiles in Commercial Cannabis from Natural and Artificial Cultivation","journal":"Molecules","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/36677891/"},{"pmid":"37253914","title":"Foliar application of Phenylalanine functionalized multi-walled carbon nanotube improved the content of volatile compounds of basil grown in greenhouse","journal":"Environ Sci Pollut Res Int","year":"2023","url":"https://pubmed.ncbi.nlm.nih.gov/37253914/"}]},"retrieved":"2026-09-11","summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 1.28–2.44% of total volatiles (0.26–0.49mg per chew).","diseases":[],"occurrence":null,"research":{"total":2,"sampled":2,"designs":{"other":2},"topics":[{"term":"Cannabinoids","papers":1},{"term":"Cannabis","papers":1},{"term":"Hallucinogens","papers":1},{"term":"Cannabinoid Receptor Agonists","papers":1},{"term":"Antioxidants","papers":1},{"term":"Flavonoids","papers":1},{"term":"Hydrogen Peroxide","papers":1},{"term":"Nanotubes, Carbon","papers":1},{"term":"Ocimum basilicum","papers":1},{"term":"Phenols","papers":1}],"claims":[{"id":"antioxidant","label":"Antioxidant","papers":1,"designs":{"other":1},"evidence_level":"none_found","eco":{"id":"ECO:0000205","label":"curator inference"},"oxford":{"level":null,"label":"no evidence found"},"evidence_lines":[],"pmids":["37253914"]}],"years":{"from":2023,"to":2023},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene%5BAll%20Fields%5D"},"trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"trans-α-Bergamotene and α-Guaiene are volatile aromatic molecules known as terpenes, which give many plants their signature scents and flavors. As a pair, they contribute to the complex, earthy, and spicy aromas found in certain herbs and botanicals. You most likely encounter them when smelling fresh herbs or botanical extracts.","found_in":"These terpenes have been identified in the aromatic profiles of commercial Cannabis and greenhouse-grown sweet basil (Ocimum basilicum).","why_researchers_care":"Researchers are drawn to this terpene pair to understand how different growing conditions shape the chemical profiles of valuable crops. Recent studies are exploring how cultivation methods, from artificial lighting to novel agricultural treatments, alter the yield of these aromatic compounds alongside cannabinoids and flavonoids. The current literature consists entirely of early analytical and agricultural research.","structure_function":[{"claim_id":"antioxidant","statement":"Early analytical work is exploring whether these compounds may support antioxidant activity in plant extracts.","evidence_level":"none_found","basis":"Based on one analytical paper examining plant volatile compounds.","eco":{"id":"ECO:0000205","label":"curator inference"},"oxford":{"level":null,"label":"no evidence found"},"evidence_lines":[],"paper_count":1}],"hypothesized_benefits":[{"claim_id":"antioxidant","area":"Antioxidant capacity","hypothesis":"Researchers are exploring whether the presence of these terpenes contributes to the overall antioxidant potential of the plants that produce them. If this bears out, it could help explain the protective chemical defenses of certain herbs.","evidence_level":"none_found","paper_count":1,"study_to_test_it":"An in vitro biochemical assay isolating this specific terpene combination to measure its direct free-radical scavenging ability compared to known antioxidants.","eco":{"id":"ECO:0000205","label":"curator inference"},"oxford":{"level":null,"label":"no evidence found"},"evidence_lines":[]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"The current evidence is limited to early analytical and agricultural research, with no human or animal studies available yet."}}
+{
+  "name": "trans-α-Bergamotene + α-Guaiene",
+  "id": "trans-alpha-bergamotene-alpha-guaiene",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "literature": {
+    "total": 2,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "36677891",
+        "title": "Comparison of the Cannabinoid and Terpene Profiles in Commercial Cannabis from Natural and Artificial Cultivation",
+        "journal": "Molecules",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36677891/"
+      },
+      {
+        "pmid": "37253914",
+        "title": "Foliar application of Phenylalanine functionalized multi-walled carbon nanotube improved the content of volatile compounds of basil grown in greenhouse",
+        "journal": "Environ Sci Pollut Res Int",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37253914/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 1.28–2.44% of total volatiles (0.26–0.49mg per chew).",
+  "diseases": [],
+  "occurrence": null,
+  "research": {
+    "total": 2,
+    "sampled": 2,
+    "designs": {
+      "other": 2
+    },
+    "topics": [
+      {
+        "term": "Cannabinoids",
+        "papers": 1
+      },
+      {
+        "term": "Cannabis",
+        "papers": 1
+      },
+      {
+        "term": "Hallucinogens",
+        "papers": 1
+      },
+      {
+        "term": "Cannabinoid Receptor Agonists",
+        "papers": 1
+      },
+      {
+        "term": "Antioxidants",
+        "papers": 1
+      },
+      {
+        "term": "Flavonoids",
+        "papers": 1
+      },
+      {
+        "term": "Hydrogen Peroxide",
+        "papers": 1
+      },
+      {
+        "term": "Nanotubes, Carbon",
+        "papers": 1
+      },
+      {
+        "term": "Ocimum basilicum",
+        "papers": 1
+      },
+      {
+        "term": "Phenols",
+        "papers": 1
+      }
+    ],
+    "claims": [
+      {
+        "id": "antioxidant",
+        "label": "Antioxidant",
+        "papers": 1,
+        "designs": {
+          "other": 1
+        },
+        "evidence_level": "none_found",
+        "eco": {
+          "id": "ECO:0000205",
+          "label": "curator inference"
+        },
+        "oxford": {
+          "level": null,
+          "label": "no evidence found"
+        },
+        "evidence_lines": [],
+        "pmids": [
+          "37253914"
+        ]
+      }
+    ],
+    "years": {
+      "from": 2023,
+      "to": 2023
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene%5BAll%20Fields%5D"
+  },
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=trans-alpha-Bergamotene%20%2B%20alpha-Guaiene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "This is a combination of two distinct terpenes, trans-α-bergamotene and α-guaiene, which often elute together during chemical analysis. As volatile aromatic compounds, they help create the distinctive scents and flavors of the plants that produce them. A person is most likely to encounter them when smelling fresh herbs or botanical extracts.",
+    "found_in": "These terpenes have been identified in the volatile profiles of sweet basil (Ocimum basilicum) and commercial cannabis.",
+    "why_researchers_care": "Researchers are drawn to these molecules to understand how growing conditions change a plant's chemical fingerprint. Current studies are primarily analytical (with no clinical evidence found), exploring how techniques like artificial cultivation or specialized fertilizers influence the terpene and cannabinoid profiles of commercially valuable crops.",
+    "structure_function": [
+      {
+        "claim_id": "antioxidant",
+        "statement": "Early analytical work is exploring whether this terpene combination may support the overall antioxidant capacity of plant extracts.",
+        "evidence_level": "none_found",
+        "basis": "This rests on a single analytical paper evaluating plant volatile compounds.",
+        "eco": {
+          "id": "ECO:0000205",
+          "label": "curator inference"
+        },
+        "oxford": {
+          "level": null,
+          "label": "no evidence found"
+        },
+        "evidence_lines": [],
+        "paper_count": 1
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antioxidant",
+        "area": "Antioxidant potential",
+        "hypothesis": "Researchers are exploring whether these specific terpenes contribute to the free-radical scavenging ability of the plants that produce them, which could help explain the protective properties of certain botanical extracts.",
+        "evidence_level": "none_found",
+        "paper_count": 1,
+        "study_to_test_it": "An in vitro assay isolating this specific terpene pair to measure its direct free-radical scavenging ability compared to known antioxidants.",
+        "eco": {
+          "id": "ECO:0000205",
+          "label": "curator inference"
+        },
+        "oxford": {
+          "level": null,
+          "label": "no evidence found"
+        },
+        "evidence_lines": []
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no clinical or preclinical evidence for this specific combination; existing research consists solely of analytical plant profiling."
+  }
+}

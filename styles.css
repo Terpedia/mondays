@@ -169,3 +169,11 @@ footer a { color:var(--green); font-weight:800; }
 .tq-input { flex:1; min-width:0; padding:10px 12px; border:1px solid #cfd8cd; border-radius:8px; font:.86rem Inter, ui-sans-serif, system-ui, sans-serif; }
 .tq-send { padding:10px 16px; border:0; border-radius:8px; background:var(--orange); color:#fff; font-weight:800; cursor:pointer; }
 @media (max-width:600px) { .tq { right:10px; bottom:10px; } .tq-toggle { padding:11px 14px; font-size:.8rem; } }
+
+a.claim-tile { text-decoration:none; }
+a.claim-tile:hover { background:var(--orange); color:white; }
+.claim-tile--hero { font-size:1.4rem; padding:10px 20px; }
+.claim-card--link { display:grid; gap:4px; padding:14px 16px; text-decoration:none; color:var(--ink); }
+.claim-card--link:hover { border-color:var(--green); }
+.claim-card--link .claim-stat { color:var(--muted); font-size:.74rem; }
+.claim-card--link .claim-stat b { color:var(--green); }

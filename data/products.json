@@ -237,22 +237,6 @@
               ]
             },
             {
-              "id": "hexyl-hexanoate",
-              "name": "Hexyl hexanoate",
-              "percent": 1.55,
-              "mg": 0.31,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "beta-selinene",
               "name": "β-Selinene",
               "percent": 1.08,
@@ -368,22 +352,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.34,
-              "mg": 0.068,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "terpinolene",
               "name": "Terpinolene",
               "percent": 0.29,
@@ -415,38 +383,6 @@
               "pmids": [
                 "29223397",
                 "37527732"
-              ]
-            },
-            {
-              "id": "octyl-hexanoate",
-              "name": "Octyl hexanoate",
-              "percent": 0.26,
-              "mg": 0.052,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.16,
-              "mg": 0.032,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
               ]
             },
             {
@@ -520,25 +456,6 @@
               ]
             },
             {
-              "id": "octyl-acetate",
-              "name": "Octyl acetate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 3,
-              "areas": [
-                "Anxiety and calm",
-                "Mood"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "29777752",
-                "42392230",
-                "33316383"
-              ]
-            },
-            {
               "id": "citronellol",
               "name": "Citronellol",
               "percent": 0.05,
@@ -571,9 +488,9 @@
               ]
             }
           ],
-          "compounds_with_research": 27,
-          "papers": 60,
-          "share_of_profile": 56.9,
+          "compounds_with_research": 22,
+          "papers": 53,
+          "share_of_profile": 54.5,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -1020,29 +937,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.34,
-              "mg": 0.068,
-              "papers": 8,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "36907431",
-                "38813679",
-                "24662935",
-                "33359187",
-                "17446019",
-                "34684809",
-                "42280118",
-                "21707250"
-              ]
-            },
-            {
               "id": "e-nerolidol",
               "name": "(E)-Nerolidol",
               "percent": 0.32,
@@ -1277,22 +1171,6 @@
               ]
             },
             {
-              "id": "octanol",
-              "name": "Octanol",
-              "percent": 0.12,
-              "mg": 0.024,
-              "papers": 1,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "27146583"
-              ]
-            },
-            {
               "id": "10-epi-gamma-eudesmol",
               "name": "10-epi-γ-Eudesmol",
               "percent": 0.12,
@@ -1463,40 +1341,6 @@
               ]
             },
             {
-              "id": "bulnesol",
-              "name": "Bulnesol",
-              "percent": 0.07,
-              "mg": 0.014,
-              "papers": 3,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "38869184",
-                "36018718",
-                "35744884"
-              ]
-            },
-            {
-              "id": "juniper-camphor",
-              "name": "Juniper camphor",
-              "percent": 0.07,
-              "mg": 0.014,
-              "papers": 1,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "37544345"
-              ]
-            },
-            {
               "id": "1-8-cineole",
               "name": "1,8-Cineole",
               "percent": 0.06,
@@ -1538,22 +1382,6 @@
                 "28911567",
                 "28385055",
                 "31352022"
-              ]
-            },
-            {
-              "id": "hexyl-butyrate",
-              "name": "Hexyl butyrate",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Pain relief"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "19467316"
               ]
             },
             {
@@ -1626,25 +1454,6 @@
               ]
             },
             {
-              "id": "octyl-acetate",
-              "name": "Octyl acetate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 3,
-              "areas": [
-                "Anti-inflammatory",
-                "Pain relief"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "27117114",
-                "23255314",
-                "19467316"
-              ]
-            },
-            {
               "id": "citronellol",
               "name": "Citronellol",
               "percent": 0.05,
@@ -1686,9 +1495,9 @@
               ]
             }
           ],
-          "compounds_with_research": 52,
-          "papers": 472,
-          "share_of_profile": 72.6,
+          "compounds_with_research": 46,
+          "papers": 455,
+          "share_of_profile": 71.9,
           "best_evidence": "human_trials",
           "best_oxford": "1a"
         },
@@ -1837,22 +1646,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.34,
-              "mg": 0.068,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "borneol",
               "name": "Borneol",
               "percent": 0.28,
@@ -1866,22 +1659,6 @@
               "oxford": "2b",
               "pmids": [
                 "37527732"
-              ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.16,
-              "mg": 0.032,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
               ]
             },
             {
@@ -1933,22 +1710,6 @@
               ]
             },
             {
-              "id": "octyl-acetate",
-              "name": "Octyl acetate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "gamma-elemene",
               "name": "γ-Elemene",
               "percent": 0.05,
@@ -1965,9 +1726,9 @@
               ]
             }
           ],
-          "compounds_with_research": 16,
-          "papers": 25,
-          "share_of_profile": 39.8,
+          "compounds_with_research": 13,
+          "papers": 22,
+          "share_of_profile": 39.2,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         }
@@ -2208,22 +1969,6 @@
               ]
             },
             {
-              "id": "caproic-acid",
-              "name": "Caproic acid",
-              "percent": 0.12,
-              "mg": 0.024,
-              "papers": 1,
-              "areas": [
-                "Focus and memory"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "37144597"
-              ]
-            },
-            {
               "id": "isocaryophyllene",
               "name": "Isocaryophyllene",
               "percent": 0.08,
@@ -2274,9 +2019,9 @@
               ]
             }
           ],
-          "compounds_with_research": 12,
-          "papers": 19,
-          "share_of_profile": 34.8,
+          "compounds_with_research": 11,
+          "papers": 18,
+          "share_of_profile": 34.6,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -2425,22 +2170,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.27,
-              "mg": 0.054,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "beta-sesquiphellandrene",
               "name": "β-Sesquiphellandrene",
               "percent": 0.27,
@@ -2473,42 +2202,10 @@
               ]
             },
             {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.19,
-              "mg": 0.038,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
-              ]
-            },
-            {
               "id": "gamma-cadinene",
               "name": "γ-Cadinene",
               "percent": 0.19,
               "mg": 0.038,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
-              "id": "octyl-acetate",
-              "name": "Octyl acetate",
-              "percent": 0.09,
-              "mg": 0.018,
               "papers": 1,
               "areas": [
                 "Mood"
@@ -2551,60 +2248,11 @@
               "pmids": [
                 "31862467"
               ]
-            },
-            {
-              "id": "octane",
-              "name": "Octane",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "12669763"
-              ]
-            },
-            {
-              "id": "citronellyl-formate",
-              "name": "Citronellyl formate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "41722126"
-              ]
-            },
-            {
-              "id": "bornyl-acetate",
-              "name": "Bornyl acetate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 2,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "33316383",
-                "39113199"
-              ]
             }
           ],
-          "compounds_with_research": 19,
-          "papers": 29,
-          "share_of_profile": 40.2,
+          "compounds_with_research": 13,
+          "papers": 22,
+          "share_of_profile": 39.5,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -2871,22 +2519,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.27,
-              "mg": 0.054,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "beta-sesquiphellandrene",
               "name": "β-Sesquiphellandrene",
               "percent": 0.27,
@@ -2905,22 +2537,6 @@
               ]
             },
             {
-              "id": "octyl-hexanoate",
-              "name": "Octyl hexanoate",
-              "percent": 0.27,
-              "mg": 0.054,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "e-beta-ocimene",
               "name": "(E)-β-Ocimene",
               "percent": 0.22,
@@ -2934,22 +2550,6 @@
               "oxford": "5",
               "pmids": [
                 "33316383"
-              ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.19,
-              "mg": 0.038,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
               ]
             },
             {
@@ -3017,25 +2617,6 @@
               ]
             },
             {
-              "id": "octyl-acetate",
-              "name": "Octyl acetate",
-              "percent": 0.09,
-              "mg": 0.018,
-              "papers": 3,
-              "areas": [
-                "Anxiety and calm",
-                "Mood"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "29777752",
-                "42392230",
-                "33316383"
-              ]
-            },
-            {
               "id": "1-8-cineole",
               "name": "1,8-Cineole",
               "percent": 0.08,
@@ -3070,64 +2651,11 @@
                 "35766031",
                 "31862467"
               ]
-            },
-            {
-              "id": "octane",
-              "name": "Octane",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 2,
-              "areas": [
-                "Anxiety and calm",
-                "Mood"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "12669763",
-                "12669763"
-              ]
-            },
-            {
-              "id": "citronellyl-formate",
-              "name": "Citronellyl formate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "41722126"
-              ]
-            },
-            {
-              "id": "bornyl-acetate",
-              "name": "Bornyl acetate",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 3,
-              "areas": [
-                "Mood",
-                "Anxiety and calm"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "33316383",
-                "39113199",
-                "33463459"
-              ]
             }
           ],
-          "compounds_with_research": 29,
-          "papers": 65,
-          "share_of_profile": 50.6,
+          "compounds_with_research": 22,
+          "papers": 53,
+          "share_of_profile": 49.6,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         }
@@ -3505,38 +3033,6 @@
               ]
             },
             {
-              "id": "heptanal",
-              "name": "Heptanal",
-              "percent": 0.12,
-              "mg": 0.024,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "20527970"
-              ]
-            },
-            {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.12,
-              "mg": 0.024,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "delta-cadinene",
               "name": "δ-Cadinene",
               "percent": 0.1,
@@ -3585,22 +3081,6 @@
               ]
             },
             {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.07,
-              "mg": 0.014,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
-              ]
-            },
-            {
               "id": "gamma-cadinene",
               "name": "γ-Cadinene",
               "percent": 0.06,
@@ -3617,9 +3097,9 @@
               ]
             }
           ],
-          "compounds_with_research": 15,
-          "papers": 24,
-          "share_of_profile": 35.4,
+          "compounds_with_research": 12,
+          "papers": 21,
+          "share_of_profile": 35.1,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -3802,22 +3282,6 @@
               ]
             },
             {
-              "id": "hexyl-hexanoate",
-              "name": "Hexyl hexanoate",
-              "percent": 0.32,
-              "mg": 0.064,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "beta-bisabolene",
               "name": "β-Bisabolene",
               "percent": 0.32,
@@ -3918,38 +3382,6 @@
               ]
             },
             {
-              "id": "heptanal",
-              "name": "Heptanal",
-              "percent": 0.12,
-              "mg": 0.024,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "20527970"
-              ]
-            },
-            {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.12,
-              "mg": 0.024,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "delta-cadinene",
               "name": "δ-Cadinene",
               "percent": 0.1,
@@ -4004,22 +3436,6 @@
               ]
             },
             {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.07,
-              "mg": 0.014,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
-              ]
-            },
-            {
               "id": "gamma-cadinene",
               "name": "γ-Cadinene",
               "percent": 0.06,
@@ -4036,9 +3452,9 @@
               ]
             }
           ],
-          "compounds_with_research": 23,
-          "papers": 54,
-          "share_of_profile": 80.9,
+          "compounds_with_research": 19,
+          "papers": 50,
+          "share_of_profile": 80.3,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         }
@@ -4300,22 +3716,6 @@
               ]
             },
             {
-              "id": "hexyl-hexanoate",
-              "name": "Hexyl hexanoate",
-              "percent": 1.43,
-              "mg": 0.29,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "beta-bisabolene",
               "name": "β-Bisabolene",
               "percent": 0.51,
@@ -4397,22 +3797,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.37,
-              "mg": 0.074,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "borneol",
               "name": "Borneol",
               "percent": 0.32,
@@ -4465,22 +3849,6 @@
               ]
             },
             {
-              "id": "octyl-hexanoate",
-              "name": "Octyl hexanoate",
-              "percent": 0.22,
-              "mg": 0.044,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "isocaryophyllene",
               "name": "Isocaryophyllene",
               "percent": 0.18,
@@ -4498,45 +3866,6 @@
                 "36241680",
                 "35766031",
                 "31862467"
-              ]
-            },
-            {
-              "id": "ethanol",
-              "name": "Ethanol",
-              "percent": 0.16,
-              "mg": 0.032,
-              "papers": 7,
-              "areas": [
-                "Anxiety and calm",
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "24776303",
-                "15337375",
-                "6149593",
-                "25355320",
-                "28663116",
-                "16499485",
-                "40405002"
-              ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.14,
-              "mg": 0.028,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
               ]
             },
             {
@@ -4606,9 +3935,9 @@
               ]
             }
           ],
-          "compounds_with_research": 26,
-          "papers": 63,
-          "share_of_profile": 55.3,
+          "compounds_with_research": 21,
+          "papers": 52,
+          "share_of_profile": 53,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -5014,29 +4343,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.37,
-              "mg": 0.074,
-              "papers": 8,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "36907431",
-                "38813679",
-                "24662935",
-                "33359187",
-                "17446019",
-                "34684809",
-                "42280118",
-                "21707250"
-              ]
-            },
-            {
               "id": "e-nerolidol",
               "name": "(E)-Nerolidol",
               "percent": 0.35,
@@ -5252,22 +4558,6 @@
               ]
             },
             {
-              "id": "ethanol",
-              "name": "Ethanol",
-              "percent": 0.16,
-              "mg": 0.032,
-              "papers": 1,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "40375729"
-              ]
-            },
-            {
               "id": "allo-aromadendrene",
               "name": "allo-Aromadendrene",
               "percent": 0.15,
@@ -5348,22 +4638,6 @@
                 "37689616",
                 "40509153",
                 "36552848"
-              ]
-            },
-            {
-              "id": "octanol",
-              "name": "Octanol",
-              "percent": 0.11,
-              "mg": 0.022,
-              "papers": 1,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "none_found",
-              "eco": "ECO:0000205",
-              "oxford": null,
-              "pmids": [
-                "27146583"
               ]
             },
             {
@@ -5574,22 +4848,6 @@
               ]
             },
             {
-              "id": "hexyl-butyrate",
-              "name": "Hexyl butyrate",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Pain relief"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "19467316"
-              ]
-            },
-            {
               "id": "geraniol",
               "name": "Geraniol",
               "percent": 0.06,
@@ -5637,24 +4895,6 @@
               ]
             },
             {
-              "id": "bulnesol",
-              "name": "Bulnesol",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 3,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "38869184",
-                "36018718",
-                "35744884"
-              ]
-            },
-            {
               "id": "terpinen-4-ol",
               "name": "Terpinen-4-ol",
               "percent": 0.05,
@@ -5676,27 +4916,11 @@
                 "37455134",
                 "22473218"
               ]
-            },
-            {
-              "id": "juniper-camphor",
-              "name": "Juniper camphor",
-              "percent": 0.05,
-              "mg": 0.01,
-              "papers": 1,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "37544345"
-              ]
             }
           ],
-          "compounds_with_research": 51,
-          "papers": 458,
-          "share_of_profile": 72.1,
+          "compounds_with_research": 45,
+          "papers": 443,
+          "share_of_profile": 71.3,
           "best_evidence": "human_trials",
           "best_oxford": "1a"
         },
@@ -5813,22 +5037,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.37,
-              "mg": 0.074,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
-            },
-            {
               "id": "borneol",
               "name": "Borneol",
               "percent": 0.32,
@@ -5893,38 +5101,6 @@
               ]
             },
             {
-              "id": "ethanol",
-              "name": "Ethanol",
-              "percent": 0.16,
-              "mg": 0.032,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "40405002"
-              ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.14,
-              "mg": 0.028,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
-              ]
-            },
-            {
               "id": "caryophyllene-oxide",
               "name": "Caryophyllene oxide",
               "percent": 0.13,
@@ -5973,9 +5149,9 @@
               ]
             }
           ],
-          "compounds_with_research": 16,
-          "papers": 25,
-          "share_of_profile": 36.9,
+          "compounds_with_research": 13,
+          "papers": 22,
+          "share_of_profile": 36.3,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         }
@@ -6305,22 +5481,6 @@
               ]
             },
             {
-              "id": "heptanal",
-              "name": "Heptanal",
-              "percent": 0.1,
-              "mg": 0.02,
-              "papers": 1,
-              "areas": [
-                "Sleep and sedation"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "2837504"
-              ]
-            },
-            {
               "id": "caryophyllene-oxide",
               "name": "Caryophyllene oxide",
               "percent": 0.09,
@@ -6390,22 +5550,6 @@
               ]
             },
             {
-              "id": "hexyl-hexanoate",
-              "name": "Hexyl hexanoate",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "isocaryophyllene",
               "name": "Isocaryophyllene",
               "percent": 0.06,
@@ -6458,9 +5602,9 @@
               ]
             }
           ],
-          "compounds_with_research": 21,
-          "papers": 54,
-          "share_of_profile": 87.3,
+          "compounds_with_research": 19,
+          "papers": 52,
+          "share_of_profile": 87.2,
           "best_evidence": "human_trials",
           "best_oxford": "1b"
         },
@@ -6724,22 +5868,6 @@
               ]
             },
             {
-              "id": "hexyl-hexanoate",
-              "name": "Hexyl hexanoate",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "isocaryophyllene",
               "name": "Isocaryophyllene",
               "percent": 0.06,
@@ -6774,9 +5902,9 @@
               ]
             }
           ],
-          "compounds_with_research": 18,
-          "papers": 32,
-          "share_of_profile": 86.7,
+          "compounds_with_research": 17,
+          "papers": 31,
+          "share_of_profile": 86.6,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -6971,29 +6099,6 @@
               ]
             },
             {
-              "id": "germacrene-b",
-              "name": "Germacrene B",
-              "percent": 0.7,
-              "mg": 0.14,
-              "papers": 7,
-              "areas": [
-                "Anti-inflammatory",
-                "Pain relief"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "39150493",
-                "34684809",
-                "20422996",
-                "15994044",
-                "35744884",
-                "27534134",
-                "39150493"
-              ]
-            },
-            {
               "id": "e-beta-farnesene",
               "name": "(E)-β-Farnesene",
               "percent": 0.67,
@@ -7137,29 +6242,6 @@
               ]
             },
             {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.13,
-              "mg": 0.026,
-              "papers": 8,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "36907431",
-                "38813679",
-                "24662935",
-                "33359187",
-                "17446019",
-                "34684809",
-                "42280118",
-                "21707250"
-              ]
-            },
-            {
               "id": "alpha-terpineol",
               "name": "α-Terpineol",
               "percent": 0.11,
@@ -7208,25 +6290,6 @@
               ]
             },
             {
-              "id": "heptanal",
-              "name": "Heptanal",
-              "percent": 0.1,
-              "mg": 0.02,
-              "papers": 3,
-              "areas": [
-                "Anti-inflammatory",
-                "Pain relief"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "28651699",
-                "26160521",
-                "22830336"
-              ]
-            },
-            {
               "id": "gamma-muurolene",
               "name": "γ-Muurolene",
               "percent": 0.1,
@@ -7268,23 +6331,6 @@
                 "37536183",
                 "21843620",
                 "29675712"
-              ]
-            },
-            {
-              "id": "trans-pinocarveol",
-              "name": "trans-Pinocarveol",
-              "percent": 0.09,
-              "mg": 0.018,
-              "papers": 2,
-              "areas": [
-                "Anti-inflammatory"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "34355673",
-                "42392810"
               ]
             },
             {
@@ -7501,9 +6547,9 @@
               ]
             }
           ],
-          "compounds_with_research": 33,
-          "papers": 330,
-          "share_of_profile": 90.8,
+          "compounds_with_research": 29,
+          "papers": 310,
+          "share_of_profile": 89.8,
           "best_evidence": "human_trials",
           "best_oxford": "1a"
         }
@@ -7849,22 +6895,6 @@
               ]
             },
             {
-              "id": "heptanal",
-              "name": "Heptanal",
-              "percent": 0.08,
-              "mg": 0.016,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "20527970"
-              ]
-            },
-            {
               "id": "borneol",
               "name": "Borneol",
               "percent": 0.08,
@@ -7895,43 +6925,11 @@
               "pmids": [
                 "29844252"
               ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.07,
-              "mg": 0.014,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
-              ]
-            },
-            {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
             }
           ],
-          "compounds_with_research": 13,
-          "papers": 24,
-          "share_of_profile": 16.7,
+          "compounds_with_research": 10,
+          "papers": 21,
+          "share_of_profile": 16.5,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         },
@@ -8166,22 +7164,6 @@
               ]
             },
             {
-              "id": "hexyl-hexanoate",
-              "name": "Hexyl hexanoate",
-              "percent": 0.1,
-              "mg": 0.02,
-              "papers": 1,
-              "areas": [
-                "Anxiety and calm"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "29777752"
-              ]
-            },
-            {
               "id": "1-8-cineole",
               "name": "1,8-Cineole",
               "percent": 0.09,
@@ -8232,22 +7214,6 @@
               ]
             },
             {
-              "id": "heptanal",
-              "name": "Heptanal",
-              "percent": 0.08,
-              "mg": 0.016,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "human_observational",
-              "eco": "ECO:0000180",
-              "oxford": "2b",
-              "pmids": [
-                "20527970"
-              ]
-            },
-            {
               "id": "borneol",
               "name": "Borneol",
               "percent": 0.08,
@@ -8282,43 +7248,11 @@
                 "25771354",
                 "29844252"
               ]
-            },
-            {
-              "id": "hexanol",
-              "name": "Hexanol",
-              "percent": 0.07,
-              "mg": 0.014,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "animal",
-              "eco": "ECO:0007120",
-              "oxford": "5",
-              "pmids": [
-                "25243904"
-              ]
-            },
-            {
-              "id": "cis-alpha-bergamotene",
-              "name": "cis-α-Bergamotene",
-              "percent": 0.06,
-              "mg": 0.012,
-              "papers": 1,
-              "areas": [
-                "Mood"
-              ],
-              "evidence_level": "review_only",
-              "eco": "ECO:0000033",
-              "oxford": "5",
-              "pmids": [
-                "33316383"
-              ]
             }
           ],
-          "compounds_with_research": 21,
-          "papers": 52,
-          "share_of_profile": 92.5,
+          "compounds_with_research": 17,
+          "papers": 48,
+          "share_of_profile": 92.2,
           "best_evidence": "human_observational",
           "best_oxford": "2b"
         }

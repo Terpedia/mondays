@@ -1,1 +1,83 @@
-{"name":"4,5-diepi-Aristolochene","id":"4-5-diepi-aristolochene","formula":null,"pubchem":null,"targets":[],"diseases":[],"literature":{"total":1,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=4%2C5-diepi-Aristolochene%5BAll%20Fields%5D","papers":[{"pmid":"38372483","title":"Functional and Mechanistic Characterization of the 4,5-diepi-Isoishwarane Synthase from the Liverwort Radula lindenbergiana","journal":"Chembiochem","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38372483/"}]},"retrieved":"2026-09-11","occurrence":null,"research":{"total":1,"sampled":1,"designs":{"other":1},"topics":[{"term":"Hepatophyta","papers":1},{"term":"Sesquiterpenes, Germacrane","papers":1},{"term":"Cyclization","papers":1},{"term":"Alkyl and Aryl Transferases","papers":1}],"claims":[],"years":{"from":2024,"to":2024},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=4%2C5-diepi-Aristolochene%5BAll%20Fields%5D"},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"4,5-diepi-Aristolochene is a sesquiterpene, a class of natural aromatic compounds often responsible for the distinct scents and defenses of plants. While not something you would typically encounter in the grocery store, it is part of the complex chemical library produced by ancient plant lineages.","found_in":"It has been identified in liverworts, specifically a species known as Radula lindenbergiana.","why_researchers_care":"Researchers are drawn to this molecule to understand the intricate chemical machinery plants use to build complex structures. Foundational biochemical work (Oxford level 5, mechanistic research) is currently exploring the specific enzymes, like synthases, that trigger its formation. Mapping these pathways is exciting because it helps scientists understand how nature engineers these unique molecules from the ground up.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"The only available evidence consists of foundational biochemical and mechanistic research (Oxford level 5) exploring how the molecule is synthesized in plants."},"summary":null,"evidence":"Measured in 3 of 6 MONDAYS hemp SKUs at 0.06–0.08% of total volatiles (0.012–0.016mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=4%2C5-diepi-Aristolochene"},"is_terpenoid":false}
+{
+  "name": "4,5-diepi-Aristolochene",
+  "id": "4-5-diepi-aristolochene",
+  "formula": null,
+  "pubchem": null,
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 1,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=4%2C5-diepi-Aristolochene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38372483",
+        "title": "Functional and Mechanistic Characterization of the 4,5-diepi-Isoishwarane Synthase from the Liverwort Radula lindenbergiana",
+        "journal": "Chembiochem",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38372483/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": null,
+  "research": {
+    "total": 1,
+    "sampled": 1,
+    "designs": {
+      "other": 1
+    },
+    "topics": [
+      {
+        "term": "Hepatophyta",
+        "papers": 1
+      },
+      {
+        "term": "Sesquiterpenes, Germacrane",
+        "papers": 1
+      },
+      {
+        "term": "Cyclization",
+        "papers": 1
+      },
+      {
+        "term": "Alkyl and Aryl Transferases",
+        "papers": 1
+      }
+    ],
+    "claims": [],
+    "years": {
+      "from": 2024,
+      "to": 2024
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=4%2C5-diepi-Aristolochene%5BAll%20Fields%5D"
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "4,5-diepi-Aristolochene is a specialized volatile molecule belonging to the sesquiterpene family, a class of compounds often responsible for the deep, earthy, or spicy aromas in nature. While it is not a common flavor or fragrance in daily life, it represents the complex chemical language that ancient plants use to survive and interact with their environments.",
+    "found_in": "It has been identified in the liverwort Radula lindenbergiana, a type of ancient, non-vascular plant often found clinging to damp rocks and tree trunks.",
+    "why_researchers_care": "Researchers are drawn to 4,5-diepi-aristolochene to understand the intricate chemical machinery of early land plants. By studying the specific enzymes that build this molecule, scientists are mapping out how nature folds and cyclizes simple building blocks into complex, three-dimensional structures. The current evidence is limited to foundational in vitro biochemical characterization (Oxford level 5), focusing purely on how the plant manufactures the compound.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "The only available evidence consists of foundational biochemical research (Oxford level 5) exploring how plant enzymes synthesize this molecule in a laboratory setting."
+  },
+  "summary": null,
+  "evidence": "Measured in 3 of 6 MONDAYS hemp SKUs at 0.06–0.08% of total volatiles (0.012–0.016mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=4%2C5-diepi-Aristolochene"
+  },
+  "is_terpenoid": false
+}

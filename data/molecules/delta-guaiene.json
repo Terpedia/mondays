@@ -1,1 +1,909 @@
-{"name":"δ-Guaiene","id":"delta-guaiene","formula":"C15H24","pubchem":{"cid":94275,"title":"alpha-Bulnesene","formula":"C15H24","molecular_weight":204.35,"smiles":"CC1CCC2=C(CCC(CC12)C(=C)C)C","inchikey":"YHAJBLWYOIUHHM-GUTXKFCHSA-N","iupac_name":"(3S,3aS,5R)-3,8-dimethyl-5-prop-1-en-2-yl-1,2,3,3a,4,5,6,7-octahydroazulene","image":"data/molecules/images/delta-guaiene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/94275","description":"Delta-guaiene is a carbobicyclic compound and sesquiterpene that is 1,2,3,3a,4,5,6,7-octahydroazulene which is substituted by methyl groups at positions 3 and 8 and by a (prop-1-en-2-yl group at position 5 (the 3S,3aS,5R enantiomer). It has a role as a platelet aggregation inhibitor and a plant metabolite. It is a sesquiterpene and a carbobicyclic compound.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63447"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/94275/PNG"},"targets":[],"literature":{"total":27,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=delta-Guaiene%5BAll%20Fields%5D","papers":[{"pmid":"30807004","title":"Enhanced Production of δ-Guaiene, a Bicyclic Sesquiterpene Accumulated in Agarwood, by Coexpression of δ-Guaiene Synthase and Farnesyl Diphosphate Synthase Genes in Escherichia coli","journal":"Nat Prod Commun","year":"2016","url":"https://pubmed.ncbi.nlm.nih.gov/30807004/"},{"pmid":"20959422","title":"Characterization of delta-guaiene synthases from cultured cells of Aquilaria, responsible for the formation of the sesquiterpenes in agarwood","journal":"Plant Physiol","year":"2010","url":"https://pubmed.ncbi.nlm.nih.gov/20959422/"},{"pmid":"25918780","title":"Induction, cloning and functional expression of a sesquiterpene biosynthetic enzyme, δ-guaiene synthase, of Aquilaria microcarpa cell cultures","journal":"Nat Prod Commun","year":"2014","url":"https://pubmed.ncbi.nlm.nih.gov/25918780/"},{"pmid":"16242880","title":"GC-MS fingerprint of Pogostemon cablin in China","journal":"J Pharm Biomed Anal","year":"2006","url":"https://pubmed.ncbi.nlm.nih.gov/16242880/"},{"pmid":"38390436","title":"The Flow Rate of the Condenser Cooling Water in the Distillation Process Increases the Quality and Quantity of Patchouli Oil","journal":"ScientificWorldJournal","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38390436/"},{"pmid":"20046787","title":"Essential Oil Composition and Antibacterial Studies of Vitex negundo Linn. Extracts","journal":"Indian J Pharm Sci","year":"2008","url":"https://pubmed.ncbi.nlm.nih.gov/20046787/"}]},"retrieved":"2026-09-11","summary":null,"evidence":"Measured in 5 of 6 MONDAYS hemp SKUs at 0.42–1.22% of total volatiles (0.084–0.24mg per chew).","diseases":[],"occurrence":{"organisms":[{"name":"Pogostemon cablin","id":"pogostemon-cablin","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Pogostemon","taxonomy_source":"NCBI","reference_count":2,"references":["10.1016/J.FITOTE.2006.09.016","10.1080/10412905.1989.9697758"]},{"name":"Actinodium cunninghamii","id":"actinodium-cunninghamii","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Actinodium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1994.9699358"]},{"name":"Aframomum melegueta","id":"aframomum-melegueta","kingdom":"Plantae","phylum":"Streptophyta","family":"Zingiberaceae","genus":"Aframomum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698174"]},{"name":"Aquilaria agallocha","id":"aquilaria-agallocha","kingdom":"Plantae","phylum":"Tracheophyta","family":"Thymelaeaceae","genus":"Aquilaria","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1080/10412905.1993.9698221"]},{"name":"Aquilaria malaccensis","id":"aquilaria-malaccensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Thymelaeaceae","genus":"Aquilaria","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698221"]},{"name":"Aristolochia debilis","id":"aristolochia-debilis","kingdom":"Plantae","phylum":"Streptophyta","family":"Aristolochiaceae","genus":"Aristolochia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/NP50052A041"]},{"name":"Artemisia baldshuanica","id":"artemisia-baldshuanica","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Artemisia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/S10600-011-0044-9"]},{"name":"Asarum","id":"asarum","kingdom":"Plantae","phylum":"Streptophyta","family":"Aristolochiaceae","genus":"Asarum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/YAKUSHI1947.107.3_209"]},{"name":"Asarum yakusimense","id":"asarum-yakusimense","kingdom":"Plantae","phylum":"Streptophyta","family":"Aristolochiaceae","genus":"Asarum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1248/YAKUSHI1947.107.3_209"]},{"name":"Basella alba","id":"basella-alba","kingdom":"Plantae","phylum":"Streptophyta","family":"Basellaceae","genus":"Basella","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0889-1575(91)90017-Z"]},{"name":"Callitris columellaris","id":"callitris-columellaris","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Callitris","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(98)00158-7"]},{"name":"Callitris intratropica","id":"callitris-intratropica","kingdom":"Plantae","phylum":"Streptophyta","family":"Cupressaceae","genus":"Callitris","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(98)00158-7"]},{"name":"Cinnamomum camphora","id":"cinnamomum-camphora","kingdom":"Plantae","phylum":"Streptophyta","family":"Lauraceae","genus":"Cinnamomum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1246/BCSJ.41.234"]},{"name":"Cistus ladanifer","id":"cistus-ladanifer","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1515/ZNC-1984-7-802"]},{"name":"Cistus laurifolius","id":"cistus-laurifolius","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1515/ZNC-1984-7-802"]},{"name":"Cistus ledon subsp. ledon","id":"cistus-ledon-subsp-ledon","kingdom":"Plantae","phylum":"Tracheophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1515/ZNC-1984-7-802"]},{"name":"Cistus monspeliensis","id":"cistus-monspeliensis","kingdom":"Plantae","phylum":"Streptophyta","family":"Cistaceae","genus":"Cistus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1515/ZNC-1984-7-802"]},{"name":"Eremanthus arboreus","id":"eremanthus-arboreus","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Eremanthus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/NP50058A023"]},{"name":"Eucalyptus cloeziana","id":"eucalyptus-cloeziana","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1990.9697829"]},{"name":"Eucalyptus jensenii","id":"eucalyptus-jensenii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Myrtaceae","genus":"Eucalyptus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1016/0031-9422(92)80396-V"]},{"name":"Eugenia dysenterica","id":"eugenia-dysenterica","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Eugenia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0378-8741(00)00214-2"]},{"name":"Gossypium hirsutum","id":"gossypium-hirsutum","kingdom":"Plantae","phylum":"Streptophyta","family":"Malvaceae","genus":"Gossypium","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF60200A011"]},{"name":"Haplostichanthus johnsonii","id":"haplostichanthus-johnsonii","kingdom":"Plantae","phylum":"Tracheophyta","family":"Annonaceae","genus":"Haplostichanthus","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1080/10412905.1992.9698072"]},{"name":"Helichrysum bracteiferum","id":"helichrysum-bracteiferum","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Helichrysum","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1080/10412905.1992.9698125"]},{"name":"Helichrysum odoratissimum","id":"helichrysum-odoratissimum","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Helichrysum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698235"]},{"name":"Heterotropa","id":"heterotropa","kingdom":"Animalia","phylum":"Arthropoda","family":"Arctiidae","genus":"Heterotropa","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1248/YAKUSHI1947.107.3_209"]},{"name":"Humulus lupulus","id":"humulus-lupulus","kingdom":"Plantae","phylum":"Streptophyta","family":"Cannabaceae","genus":"Humulus","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00118A056"]},{"name":"Kunzea salina","id":"kunzea-salina","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Kunzea","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1994.9698327"]},{"name":"Melaleuca alternifolia","id":"melaleuca-alternifolia","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Melaleuca","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/JF00034A020"]},{"name":"Micromeria sinaica","id":"micromeria-sinaica","kingdom":"Plantae","phylum":"Streptophyta","family":"Lamiaceae","genus":"Micromeria","taxonomy_source":"NCBI","reference_count":1,"references":["10.3109/13880209109082877"]},{"name":"Osbornia octodonta","id":"osbornia-octodonta","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Osbornia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1080/10412905.1993.9698162"]},{"name":"Peucedanum tauricum","id":"peucedanum-tauricum","kingdom":"Plantae","phylum":"Streptophyta","family":"Apiaceae","genus":"Peucedanum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2005.01.022"]},{"name":"Piper fimbriulatum","id":"piper-fimbriulatum","kingdom":"Plantae","phylum":"Streptophyta","family":"Piperaceae","genus":"Piper","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(97)00762-0"]},{"name":"Rhaponticum carthamoides","id":"rhaponticum-carthamoides","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Rhaponticum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/J.PHYTOCHEM.2008.12.018"]},{"name":"Rhododendron dauricum","id":"rhododendron-dauricum","kingdom":"Plantae","phylum":"Streptophyta","family":"Ericaceae","genus":"Rhododendron","taxonomy_source":"NCBI","reference_count":1,"references":["10.1007/978-0-85729-323-7_1048"]},{"name":"Rugelia nudicaulis","id":"rugelia-nudicaulis","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Rugelia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/S0031-9422(82)85037-1"]},{"name":"Seriphidium baldshuanicum","id":"seriphidium-baldshuanicum","kingdom":"Plantae","phylum":"Tracheophyta","family":"Asteraceae","genus":"Seriphidium","taxonomy_source":"GBIF Backbone Taxonomy","reference_count":1,"references":["10.1007/S10600-011-0044-9"]},{"name":"Stockwellia","id":"stockwellia","kingdom":"Plantae","phylum":"Streptophyta","family":"Myrtaceae","genus":"Stockwellia","taxonomy_source":"NCBI","reference_count":1,"references":["10.1016/0031-9422(91)83064-R"]},{"name":"Stoebe plumosa","id":"stoebe-plumosa","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Stoebe","taxonomy_source":"NCBI","reference_count":1,"references":["10.1076/PHBI.35.1.66.13267"]},{"name":"Stoebe vulgaris","id":"stoebe-vulgaris","kingdom":"Plantae","phylum":"Streptophyta","family":"Asteraceae","genus":"Stoebe","taxonomy_source":"NCBI","reference_count":1,"references":["10.1076/PHBI.35.1.66.13267"]},{"name":"Zanthoxylum gilletii","id":"zanthoxylum-gilletii","kingdom":"Plantae","phylum":"Streptophyta","family":"Rutaceae","genus":"Zanthoxylum","taxonomy_source":"NCBI","reference_count":1,"references":["10.1021/NP50048A057"]}],"organism_count":41,"reference_count":33,"source":"LOTUS · lotus.naturalproducts.net","lotus_id":"LTS0202512"},"research":{"total":27,"sampled":27,"designs":{"other":19,"in_vitro":2,"human_observational":5,"animal":1},"topics":[{"term":"Sesquiterpenes, Guaiane","papers":10},{"term":"Thymelaeaceae","papers":9},{"term":"Azulenes","papers":9},{"term":"Lamiaceae","papers":5},{"term":"Amino Acid Sequence","papers":4},{"term":"Molecular Sequence Data","papers":4},{"term":"Plant Stems","papers":4},{"term":"Plant Proteins","papers":3},{"term":"Escherichia coli","papers":3},{"term":"Genes, Plant","papers":3},{"term":"Pogostemon","papers":3},{"term":"Acetates","papers":3},{"term":"Cloning, Molecular","papers":3},{"term":"Gene Dosage","papers":2}],"claims":[{"id":"antimicrobial","label":"Antimicrobial","papers":2,"designs":{"human_observational":1,"in_vitro":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["41670123"]},{"design":"in_vitro","eco":{"id":"ECO:0000181","label":"in vitro assay evidence"},"mesh_publication_types":[],"papers":1,"pmids":["21072778"]}],"pmids":["41670123","21072778"]},{"id":"cancer","label":"Cancer","papers":2,"designs":{"human_observational":2},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":2,"pmids":["26550789","32730868"]}],"pmids":["26550789","32730868"]}],"years":{"from":1999,"to":2026},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=delta-Guaiene%5BAll%20Fields%5D"},"trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=delta-Guaiene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Delta-guaiene is a bicyclic sesquiterpene, a type of aromatic molecule built by plants to interact with their environment. It is a key contributor to the deep, woody, and earthy scents found in prized perfumery ingredients like patchouli and agarwood. In daily life, you are most likely to encounter it in fine fragrances, incense, or botanical essential oils.","found_in":"This molecule is famously abundant in patchouli (Pogostemon cablin) and agarwood (Aquilaria species). It is also found in camphor trees, grains of paradise (Aframomum melegueta), and labdanum (Cistus ladanifer).","why_researchers_care":"Researchers are drawn to delta-guaiene because of its prominent role in the chemical profiles of highly valued medicinal and aromatic plants. Early literature notes its potential as a platelet aggregation inhibitor, while current studies are exploring its broader biological activities, including its presence in extracts studied for cellular health. The strongest evidence so far comes from human observational studies (Oxford level 2b) looking at the complex plant extracts that contain it.","structure_function":[{"claim_id":"antimicrobial","statement":"Early work points toward delta-guaiene playing a role in the antimicrobial properties of the plant extracts it inhabits.","evidence_level":"human_observational","basis":"This is based on two papers, including human observational and in vitro research.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"in_vitro","eco":"ECO:0000181","papers":1}],"paper_count":2},{"claim_id":"cancer","statement":"Delta-guaiene is being studied for its potential role in supporting cellular health.","evidence_level":"human_observational","basis":"This rests on two human observational studies examining extracts containing this molecule.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":2}],"paper_count":2}],"hypothesized_benefits":[{"claim_id":"antimicrobial","area":"Antimicrobial activity","hypothesis":"Researchers are exploring whether delta-guaiene actively contributes to the antibacterial effects seen in patchouli and agarwood oils.","evidence_level":"human_observational","paper_count":2,"study_to_test_it":"A randomized, double-blind controlled trial applying a standardized delta-guaiene topical preparation to superficial skin abrasions to measure bacterial colonization rates over 7 days.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"in_vitro","eco":"ECO:0000181","papers":1}]},{"claim_id":"cancer","area":"Cellular health","hypothesis":"Early observational work points toward a need to understand if delta-guaiene exerts direct protective effects on human cells.","evidence_level":"human_observational","paper_count":2,"study_to_test_it":"A randomized, placebo-controlled clinical trial measuring specific biomarkers of cellular oxidative stress and proliferation in a healthy cohort taking a standardized delta-guaiene supplement for 12 weeks.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":2}]}],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"Best evidence so far is human observational work (Oxford 2b) on plant extracts containing the molecule, with the rest being early lab and botanical research."}}
+{
+  "name": "δ-Guaiene",
+  "id": "delta-guaiene",
+  "formula": "C15H24",
+  "pubchem": {
+    "cid": 94275,
+    "title": "alpha-Bulnesene",
+    "formula": "C15H24",
+    "molecular_weight": 204.35,
+    "smiles": "CC1CCC2=C(CCC(CC12)C(=C)C)C",
+    "inchikey": "YHAJBLWYOIUHHM-GUTXKFCHSA-N",
+    "iupac_name": "(3S,3aS,5R)-3,8-dimethyl-5-prop-1-en-2-yl-1,2,3,3a,4,5,6,7-octahydroazulene",
+    "image": "data/molecules/images/delta-guaiene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/94275",
+    "description": "Delta-guaiene is a carbobicyclic compound and sesquiterpene that is 1,2,3,3a,4,5,6,7-octahydroazulene which is substituted by methyl groups at positions 3 and 8 and by a (prop-1-en-2-yl group at position 5 (the 3S,3aS,5R enantiomer). It has a role as a platelet aggregation inhibitor and a plant metabolite. It is a sesquiterpene and a carbobicyclic compound.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63447"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/94275/PNG"
+  },
+  "targets": [],
+  "literature": {
+    "total": 27,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=delta-Guaiene%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "30807004",
+        "title": "Enhanced Production of δ-Guaiene, a Bicyclic Sesquiterpene Accumulated in Agarwood, by Coexpression of δ-Guaiene Synthase and Farnesyl Diphosphate Synthase Genes in Escherichia coli",
+        "journal": "Nat Prod Commun",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30807004/"
+      },
+      {
+        "pmid": "20959422",
+        "title": "Characterization of delta-guaiene synthases from cultured cells of Aquilaria, responsible for the formation of the sesquiterpenes in agarwood",
+        "journal": "Plant Physiol",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20959422/"
+      },
+      {
+        "pmid": "25918780",
+        "title": "Induction, cloning and functional expression of a sesquiterpene biosynthetic enzyme, δ-guaiene synthase, of Aquilaria microcarpa cell cultures",
+        "journal": "Nat Prod Commun",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25918780/"
+      },
+      {
+        "pmid": "16242880",
+        "title": "GC-MS fingerprint of Pogostemon cablin in China",
+        "journal": "J Pharm Biomed Anal",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16242880/"
+      },
+      {
+        "pmid": "38390436",
+        "title": "The Flow Rate of the Condenser Cooling Water in the Distillation Process Increases the Quality and Quantity of Patchouli Oil",
+        "journal": "ScientificWorldJournal",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38390436/"
+      },
+      {
+        "pmid": "20046787",
+        "title": "Essential Oil Composition and Antibacterial Studies of Vitex negundo Linn. Extracts",
+        "journal": "Indian J Pharm Sci",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20046787/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "summary": null,
+  "evidence": "Measured in 5 of 6 MONDAYS hemp SKUs at 0.42–1.22% of total volatiles (0.084–0.24mg per chew).",
+  "diseases": [],
+  "occurrence": {
+    "organisms": [
+      {
+        "name": "Pogostemon cablin",
+        "id": "pogostemon-cablin",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Pogostemon",
+        "taxonomy_source": "NCBI",
+        "reference_count": 2,
+        "references": [
+          "10.1016/J.FITOTE.2006.09.016",
+          "10.1080/10412905.1989.9697758"
+        ]
+      },
+      {
+        "name": "Actinodium cunninghamii",
+        "id": "actinodium-cunninghamii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Actinodium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9699358"
+        ]
+      },
+      {
+        "name": "Aframomum melegueta",
+        "id": "aframomum-melegueta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Zingiberaceae",
+        "genus": "Aframomum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698174"
+        ]
+      },
+      {
+        "name": "Aquilaria agallocha",
+        "id": "aquilaria-agallocha",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Thymelaeaceae",
+        "genus": "Aquilaria",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698221"
+        ]
+      },
+      {
+        "name": "Aquilaria malaccensis",
+        "id": "aquilaria-malaccensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Thymelaeaceae",
+        "genus": "Aquilaria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698221"
+        ]
+      },
+      {
+        "name": "Aristolochia debilis",
+        "id": "aristolochia-debilis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Aristolochiaceae",
+        "genus": "Aristolochia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50052A041"
+        ]
+      },
+      {
+        "name": "Artemisia baldshuanica",
+        "id": "artemisia-baldshuanica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Artemisia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S10600-011-0044-9"
+        ]
+      },
+      {
+        "name": "Asarum",
+        "id": "asarum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Aristolochiaceae",
+        "genus": "Asarum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.107.3_209"
+        ]
+      },
+      {
+        "name": "Asarum yakusimense",
+        "id": "asarum-yakusimense",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Aristolochiaceae",
+        "genus": "Asarum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.107.3_209"
+        ]
+      },
+      {
+        "name": "Basella alba",
+        "id": "basella-alba",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Basellaceae",
+        "genus": "Basella",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0889-1575(91)90017-Z"
+        ]
+      },
+      {
+        "name": "Callitris columellaris",
+        "id": "callitris-columellaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00158-7"
+        ]
+      },
+      {
+        "name": "Callitris intratropica",
+        "id": "callitris-intratropica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cupressaceae",
+        "genus": "Callitris",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(98)00158-7"
+        ]
+      },
+      {
+        "name": "Cinnamomum camphora",
+        "id": "cinnamomum-camphora",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lauraceae",
+        "genus": "Cinnamomum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1246/BCSJ.41.234"
+        ]
+      },
+      {
+        "name": "Cistus ladanifer",
+        "id": "cistus-ladanifer",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNC-1984-7-802"
+        ]
+      },
+      {
+        "name": "Cistus laurifolius",
+        "id": "cistus-laurifolius",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNC-1984-7-802"
+        ]
+      },
+      {
+        "name": "Cistus ledon subsp. ledon",
+        "id": "cistus-ledon-subsp-ledon",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNC-1984-7-802"
+        ]
+      },
+      {
+        "name": "Cistus monspeliensis",
+        "id": "cistus-monspeliensis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cistaceae",
+        "genus": "Cistus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1515/ZNC-1984-7-802"
+        ]
+      },
+      {
+        "name": "Eremanthus arboreus",
+        "id": "eremanthus-arboreus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Eremanthus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50058A023"
+        ]
+      },
+      {
+        "name": "Eucalyptus cloeziana",
+        "id": "eucalyptus-cloeziana",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1990.9697829"
+        ]
+      },
+      {
+        "name": "Eucalyptus jensenii",
+        "id": "eucalyptus-jensenii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Myrtaceae",
+        "genus": "Eucalyptus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(92)80396-V"
+        ]
+      },
+      {
+        "name": "Eugenia dysenterica",
+        "id": "eugenia-dysenterica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Eugenia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0378-8741(00)00214-2"
+        ]
+      },
+      {
+        "name": "Gossypium hirsutum",
+        "id": "gossypium-hirsutum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Malvaceae",
+        "genus": "Gossypium",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF60200A011"
+        ]
+      },
+      {
+        "name": "Haplostichanthus johnsonii",
+        "id": "haplostichanthus-johnsonii",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Annonaceae",
+        "genus": "Haplostichanthus",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698072"
+        ]
+      },
+      {
+        "name": "Helichrysum bracteiferum",
+        "id": "helichrysum-bracteiferum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1992.9698125"
+        ]
+      },
+      {
+        "name": "Helichrysum odoratissimum",
+        "id": "helichrysum-odoratissimum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Helichrysum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698235"
+        ]
+      },
+      {
+        "name": "Heterotropa",
+        "id": "heterotropa",
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "family": "Arctiidae",
+        "genus": "Heterotropa",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1248/YAKUSHI1947.107.3_209"
+        ]
+      },
+      {
+        "name": "Humulus lupulus",
+        "id": "humulus-lupulus",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Cannabaceae",
+        "genus": "Humulus",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00118A056"
+        ]
+      },
+      {
+        "name": "Kunzea salina",
+        "id": "kunzea-salina",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Kunzea",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1994.9698327"
+        ]
+      },
+      {
+        "name": "Melaleuca alternifolia",
+        "id": "melaleuca-alternifolia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Melaleuca",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/JF00034A020"
+        ]
+      },
+      {
+        "name": "Micromeria sinaica",
+        "id": "micromeria-sinaica",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Lamiaceae",
+        "genus": "Micromeria",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.3109/13880209109082877"
+        ]
+      },
+      {
+        "name": "Osbornia octodonta",
+        "id": "osbornia-octodonta",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Osbornia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1080/10412905.1993.9698162"
+        ]
+      },
+      {
+        "name": "Peucedanum tauricum",
+        "id": "peucedanum-tauricum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Apiaceae",
+        "genus": "Peucedanum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2005.01.022"
+        ]
+      },
+      {
+        "name": "Piper fimbriulatum",
+        "id": "piper-fimbriulatum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Piperaceae",
+        "genus": "Piper",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(97)00762-0"
+        ]
+      },
+      {
+        "name": "Rhaponticum carthamoides",
+        "id": "rhaponticum-carthamoides",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Rhaponticum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/J.PHYTOCHEM.2008.12.018"
+        ]
+      },
+      {
+        "name": "Rhododendron dauricum",
+        "id": "rhododendron-dauricum",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Ericaceae",
+        "genus": "Rhododendron",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1007/978-0-85729-323-7_1048"
+        ]
+      },
+      {
+        "name": "Rugelia nudicaulis",
+        "id": "rugelia-nudicaulis",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Rugelia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/S0031-9422(82)85037-1"
+        ]
+      },
+      {
+        "name": "Seriphidium baldshuanicum",
+        "id": "seriphidium-baldshuanicum",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "family": "Asteraceae",
+        "genus": "Seriphidium",
+        "taxonomy_source": "GBIF Backbone Taxonomy",
+        "reference_count": 1,
+        "references": [
+          "10.1007/S10600-011-0044-9"
+        ]
+      },
+      {
+        "name": "Stockwellia",
+        "id": "stockwellia",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Myrtaceae",
+        "genus": "Stockwellia",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1016/0031-9422(91)83064-R"
+        ]
+      },
+      {
+        "name": "Stoebe plumosa",
+        "id": "stoebe-plumosa",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Stoebe",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1076/PHBI.35.1.66.13267"
+        ]
+      },
+      {
+        "name": "Stoebe vulgaris",
+        "id": "stoebe-vulgaris",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Asteraceae",
+        "genus": "Stoebe",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1076/PHBI.35.1.66.13267"
+        ]
+      },
+      {
+        "name": "Zanthoxylum gilletii",
+        "id": "zanthoxylum-gilletii",
+        "kingdom": "Plantae",
+        "phylum": "Streptophyta",
+        "family": "Rutaceae",
+        "genus": "Zanthoxylum",
+        "taxonomy_source": "NCBI",
+        "reference_count": 1,
+        "references": [
+          "10.1021/NP50048A057"
+        ]
+      }
+    ],
+    "organism_count": 41,
+    "reference_count": 33,
+    "source": "LOTUS · lotus.naturalproducts.net",
+    "lotus_id": "LTS0202512"
+  },
+  "research": {
+    "total": 27,
+    "sampled": 27,
+    "designs": {
+      "other": 19,
+      "in_vitro": 2,
+      "human_observational": 5,
+      "animal": 1
+    },
+    "topics": [
+      {
+        "term": "Sesquiterpenes, Guaiane",
+        "papers": 10
+      },
+      {
+        "term": "Thymelaeaceae",
+        "papers": 9
+      },
+      {
+        "term": "Azulenes",
+        "papers": 9
+      },
+      {
+        "term": "Lamiaceae",
+        "papers": 5
+      },
+      {
+        "term": "Amino Acid Sequence",
+        "papers": 4
+      },
+      {
+        "term": "Molecular Sequence Data",
+        "papers": 4
+      },
+      {
+        "term": "Plant Stems",
+        "papers": 4
+      },
+      {
+        "term": "Plant Proteins",
+        "papers": 3
+      },
+      {
+        "term": "Escherichia coli",
+        "papers": 3
+      },
+      {
+        "term": "Genes, Plant",
+        "papers": 3
+      },
+      {
+        "term": "Pogostemon",
+        "papers": 3
+      },
+      {
+        "term": "Acetates",
+        "papers": 3
+      },
+      {
+        "term": "Cloning, Molecular",
+        "papers": 3
+      },
+      {
+        "term": "Gene Dosage",
+        "papers": 2
+      }
+    ],
+    "claims": [
+      {
+        "id": "antimicrobial",
+        "label": "Antimicrobial",
+        "papers": 2,
+        "designs": {
+          "human_observational": 1,
+          "in_vitro": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "41670123"
+            ]
+          },
+          {
+            "design": "in_vitro",
+            "eco": {
+              "id": "ECO:0000181",
+              "label": "in vitro assay evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "21072778"
+            ]
+          }
+        ],
+        "pmids": [
+          "41670123",
+          "21072778"
+        ]
+      },
+      {
+        "id": "cancer",
+        "label": "Cancer",
+        "papers": 2,
+        "designs": {
+          "human_observational": 2
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 2,
+            "pmids": [
+              "26550789",
+              "32730868"
+            ]
+          }
+        ],
+        "pmids": [
+          "26550789",
+          "32730868"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1999,
+      "to": 2026
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=delta-Guaiene%5BAll%20Fields%5D"
+  },
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=delta-Guaiene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Delta-guaiene is a bicyclic sesquiterpene, a type of aromatic molecule that helps give certain prized woods and herbs their deep, earthy scents. As a natural plant metabolite, it contributes to the rich, woody fragrance profile of essential oils used in perfumery and traditional practices. You are most likely to encounter it in the lingering base notes of patchouli or the rare, incense-like aroma of agarwood.",
+    "found_in": "This terpene is famously found in patchouli (Pogostemon cablin) and the resinous heartwood of agarwood trees (Aquilaria species). It also appears in camphor trees, grains of paradise, and rockrose.",
+    "why_researchers_care": "Researchers are drawn to delta-guaiene because of its prominent role in the chemical profiles of highly valued medicinal and aromatic plants. Early investigations are exploring its potential as a platelet aggregation inhibitor and its broader biological activities, with the strongest current evidence coming from human observational studies (Oxford level 2b). Scientists are particularly interested in mapping how plants synthesize this molecule to better understand its ecological functions and potential therapeutic applications.",
+    "structure_function": [
+      {
+        "claim_id": "antimicrobial",
+        "statement": "Early observational work points toward delta-guaiene having a role in supporting antimicrobial defenses.",
+        "evidence_level": "human_observational",
+        "basis": "This rests on two papers, including human observational and in vitro research.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 1
+          }
+        ],
+        "paper_count": 2
+      },
+      {
+        "claim_id": "cancer",
+        "statement": "Delta-guaiene is being studied for its potential associations with cancer biology.",
+        "evidence_level": "human_observational",
+        "basis": "This is based on two human observational studies.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 2
+          }
+        ],
+        "paper_count": 2
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "antimicrobial",
+        "area": "Antimicrobial activity",
+        "hypothesis": "Researchers are exploring whether delta-guaiene actively contributes to the antibacterial properties of the essential oils it inhabits, which could make it a useful natural preservative or topical agent.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized, placebo-controlled human trial applying a standardized delta-guaiene topical formulation to assess its efficacy against specific skin microbiota over a two-week period.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "in_vitro",
+            "eco": "ECO:0000181",
+            "papers": 1
+          }
+        ]
+      },
+      {
+        "claim_id": "cancer",
+        "area": "Oncology",
+        "hypothesis": "If early associations bear out, researchers want to know whether delta-guaiene or the plant extracts containing it can beneficially interact with cellular pathways involved in tumor progression.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized, double-blind clinical trial evaluating the safety and metabolic effects of a standardized delta-guaiene supplement in a specific patient cohort over six months.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 2
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b); most of the rest is foundational botanical and lab research."
+  }
+}

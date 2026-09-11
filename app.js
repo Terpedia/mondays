@@ -32,8 +32,9 @@ const compoundTable = (compounds) => `
   </div>`;
 
 const LEVEL_LABEL = {human_trials: 'human trials', human_observational: 'human observational', animal: 'animal studies', in_vitro: 'lab studies', review_only: 'reviews', none_found: 'no research yet'};
+const claimLink = (t) => `<a class="claim-tile" href="?claim=${encodeURIComponent(String(t).toLowerCase())}">${esc(t)}</a>`;
 const claimTiles = (claims) => claims?.length
-  ? `<div class="claims"><div class="claims-label">On the pack</div><div class="claim-tiles">${claims.map((t) => `<span class="claim-tile">${esc(t)}</span>`).join('')}</div></div>`
+  ? `<div class="claims"><div class="claims-label">On the pack</div><div class="claim-tiles">${claims.map(claimLink).join('')}</div></div>`
   : '';
 
 // A claim with its receipts: what it means, and which measured compounds carry research in
@@ -43,7 +44,7 @@ const claimSupport = (support) => support?.length
     <div class="claim-cards">${support.map((c) => `
       <details class="claim-card" ${c.compounds_with_research ? '' : 'data-empty'}>
         <summary>
-          <span class="claim-tile">${esc(c.tile)}</span>
+          ${claimLink(c.tile)}
           <span class="claim-def">${esc(c.definition || 'No definition yet.')}</span>
           <span class="claim-stat">${c.compounds_with_research ? `${c.compounds_with_research} compounds · ${c.share_of_profile}% of profile · ${c.papers} papers · best evidence <b>${esc(LEVEL_LABEL[c.best_evidence] || c.best_evidence)}</b>${c.best_oxford ? ` (Oxford ${esc(c.best_oxford)})` : ''}` : 'No research on file for this area yet.'}</span>
         </summary>
@@ -213,9 +214,64 @@ async function renderMolecule(slug) {
   return true;
 }
 
+async function renderClaim(slug) {
+  const claim = await getJSON(`data/claims/${encodeURIComponent(slug.toLowerCase())}.json`);
+  if (!claim) return renderEntityStub('claim', slug);
+  const cs = claim.summary;
+  const senseWord = {alert: 'daytime', even: 'anytime', calm: 'evening'}[claim.sense] || '';
+  main().innerHTML = `
+    <section class="entity">
+      ${back}
+      <p class="eyebrow">On the pack · ${esc(senseWord)} claim</p>
+      <h1><span class="claim-tile claim-tile--hero">${esc(claim.tile)}</span></h1>
+      <p class="hero-copy">${esc(claim.definition)}</p>
+      <div class="stat-row">
+        <div class="stat"><b>${claim.molecules_with_research}</b><span>measured compounds with research here</span></div>
+        <div class="stat"><b>${claim.papers.toLocaleString()}</b><span>papers in the sample</span></div>
+        <div class="stat"><b>${esc(LEVEL_LABEL[claim.best_evidence] || claim.best_evidence)}</b><span>best evidence${claim.best_oxford ? ` · Oxford ${esc(claim.best_oxford)}` : ''}</span></div>
+        <div class="stat"><b>${claim.trials.length}</b><span>registered trials in this area</span></div>
+      </div>
+
+      ${cs ? `
+      <h2 class="section-h">What it means</h2>
+      <p class="hero-copy">${esc(cs.what_it_means)}</p>
+      <h2 class="section-h">The physiology</h2>
+      <p class="hero-copy">${esc(cs.physiology)}</p>
+      <h2 class="section-h">The science</h2>
+      <p class="hero-copy">${esc(cs.the_science)}</p>
+      <p class="measured-line">${esc(cs.evidence_at_a_glance)}</p>
+      ${cs.leading_molecules?.length ? `<h2 class="section-h">The terpenes that carry it</h2>
+      <ul class="sf-list">${cs.leading_molecules.map((m) => `<li><p class="sf-statement"><a href="?c=${encodeURIComponent(m.id)}"><b>${esc(m.name)}</b></a> — ${esc(m.why)}</p><p class="fine">${evidenceBadge(m.evidence_level, m.oxford ? {level: m.oxford} : null)}${m.eco ? ` · <span class="mono">${esc(m.eco)}</span>` : ''}</p></li>`).join('')}</ul>` : ''}
+      ${cs.open_questions?.length ? `<h2 class="section-h">Open questions</h2>
+      <ul class="sf-list">${cs.open_questions.map((q) => `<li><p class="sf-statement">${esc(q.question)}</p><p class="study-idea"><b>What would settle it:</b> ${esc(q.study_to_settle_it)}</p></li>`).join('')}</ul>` : ''}
+      ` : ''}
+
+      <h2 class="section-h">Every measured compound with research in this area</h2>
+      <div class="ctable-wrap"><table class="ctable">
+        <thead><tr><th>Compound</th><th class="num">Papers</th><th>Best evidence</th><th>Oxford</th><th>In</th></tr></thead>
+        <tbody>${claim.molecules.map((m) => `<tr>
+          <td><a href="?c=${encodeURIComponent(m.id)}">${esc(m.name)}</a><br /><span class="fine">${esc(m.areas.join(' · '))}</span></td>
+          <td class="num">${m.pmids?.length ? `<a href="https://pubmed.ncbi.nlm.nih.gov/?term=${m.pmids.join(',')}" target="_blank" rel="noreferrer">${m.papers} ↗</a>` : m.papers}</td>
+          <td>${esc(LEVEL_LABEL[m.evidence_level] || m.evidence_level)}${m.eco ? `<br /><span class="fine mono">${esc(m.eco)}</span>` : ''}</td>
+          <td class="num">${esc(m.oxford || '—')}</td>
+          <td class="fine">${m.products.map((p) => `<a href="?product=${encodeURIComponent(p.handle)}">${esc(p.name)}</a>${p.percent != null ? ` ${p.percent}%` : ''}`).join('<br />')}</td>
+        </tr>`).join('')}</tbody></table></div>
+      <p class="fine">Research areas: ${esc(claim.areas.join(', '))}. Counts are papers in the PubMed sample for each compound; evidence type per ECO, strength per Oxford CEBM 2009. Studies test isolated compounds at their own doses.</p>
+
+      ${claim.trials.length ? `<h2 class="section-h">Registered trials in this area</h2>
+      <ul class="sf-list">${claim.trials.slice(0, 6).map((t) => `<li><p class="sf-statement"><a href="${esc(t.url)}" target="_blank" rel="noreferrer">${esc(t.title)}</a></p><p class="fine">${/RECRUITING|ACTIVE/.test(t.status) ? '<span class="ev-badge ev-human_trials">live</span> ' : ''}${esc(String(t.status).toLowerCase().replaceAll('_', ' '))} · <a href="?c=${encodeURIComponent(t.molecule_id)}">${esc(t.molecule)}</a> · ${esc(t.conditions.slice(0, 2).join(', '))} · <span class="mono">${esc(t.nct_id)}</span></p></li>`).join('')}</ul>` : ''}
+
+      <h2 class="section-h">Chews that carry this claim</h2>
+      <div class="claim-cards">${claim.products.map((p) => `<a class="claim-card claim-card--link" href="?product=${encodeURIComponent(p.handle)}"><span class="claim-def"><b>${esc(p.name)}</b> · ${esc(p.strain)}</span>${p.support ? `<span class="claim-stat">${p.support.compounds_with_research} compounds · ${p.support.share_of_profile}% of profile · ${p.support.papers} papers · best <b>${esc(LEVEL_LABEL[p.support.best_evidence] || p.support.best_evidence)}</b></span>` : ''}</a>`).join('')}</div>
+      ${cs ? `<p class="fine">Written from the record by ${esc(cs.model)} on ${esc(cs.generated)}; evidence grades computed from PubMed indexing (ECO · MeSH publication types · Oxford CEBM 2009). Structure/function language throughout; nothing here is a claim to treat, cure or prevent.</p>` : ''}
+    </section>`;
+  return true;
+}
+
 async function renderEntity(type, slug) {
   if (type === 'molecule') return renderMolecule(slug);
   if (type === 'product') return renderProduct(slug);
+  if (type === 'claim') return renderClaim(slug);
   return renderEntityStub(type, slug);
 }
 
@@ -246,7 +302,7 @@ function render() {
         <div class="card-top"><span class="pill ${p.type.toLowerCase()}">${esc(p.type)}</span><span>${esc(p.size)}</span></div>
         <h2><a href="?product=${encodeURIComponent(p.handle)}">${esc(p.name)}</a></h2>
         <div class="strain">${esc(p.strain)}</div>
-        ${p.claims?.length ? `<div class="claim-tiles claim-tiles--card">${p.claims.map((t) => `<span class="claim-tile">${esc(t)}</span>`).join('')}</div>` : ''}
+        ${p.claims?.length ? `<div class="claim-tiles claim-tiles--card">${p.claims.map(claimLink).join('')}</div>` : ''}
         ${p.molecules_basis === 'measured' ? `
         <div class="molecules"><div class="molecules-label">Top of ${p.terpene_profile.identified_compounds} measured compounds</div><div class="molecule-list">${p.terpene_profile.top.slice(0, 4).map((c) => `<a href="?c=${encodeURIComponent(c.id)}">${esc(c.name)} <b>${c.percent}%</b></a>`).join('')}</div></div>
         ${strip(p).length ? `<p class="also-in"><span>Also found in</span> ${strip(p).map((o) => `<a href="https://kb.terpedia.com/organism/${esc(o.name.toLowerCase().replace(/[^a-z0-9]+/g, '-'))}/" target="_blank" rel="noreferrer" title="${esc(o.name)}">${esc(o.common)}</a>`).join(' · ')}</p>` : ''}

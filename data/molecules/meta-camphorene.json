@@ -1,1 +1,64 @@
-{"name":"meta-Camphorene","id":"meta-camphorene","formula":"C20H32","pubchem":{"cid":5315649,"title":"m-Camphorene","formula":"C20H32","molecular_weight":272.5,"smiles":"CC(=CCCC1=CCCC(C1)C(=C)CCC=C(C)C)C","inchikey":"OIRFZVJHADZVMD-UHFFFAOYSA-N","iupac_name":"5-(6-methylhepta-1,5-dien-2-yl)-1-(4-methylpent-3-enyl)cyclohexene","image":"data/molecules/images/meta-camphorene.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/5315649","description":"Gamma-camphorene is a cycloalkene that is cyclohexene substituted by 2-methylpent-2-en-5-yl and 6-methylhepta-1,5-dien-2-yl groups at positions 1 and 5, respectively. It is a diterpene isolated from several plant species. It has a role as a volatile oil component. It is a cycloalkene and a diterpene.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:190332"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5315649/PNG"},"targets":[],"diseases":[],"literature":{"total":0,"papers":[]},"retrieved":"2026-09-11","occurrence":{"organisms":[],"organism_count":0,"reference_count":0},"research":{"total":0,"sampled":0,"designs":{},"topics":[],"claims":[],"years":null},"summary":null,"evidence":"Measured in 2 of 6 MONDAYS hemp SKUs at 0.05–0.17% of total volatiles (0.01–0.034mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=meta-Camphorene"},"is_terpenoid":true,"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"meta-Camphorene (also known as gamma-camphorene) is a diterpene, a type of large aromatic molecule found in the volatile essential oils of plants. Because it is a volatile oil component, it likely contributes to the complex scent profiles of the botanicals that produce it.","found_in":"While it has been isolated from the essential oils of several plant species, it is not currently mapped to specific common foods or culinary herbs in our database.","why_researchers_care":"Right now, meta-camphorene is a piece of botanical 'dark matter'—a molecule known to exist in nature but largely unexplored by medical science. There is currently no published evidence (Oxford level 5) detailing its health effects or biological targets. If scientists begin to investigate it, they will likely start by screening it alongside other diterpenes to see how it interacts with cellular receptors.","structure_function":[],"hypothesized_benefits":[],"associated_conditions":[],"cautions":null,"evidence_at_a_glance":"There are currently no published studies or clinical trials available for this compound."}}
+{
+  "name": "meta-Camphorene",
+  "id": "meta-camphorene",
+  "formula": "C20H32",
+  "pubchem": {
+    "cid": 5315649,
+    "title": "m-Camphorene",
+    "formula": "C20H32",
+    "molecular_weight": 272.5,
+    "smiles": "CC(=CCCC1=CCCC(C1)C(=C)CCC=C(C)C)C",
+    "inchikey": "OIRFZVJHADZVMD-UHFFFAOYSA-N",
+    "iupac_name": "5-(6-methylhepta-1,5-dien-2-yl)-1-(4-methylpent-3-enyl)cyclohexene",
+    "image": "data/molecules/images/meta-camphorene.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5315649",
+    "description": "Gamma-camphorene is a cycloalkene that is cyclohexene substituted by 2-methylpent-2-en-5-yl and 6-methylhepta-1,5-dien-2-yl groups at positions 1 and 5, respectively. It is a diterpene isolated from several plant species. It has a role as a volatile oil component. It is a cycloalkene and a diterpene.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:190332"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5315649/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 0,
+    "papers": []
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  },
+  "research": {
+    "total": 0,
+    "sampled": 0,
+    "designs": {},
+    "topics": [],
+    "claims": [],
+    "years": null
+  },
+  "summary": null,
+  "evidence": "Measured in 2 of 6 MONDAYS hemp SKUs at 0.05–0.17% of total volatiles (0.01–0.034mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=meta-Camphorene"
+  },
+  "is_terpenoid": true,
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "meta-Camphorene (often referred to as gamma-camphorene) is a diterpene, a type of aromatic molecule that helps make up the volatile essential oils of certain plants. As a cycloalkene, its complex ring structure makes it an interesting piece of the natural chemical puzzle you might encounter when smelling fresh plant extracts.",
+    "found_in": "It is isolated from the volatile oils of several different plant species, though it is not widely cataloged as a primary component of common culinary foods.",
+    "why_researchers_care": "Diterpenes as a family are famous for their wide-ranging biological activities, which makes members like meta-camphorene structurally intriguing to phytochemists. At present, however, it remains a blank slate in the medical literature, with no published studies (Oxford level 5, none found) exploring what it might do in the human body.",
+    "structure_function": [],
+    "hypothesized_benefits": [],
+    "associated_conditions": [],
+    "cautions": null,
+    "evidence_at_a_glance": "There is currently no published research or clinical evidence available evaluating the health effects of this molecule."
+  }
+}

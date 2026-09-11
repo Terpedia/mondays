@@ -1,1 +1,296 @@
-{"name":"Allyl hexanoate","id":"allyl-hexanoate","formula":"C9H16O2","pubchem":{"cid":31266,"title":"Allyl caproate","formula":"C9H16O2","molecular_weight":156.22,"smiles":"CCCCCC(=O)OCC=C","inchikey":"RCSBILYQLVXLJG-UHFFFAOYSA-N","iupac_name":"prop-2-enyl hexanoate","image":"data/molecules/images/allyl-hexanoate.png","url":"https://pubchem.ncbi.nlm.nih.gov/compound/31266","description":"2-Propenyl hexanoate is a fatty acid ester.","description_source":{"name":"ChEBI","url":"https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:171771"},"image_source":"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/31266/PNG"},"targets":[],"diseases":[],"literature":{"total":11,"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Allyl%20hexanoate%5BAll%20Fields%5D","papers":[{"pmid":"38909980","title":"RIFM fragrance ingredient safety assessment, allyl hexanoate, CAS Registry Number 123-68-2","journal":"Food Chem Toxicol","year":"2024","url":"https://pubmed.ncbi.nlm.nih.gov/38909980/"},{"pmid":"22043838","title":"Quantification of allyl hexanoate in pineapple beverages and yogurts as a case study to characterise a source of uncertainty in dietary exposure assessment to flavouring substances","journal":"Food Addit Contam Part A Chem Anal Control Expo Risk Assess","year":"2012","url":"https://pubmed.ncbi.nlm.nih.gov/22043838/"},{"pmid":"23589218","title":"Toxicity of allyl esters in insect cell lines and in Spodoptera littoralis larvae","journal":"Arch Insect Biochem Physiol","year":"2012","url":"https://pubmed.ncbi.nlm.nih.gov/23589218/"},{"pmid":"31944086","title":"Effects of Carriers on Spray-dried Flavors and Their Functional Characteristics","journal":"Pak J Biol Sci","year":"2020","url":"https://pubmed.ncbi.nlm.nih.gov/31944086/"},{"pmid":"16717034","title":"The effects of vehicles on the human dermal irritation potentials of allyl esters","journal":"Int J Toxicol","year":"2006","url":"https://pubmed.ncbi.nlm.nih.gov/16717034/"},{"pmid":"26788283","title":"Assessment of olfactory detection thresholds in children with autism spectrum disorders using a pulse ejection system","journal":"Mol Autism","year":"2016","url":"https://pubmed.ncbi.nlm.nih.gov/26788283/"}]},"retrieved":"2026-09-11","occurrence":{"organisms":[],"organism_count":0,"reference_count":0},"research":{"total":11,"sampled":11,"designs":{"review":1,"other":3,"animal":2,"rct":1,"human_observational":4},"topics":[{"term":"Caproates","papers":7},{"term":"Odorants","papers":3},{"term":"Flavoring Agents","papers":3},{"term":"Perfume","papers":2},{"term":"Ananas","papers":2},{"term":"Esters","papers":2},{"term":"Insecticides","papers":2},{"term":"Pentanols","papers":2},{"term":"Adolescent","papers":2},{"term":"Olfactory Perception","papers":2},{"term":"Risk Assessment","papers":1},{"term":"Endpoint Determination","papers":1},{"term":"Consumer Product Safety","papers":1},{"term":"Toxicity Tests","papers":1}],"claims":[{"id":"insect","label":"Insect repellent","papers":2,"designs":{"animal":1,"human_observational":1},"evidence_level":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"mesh_publication_types":["Observational Study"],"papers":1,"pmids":["11459693"]},{"design":"animal","eco":{"id":"ECO:0007120","label":"animal model system study evidence"},"mesh_publication_types":[],"papers":1,"pmids":["23589218"]}],"pmids":["23589218","11459693"]}],"years":{"from":1978,"to":2024},"basis":"MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.","vocabulary":{"evidence_type":"ECO (Evidence & Conclusion Ontology)","study_design":"MeSH Publication Types","strength":"Oxford CEBM 2009 levels","structure":"SEPIO assertion / evidence line / evidence item"},"search_url":"https://pubmed.ncbi.nlm.nih.gov/?term=Allyl%20hexanoate%5BAll%20Fields%5D"},"consumer_summary":{"model":"gemini-3.1-pro-preview","generated":"2026-09-11","what_it_is":"Allyl hexanoate is a fatty acid ester widely used as a flavoring agent and fragrance. It is best known for its sweet, fruity aroma that closely mimics pineapple, making it a common sensory addition to everyday foods and perfumes.","found_in":"It is frequently encountered as a flavoring substance in pineapple-flavored beverages and yogurts, and is studied in relation to the pineapple plant (Ananas).","why_researchers_care":"Researchers are drawn to allyl hexanoate both for its sensory properties and its biological activity. Beyond its role in olfactory perception and flavor science, scientists are exploring its potential as a targeted insect repellent and insecticide. The strongest evidence for its applications comes from human observational studies (Oxford level 2b) examining its effects and safety profiles.","structure_function":[{"claim_id":"insect","statement":"Early work points toward allyl hexanoate having properties that may support its use as an insect repellent.","evidence_level":"human_observational","basis":"This rests on two papers, including human observational research and animal models.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"animal","eco":"ECO:0007120","papers":1}],"paper_count":2}],"hypothesized_benefits":[{"claim_id":"insect","area":"Insect repellent and insecticidal activity","hypothesis":"Researchers are exploring whether allyl hexanoate could serve as an effective, ester-based insect repellent or targeted insecticide. If this bears out, it could offer a new class of fragrance-friendly pest control agents.","evidence_level":"human_observational","paper_count":2,"study_to_test_it":"A randomized controlled trial (Oxford level 1b) testing topical formulations of allyl hexanoate against a standard repellent in human volunteers, measuring mosquito landing and biting rates over an 8-hour period.","eco":{"id":"ECO:0000180","label":"clinical study evidence"},"oxford":{"level":"2b","label":"individual cohort or observational study"},"evidence_lines":[{"design":"human_observational","eco":"ECO:0000180","papers":1},{"design":"animal","eco":"ECO:0007120","papers":1}]}],"associated_conditions":[{"condition":"Autism spectrum disorders","mondo_id":null,"relationship":"Used as an odorant to assess olfactory detection thresholds in children."},{"condition":"Dermal irritation","mondo_id":null,"relationship":"Assessed for skin irritation potential in safety and vehicle studies."}],"cautions":"Because it is used in perfumes and topical applications, concentrated allyl esters have been evaluated for dermal irritation, meaning pure forms should be handled with care.","evidence_at_a_glance":"The best evidence so far for its biological activity is human observational work (Oxford level 2b), alongside safety assessments and insect models."},"summary":null,"evidence":"Measured in 1 of 6 MONDAYS hemp SKUs at 0.15% of total volatiles (0.03mg per chew).","trials":{"total":0,"matched_loosely":0,"studies":[],"source":"ClinicalTrials.gov","search_url":"https://clinicaltrials.gov/search?intr=Allyl%20hexanoate"},"is_terpenoid":false}
+{
+  "name": "Allyl hexanoate",
+  "id": "allyl-hexanoate",
+  "formula": "C9H16O2",
+  "pubchem": {
+    "cid": 31266,
+    "title": "Allyl caproate",
+    "formula": "C9H16O2",
+    "molecular_weight": 156.22,
+    "smiles": "CCCCCC(=O)OCC=C",
+    "inchikey": "RCSBILYQLVXLJG-UHFFFAOYSA-N",
+    "iupac_name": "prop-2-enyl hexanoate",
+    "image": "data/molecules/images/allyl-hexanoate.png",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/31266",
+    "description": "2-Propenyl hexanoate is a fatty acid ester.",
+    "description_source": {
+      "name": "ChEBI",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:171771"
+    },
+    "image_source": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/31266/PNG"
+  },
+  "targets": [],
+  "diseases": [],
+  "literature": {
+    "total": 11,
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Allyl%20hexanoate%5BAll%20Fields%5D",
+    "papers": [
+      {
+        "pmid": "38909980",
+        "title": "RIFM fragrance ingredient safety assessment, allyl hexanoate, CAS Registry Number 123-68-2",
+        "journal": "Food Chem Toxicol",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38909980/"
+      },
+      {
+        "pmid": "22043838",
+        "title": "Quantification of allyl hexanoate in pineapple beverages and yogurts as a case study to characterise a source of uncertainty in dietary exposure assessment to flavouring substances",
+        "journal": "Food Addit Contam Part A Chem Anal Control Expo Risk Assess",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22043838/"
+      },
+      {
+        "pmid": "23589218",
+        "title": "Toxicity of allyl esters in insect cell lines and in Spodoptera littoralis larvae",
+        "journal": "Arch Insect Biochem Physiol",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23589218/"
+      },
+      {
+        "pmid": "31944086",
+        "title": "Effects of Carriers on Spray-dried Flavors and Their Functional Characteristics",
+        "journal": "Pak J Biol Sci",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31944086/"
+      },
+      {
+        "pmid": "16717034",
+        "title": "The effects of vehicles on the human dermal irritation potentials of allyl esters",
+        "journal": "Int J Toxicol",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16717034/"
+      },
+      {
+        "pmid": "26788283",
+        "title": "Assessment of olfactory detection thresholds in children with autism spectrum disorders using a pulse ejection system",
+        "journal": "Mol Autism",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26788283/"
+      }
+    ]
+  },
+  "retrieved": "2026-09-11",
+  "occurrence": {
+    "organisms": [],
+    "organism_count": 0,
+    "reference_count": 0
+  },
+  "research": {
+    "total": 11,
+    "sampled": 11,
+    "designs": {
+      "review": 1,
+      "other": 3,
+      "animal": 2,
+      "rct": 1,
+      "human_observational": 4
+    },
+    "topics": [
+      {
+        "term": "Caproates",
+        "papers": 7
+      },
+      {
+        "term": "Odorants",
+        "papers": 3
+      },
+      {
+        "term": "Flavoring Agents",
+        "papers": 3
+      },
+      {
+        "term": "Perfume",
+        "papers": 2
+      },
+      {
+        "term": "Ananas",
+        "papers": 2
+      },
+      {
+        "term": "Esters",
+        "papers": 2
+      },
+      {
+        "term": "Insecticides",
+        "papers": 2
+      },
+      {
+        "term": "Pentanols",
+        "papers": 2
+      },
+      {
+        "term": "Adolescent",
+        "papers": 2
+      },
+      {
+        "term": "Olfactory Perception",
+        "papers": 2
+      },
+      {
+        "term": "Risk Assessment",
+        "papers": 1
+      },
+      {
+        "term": "Endpoint Determination",
+        "papers": 1
+      },
+      {
+        "term": "Consumer Product Safety",
+        "papers": 1
+      },
+      {
+        "term": "Toxicity Tests",
+        "papers": 1
+      }
+    ],
+    "claims": [
+      {
+        "id": "insect",
+        "label": "Insect repellent",
+        "papers": 2,
+        "designs": {
+          "animal": 1,
+          "human_observational": 1
+        },
+        "evidence_level": "human_observational",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": {
+              "id": "ECO:0000180",
+              "label": "clinical study evidence"
+            },
+            "mesh_publication_types": [
+              "Observational Study"
+            ],
+            "papers": 1,
+            "pmids": [
+              "11459693"
+            ]
+          },
+          {
+            "design": "animal",
+            "eco": {
+              "id": "ECO:0007120",
+              "label": "animal model system study evidence"
+            },
+            "mesh_publication_types": [],
+            "papers": 1,
+            "pmids": [
+              "23589218"
+            ]
+          }
+        ],
+        "pmids": [
+          "23589218",
+          "11459693"
+        ]
+      }
+    ],
+    "years": {
+      "from": 1978,
+      "to": 2024
+    },
+    "basis": "MeSH indexing and publication types of the most relevant PubMed records; counts are of papers in the sample, not findings.",
+    "vocabulary": {
+      "evidence_type": "ECO (Evidence & Conclusion Ontology)",
+      "study_design": "MeSH Publication Types",
+      "strength": "Oxford CEBM 2009 levels",
+      "structure": "SEPIO assertion / evidence line / evidence item"
+    },
+    "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Allyl%20hexanoate%5BAll%20Fields%5D"
+  },
+  "consumer_summary": {
+    "model": "gemini-3.1-pro-preview",
+    "generated": "2026-09-11",
+    "what_it_is": "Allyl hexanoate is a fatty acid ester widely used as a flavoring agent and fragrance. It is best known for its strong, sweet, pineapple-like aroma and taste, making it a common addition to perfumes, beverages, and foods. In daily life, you are most likely to encounter it giving a tropical burst to fruit-flavored yogurts, candies, or household scents.",
+    "found_in": "It is widely used to impart a pineapple flavor to commercial foods and beverages, and is heavily associated with the scent profile of Ananas (pineapple).",
+    "why_researchers_care": "Researchers are drawn to allyl hexanoate primarily for its potent properties as an odorant and its potential utility in pest control. Early work is exploring its toxicity to certain agricultural pests and its efficacy as an insect repellent, supported by human observational data (Oxford level 2b). Scientists are also studying how it interacts with human olfactory systems to better understand scent detection thresholds.",
+    "structure_function": [
+      {
+        "claim_id": "insect",
+        "statement": "Early work points toward allyl hexanoate having utility as an insect repellent.",
+        "evidence_level": "human_observational",
+        "basis": "This rests on two papers, including human observational research and animal models.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ],
+        "paper_count": 2
+      }
+    ],
+    "hypothesized_benefits": [
+      {
+        "claim_id": "insect",
+        "area": "Pest Control",
+        "hypothesis": "Researchers are exploring whether allyl hexanoate could serve as an effective, commercially viable insect repellent or agricultural insecticide. If this bears out, it could offer a new fragrance-friendly tool for managing pests like the African cotton leafworm.",
+        "evidence_level": "human_observational",
+        "paper_count": 2,
+        "study_to_test_it": "A randomized controlled trial testing a topical allyl hexanoate formulation against a standard repellent (like DEET) on human volunteers, measuring the duration of protection against mosquito or tick landings over an 8-hour period.",
+        "eco": {
+          "id": "ECO:0000180",
+          "label": "clinical study evidence"
+        },
+        "oxford": {
+          "level": "2b",
+          "label": "individual cohort or observational study"
+        },
+        "evidence_lines": [
+          {
+            "design": "human_observational",
+            "eco": "ECO:0000180",
+            "papers": 1
+          },
+          {
+            "design": "animal",
+            "eco": "ECO:0007120",
+            "papers": 1
+          }
+        ]
+      }
+    ],
+    "associated_conditions": [
+      {
+        "condition": "Autism spectrum disorders",
+        "mondo_id": null,
+        "relationship": "Used as a test odorant in studies assessing olfactory detection thresholds."
+      }
+    ],
+    "cautions": "Concentrated allyl esters have been studied for human dermal irritation potential, so pure forms should be properly diluted or formulated before skin contact.",
+    "evidence_at_a_glance": "Best evidence so far is human observational work (Oxford 2b) evaluating its repellent properties, with the rest of the literature focused on its safety and function as a commercial fragrance."
+  },
+  "summary": null,
+  "evidence": "Measured in 1 of 6 MONDAYS hemp SKUs at 0.15% of total volatiles (0.03mg per chew).",
+  "trials": {
+    "total": 0,
+    "matched_loosely": 0,
+    "studies": [],
+    "source": "ClinicalTrials.gov",
+    "search_url": "https://clinicaltrials.gov/search?intr=Allyl%20hexanoate"
+  },
+  "is_terpenoid": false
+}
