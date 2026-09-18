@@ -95,6 +95,8 @@ async function renderProduct(handle) {
   const product = catalog?.products.find((p) => p.handle === handle);
   if (!product) return renderMissing('Product', handle);
   const profile = product.terpene_profile ? await getJSON(product.terpene_profile.path) : null;
+  const buy = (await getJSON('data/buy-links.json'))?.products?.[handle];
+  const price = buy?.price_cents ? ` — $${(buy.price_cents / 100).toFixed(2)}` : '';
 
   main().innerHTML = `
     <section class="entity">
@@ -131,7 +133,10 @@ async function renderProduct(handle) {
         <span>Batch</span><strong>${esc(product.coa_batch || 'Not published')}</strong>
         <span>Batch panel</span><strong>Cannabinoid and safety panel, all cannabinoids not detected. Carries no terpene panel.</strong>
       </div>
-      <a class="portal-button" href="${esc(product.source)}" target="_blank" rel="noreferrer">View on MONDAYS ↗</a>
+      <div class="buy-row">
+        ${buy ? `<a class="portal-button buy-button" href="${esc(buy.in_stock ? buy.cart_url : buy.product_url)}" target="_blank" rel="noreferrer">${buy.in_stock ? `Buy on MONDAYS${price}` : 'Sold out — view on MONDAYS'}</a>` : ''}
+        <a class="portal-button" href="${esc(product.source)}" target="_blank" rel="noreferrer">View on MONDAYS ↗</a>
+      </div>
     </section>`;
   return true;
 }
