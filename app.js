@@ -100,9 +100,14 @@ async function renderProduct(handle) {
     <section class="entity">
       ${back}
       <p class="eyebrow">${esc(product.type)} · ${esc(product.category)}</p>
-      <h1>${esc(product.name)}</h1>
-      <div class="strain">${esc(product.strain)}</div>
-      <p class="hero-copy">${esc(product.description)}</p>
+      <div class="prod-head">
+        ${product.image?.src ? `<img class="prod-image" src="${esc(product.image.src)}" alt="${esc(product.image.alt || product.name)}" width="320" height="${product.image.height && product.image.width ? Math.round(320 * product.image.height / product.image.width) : 262}" onerror="this.remove()" />` : ''}
+        <div>
+          <h1>${esc(product.name)}</h1>
+          <div class="strain">${esc(product.strain)}</div>
+          <p class="hero-copy">${esc(product.description)}</p>
+        </div>
+      </div>
       ${claimTiles(product.claims)}
       ${claimSupport(product.claim_support)}
       ${profile ? productSummary(profile.consumer_summary) : ''}
