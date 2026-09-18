@@ -1,0 +1,86 @@
+{
+  "source": "https://www.chewmondays.com",
+  "retrieved": "2026-09-18",
+  "products": {
+    "grapes-unleaded": {
+      "variant_id": 46506728882424,
+      "title": "Grapes Unleaded - Hemp (3 bags, 15 chews)",
+      "price_cents": 2685,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/grapes-unleaded",
+      "cart_url": "https://www.chewmondays.com/cart/46506728882424:1"
+    },
+    "wild-things": {
+      "variant_id": 46506729668856,
+      "title": "Wild Things - Hemp (3 bags, 15 chews)",
+      "price_cents": 2685,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/wild-things",
+      "cart_url": "https://www.chewmondays.com/cart/46506729668856:1"
+    },
+    "go-go-bananas": {
+      "variant_id": 46506697359608,
+      "title": "Go-Go Bananas - Hemp (3 bags, 15 chews)",
+      "price_cents": 2685,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/go-go-bananas",
+      "cart_url": "https://www.chewmondays.com/cart/46506697359608:1"
+    },
+    "main-squeeze": {
+      "variant_id": 46506730422520,
+      "title": "Main Squeeze - Hemp (3 bags, 15 chews)",
+      "price_cents": 2685,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/main-squeeze",
+      "cart_url": "https://www.chewmondays.com/cart/46506730422520:1"
+    },
+    "raspberry-relief": {
+      "variant_id": 47597529727224,
+      "title": "Raspberry Relief - Hemp (3 bags, 15 chews)",
+      "price_cents": 2685,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/raspberry-relief",
+      "cart_url": "https://www.chewmondays.com/cart/47597529727224:1"
+    },
+    "the-daily-commute": {
+      "variant_id": 46506730848504,
+      "title": "The Daily Commute - Hemp (3 bags, 15 chews)",
+      "price_cents": 2685,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/the-daily-commute",
+      "cart_url": "https://www.chewmondays.com/cart/46506730848504:1"
+    },
+    "hemp-variety-box-6-pack": {
+      "variant_id": 49151908380920,
+      "title": "Hemp Variety Box - Try the Range (6 bags, 30 chews)",
+      "price_cents": 5370,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/hemp-variety-box-6-pack",
+      "cart_url": "https://www.chewmondays.com/cart/49151908380920:1"
+    },
+    "kosher-kush-red-raspberry-botanical": {
+      "variant_id": 47937115619576,
+      "title": "Kosher Kush × Red Raspberry - Botanical (4 bags, 20 chews)",
+      "price_cents": 2780,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/kosher-kush-red-raspberry-botanical",
+      "cart_url": "https://www.chewmondays.com/cart/47937115619576:1"
+    },
+    "gelato-33-concord-grape-botanical": {
+      "variant_id": 47937106313464,
+      "title": "Gelato #33 × Concord Grape - Botanical (4 bags, 20 chews)",
+      "price_cents": 2780,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/gelato-33-concord-grape-botanical",
+      "cart_url": "https://www.chewmondays.com/cart/47937106313464:1"
+    },
+    "jack-herer-kona-pineapple-botanical": {
+      "variant_id": 47937105920248,
+      "title": "Jack Herer × Kona Pineapple - Botanical (4 bags, 20 chews)",
+      "price_cents": 2780,
+      "in_stock": true,
+      "product_url": "https://www.chewmondays.com/products/jack-herer-kona-pineapple-botanical",
+      "cart_url": "https://www.chewmondays.com/cart/47937105920248:1"
+    }
+  }
+}
