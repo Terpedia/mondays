@@ -66,6 +66,11 @@ footer a { color:var(--green); font-weight:800; }
 .mol-head { display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; }
 .mol-image { width:190px; height:190px; flex:0 0 auto; background:white; border:1px solid var(--line); padding:10px; }
 
+.prod-head { display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; }
+.prod-image { width:300px; max-width:100%; height:auto; flex:0 0 auto; background:white; border:1px solid var(--line); padding:10px; }
+.prod-head > div { flex:1 1 280px; min-width:0; }
+.prod-head h1 { margin-top:0; }
+
 .stat-row { display:flex; flex-wrap:wrap; gap:10px; margin:18px 0 22px; }
 .stat { flex:1 1 130px; background:white; border:1px solid var(--line); padding:14px 16px; }
 .stat b { display:block; font-size:1.5rem; letter-spacing:-.03em; }
@@ -95,7 +100,7 @@ footer a { color:var(--green); font-weight:800; }
 
 .card h2 a { text-decoration:none; }
 .card h2 a:hover { color:var(--green); }
-@media (max-width:640px) { .mol-image { width:130px; height:130px; } .ctable-wrap { max-height:380px; } }
+@media (max-width:640px) { .mol-image { width:130px; height:130px; } .prod-image { width:160px; } .ctable-wrap { max-height:380px; } }
 
 .assurances { display:flex; flex-wrap:wrap; gap:10px; margin-top:28px; }
 .assurances span { flex:1 1 210px; padding:12px 14px; border:1px solid #d5dfb0; background:#f0f5d9; color:#3d5034; font-size:.74rem; line-height:1.5; }
