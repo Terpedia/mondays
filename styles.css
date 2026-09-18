@@ -50,6 +50,8 @@ footer a { color:var(--green); font-weight:800; }
 .molecule-panel { display:grid; grid-template-columns:150px 1fr; gap:14px 20px; margin:35px 0; padding:22px; background:white; border:1px solid var(--line); font-size:.85rem; }
 .molecule-panel span { color:var(--muted); font-size:.65rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; }
 .portal-button { display:inline-block; padding:13px 18px; background:var(--green); color:#fff; text-decoration:none; font-size:.78rem; font-weight:800; }
+.buy-row { display:flex; gap:12px; flex-wrap:wrap; margin-top:26px; }
+.buy-button { background:var(--orange); }
 @media (max-width:650px) { .toolbar, footer { align-items:flex-start; flex-direction:column; } .search, .search input { width:100%; } .search input { flex:1; } .hero-meta { flex-direction:column; gap:8px; } .hero-meta span + span:before { display:none; } }
 
 .molecules-note { margin: 10px 0 0; font-size: 0.72rem; line-height: 1.5; color: #6b6257; }
