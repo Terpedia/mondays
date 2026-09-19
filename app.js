@@ -414,6 +414,7 @@ function setupProductIntro(product) {
   const SUSAN = window.SUSAN_LIVE || { url: 'https://heygen-stream-proxy-715567218723.us-central1.run.app' };
   const susan = { session: null, room: null, starting: null };
   async function susanStart() {
+    if (!window.SUSAN_LIVE_ENABLED) return; // disabled until Susan's LiveAvatar avatar finishes training
     if (susan.session || susan.starting) return susan.starting;
     susan.starting = (async () => {
       try {
