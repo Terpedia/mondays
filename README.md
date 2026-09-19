@@ -36,6 +36,14 @@ Sources are PubChem (identity, description, structure image, assay summary), Uni
 
 This catalog shows composition only. The protein, disease and literature records describe the compound at laboratory doses, not a chew, so they live on [Terproduct](https://github.com/Terpedia/terproduct) and each molecule page links out to them. `terproduct/data/mondays-molecules.json` is the snapshot Terproduct ingests; regenerate it from `data/molecules/` after a refresh.
 
+## Buy links
+
+`data/buy-links.json` resolves each product to its Shopify variant so product pages can link straight to the store with the item in the cart. Refresh with:
+
+```bash
+node scripts/fetch-buy-links.mjs
+```
+
 ## Data policy
 
 `data/products.json` is a dated snapshot of the public MONDAYS product catalog. Products with `"molecules_basis": "measured"` carry laboratory-quantified compounds from the profile files above. Products with `"molecules_basis": "candidate"` — the botanical SKUs and the bundles, which publish no measurement — keep molecule lists inferred from strain/profile language, not claims about measured composition.
