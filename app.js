@@ -95,15 +95,30 @@ async function renderProduct(handle) {
   const product = catalog?.products.find((p) => p.handle === handle);
   if (!product) return renderMissing('Product', handle);
   const profile = product.terpene_profile ? await getJSON(product.terpene_profile.path) : null;
+  const buy = (await getJSON('data/buy-links.json'))?.products?.[handle];
+  const price = buy?.price_cents ? ` — $${(buy.price_cents / 100).toFixed(2)}` : '';
 
   main().innerHTML = `
     <section class="entity">
       ${back}
       <p class="eyebrow">${esc(product.type)} · ${esc(product.category)}</p>
-      <h1>${esc(product.name)}</h1>
-      <div class="strain">${esc(product.strain)}</div>
-      <p class="hero-copy">${esc(product.description)}</p>
+      <div class="prod-head">
+        ${product.image?.src ? `<img class="prod-image" src="${esc(product.image.src)}" alt="${esc(product.image.alt || product.name)}" width="320" height="${product.image.height && product.image.width ? Math.round(320 * product.image.height / product.image.width) : 262}" onerror="this.remove()" />` : ''}
+        <div>
+          <h1>${esc(product.name)}</h1>
+          <div class="strain">${esc(product.strain)}</div>
+          <p class="hero-copy">${esc(product.description)}</p>
+          <div class="buy-row">
+            ${buy ? `<a class="portal-button buy-button" href="${esc(buy.in_stock ? buy.cart_url : buy.product_url)}" target="_blank" rel="noreferrer">${buy.in_stock ? `Buy on MONDAYS${price}` : 'Sold out — view on MONDAYS'}</a>` : ''}
+            <a class="portal-button" href="${esc(product.source)}" target="_blank" rel="noreferrer">View on MONDAYS ↗</a>
+          </div>
+        </div>
+      </div>
       ${claimTiles(product.claims)}
+      <figure class="intro-video product-intro" data-handle="${esc(product.handle)}">
+        <video controls playsinline preload="metadata"></video>
+        <figcaption>Susan introduces this chew — scroll and highlights follow her.</figcaption>
+      </figure>
       ${claimSupport(product.claim_support)}
       ${profile ? productSummary(profile.consumer_summary) : ''}
 
@@ -126,8 +141,8 @@ async function renderProduct(handle) {
         <span>Batch</span><strong>${esc(product.coa_batch || 'Not published')}</strong>
         <span>Batch panel</span><strong>Cannabinoid and safety panel, all cannabinoids not detected. Carries no terpene panel.</strong>
       </div>
-      <a class="portal-button" href="${esc(product.source)}" target="_blank" rel="noreferrer">View on MONDAYS ↗</a>
     </section>`;
+  setupProductIntro(product);
   return true;
 }
 
@@ -339,8 +354,54 @@ route.then((isEntity) => { if (isEntity) return null; return Promise.all([getJSO
 });
 
 
-// Ask the TerpeneQueen: the Terpedia multiagent chat, with whatever the reader is looking
-// at sent along as context so "this chew" and "this molecule" mean the page on screen.
+// Susan product intro: plays the cached lip-synced MP4 for this product and, as she
+// names a claim or molecule, scrolls the page to it and flashes the row/tile.
+const normToken = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const flashEl = (el) => {
+  if (!el) return;
+  el.classList.remove('susan-flash');
+  void el.offsetWidth;
+  el.classList.add('susan-flash');
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  setTimeout(() => el.classList.remove('susan-flash'), 2600);
+};
+
+function setupProductIntro(product) {
+  const fig = document.querySelector('.product-intro');
+  if (!fig) return;
+  const video = fig.querySelector('video');
+  const handle = fig.dataset.handle;
+  let cues = null, cursor = 0, targets = null;
+
+  video.addEventListener('error', () => { video.src = 'susan-intro.mp4'; }, { once: true });
+  video.src = `intros/${handle}.mp4`;
+  fetch(`intros/${handle}.json`).then((r) => r.ok ? r.json() : null).then((j) => { cues = j; }).catch(() => {});
+
+  const collectTargets = () => {
+    targets = [];
+    document.querySelectorAll('.claim-tile').forEach((el) => targets.push({ tokens: [normToken(el.textContent)], el }));
+    document.querySelectorAll('.molecule-list a').forEach((el) => targets.push({ tokens: [normToken(el.textContent)], el }));
+    document.querySelectorAll('.ctable tbody tr td a').forEach((el) => targets.push({ tokens: [normToken(el.textContent)], el }));
+  };
+
+  video.addEventListener('play', () => {
+    if (!targets || !targets.length) collectTargets();
+  });
+
+  video.addEventListener('timeupdate', () => {
+    if (!cues || !cues.words || !targets || !targets.length) return;
+    const t = video.currentTime;
+    const byTok = new Map(targets.map((x) => [x.tokens[0], x.el]));
+    while (cursor < cues.words.length && cues.words[cursor].start <= t + 0.05) {
+      const tok = normToken(cues.words[cursor].word);
+      if (byTok.has(tok)) flashEl(byTok.get(tok));
+      cursor++;
+    }
+  });
+  video.addEventListener('seeked', () => { cursor = 0; });
+}
+
+
 (() => {
   const root = document.getElementById('tq');
   if (!root) return;
@@ -348,7 +409,59 @@ route.then((isEntity) => { if (isEntity) return null; return Promise.all([getJSO
   const toggle = root.querySelector('.tq-toggle'), panel = root.querySelector('.tq-panel'), log = root.querySelector('.tq-log');
   const form = root.querySelector('.tq-form'), input = root.querySelector('.tq-input');
   const history = [];
-  const open = (show) => { panel.hidden = !show; toggle.setAttribute('aria-expanded', String(show)); if (show) input.focus(); };
+  // Susan live avatar: replaces the looping intro clip with a real-time HeyGen
+  // LiveAvatar stream and speaks each TerpeneQueen answer out loud.
+  const SUSAN = window.SUSAN_LIVE || { url: 'https://heygen-stream-proxy-715567218723.us-central1.run.app' };
+  const susan = { session: null, room: null, starting: null };
+  async function susanStart() {
+    if (susan.session || susan.starting) return susan.starting;
+    susan.starting = (async () => {
+      try {
+        const res = await fetch(`${SUSAN.url}/session`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' });
+        const s = await res.json();
+        if (!s.session_id) throw new Error(s.message || `session ${res.status}`);
+        susan.session = s;
+        const { Room } = await import('https://esm.run/livekit-client@2');
+        const videoSlot = root.querySelector('.tq-video video');
+        const room = new Room({ adaptiveStream: true });
+        room.on('trackSubscribed', (track) => {
+          if (track.kind === 'video' && videoSlot) track.attach(videoSlot);
+          else if (track.kind === 'audio') track.attach();
+        });
+        await room.connect(s.livekit_url, s.livekit_client_token);
+        susan.room = room;
+        if (videoSlot) videoSlot.muted = true;
+      } catch (err) {
+        console.error('susan session failed', err);
+        susan.session = null;
+      } finally {
+        susan.starting = null;
+      }
+    })();
+    return susan.starting;
+  }
+  async function susanSpeak(text) {
+    if (!text || !SUSAN.url) return;
+    try {
+      await susanStart();
+      if (!susan.session) return;
+      const res = await fetch(`${SUSAN.url}/say`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ session_id: susan.session.session_id, text }) });
+      const j = await res.json();
+      if (j.error) { susan.session = null; console.error('susan say failed', j.error); }
+    } catch (err) { console.error('susan speak failed', err); }
+  }
+  async function susanStop() {
+    if (!susan.session) return;
+    const s = susan.session; susan.session = null;
+    try {
+      if (susan.room) { await susan.room.disconnect(); susan.room = null; }
+      await fetch(`${SUSAN.url}/stop`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ session_id: s.session_id }) });
+    } catch (err) { console.error('susan stop failed', err); }
+  }
+  const open = (show) => {
+    panel.hidden = !show; toggle.setAttribute('aria-expanded', String(show));
+    if (show) { input.focus(); susanStart(); } else susanStop();
+  };
   toggle.addEventListener('click', () => open(panel.hidden));
   root.querySelector('.tq-close').addEventListener('click', () => open(false));
   const bubble = (role, text) => { const el = document.createElement('div'); el.className = `tq-msg tq-msg--${role}`; el.textContent = text; log.appendChild(el); log.scrollTop = log.scrollHeight; return el; };
@@ -375,6 +488,7 @@ route.then((isEntity) => { if (isEntity) return null; return Promise.all([getJSO
       }
       const final = raw.trim() || 'I did not get an answer back — try asking another way.';
       answer.textContent = final; history.push({ role: 'assistant', content: final });
+      susanSpeak(final);
     } catch (err) { answer.textContent = 'The TerpeneQueen is away from the throne for a moment. Try again shortly.'; console.error('chat failed', err); }
   });
 })();

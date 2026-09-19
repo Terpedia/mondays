@@ -1,0 +1,386 @@
+{
+ "handle": "grapes-unleaded",
+ "text": "Hi, I'm Susan. This is Grapes Unleaded \u2014 A bold, gas-forward hemp terpene chew pairing the Grape Gasoline profile with Concord grape flavor. Every chew carries 20 milligrams of measured terpenes. The stars are \u03b2-Caryophyllene at 3.02 milligrams, Limonene at 2.77 milligrams, Selina-3,7(11)-diene at 1.62 milligrams. On the pack: balance, relief and euphoric. Ask me anything below, and I'll show you the research behind every compound.",
+ "duration": 38.50448979591837,
+ "audio_url": "https://resource2.heygen.ai/text_to_speech/1a61bb9a750049729571414eb39bfd2a/18933fed22d04ba4896a05dca170d101/id=2a380673-b06f-436b-ad83-138be6abbc18.wav",
+ "video_id": "d7b490e4dedec6b5df006cf7c2a91748",
+ "words": [
+  {
+   "end": 0.0,
+   "start": 0.0,
+   "word": "<start>"
+  },
+  {
+   "end": 0.5,
+   "start": 0.14,
+   "word": "Hi,"
+  },
+  {
+   "end": 1.16,
+   "start": 1.02,
+   "word": "I'm"
+  },
+  {
+   "end": 1.8,
+   "start": 1.3,
+   "word": "Susan."
+  },
+  {
+   "end": 2.48,
+   "start": 2.34,
+   "word": "This"
+  },
+  {
+   "end": 2.68,
+   "start": 2.52,
+   "word": "is"
+  },
+  {
+   "end": 3.04,
+   "start": 2.72,
+   "word": "Grapes"
+  },
+  {
+   "end": 3.64,
+   "start": 3.1,
+   "word": "Unleaded"
+  },
+  {
+   "end": 3.64,
+   "start": 3.64,
+   "word": "\u2014"
+  },
+  {
+   "end": 3.94,
+   "start": 3.86,
+   "word": "A"
+  },
+  {
+   "end": 4.74,
+   "start": 4.18,
+   "word": "bold,"
+  },
+  {
+   "end": 6.12,
+   "start": 5.14,
+   "word": "gas-forward"
+  },
+  {
+   "end": 6.56,
+   "start": 6.32,
+   "word": "hemp"
+  },
+  {
+   "end": 7.32,
+   "start": 6.72,
+   "word": "terpene"
+  },
+  {
+   "end": 7.68,
+   "start": 7.5,
+   "word": "chew"
+  },
+  {
+   "end": 8.26,
+   "start": 7.82,
+   "word": "pairing"
+  },
+  {
+   "end": 8.84,
+   "start": 8.72,
+   "word": "the"
+  },
+  {
+   "end": 9.18,
+   "start": 8.88,
+   "word": "Grape"
+  },
+  {
+   "end": 9.92,
+   "start": 9.28,
+   "word": "Gasoline"
+  },
+  {
+   "end": 10.66,
+   "start": 10.02,
+   "word": "profile"
+  },
+  {
+   "end": 10.86,
+   "start": 10.7,
+   "word": "with"
+  },
+  {
+   "end": 11.52,
+   "start": 10.94,
+   "word": "Concord"
+  },
+  {
+   "end": 11.92,
+   "start": 11.64,
+   "word": "grape"
+  },
+  {
+   "end": 12.42,
+   "start": 12.02,
+   "word": "flavor."
+  },
+  {
+   "end": 13.34,
+   "start": 13.1,
+   "word": "Every"
+  },
+  {
+   "end": 13.68,
+   "start": 13.48,
+   "word": "chew"
+  },
+  {
+   "end": 14.22,
+   "start": 13.82,
+   "word": "carries"
+  },
+  {
+   "end": 14.52,
+   "start": 14.4,
+   "word": "20"
+  },
+  {
+   "end": 15.2,
+   "start": 14.6,
+   "word": "milligrams"
+  },
+  {
+   "end": 15.32,
+   "start": 15.26,
+   "word": "of"
+  },
+  {
+   "end": 15.72,
+   "start": 15.42,
+   "word": "measured"
+  },
+  {
+   "end": 16.48,
+   "start": 15.82,
+   "word": "terpenes."
+  },
+  {
+   "end": 17.02,
+   "start": 16.96,
+   "word": "The"
+  },
+  {
+   "end": 17.5,
+   "start": 17.08,
+   "word": "stars"
+  },
+  {
+   "end": 17.8,
+   "start": 17.58,
+   "word": "are"
+  },
+  {
+   "end": 18.84,
+   "start": 17.84,
+   "word": "\u03b2-Caryophyllene"
+  },
+  {
+   "end": 18.96,
+   "start": 18.86,
+   "word": "at"
+  },
+  {
+   "end": 19.92,
+   "start": 19.0,
+   "word": "3.02"
+  },
+  {
+   "end": 20.64,
+   "start": 20.0,
+   "word": "milligrams,"
+  },
+  {
+   "end": 21.28,
+   "start": 20.82,
+   "word": "Limonene"
+  },
+  {
+   "end": 21.42,
+   "start": 21.32,
+   "word": "at"
+  },
+  {
+   "end": 22.44,
+   "start": 21.46,
+   "word": "2.77"
+  },
+  {
+   "end": 23.06,
+   "start": 22.48,
+   "word": "milligrams,"
+  },
+  {
+   "end": 26.12,
+   "start": 23.56,
+   "word": "Selina-3,7(11)-diene"
+  },
+  {
+   "end": 26.26,
+   "start": 26.16,
+   "word": "at"
+  },
+  {
+   "end": 27.1,
+   "start": 26.3,
+   "word": "1.62"
+  },
+  {
+   "end": 27.8,
+   "start": 27.16,
+   "word": "milligrams."
+  },
+  {
+   "end": 28.36,
+   "start": 28.22,
+   "word": "On"
+  },
+  {
+   "end": 28.52,
+   "start": 28.42,
+   "word": "the"
+  },
+  {
+   "end": 29.0,
+   "start": 28.6,
+   "word": "pack:"
+  },
+  {
+   "end": 30.16,
+   "start": 29.52,
+   "word": "balance,"
+  },
+  {
+   "end": 31.22,
+   "start": 30.54,
+   "word": "relief"
+  },
+  {
+   "end": 31.54,
+   "start": 31.4,
+   "word": "and"
+  },
+  {
+   "end": 32.299,
+   "start": 31.6,
+   "word": "euphoric."
+  },
+  {
+   "end": 33.18,
+   "start": 32.94,
+   "word": "Ask"
+  },
+  {
+   "end": 33.4,
+   "start": 33.22,
+   "word": "me"
+  },
+  {
+   "end": 33.96,
+   "start": 33.48,
+   "word": "anything"
+  },
+  {
+   "end": 34.44,
+   "start": 33.98,
+   "word": "below,"
+  },
+  {
+   "end": 35.04,
+   "start": 34.94,
+   "word": "and"
+  },
+  {
+   "end": 35.22,
+   "start": 35.08,
+   "word": "I'll"
+  },
+  {
+   "end": 35.46,
+   "start": 35.26,
+   "word": "show"
+  },
+  {
+   "end": 35.58,
+   "start": 35.5,
+   "word": "you"
+  },
+  {
+   "end": 35.72,
+   "start": 35.62,
+   "word": "the"
+  },
+  {
+   "end": 36.32,
+   "start": 35.76,
+   "word": "research"
+  },
+  {
+   "end": 36.8,
+   "start": 36.36,
+   "word": "behind"
+  },
+  {
+   "end": 37.4,
+   "start": 37.06,
+   "word": "every"
+  },
+  {
+   "end": 38.18,
+   "start": 37.46,
+   "word": "compound."
+  },
+  {
+   "end": 38.50448979591837,
+   "start": 38.50448979591837,
+   "word": "<end>"
+  }
+ ],
+ "sentences": [
+  {
+   "text": "<start> Hi, I'm Susan.",
+   "start": 0.0,
+   "end": 1.8
+  },
+  {
+   "text": "This is Grapes Unleaded \u2014 A bold, gas-forward hemp terpene chew pairing the Grape Gasoline profile with Concord grape flavor.",
+   "start": 2.34,
+   "end": 12.42
+  },
+  {
+   "text": "Every chew carries 20 milligrams of measured terpenes.",
+   "start": 13.1,
+   "end": 16.48
+  },
+  {
+   "text": "The stars are \u03b2-Caryophyllene at 3.02 milligrams, Limonene at 2.77 milligrams, Selina-3,7(11)-diene at 1.62 milligrams.",
+   "start": 16.96,
+   "end": 27.8
+  },
+  {
+   "text": "On the pack: balance, relief and euphoric.",
+   "start": 28.22,
+   "end": 32.299
+  },
+  {
+   "text": "Ask me anything below, and I'll show you the research behind every compound.",
+   "start": 32.94,
+   "end": 38.18
+  },
+  {
+   "text": "<end>",
+   "start": 38.50448979591837,
+   "end": 38.50448979591837
+  }
+ ]
+}
